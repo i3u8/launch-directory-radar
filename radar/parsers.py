@@ -186,6 +186,8 @@ def sitemap_urls(session, url, max_children=3, max_bytes=8_000_000, _depth=0, hi
     if url.endswith(".gz") or body[:2] == b"\x1f\x8b":
         import gzip
         body = gzip.decompress(body)
+    if b"<urlset" not in body[:4000] and b"<sitemapindex" not in body[:4000]:
+        raise RuntimeError("not a sitemap (HTML interstitial / bot challenge?)")
     root, ns, kind = _sm_root(body)
     items = _loc_children(root, ns)
     if kind == "sitemapindex":
