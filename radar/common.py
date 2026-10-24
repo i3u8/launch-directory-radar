@@ -1,6 +1,7 @@
 """Shared helpers: HTTP session with retries, URL normalisation, date parsing."""
 from __future__ import annotations
 
+import html
 import re
 import time
 from datetime import datetime, timezone
@@ -120,7 +121,7 @@ def clean(s, n: int = 300) -> str:
         s = ", ".join(str(x.get("name", x)) if isinstance(x, dict) else str(x) for x in s)
     s = re.sub(r"<[^>]+>", " ", str(s))
     s = re.sub(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}", " ", s)  # never store third-party emails
-    s = re.sub(r"&nbsp;|&#160;", " ", s)
+    s = html.unescape(s).replace("\xa0", " ")
     s = re.sub(r"\s+", " ", s).strip()
     return s[:n]
 

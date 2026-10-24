@@ -9,13 +9,32 @@
 <!-- LATEST:START -->
 **2026-10-24** · 新增 1429 · 监控 197 个目录（今日成功 176）
 
-Top 关键词: `video`(126)、`image`(86)、`photo`(80)、`agent`(78)、`browser`(73)、`text`(67)、`content`(64)、`design`(63)、`saas`(61)、`marketing`(49)
+聚焦小词 Top 15:
 
-Top 双词: `ai agent`(34)、`ai video`(28)、`social media`(19)、`ai image`(18)、`ai writing`(16)、`generative ai`(13)、`ai content`(12)、`text prompt`(10)、`ai model`(9)、`content creation`(9)
+- `creative branding agency` ×3（2 目录） 🆕：AI search optimization services in Jaipur；Facebook Ads agency in Jaipur
+- `description alt text` ×3（2 目录） 🆕：Image Describer: Copy the look of a reference picture into a；Describe Image: Draft alt text and captions from the picture
+- `google search console` ×3（3 目录） 🆕：Scalenut — AI SEO content planner and writer；QuickSEO.ai: Track and improve your SEO rankings and AI visi
+- `social media manager` ×3（2 目录） 🆕：AI-assisted Full Social Media Creation, Management and Distr；Create and Edit Digital Images with AI: Turner AI
+- `csv file` ×4（2 目录） 🆕：YouTranscripts；CSV Essentials Toolkit: Clean up messy CSV exports on your o
+- `claude opus` ×4（3 目录） 🆕：Quick Study；Coding Agent Index v2.0: Claude Opus 5.5 Leads at 61.7
+- `performance optimization` ×4（2 目录） 🆕：10Web — AI WordPress website builder；Smartly.io — AI-powered social advertising automation
+- `educational resource` ×3（3 目录） 🆕：Smootables: AI-Powered Academic Planning & Timetabling for S；Scholarship100 – Global Scholarships and Educational Resourc
+- `usage limit` ×3（2 目录） 🆕：Claude Resets；AI Compare Ninja: Line up AI tools' plans and usage limits, 
+- `access control asset` ×2（2 目录） 🆕：RFID Card Manufacturer；RFID reader manufacturer
+- `agent wallet index` ×2（4 目录） 🆕：Agent wallets and payment rails for AI agents | Agent Wallet；Agent Wallet Index
+- `cloud server vps` ×2（3 目录） 🆕：IDC3 德讯电讯
+- `disorder treatment program` ×2（3 目录） 🆕：Find eating disorder treatment programs near you | Eating Di；Eating Disorder Directory
+- `indian mango pulp` ×2（2 目录） 🆕：Indian Mangoes Maryland；Alphonso Mango USA
+- `jpg png webp` ×2（2 目录） 🆕：AI Image Cleanup Tool: Remove Text from Image Online Free | ；HEIC.AI: Convert iPhone HEIC photos to JPG, PNG, WebP or PDF
 
-升温: `suggest`、`fees`、`particularly`、`enhance`、`understanding`、`driving`、`framecomet`、`known`
+微赛道归纳:
 
-> AI Agent基础设施与垂直应用、AI视频生成及社交营销自动化正显著升温。数据显示，围绕Agent的沙箱环境、数据提取及多步任务执行工具密集涌现，同时AI视频与社交媒体自动回复工具热度高涨。独立开发者应聚焦构建Agent底层支撑组件或特定行业的工作流自动化插件，以切入高增长赛道。
+- SEO与AI搜索优化：google search console、search console、expert seo agency、creative branding agency —— 提供AI驱动的SEO内容规划、排名追踪及品牌搜索优化服务
+- AI图像与文件处理：description alt text、jpg png webp、csv file —— 利用AI生成图片替代文本、转换图像格式及清理CSV数据
+- AI代理基础设施与支付：agent wallet index、claude opus、usage limit —— 构建AI智能体钱包、支付轨道及模型使用限制管理工具
+- 数字营销与社媒自动化：social media manager、performance optimization —— 实现社交媒体内容创作、分发及广告投放的自动化与性能优化
+- 垂直健康与医疗资源：eating disorder treatment、licensed peptide clinic、licensed psilocybin center —— 提供饮食障碍、肽疗法及迷幻蘑菇治疗机构的目录与查找服务
+- RFID资产追踪与教育：access control asset、asset tracking logistic、educational resource —— 涵盖RFID硬件制造、物流资产追踪及学术资源规划
 
 完整报告: [reports/2026-10-24.md](reports/2026-10-24.md)
 <!-- LATEST:END -->
@@ -43,6 +62,7 @@ GitHub Actions (daily 01:30 UTC = 09:30 北京时间)
 | `SCREENING.md` | 筛查结果总表：每个目录为什么启用 / 不启用 |
 | `overrides.yaml` | 人工覆盖（误判、不是目录的站点），重新筛查时保留 |
 | `config.yaml` | 我们自己的站点域名（用于识别“我们的站点已被目录展示”） |
+| `generic_terms.txt` | 大词/泛词清单（video、image、agent、ai agent、social media…），报告会抑制这些词；可自由增删 |
 | `radar/parsers.py` | 解析器：`rss` / `atom` / `json_api`（含 WordPress REST）/ `sitemap` / `html_list` |
 | `screen.py` `monitor.py` `analyze.py` `notify.py` | 筛查 / 采集 / 分析 / 飞书通知 |
 
@@ -52,6 +72,16 @@ GitHub Actions (daily 01:30 UTC = 09:30 北京时间)
 `/feed /rss /atom.xml /launches.xml …` → `robots.txt` + `sitemap.xml`（挑出像“列表详情页”的路径前缀，看 lastmod）→ `/new /latest /recent …` HTML 列表页（要求重复链接模式稳定，并排除导航/分类菜单）。
 按 `json_api > rss/atom > sitemap > html_list` 的优先级选第一个可用且“像列表而不是博客文章”的来源；否则标记 `not_monitorable`，原因为 `dead` / `blocked`（反爬/403）/ `login_wall` / `js_only` / `no_public_list` / `stale`（最新条目超过 120 天）/ `form_only` 等。
 不使用任何登录态；探测使用礼貌的限速与超时。
+
+## 聚焦小词如何计算 Niche-term ranking
+
+报告不再展示 video / image / agent 这类大词，而是找「小而具体」的词（unigram / bigram / trigram）：
+
+1. **抑制泛词**：`generic_terms.txt` 中的词；由泛词单独组成的 n-gram（如 `social media`）；以及按全语料文档频率自动判定的头部词（单词出现在 >1.5% 的产品里、bigram >0.7%、trigram >0.4%）。
+2. **候选条件**：今日出现在 2–15 个**不同产品**（同一产品被多个目录收录只算 1 个）、且来自 ≥2 个目录。
+3. **排序**：稀有度（IDF）× log(今日数) × 今日/30天基线比 × n-gram 加权（bigram ×1.5、trigram ×1.9），30天基线里没出现过的词加权并标 🆕。
+4. **去重**：单复数合并；若某词覆盖的产品与更高分的词重叠 ≥75%（如 bigram 包含 unigram）则丢弃。
+5. 报告章节：聚焦小词 Top 15（含目录数与示例产品）、新出现的词、同日小簇（3–10 个相似产品）；可选 Qwen 把小词归并成微赛道（失败不影响流水线）。
 
 ## 数据 Data layout
 

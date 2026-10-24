@@ -7,7 +7,9 @@ and refreshes the README block between <!-- LATEST:START --> and <!-- LATEST:END
 from __future__ import annotations
 
 import argparse
+import html
 import json
+import math
 import re
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone
@@ -41,7 +43,10 @@ sponsor sponsored sponsorsed top latest recent popular trending add added ago da
 people user users team teams work works working world business businesses service company companies solution
 betting bets bet casino escort escorts porn sex slot slots gambling bikini swimwear lingerie
 accurate half fits fit adds add score professional quality high higher coverage support supports allows allow enables enable
-provides application applications""".split())
+provides application applications
+first include includes including combine combines combined wide range discover discovering driving measurable written
+visited particularly suggest suggests enhance enhances enhancing understanding known fee fees across unforgettable
+viral growth results result especially ensure ensures ensuring various variety offering offered along""".split())
 KEEP_SHORT = {"3d", "qr", "vr", "ar", "ui", "ux", "ml", "ai", "pdf", "seo", "api", "llm", "gpt", "cli", "sql", "nft"}
 CJK = re.compile(r"[\u4e00-\u9fff]+")
 CJK_STOP = set("的了和是在有与及或为你我他她它们这那个一不也都就而及并被把对从到用让将可能请")
@@ -82,18 +87,128 @@ def stem(t: str) -> str:
 
 
 def terms_of(e):
-    """Return (unigram set, bigram set) for an entry."""
-    uni, bi = set(), set()
+    """Return the set of unigrams, bigrams and trigrams of an entry (contiguous non-stopword tokens
+    within one field; 'ai' is kept only inside n-grams)."""
+    out = set()
     for field in (e.get("name", ""), e.get("tagline", ""), e.get("category", "")):
-        seq = tokens(field)
-        seq = [stem(t) if t else None for t in seq]
-        for t in seq:
-            if t and t != "ai":
-                uni.add(t)
-        for a, b in zip(seq, seq[1:]):
-            if a and b and a != b:
-                bi.add(f"{a} {b}")
-    return uni, bi
+        seq = [stem(t) if t else None for t in tokens(field)]
+        for i, a in enumerate(seq):
+            if not a:
+                continue
+            if a != "ai":
+                out.add(a)
+            b = seq[i + 1] if i + 1 < len(seq) else None
+            if b and b != a:
+                out.add(f"{a} {b}")
+                c = seq[i + 2] if i + 2 < len(seq) else None
+                if c and c != b and c != a:
+                    out.add(f"{a} {b} {c}")
+    return out
+
+
+def load_generic():
+    """generic_terms.txt -> (explicit term set, generic single words)."""
+    terms = set()
+    p = ROOT / "generic_terms.txt"
+    if p.exists():
+        for line in p.read_text(encoding="utf-8").splitlines():
+            line = line.split("#", 1)[0].strip().lower()
+            if line:
+                terms.add(" ".join(stem(w) for w in line.split()))
+    words = {t for t in terms if " " not in t} | {"ai"}
+    return terms, words
+
+
+# data-driven suppression: a term that appears in more than this share of the whole corpus is "head"
+CORPUS_SHARE = {1: 0.015, 2: 0.007, 3: 0.004}
+CORPUS_MIN_DF = 25
+NGRAM_BONUS = {1: 1.0, 2: 1.5, 3: 1.9}
+NICHE_MIN, NICHE_MAX, NICHE_MIN_SRC = 2, 15, 2
+
+
+def is_generic(term, generic, gwords, df, n_corpus):
+    n = len(term.split())
+    if term in generic or all(w in gwords for w in term.split()):
+        return True
+    d = df.get(term, 0)
+    return d >= CORPUS_MIN_DF and d / max(n_corpus, 1) > CORPUS_SHARE[n]
+
+
+def pick_examples(es, k=3):
+    """Up to k example entries, one per distinct product (prefer the real product site over a directory page)."""
+    out, seen = [], set()
+    for e in sorted(es, key=lambda e: (-len(e.get("tagline", "")), e.get("name", ""))):
+        key = re.sub(r"[^a-z0-9]+", " ", (e.get("name") or "").lower()).strip()
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(dict(name=html.unescape(e.get("name") or "")[:60], url=e["url"]))
+        if len(out) >= k:
+            break
+    return out
+
+
+def niche_terms(raw_today, hist30, corpus, src_dom, n_corpus_df):
+    """Rank focused terms. Returns list of dict(term,count,sources,df,b30,ratio,new,score,entries,examples)."""
+    generic, gwords = load_generic()
+    df = n_corpus_df
+    n_corpus = df.get("__N__", 1)
+    by_term = defaultdict(list)
+    for e in raw_today:  # raw: the same product listed in N directories contributes N sources, 1 product
+        for t in terms_of(e):
+            by_term[t].append(e)
+    new_today = dedupe(raw_today, src_dom)
+    b30 = Counter()
+    for e in hist30:
+        b30.update(terms_of(e))
+    n_t, n30 = max(len(new_today), 1), len(hist30)
+    rows = []
+    for t, es in by_term.items():
+        doms = {pid(e, src_dom) for e in es}
+        c = len(doms)  # distinct products
+        if c < NICHE_MIN or c > NICHE_MAX:
+            continue
+        n = len(t.split())
+        if n == 1 and (len(t) < 4 or t in STOP):
+            continue
+        srcs = {e["source"] for e in es}
+        if len(srcs) < NICHE_MIN_SRC:
+            continue
+        if n > 1 and "ai" in t.split():  # "first ai", "include ai": need the other words to be rare
+            others = [w for w in t.split() if w != "ai"]
+            if any(df.get(w, 0) / n_corpus > 0.005 for w in others):
+                continue
+        if is_generic(t, generic, gwords, df, n_corpus):
+            continue
+        d = df.get(t, c)
+        idf = math.log(n_corpus / (d + 1)) if n_corpus > d else 0.1
+        ratio = (c / n_t) / ((b30[t] + 0.5) / (n30 + 1)) if n30 else None
+        new = b30[t] == 0 and n30 >= 30
+        score = idf * math.log2(1 + c) * NGRAM_BONUS[n] * (min(ratio, 25) ** 0.35 if ratio else 1) * (1.3 if new else 1)
+        rows.append(dict(term=t, count=c, sources=len(srcs), df=d, b30=b30[t], ratio=ratio, new=new, score=score,
+                         ids={pid(e, src_dom) for e in es}, examples=pick_examples(es)))
+    rows.sort(key=lambda r: (-r["score"], r["term"]))
+    return rows
+
+
+def dedupe_terms(rows, limit, exclude=()):
+    """Greedy pick by score; skip a term whose products are (>=75%) already covered by a chosen one
+    (singular/plural, bigram containing its unigram, trigram containing its bigram...)."""
+    chosen = []
+    for r in rows:
+        if r["term"] in exclude:
+            continue
+        dup = False
+        for c in chosen:
+            inter = len(r["ids"] & c["ids"])
+            if inter >= 0.75 * min(len(r["ids"]), len(c["ids"])) or r["term"] in c["term"].split() and inter >= 0.5 * len(r["ids"]):
+                dup = True
+                break
+        if not dup:
+            chosen.append(r)
+            if len(chosen) >= limit:
+                break
+    return chosen
 
 
 def has_ai(e):
@@ -102,10 +217,12 @@ def has_ai(e):
 
 
 def pid(e, src_domains):
-    d = domain_of(e["url"])
-    if d and d != src_domains.get(e["source"]):
-        return d
-    return e["source"] + "|" + (e.get("name") or e["url"]).lower()
+    """Product identity: normalised name (the same product listed on several directories, or on its own
+    site, counts once). Falls back to the url's domain/path when there is no name."""
+    name = re.sub(r"[^a-z0-9\u4e00-\u9fff]+", " ", html.unescape(e.get("name") or "").lower()).strip()
+    if name:
+        return "n|" + name
+    return domain_of(e["url"]) or e["url"]
 
 
 def load(today):
@@ -136,32 +253,15 @@ def dedupe(entries, src_dom):
     return out
 
 
-def count(entries, srcmap=None):
-    """Document frequency of unigrams/bigrams; optionally record which sources contain each term."""
-    uc, bc = Counter(), Counter()
-    for e in entries:
-        u, b = terms_of(e)
-        uc.update(u)
-        bc.update(b)
-        if srcmap is not None:
-            for t in u | b:
-                srcmap[t].add(e["source"])
-    return uc, bc
-
-
-def rank(today_c, n_today, b7, n7, b30, n30, min_count, top=15, srcmap=None, min_src=1):
-    rows = []
-    for t, c in today_c.items():
-        if c < min_count or (srcmap is not None and len(srcmap[t]) < min_src):
-            continue
-        r7 = (c / n_today) / ((b7.get(t, 0) + 0.5) / (n7 + 1)) if n7 else None
-        r30 = (c / n_today) / ((b30.get(t, 0) + 0.5) / (n30 + 1)) if n30 else None
-        rows.append(dict(term=t, today=c, b7=b7.get(t, 0), b30=b30.get(t, 0), r7=r7, r30=r30,
-                         new=(b30.get(t, 0) == 0 and n30 >= 30)))
-    top_rows = sorted(rows, key=lambda r: (-r["today"], r["term"]))[:top]
-    rising = [r for r in rows if r["today"] >= min_count and ((r["r7"] or 0) >= 2.0 and (r["r30"] or 0) >= 2.0 or r["new"])]
-    rising.sort(key=lambda r: (-(r["r30"] or 0) * r["today"] ** 0.5, r["term"]))
-    return top_rows, rising[:top]
+def corpus_df(entries, src_dom):
+    """Document frequency of every term over the whole corpus (entries with text, one per product)."""
+    df = Counter()
+    n = 0
+    for e in dedupe([e for e in entries if not e.get("baseline")], src_dom):
+        df.update(terms_of(e))
+        n += 1
+    df["__N__"] = max(n, 1)
+    return df
 
 
 def fmt_ratio(x):
@@ -185,15 +285,11 @@ def main():
     w30 = dedupe([e for e in hist if day(e) >= (d0 - timedelta(days=30)).strftime("%Y-%m-%d")], src_dom)
 
     n_t, n7, n30 = len(new_today), len(w7), len(w30)
-    srcmap = defaultdict(set)
-    tu, tb = count(new_today, srcmap)
-    n_active = len({e["source"] for e in new_today})
-    min_src = 3 if n_active >= 10 else 1
-    u7, b7 = count(w7)
-    u30, b30 = count(w30)
-    min_c = 3 if n_t >= 60 else 2
-    top_u, rise_u = rank(tu, max(n_t, 1), u7, n7, u30, n30, min_c, srcmap=srcmap, min_src=min_src)
-    top_b, rise_b = rank(tb, max(n_t, 1), b7, n7, b30, n30, min_c, srcmap=srcmap, min_src=min_src)
+    df = corpus_df(entries, src_dom)
+    cand = niche_terms(daily["new"], w30, entries, src_dom, df)
+    top15 = dedupe_terms(cand, 15)
+    top_set = {r["term"] for r in top15}
+    new_terms = dedupe_terms([r for r in cand if r["new"]], 10, exclude=top_set)
     ai_today = sum(1 for e in new_today if has_ai(e))
     ai_30 = sum(1 for e in w30 if has_ai(e))
 
@@ -218,34 +314,23 @@ def main():
     ours_seen = {d: sorted(s) for d, s in dom_src.items() if d in ours}
     ours_today = [e for e in daily["new"] if domain_of(e["url"]) in ours]
 
-    # clusters: bigram shared by >=3 different products today
+    # micro-clusters: 3-10 similar products sharing a specific n-gram, from >=2 sources
+    by_id = {pid(e, src_dom): e for e in new_today}  # one representative per product
+    cl_rows = [r for r in cand if 3 <= r["count"] <= 10 and len(r["term"].split()) >= 2]
     clusters = []
-    by_bi = defaultdict(list)
-    for e in new_today:
-        for b in terms_of(e)[1]:
-            by_bi[b].append(e)
-    used = set()
-    for b, es in sorted(by_bi.items(), key=lambda kv: (-len(kv[1]), kv[0])):
-        if len(es) < 3:
-            break
-        if len({e["source"] for e in es}) < min(min_src, 2):
-            continue
-        key = frozenset(pid(e, src_dom) for e in es)
-        if len(key & used) > 0.6 * len(key):
-            continue
-        used |= key
-        clusters.append(dict(term=b, size=len(es), examples=[f"{e['name']} ({domain_of(e['url'])})" for e in es[:4]]))
-        if len(clusters) >= 6:
-            break
+    for r in dedupe_terms(cl_rows, 8):
+        clusters.append(dict(term=r["term"], size=r["count"], sources=r["sources"],
+                             examples=[dict(name=html.unescape(by_id[i].get("name", ""))[:60], url=by_id[i]["url"]) for i in sorted(r["ids"]) if i in by_id][:4]))
     signals = []
-    for c in clusters[:3]:
-        signals.append(f"同日聚类「{c['term']}」{c['size']} 个产品：" + "、".join(x.split(" (")[0] for x in c["examples"][:3]))
+    for r in top15[:3]:
+        ex = "、".join(x["name"] for x in r["examples"][:2])
+        signals.append(f"小词「{r['term']}」今日 {r['count']} 个产品/{r['sources']} 个目录：{ex}")
+    for c in clusters[:2]:
+        signals.append(f"同日小簇「{c['term']}」{c['size']} 个相似产品：" + "、".join(x["name"] for x in c["examples"][:3]))
     for e in ours_today[:2]:
         signals.append(f"我们的站点上线：{domain_of(e['url'])} @ {src_dom.get(e['source'], e['source'])}")
     for d, s in overlap_today[:2]:
         signals.append(f"跨目录同时出现：{d}（{len(s)} 个目录）")
-    for r in rise_b[:2] + rise_u[:2]:
-        signals.append(f"升温词「{r['term']}」今日 {r['today']} 条" + ("（近30天首次出现）" if r["new"] else f"，较30天基线 {fmt_ratio(r['r30'])}"))
 
     enabled = [s for s in srcs.values() if s["enabled"]]
     h_ok = sum(1 for s in enabled if health.get(s["id"], {}).get("last_run") == today and not health[s["id"]].get("last_error"))
@@ -253,43 +338,41 @@ def main():
     h_flag = [s["id"] for s in enabled if health.get(s["id"], {}).get("flagged")]
     n_dirs = len(srcs)
 
+    def pack(r):
+        return dict(term=r["term"], count=r["count"], sources=r["sources"], ratio=None if r["ratio"] is None else round(r["ratio"], 1),
+                    new=r["new"], examples=r["examples"])
+
     summary = dict(date=today, sources_total=n_dirs, sources_enabled=len(enabled), sources_ok=h_ok,
                    sources_failed=len(h_fail), failed_ids=h_fail[:20], flagged_ids=h_flag,
                    new_today=n_raw_today, new_today_unique=n_t, ai_share_today=round(ai_today / n_t, 2) if n_t else None,
                    ai_share_30d=round(ai_30 / n30, 2) if n30 else None,
-                   top_terms=[(r["term"], r["today"], r["new"] or ((r["r30"] or 0) >= 2 and (r["r7"] or 0) >= 2)) for r in top_u[:10]],
-                   top_bigrams=[(r["term"], r["today"]) for r in top_b[:10]],
-                   rising=[(r["term"], r["today"], None if r["r30"] is None else round(r["r30"], 1)) for r in (rise_u + rise_b)[:8]],
-                   signals=signals[:7], repo=REPO_URL, report_url=f"{REPO_URL}/blob/main/reports/{today}.md", digest="")
+                   niche_terms=[pack(r) for r in top15], new_terms=[pack(r) for r in new_terms], clusters=clusters,
+                   signals=signals[:7], repo=REPO_URL, report_url=f"{REPO_URL}/blob/main/reports/{today}.md", niche_groups="")
 
-    # LLM digest (best effort)
-    if not a.no_llm and n_t >= 5:
-        sample = [f"{e['name']}｜{e['tagline'][:80]}｜{e.get('category','')}" for e in new_today[:40]]
-        ctx = (f"日期 {today}；今日新增 {n_t} 个产品。\n高频词：" + "、".join(f"{t}({c})" for t, c, _ in summary["top_terms"]) +
-               "\n高频双词：" + "、".join(f"{t}({c})" for t, c in summary["top_bigrams"]) +
-               "\n升温词：" + "、".join(f"{t}({c})" for t, c, _ in summary["rising"]) + "\n样例条目：\n" + "\n".join(sample))
-        summary["digest"] = llm.digest(ctx)
+    # LLM: group niche terms into micro-niches (best effort, never fatal)
+    if not a.no_llm and top15:
+        lines = [f"{r['term']}（{r['count']}个，例：" + "；".join(x["name"] for x in r["examples"][:2]) + "）" for r in top15 + new_terms[:6]]
+        summary["niche_groups"] = llm.niche_groups(f"日期 {today}，今日新增 {n_t} 个产品。聚焦小词及样例产品：\n" + "\n".join(lines))
 
     # ---------------- markdown
+    mdex = lambda exs: "；".join(f"[{x['name']}]({x['url']})" for x in exs)
     L = [f"# 每日目录雷达 {today}", "",
          f"- 监控目录 {len(enabled)} / 筛查目录 {n_dirs}；今日成功 {h_ok}，失败 {len(h_fail)}" + (f"；连续失败预警：{', '.join(h_flag)}" if h_flag else ""),
          f"- 今日新增条目 **{n_raw_today}**（去重后 {n_t}）；7 天基线 {n7}，30 天基线 {n30}"
-         + ("（基线样本偏少，升温判断仅供参考）" if n30 < 100 else ""),
-         f"- AI 相关占比：今日 {summary['ai_share_today']}，30天 {summary['ai_share_30d']}", ""]
-    if summary["digest"]:
-        L += ["## LLM 摘要", "", summary["digest"], ""]
+         + ("（基线样本偏少，“新出现”判断仅供参考）" if n30 < 100 else ""),
+         f"- 语料 {df['__N__']} 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 {summary['ai_share_today']}，30天 {summary['ai_share_30d']}", ""]
+    if summary["niche_groups"]:
+        L += ["## 微赛道归纳（LLM）", "", summary["niche_groups"], ""]
     if signals:
         L += ["## 信号 Signals", ""] + [f"- {s}" for s in signals] + [""]
-    L += ["## 高频词 Top terms（按条目数）", "", "| 词 | 今日 | 来源数 | 7天基线 | 30天基线 | vs7d | vs30d |", "|---|---|---|---|---|---|---|"]
-    for r in top_u:
-        L.append(f"| {r['term']} | {r['today']} | {len(srcmap[r['term']])} | {r['b7']} | {r['b30']} | {fmt_ratio(r['r7'])} | {fmt_ratio(r['r30'])}{' 🆕' if r['new'] else ''} |")
-    L += ["", "## 高频双词 Top bigrams", "", "| 双词 | 今日 | 7天基线 | 30天基线 | vs30d |", "|---|---|---|---|---|"]
-    for r in top_b:
-        L.append(f"| {r['term']} | {r['today']} | {r['b7']} | {r['b30']} | {fmt_ratio(r['r30'])}{' 🆕' if r['new'] else ''} |")
-    L += ["", "## 升温词 Rising（今日占比 ≥2× 7天且 ≥2× 30天，或30天内首次出现）", ""]
-    L += [f"- **{r['term']}** 今日 {r['today']}，vs7d {fmt_ratio(r['r7'])}，vs30d {fmt_ratio(r['r30'])}{' 🆕' if r['new'] else ''}" for r in (rise_u + rise_b)[:12]] or ["- （暂无）"]
-    L += ["", "## 同日产品聚类 Clusters", ""]
-    L += [f"- **{c['term']}** × {c['size']}：" + "；".join(c["examples"]) for c in clusters] or ["- （暂无）"]
+    L += ["## 聚焦小词 Top 15", "", "每个词：今日出现在 2–15 个产品、至少 2 个目录；按稀有度（IDF）× 今日/30天基线比 × n-gram 加权排序。", "",
+          "| # | 词 | 今日 | 目录数 | vs30d | 示例产品 |", "|---|---|---|---|---|---|"]
+    for i, r in enumerate(top15, 1):
+        L.append(f"| {i} | **{r['term']}** | {r['count']} | {r['sources']} | {'🆕' if r['new'] else fmt_ratio(r['ratio'])} | {mdex(r['examples'])} |")
+    L += ["", "## 新出现的词 New terms（30 天基线中从未出现）", ""]
+    L += [f"- **{r['term']}** × {r['count']}（{r['sources']} 个目录）：{mdex(r['examples'])}" for r in new_terms] or ["- （暂无）"]
+    L += ["", "## 同日小簇（3-10 个相似产品）", ""]
+    L += [f"- **{c['term']}** × {c['size']}（{c['sources']} 个目录）：{mdex(c['examples'])}" for c in clusters] or ["- （暂无）"]
     L += ["", "## 各目录今日新增与热门分类", "", "| 目录 | 新增 | 热门分类 |", "|---|---|---|"]
     for sid, n in src_vol.most_common(12):
         cats = "、".join(f"{c}({k})" for c, k in cat_src[sid].most_common(3))
@@ -310,13 +393,12 @@ def main():
     # README block
     rp = ROOT / "README.md"
     if rp.exists():
-        block = [f"**{today}** · 新增 {n_raw_today} · 监控 {len(enabled)} 个目录（今日成功 {h_ok}）", "",
-                 "Top 关键词: " + "、".join(f"`{t}`({c})" for t, c, _ in summary["top_terms"]), "",
-                 "Top 双词: " + "、".join(f"`{t}`({c})" for t, c in summary["top_bigrams"]), ""]
-        if summary["rising"]:
-            block += ["升温: " + "、".join(f"`{t}`" for t, _, _ in summary["rising"]), ""]
-        if summary["digest"]:
-            block += [f"> {summary['digest']}", ""]
+        block = [f"**{today}** · 新增 {n_raw_today} · 监控 {len(enabled)} 个目录（今日成功 {h_ok}）", "", "聚焦小词 Top 15:", ""]
+        for r in top15:
+            block.append(f"- `{r['term']}` ×{r['count']}（{r['sources']} 目录）" + (" 🆕" if r["new"] else "") + "：" + "；".join(x["name"] for x in r["examples"][:2]))
+        block.append("")
+        if summary["niche_groups"]:
+            block += ["微赛道归纳:", "", summary["niche_groups"], ""]
         block += [f"完整报告: [reports/{today}.md](reports/{today}.md)", ""]
         txt = rp.read_text()
         txt = re.sub(r"<!-- LATEST:START -->.*<!-- LATEST:END -->", "<!-- LATEST:START -->\n" + "\n".join(block) + "<!-- LATEST:END -->", txt, flags=re.S)
@@ -326,7 +408,7 @@ def main():
     for f in REPORTS.glob("20*"):
         if f.stem < cut:
             f.unlink()
-    print(f"analyzed {today}: new={n_raw_today} unique={n_t} top={[t for t,_,_ in summary['top_terms'][:5]]}")
+    print(f"analyzed {today}: new={n_raw_today} unique={n_t} niche={[r['term'] for r in top15[:6]]}")
 
 
 if __name__ == "__main__":

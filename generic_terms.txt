@@ -1,0 +1,123 @@
+# Head / umbrella terms that are NOT interesting as "hot keywords".
+# One term per line (lowercase, singular). Unigram entries also make any n-gram made ONLY of generic words
+# generic (e.g. "social media", "ai agent"). Data-driven suppression (corpus document-frequency) is applied on top.
+# Lines starting with # are comments. Edit freely; takes effect on the next analyze.py run.
+ai
+video
+image
+photo
+picture
+agent
+content
+design
+saas
+marketing
+social
+media
+text
+browser
+generator
+assistant
+automation
+workflow
+platform
+writing
+writer
+developer
+data
+code
+coding
+model
+chat
+chatbot
+search
+management
+learning
+education
+productivity
+analytics
+analysis
+creative
+creator
+creation
+generative
+generation
+intelligence
+artificial
+machine
+language
+large
+digital
+mobile
+desktop
+extension
+plugin
+integration
+dashboard
+customer
+business
+enterprise
+startup
+freelancer
+student
+teacher
+engine
+interface
+system
+network
+cloud
+online
+internet
+technology
+tech
+innovative
+powerful
+seamless
+leverage
+leverages
+streamline
+streamlines
+experience
+personalized
+intelligent
+advanced
+efficient
+efficiently
+helps
+help
+create
+build
+manage
+track
+write
+edit
+convert
+audio
+voice
+music
+website
+app
+tool
+prompt
+llm
+gpt
+chatgpt
+openai
+claude
+gemini
+copilot
+ai agent
+ai video
+ai image
+ai writing
+ai content
+ai model
+ai tool
+generative ai
+machine learning
+artificial intelligence
+large language model
+social media
+digital marketing
+content creation
+text prompt

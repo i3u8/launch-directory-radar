@@ -15,6 +15,7 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 import requests
 
@@ -22,23 +23,37 @@ ROOT = Path(__file__).parent
 REPO = "https://github.com/i3u8/launch-directory-radar"
 
 
+def _ex(examples, k=2):
+    out = []
+    for x in examples[:k]:
+        try:
+            dom = urlparse(x["url"]).hostname or ""
+        except Exception:
+            dom = ""
+        out.append(f"{x['name'][:32].strip()}（{dom.removeprefix('www.')}）")
+    return "、".join(out)
+
+
 def build(s: dict) -> str:
-    L = [f"📡 每日目录雷达 {s['date']}",
+    L = [f"📡 每日目录雷达 {s['date']}（聚焦小词）",
          f"监控目录 {s['sources_enabled']}/{s['sources_total']}｜今日成功 {s['sources_ok']}｜失败 {s['sources_failed']}"
-         + (f"｜连续失败预警 {len(s['flagged_ids'])}" if s.get("flagged_ids") else ""),
-         f"今日新增 {s['new_today']} 条（去重 {s['new_today_unique']}）｜AI 占比 {s.get('ai_share_today')}", ""]
-    if s["top_terms"]:
-        L.append("🔥 Top10 热词：" + "、".join(f"{t}({c}){'↑' if up else ''}" for t, c, up in s["top_terms"]))
-    if s["top_bigrams"]:
-        L.append("🔤 热门双词：" + "、".join(f"{t}({c})" for t, c in s["top_bigrams"][:6]))
-    if s["rising"]:
-        L.append("📈 升温：" + "、".join(f"{t}({c})" for t, c, _ in s["rising"][:6]))
-    if s["signals"]:
-        L.append("")
-        L.append("🎯 信号：")
-        L += [f"{i}. {x}" for i, x in enumerate(s["signals"][:5], 1)]
-    if s.get("digest"):
-        L += ["", f"🤖 摘要：{s['digest']}"]
+         + (f"｜连续失败预警 {len(s['flagged_ids'])}" if s.get("flagged_ids") else "")
+         + f"｜今日新增 {s['new_today']} 条（去重 {s['new_today_unique']}）", ""]
+    nt = s.get("niche_terms") or []
+    if nt:
+        L.append("🎯 聚焦小词 Top 10（产品数/目录数）：")
+        for i, r in enumerate(nt[:10], 1):
+            L.append(f"{i}. {r['term']} ×{r['count']}/{r['sources']}{' 🆕' if r.get('new') else ''} — {_ex(r['examples'])}")
+    if s.get("new_terms"):
+        L += ["", "🆕 新出现：" + "、".join(f"{r['term']}({r['count']})" for r in s["new_terms"][:8])]
+    if s.get("clusters"):
+        L += ["", "🧩 同日小簇（相似产品）："]
+        L += [f"- {c['term']} ×{c['size']}：{_ex(c['examples'], 3)}" for c in s["clusters"][:3]]
+    if s.get("niche_groups"):
+        L += ["", "🤖 微赛道归纳：", s["niche_groups"]]
+    extra = [x for x in s.get("signals", []) if x.startswith(("我们的站点", "跨目录"))]
+    if extra:
+        L += ["", "📌 " + "；".join(extra[:3])]
     L += ["", f"📄 日报：{s['report_url']}", f"🔗 GitHub 仓库：{s.get('repo', REPO)}"]
     return "\n".join(L)
 

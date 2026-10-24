@@ -1,98 +1,83 @@
 # 每日目录雷达 2026-10-24
 
 - 监控目录 197 / 筛查目录 478；今日成功 176，失败 21
-- 今日新增条目 **1429**（去重后 1311）；7 天基线 4126，30 天基线 8053
-- AI 相关占比：今日 0.4，30天 0.33
+- 今日新增条目 **1429**（去重后 1309）；7 天基线 3827，30 天基线 7386
+- 语料 8584 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.39，30天 0.33
 
-## LLM 摘要
+## 微赛道归纳（LLM）
 
-AI Agent基础设施与垂直应用、AI视频生成及社交营销自动化正显著升温。数据显示，围绕Agent的沙箱环境、数据提取及多步任务执行工具密集涌现，同时AI视频与社交媒体自动回复工具热度高涨。独立开发者应聚焦构建Agent底层支撑组件或特定行业的工作流自动化插件，以切入高增长赛道。
+- SEO与AI搜索优化：google search console、search console、expert seo agency、creative branding agency —— 提供AI驱动的SEO内容规划、排名追踪及品牌搜索优化服务
+- AI图像与文件处理：description alt text、jpg png webp、csv file —— 利用AI生成图片替代文本、转换图像格式及清理CSV数据
+- AI代理基础设施与支付：agent wallet index、claude opus、usage limit —— 构建AI智能体钱包、支付轨道及模型使用限制管理工具
+- 数字营销与社媒自动化：social media manager、performance optimization —— 实现社交媒体内容创作、分发及广告投放的自动化与性能优化
+- 垂直健康与医疗资源：eating disorder treatment、licensed peptide clinic、licensed psilocybin center —— 提供饮食障碍、肽疗法及迷幻蘑菇治疗机构的目录与查找服务
+- RFID资产追踪与教育：access control asset、asset tracking logistic、educational resource —— 涵盖RFID硬件制造、物流资产追踪及学术资源规划
 
 ## 信号 Signals
 
-- 同日聚类「ai agent」34 个产品：AI Agents Listing、Sandbox0、AI agent tools that let you take your data out
-- 同日聚类「ai video」28 个产品：Kling 4.0、Lobbee Hotel Lobby Ai Video Generator、Synthesia
-- 同日聚类「marketing automation」19 个产品：HubSpot AI — CRM + AI marketing suite for all sizes、Marketo Engage — Enterprise account-based marketing automation、ActiveCampaign — Email + CRM + sales automation platform
+- 小词「creative branding agency」今日 3 个产品/2 个目录：AI search optimization services in Jaipur、Facebook Ads agency in Jaipur
+- 小词「description alt text」今日 3 个产品/2 个目录：Image Describer: Copy the look of a reference picture into a、Describe Image: Draft alt text and captions from the picture
+- 小词「google search console」今日 3 个产品/3 个目录：Scalenut — AI SEO content planner and writer、QuickSEO.ai: Track and improve your SEO rankings and AI visi
+- 同日小簇「creative branding agency」3 个相似产品：AI search optimization services in Jaipur、Facebook Ads agency in Jaipur、Local SEO services in Jaipur
+- 同日小簇「description alt text」3 个相似产品：Describe Image: Draft alt text and captions from the picture、Image Describer、Image Describer: Copy the look of a reference picture into a
 - 我们的站点上线：youlooklonely.com @ canopystack.dev
 - 跨目录同时出现：aiburningbridges.co（3 个目录）
 - 跨目录同时出现：blog.google（3 个目录）
-- 升温词「car trend」今日 8 条（近30天首次出现）
-- 升温词「wide range」今日 5 条（近30天首次出现）
-- 升温词「suggest」今日 9 条（近30天首次出现）
-- 升温词「fees」今日 8 条（近30天首次出现）
 
-## 高频词 Top terms（按条目数）
+## 聚焦小词 Top 15
 
-| 词 | 今日 | 来源数 | 7天基线 | 30天基线 | vs7d | vs30d |
-|---|---|---|---|---|---|---|
-| video | 126 | 35 | 135 | 233 | 2.9x | 3.3x |
-| image | 86 | 28 | 73 | 176 | 3.7x | 3.0x |
-| photo | 80 | 25 | 64 | 105 | 3.9x | 4.7x |
-| agent | 78 | 29 | 694 | 1442 | 0.4x | 0.3x |
-| browser | 73 | 22 | 67 | 152 | 3.4x | 2.9x |
-| text | 67 | 22 | 52 | 110 | 4.0x | 3.7x |
-| content | 64 | 14 | 38 | 61 | 5.2x | 6.4x |
-| design | 63 | 23 | 22 | 57 | 8.8x | 6.7x |
-| saas | 61 | 7 | 112 | 216 | 1.7x | 1.7x |
-| marketing | 49 | 13 | 29 | 57 | 5.2x | 5.2x |
-| developer | 48 | 17 | 32 | 45 | 4.6x | 6.5x |
-| compare | 43 | 10 | 16 | 23 | 8.2x | 11.2x |
-| guide | 41 | 14 | 46 | 58 | 2.8x | 4.3x |
-| productivity | 41 | 12 | 34 | 51 | 3.7x | 4.9x |
-| data | 40 | 17 | 40 | 80 | 3.1x | 3.1x |
+每个词：今日出现在 2–15 个产品、至少 2 个目录；按稀有度（IDF）× 今日/30天基线比 × n-gram 加权排序。
 
-## 高频双词 Top bigrams
+| # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
+|---|---|---|---|---|---|
+| 1 | **creative branding agency** | 3 | 2 | 🆕 | [AI search optimization services in Jaipur](https://exampledir.com/listing/ai-search-optimization-services-in-jaipur-313041)；[Facebook Ads agency in Jaipur](https://huludirectory.com/listing/facebook-ads-agency-in-jaipur-2259756)；[Local SEO services in Jaipur](https://exampledir.com/listing/local-seo-services-in-jaipur-313019) |
+| 2 | **description alt text** | 3 | 2 | 🆕 | [Image Describer: Copy the look of a reference picture into a](https://saasolution.io/tool/image-describer)；[Describe Image: Draft alt text and captions from the picture](https://saasolution.io/tool/describe-image)；[Image Describer](https://imagedescriber.dev/) |
+| 3 | **google search console** | 3 | 3 | 🆕 | [Scalenut — AI SEO content planner and writer](https://aisuggests.ai/tool/scalenut)；[QuickSEO.ai: Track and improve your SEO rankings and AI visi](https://awesomeindie.com/product/quick-seo-ai)；[静态站SEO审计：五个"错误"其实不用改](https://aisuqp.xyz/learn/jingtaizhanseoshenji-wuge-cuowu-qishibuyonggai-z4ni) |
+| 4 | **social media manager** | 3 | 2 | 🆕 | [AI-assisted Full Social Media Creation, Management and Distr](https://linkedin.com/in/ikgonzal)；[Create and Edit Digital Images with AI: Turner AI](https://turner.art/)；[Simplified — All-in-one AI creator platform](https://aisuggests.ai/tool/simplified) |
+| 5 | **csv file** | 4 | 2 | 🆕 | [YouTranscripts](https://whatareyoubuilding.ai/product/wlH2oIRUpVPKBNp7CTPR)；[CSV Essentials Toolkit: Clean up messy CSV exports on your o](https://saasolution.io/tool/csv-essentials-toolkit)；[StatementCSV: Get the transactions from a bank statement PDF](https://saasolution.io/tool/statementcsv) |
+| 6 | **claude opus** | 4 | 3 | 🆕 | [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter)；[Coding Agent Index v2.0: Claude Opus 5.5 Leads at 61.7](https://cellcog.ai/blog/artificial-analysis-coding-agent-index)；[Left alone on a desert island, AI agents started playing, an](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing) |
+| 7 | **performance optimization** | 4 | 2 | 🆕 | [10Web — AI WordPress website builder](https://aisuggests.ai/tool/10web)；[Smartly.io — AI-powered social advertising automation](https://aisuggests.ai/tool/smartly-io)；[Scaling NVIDIA TensorRT Performance Optimization Beyond a Si](https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1) |
+| 8 | **educational resource** | 3 | 3 | 🆕 | [Smootables: AI-Powered Academic Planning & Timetabling for S](https://dealmyapp.com/listings/smootables-ai-powered-academic-planning-timetabling-for-schools)；[Scholarship100 – Global Scholarships and Educational Resourc](https://a2place.com/listing/scholarship100-–-global-scholarships-and-educational-resources-718520)；[Real Manifesting](https://realmanifesting.com/) |
+| 9 | **usage limit** | 3 | 2 | 🆕 | [Claude Resets](https://dealmyapp.com/listings/claude-resets)；[AI Compare Ninja: Line up AI tools' plans and usage limits, ](https://saasolution.io/tool/ai-compare-ninja)；[nopaywall: Compare free AI credits and usage caps before a q](https://saasolution.io/tool/nopaywall) |
+| 10 | **access control asset** | 2 | 2 | 🆕 | [RFID Card Manufacturer](https://exampledir.com/listing/rfid-card-manufacturer-313046)；[RFID reader manufacturer](https://huludirectory.com/listing/rfid-reader-manufacturer-2259770) |
+| 11 | **agent wallet index** | 2 | 4 | 🆕 | [Agent wallets and payment rails for AI agents | Agent Wallet](https://nothumansearch.ai/site/agentwalletindex.fyi)；[Agent Wallet Index](https://agentwalletindex.fyi/) |
+| 12 | **cloud server vps** | 2 | 3 | 🆕 | [IDC3 德讯电讯](https://idc3.com/) |
+| 13 | **disorder treatment program** | 2 | 3 | 🆕 | [Find eating disorder treatment programs near you | Eating Di](https://nothumansearch.ai/site/eatingdisorder.fyi)；[Eating Disorder Directory](https://eatingdisorder.fyi/) |
+| 14 | **indian mango pulp** | 2 | 2 | 🆕 | [Indian Mangoes Maryland](https://aweblist.org/listing/indian-mangoes-maryland-970320)；[Alphonso Mango USA](https://huludirectory.com/listing/alphonso-mango-usa-2259782) |
+| 15 | **jpg png webp** | 2 | 2 | 🆕 | [AI Image Cleanup Tool: Remove Text from Image Online Free | ](https://awesomeindie.com/product/ai-image-cleanup-tool)；[HEIC.AI: Convert iPhone HEIC photos to JPG, PNG, WebP or PDF](https://saasolution.io/tool/heic-ai) |
 
-| 双词 | 今日 | 7天基线 | 30天基线 | vs30d |
-|---|---|---|---|---|
-| ai agent | 34 | 184 | 255 | 0.8x |
-| ai video | 28 | 38 | 74 | 2.3x |
-| social media | 19 | 14 | 23 | 5.0x |
-| ai image | 18 | 25 | 57 | 1.9x |
-| ai writing | 16 | 6 | 8 | 11.6x |
-| generative ai | 13 | 0 | 19 | 4.1x |
-| ai content | 12 | 3 | 4 | 16.4x |
-| text prompt | 10 | 7 | 11 | 5.3x |
-| ai model | 9 | 3 | 12 | 4.4x |
-| content creation | 9 | 2 | 3 | 15.8x |
-| digital marketing | 9 | 4 | 4 | 12.3x |
-| hotel lobby | 9 | 4 | 9 | 5.8x |
-| car trend | 8 | 0 | 0 | 98.3x 🆕 |
-| machine learning | 8 | 3 | 4 | 10.9x |
-| mcp server | 8 | 19 | 23 | 2.1x |
+## 新出现的词 New terms（30 天基线中从未出现）
 
-## 升温词 Rising（今日占比 ≥2× 7天且 ≥2× 30天，或30天内首次出现）
+- **expert seo agency** × 3（2 个目录）：[AI search optimization services in Jaipur](https://exampledir.com/listing/ai-search-optimization-services-in-jaipur-313041)；[Facebook Ads agency in Jaipur](https://huludirectory.com/listing/facebook-ads-agency-in-jaipur-2259756)；[Local SEO services in Jaipur](https://exampledir.com/listing/local-seo-services-in-jaipur-313019)
+- **search console** × 4（4 个目录）：[Scalenut — AI SEO content planner and writer](https://aisuggests.ai/tool/scalenut)；[QuickSEO.ai: Track and improve your SEO rankings and AI visi](https://awesomeindie.com/product/quick-seo-ai)；[静态站SEO审计：五个"错误"其实不用改](https://aisuqp.xyz/learn/jingtaizhanseoshenji-wuge-cuowu-qishibuyonggai-z4ni)
+- **asset tracking logistic** × 2（2 个目录）：[RFID Card Manufacturer](https://exampledir.com/listing/rfid-card-manufacturer-313046)；[RFID reader manufacturer](https://huludirectory.com/listing/rfid-reader-manufacturer-2259770)
+- **eating disorder treatment** × 2（3 个目录）：[Find eating disorder treatment programs near you | Eating Di](https://nothumansearch.ai/site/eatingdisorder.fyi)；[Eating Disorder Directory](https://eatingdisorder.fyi/)
+- **licensed peptide clinic** × 2（2 个目录）：[Find a licensed peptide clinic near you | PeptideClinic — sc](https://nothumansearch.ai/site/peptideclinic.fyi)；[PeptideClinic](https://peptideclinic.fyi/)
+- **licensed psilocybin center** × 2（2 个目录）：[Find a licensed psilocybin center | Psilocybin Centers — sco](https://nothumansearch.ai/site/psilocybincenters.fyi)；[Psilocybin Centers](https://psilocybincenters.fyi/)
+- **minecraft thumbnail maker** × 2（2 个目录）：[Minecraft Thumbnail Maker](https://minecraftthumbnailmaker.com/)；[Minecraft Thumbnail Maker For Youtube Creators](https://develif.com/s/minecraft-thumbnail-maker-for-youtube-creators)
+- **multi step task** × 2（2 个目录）：[Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A ](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide)；[Manus](https://agentsindex.ai/manus-ai)
+- **rain dance ai** × 2（2 个目录）：[Rain Dance Ai](https://www.uneed.best/tool/rain-dance-ai)；[Rain Dance Ai Video](https://navs.site/website/rain-dance-ai-video)
+- **remote developer designer** × 2（2 个目录）：[JapanDev.jp](https://japandev.jp/)；[HireDeveloper.ae](https://hiredeveloper.ae/)
 
-- **suggest** 今日 9，vs7d 56.7x，vs30d 110.6x 🆕
-- **fees** 今日 8，vs7d 50.4x，vs30d 98.3x 🆕
-- **particularly** 今日 8，vs7d 50.4x，vs30d 98.3x 🆕
-- **enhance** 今日 16，vs7d 33.6x，vs30d 65.5x
-- **understanding** 今日 22，vs7d 46.2x，vs30d 54.1x
-- **driving** 今日 7，vs7d 44.1x，vs30d 86.0x 🆕
-- **framecomet** 今日 7，vs7d 44.1x，vs30d 86.0x 🆕
-- **known** 今日 7，vs7d 44.1x，vs30d 86.0x 🆕
-- **region** 今日 7，vs7d 44.1x，vs30d 86.0x 🆕
-- **zip** 今日 7，vs7d 44.1x，vs30d 86.0x 🆕
-- **include** 今日 32，vs7d 40.3x，vs30d 35.7x
-- **50+** 今日 6，vs7d 37.8x，vs30d 73.7x 🆕
+## 同日小簇（3-10 个相似产品）
 
-## 同日产品聚类 Clusters
-
-- **ai agent** × 34：AI Agents Listing (a2place.com)；Sandbox0 (agentic.ai)；AI agent tools that let you take your data out (agentsindex.ai)；Manus (agentsindex.ai)
-- **ai video** × 28：Kling 4.0 (a2place.com)；Lobbee Hotel Lobby Ai Video Generator (agents-launch.lovable.app)；Synthesia (agentsindex.ai)；Runway ML — Professional AI video generation and editing (aisuggests.ai)
-- **marketing automation** × 19：HubSpot AI — CRM + AI marketing suite for all sizes (aisuggests.ai)；Marketo Engage — Enterprise account-based marketing automation (aisuggests.ai)；ActiveCampaign — Email + CRM + sales automation platform (aisuggests.ai)；Mailchimp AI — Smart email marketing with AI optimization (aisuggests.ai)
-- **social media** × 19：Simplified — All-in-one AI creator platform (aisuggests.ai)；Canva AI — The world's design platform with AI superpowers (aisuggests.ai)；Looka — AI logo and brand kit designer (aisuggests.ai)；Semrush — All-in-one SEO and competitive intelligence platform (aisuggests.ai)
-- **ai image** × 18：Midjourney — World-leading AI image generation (aisuggests.ai)；Stable Diffusion — Open-source AI image generation (aisuggests.ai)；Adobe Express — Quick, AI-powered creative content creation (aisuggests.ai)；ReadMenuAi: Chinese menu translator, AI turns Chinese food menus with photos (awesomeindie.com)
-- **ai writing** × 16：Jasper AI — Enterprise AI writing for marketing teams (aisuggests.ai)；Copy.ai — 90+ AI writing templates for every format (aisuggests.ai)；Rytr — Affordable AI writing for freelancers and creators (aisuggests.ai)；Sudowrite — AI writing tool built for novelists (aisuggests.ai)
+- **creative branding agency** × 3（2 个目录）：[AI search optimization services in Jaipur](https://exampledir.com/listing/ai-search-optimization-services-in-jaipur-313041)；[Facebook Ads agency in Jaipur](https://huludirectory.com/listing/facebook-ads-agency-in-jaipur-2259756)；[Local SEO services in Jaipur](https://exampledir.com/listing/local-seo-services-in-jaipur-313019)
+- **description alt text** × 3（2 个目录）：[Describe Image: Draft alt text and captions from the picture](https://saasolution.io/tool/describe-image)；[Image Describer](https://imagedescriber.dev/)；[Image Describer: Copy the look of a reference picture into a](https://saasolution.io/tool/image-describer)
+- **google search console** × 3（3 个目录）：[QuickSEO.ai: Track and improve your SEO rankings and AI visi](https://awesomeindie.com/product/quick-seo-ai)；[Scalenut — AI SEO content planner and writer](https://aisuggests.ai/tool/scalenut)；[静态站SEO审计：五个"错误"其实不用改](https://aisuqp.xyz/learn/jingtaizhanseoshenji-wuge-cuowu-qishibuyonggai-z4ni)
+- **social media manager** × 3（2 个目录）：[AI-assisted Full Social Media Creation, Management and Distr](https://linkedin.com/in/ikgonzal)；[Create and Edit Digital Images with AI: Turner AI](https://turner.art/)；[Simplified — All-in-one AI creator platform](https://aisuggests.ai/tool/simplified)
+- **csv file** × 4（2 个目录）：[CSV Essentials Toolkit: Clean up messy CSV exports on your o](https://saasolution.io/tool/csv-essentials-toolkit)；[JPG2Excel: Turn a photo or screenshot of a table into a spre](https://saasolution.io/tool/jpg2excel)；[StatementCSV: Get the transactions from a bank statement PDF](https://saasolution.io/tool/statementcsv)；[Youtranscripts](https://www.clapstorm.com/p/youtranscripts)
+- **claude opus** × 4（3 个目录）：[Coding Agent Index v2.0: Claude Opus 5.5 Leads at 61.7](https://cellcog.ai/blog/artificial-analysis-coding-agent-index)；[Left alone on a desert island, AI agents started playing, an](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing)；[Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter)；[拒绝订阅制！Aethyro用Claude Opus 5打造智能编排助手](https://aisuqp.xyz/news/jujuedingyuezhi-aethyroyongclaude-opus-5dazaozhinengbianpaiz-i2x0)
+- **performance optimization** × 4（2 个目录）：[10Web — AI WordPress website builder](https://aisuggests.ai/tool/10web)；[Scaling NVIDIA TensorRT Performance Optimization Beyond a Si](https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1)；[Scaling NVIDIA TensorRT Performance Optimization Beyond a Si](https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2)；[Smartly.io — AI-powered social advertising automation](https://aisuggests.ai/tool/smartly-io)
+- **educational resource** × 3（3 个目录）：[Real Manifesting](https://realmanifesting.com/)；[Scholarship100 – Global Scholarships and Educational Resourc](https://a2place.com/listing/scholarship100-–-global-scholarships-and-educational-resources-718520)；[Smootables: AI-Powered Academic Planning & Timetabling for S](https://dealmyapp.com/listings/smootables-ai-powered-academic-planning-timetabling-for-schools)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| canopystack.dev | 102 | Other(51)、SaaS(42)、Dev tool(6) |
+| canopystack.dev | 102 | Other(45)、SaaS(38)、Dev tool(5) |
 | aisuggests.ai | 100 | Content Writing(20)、Marketing & Automation(18)、Website & Development(15) |
-| listedstartups.com | 100 | Generative AI(9)、Developer Tools(1)、Manga, Comics, Publishing(1) |
-| thataicollection.com | 84 | application(84) |
+| listedstartups.com | 100 | Analytics, Trading Tools(35)、Generative AI(9)、Health Calculators, Educational Tools(4) |
+| thataicollection.com | 84 | application(82) |
 | openfuture.ai | 75 | ai-tools(75) |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
@@ -100,7 +85,7 @@ AI Agent基础设施与垂直应用、AI视频生成及社交营销自动化正�
 | huludirectory.com | 50 |  |
 | saasolution.io | 50 | Design, Photo & Video(12)、Education & Personal(8)、Finance & Accounting(6) |
 | zearches.com | 50 |  |
-| clapstorm.com | 49 | p(49) |
+| clapstorm.com | 49 | p(40) |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
