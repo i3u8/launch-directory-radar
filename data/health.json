@@ -15,11 +15,11 @@
  "a2place-com": {
   "consecutive_failures": 0,
   "domain": "a2place.com",
-  "elapsed_s": 0.8,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "rss",
-  "last_count": 50,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: 0 entries parsed",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -28,7 +28,7 @@
  "abilogic-com": {
   "consecutive_failures": 0,
   "domain": "abilogic.com",
-  "elapsed_s": 1.2,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -41,7 +41,7 @@
  "agentic-ai": {
   "consecutive_failures": 0,
   "domain": "agentic.ai",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.6,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -54,7 +54,7 @@
  "agents-launch-lovable-app": {
   "consecutive_failures": 0,
   "domain": "agents-launch.lovable.app",
-  "elapsed_s": 1.3,
+  "elapsed_s": 2.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -67,7 +67,7 @@
  "agents-net": {
   "consecutive_failures": 0,
   "domain": "agents.net",
-  "elapsed_s": 14.4,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -93,7 +93,7 @@
  "agentsindex-ai": {
   "consecutive_failures": 0,
   "domain": "agentsindex.ai",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "rss",
   "last_count": 382,
@@ -106,11 +106,11 @@
  "aiagentautomation-site": {
   "consecutive_failures": 0,
   "domain": "aiagentautomation.site",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.1,
   "flagged": false,
   "kind": "sitemap",
-  "last_count": 184,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: sitemap http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -119,7 +119,7 @@
  "aiagentehub-com": {
   "consecutive_failures": 0,
   "domain": "aiagentehub.com",
-  "elapsed_s": 2.4,
+  "elapsed_s": 2.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 164,
@@ -132,7 +132,7 @@
  "aiagentrating-com": {
   "consecutive_failures": 0,
   "domain": "aiagentrating.com",
-  "elapsed_s": 0.8,
+  "elapsed_s": 0.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 326,
@@ -145,7 +145,7 @@
  "aiagents-org": {
   "consecutive_failures": 0,
   "domain": "aiagents.org",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 612,
@@ -158,7 +158,7 @@
  "aiagentsdirectory-com": {
   "consecutive_failures": 0,
   "domain": "aiagentsdirectory.com",
-  "elapsed_s": 2.2,
+  "elapsed_s": 2.1,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -171,7 +171,7 @@
  "aiagentslive-com": {
   "consecutive_failures": 0,
   "domain": "aiagentslive.com",
-  "elapsed_s": 1.8,
+  "elapsed_s": 1.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -184,7 +184,7 @@
  "aiai-tools": {
   "consecutive_failures": 0,
   "domain": "aiai.tools",
-  "elapsed_s": 1.4,
+  "elapsed_s": 1.6,
   "flagged": false,
   "kind": "rss",
   "last_count": 10,
@@ -197,7 +197,7 @@
  "aibrew-io": {
   "consecutive_failures": 0,
   "domain": "aibrew.io",
-  "elapsed_s": 1.5,
+  "elapsed_s": 1.1,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 11,
@@ -210,7 +210,7 @@
  "aicompare-to": {
   "consecutive_failures": 0,
   "domain": "aicompare.to",
-  "elapsed_s": 2.2,
+  "elapsed_s": 1.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 669,
@@ -223,7 +223,7 @@
  "aier-im": {
   "consecutive_failures": 0,
   "domain": "aier.im",
-  "elapsed_s": 0.8,
+  "elapsed_s": 1.1,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -236,7 +236,7 @@
  "aiforme-wiki": {
   "consecutive_failures": 0,
   "domain": "aiforme.wiki",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 63,
@@ -249,7 +249,7 @@
  "aig123-com": {
   "consecutive_failures": 0,
   "domain": "aig123.com",
-  "elapsed_s": 3.0,
+  "elapsed_s": 5.8,
   "flagged": false,
   "kind": "json_api",
   "last_count": 40,
@@ -275,7 +275,7 @@
  "aiimagegenerator-io": {
   "consecutive_failures": 0,
   "domain": "aiimagegenerator.io",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 56,
@@ -288,11 +288,11 @@
  "aiimagetools-io": {
   "consecutive_failures": 0,
   "domain": "aiimagetools.io",
-  "elapsed_s": 0.6,
+  "elapsed_s": 47.3,
   "flagged": false,
   "kind": "sitemap",
-  "last_count": 30,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='aiimagetools.io', port=443): ",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -301,7 +301,7 @@
  "aijuhe-org": {
   "consecutive_failures": 0,
   "domain": "aijuhe.org",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "rss",
   "last_count": 40,
@@ -314,11 +314,11 @@
  "ailibri-com": {
   "consecutive_failures": 0,
   "domain": "ailibri.com",
-  "elapsed_s": 1.5,
+  "elapsed_s": 20.8,
   "flagged": false,
   "kind": "rss",
-  "last_count": 20,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "ConnectionError: HTTPSConnectionPool(host='ailibri.com', port=443): Max retries exceeded with url: /rss (Caused by NewConnectionError(\"HTTPSConnection(host='ailibri.com', port=443): Failed to establis",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -327,7 +327,7 @@
  "aimarketing-directory": {
   "consecutive_failures": 0,
   "domain": "aimarketing.directory",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 60,
@@ -340,11 +340,11 @@
  "aimojo-io": {
   "consecutive_failures": 0,
   "domain": "aimojo.io",
-  "elapsed_s": 2.2,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "json_api",
-  "last_count": 40,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -353,7 +353,7 @@
  "aisotools-com": {
   "consecutive_failures": 0,
   "domain": "aisotools.com",
-  "elapsed_s": 0.7,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -366,7 +366,7 @@
  "aisuggests-ai": {
   "consecutive_failures": 0,
   "domain": "aisuggests.ai",
-  "elapsed_s": 0.7,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "rss",
   "last_count": 100,
@@ -392,7 +392,7 @@
  "aisuqp-xyz": {
   "consecutive_failures": 0,
   "domain": "aisuqp.xyz",
-  "elapsed_s": 2.0,
+  "elapsed_s": 1.3,
   "flagged": false,
   "kind": "rss",
   "last_count": 60,
@@ -405,7 +405,7 @@
  "aitoolboard-com": {
   "consecutive_failures": 0,
   "domain": "aitoolboard.com",
-  "elapsed_s": 1.9,
+  "elapsed_s": 1.3,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -418,7 +418,7 @@
  "aitoolclaw-com": {
   "consecutive_failures": 0,
   "domain": "aitoolclaw.com",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 547,
@@ -431,7 +431,7 @@
  "aitoolly-com": {
   "consecutive_failures": 0,
   "domain": "aitoolly.com",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.6,
   "flagged": false,
   "kind": "json_api",
   "last_count": 50,
@@ -444,7 +444,7 @@
  "aitools-sh": {
   "consecutive_failures": 0,
   "domain": "aitools.sh",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "json_api",
   "last_count": 21,
@@ -457,7 +457,7 @@
  "aitoolsarena-com": {
   "consecutive_failures": 0,
   "domain": "aitoolsarena.com",
-  "elapsed_s": 0.6,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "rss",
   "last_count": 10,
@@ -470,7 +470,7 @@
  "aitoolscapital-com": {
   "consecutive_failures": 0,
   "domain": "aitoolscapital.com",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -483,7 +483,7 @@
  "aitoolsdirectory-com": {
   "consecutive_failures": 0,
   "domain": "aitoolsdirectory.com",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.6,
   "flagged": false,
   "kind": "rss",
   "last_count": 761,
@@ -496,7 +496,7 @@
  "aitoolseekers-com": {
   "consecutive_failures": 0,
   "domain": "aitoolseekers.com",
-  "elapsed_s": 1.0,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -509,7 +509,7 @@
  "aitoolshunt-com": {
   "consecutive_failures": 0,
   "domain": "aitoolshunt.com",
-  "elapsed_s": 1.5,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "json_api",
   "last_count": 3,
@@ -522,7 +522,7 @@
  "aitoolsup-com": {
   "consecutive_failures": 0,
   "domain": "aitoolsup.com",
-  "elapsed_s": 1.3,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "rss",
   "last_count": 10,
@@ -535,7 +535,7 @@
  "altimateguide-com": {
   "consecutive_failures": 0,
   "domain": "altimateguide.com",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 164,
@@ -548,7 +548,7 @@
  "anyfp-com": {
   "consecutive_failures": 0,
   "domain": "anyfp.com",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -561,7 +561,7 @@
  "aoyii-com": {
   "consecutive_failures": 0,
   "domain": "aoyii.com",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -574,11 +574,11 @@
  "apprater-net": {
   "consecutive_failures": 0,
   "domain": "apprater.net",
-  "elapsed_s": 1.6,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "sitemap",
-  "last_count": 300,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: sitemap http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -587,7 +587,7 @@
  "aweblist-org": {
   "consecutive_failures": 0,
   "domain": "aweblist.org",
-  "elapsed_s": 1.4,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -600,7 +600,7 @@
  "awesomeindie-com": {
   "consecutive_failures": 0,
   "domain": "awesomeindie.com",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -613,7 +613,7 @@
  "azn8-com": {
   "consecutive_failures": 0,
   "domain": "azn8.com",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "json_api",
   "last_count": 20,
@@ -626,7 +626,7 @@
  "bestaiagents-ai": {
   "consecutive_failures": 0,
   "domain": "bestaiagents.ai",
-  "elapsed_s": 3.3,
+  "elapsed_s": 1.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 287,
@@ -639,7 +639,7 @@
  "bestaitools-com": {
   "consecutive_failures": 0,
   "domain": "bestaitools.com",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 10,
@@ -652,7 +652,7 @@
  "bestaivideosoftware-com": {
   "consecutive_failures": 0,
   "domain": "bestaivideosoftware.com",
-  "elapsed_s": 0.7,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 74,
@@ -665,7 +665,7 @@
  "bestwebdesigntools-com": {
   "consecutive_failures": 0,
   "domain": "bestwebdesigntools.com",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 383,
@@ -678,11 +678,11 @@
  "blogs-collection-com": {
   "consecutive_failures": 0,
   "domain": "blogs-collection.com",
-  "elapsed_s": 3.3,
+  "elapsed_s": 1.1,
   "flagged": false,
   "kind": "sitemap",
-  "last_count": 822,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "ParseError: mismatched tag: line 93, column 2",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -691,7 +691,7 @@
  "brouseai-com": {
   "consecutive_failures": 0,
   "domain": "brouseai.com",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -704,11 +704,11 @@
  "businessfreedirectory-biz": {
   "consecutive_failures": 0,
   "domain": "businessfreedirectory.biz",
-  "elapsed_s": 0.9,
+  "elapsed_s": 0.6,
   "flagged": false,
   "kind": "sitemap",
-  "last_count": 48,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "ParseError: mismatched tag: line 93, column 2",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -717,11 +717,11 @@
  "canadawebdir-com": {
   "consecutive_failures": 0,
   "domain": "canadawebdir.com",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "html_list",
-  "last_count": 21,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -730,11 +730,11 @@
  "canadiandirectory-org": {
   "consecutive_failures": 0,
   "domain": "canadiandirectory.org",
-  "elapsed_s": 0.7,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "html_list",
-  "last_count": 10,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -743,7 +743,7 @@
  "canopystack-dev": {
   "consecutive_failures": 0,
   "domain": "canopystack.dev",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "json_api",
   "last_count": 500,
@@ -756,11 +756,11 @@
  "catalogo-ia-com": {
   "consecutive_failures": 0,
   "domain": "catalogo-ia.com",
-  "elapsed_s": 1.9,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
-  "last_count": 300,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "ParseError: mismatched tag: line 93, column 2",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -769,7 +769,7 @@
  "chipjourney-com": {
   "consecutive_failures": 0,
   "domain": "chipjourney.com",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 12,
@@ -782,7 +782,7 @@
  "clapstorm-com": {
   "consecutive_failures": 0,
   "domain": "clapstorm.com",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -795,7 +795,7 @@
  "corpus-blog": {
   "consecutive_failures": 0,
   "domain": "corpus.blog",
-  "elapsed_s": 3.3,
+  "elapsed_s": 3.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -808,7 +808,7 @@
  "curlship-com": {
   "consecutive_failures": 0,
   "domain": "curlship.com",
-  "elapsed_s": 1.3,
+  "elapsed_s": 1.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -821,7 +821,7 @@
  "dang-ai": {
   "consecutive_failures": 0,
   "domain": "dang.ai",
-  "elapsed_s": 1.1,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -847,7 +847,7 @@
  "develif-com": {
   "consecutive_failures": 0,
   "domain": "develif.com",
-  "elapsed_s": 0.8,
+  "elapsed_s": 0.9,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -873,11 +873,11 @@
  "directory6-org": {
   "consecutive_failures": 0,
   "domain": "directory6.org",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "rss",
-  "last_count": 50,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: 0 entries parsed",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -886,7 +886,7 @@
  "directoryfire-com": {
   "consecutive_failures": 0,
   "domain": "directoryfire.com",
-  "elapsed_s": 0.8,
+  "elapsed_s": 0.6,
   "flagged": false,
   "kind": "rss",
   "last_count": 20,
@@ -899,7 +899,7 @@
  "discoverly-tech": {
   "consecutive_failures": 0,
   "domain": "discoverly.tech",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 44,
@@ -912,7 +912,7 @@
  "dowseai-com": {
   "consecutive_failures": 0,
   "domain": "dowseai.com",
-  "elapsed_s": 0.6,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 263,
@@ -925,7 +925,7 @@
  "dynamite-ai-com": {
   "consecutive_failures": 0,
   "domain": "dynamite-ai.com",
-  "elapsed_s": 1.2,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -938,7 +938,7 @@
  "earlylaunch-co": {
   "consecutive_failures": 0,
   "domain": "earlylaunch.co",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -951,7 +951,7 @@
  "elf08-com": {
   "consecutive_failures": 0,
   "domain": "elf08.com",
-  "elapsed_s": 0.6,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 10,
@@ -964,7 +964,7 @@
  "entireweb-com": {
   "consecutive_failures": 0,
   "domain": "entireweb.com",
-  "elapsed_s": 3.4,
+  "elapsed_s": 3.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -977,7 +977,7 @@
  "exampledir-com": {
   "consecutive_failures": 0,
   "domain": "exampledir.com",
-  "elapsed_s": 1.4,
+  "elapsed_s": 1.0,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -990,7 +990,7 @@
  "findtools-ai": {
   "consecutive_failures": 0,
   "domain": "findtools.ai",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 977,
@@ -1016,11 +1016,11 @@
  "foundr-ai": {
   "consecutive_failures": 0,
   "domain": "foundr.ai",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.1,
   "flagged": false,
   "kind": "rss",
-  "last_count": 50,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -1029,7 +1029,7 @@
  "freeaitool-ai": {
   "consecutive_failures": 0,
   "domain": "freeaitool.ai",
-  "elapsed_s": 0.8,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 371,
@@ -1042,7 +1042,7 @@
  "futuretools-io": {
   "consecutive_failures": 0,
   "domain": "futuretools.io",
-  "elapsed_s": 1.2,
+  "elapsed_s": 1.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1055,7 +1055,7 @@
  "gateofai-com": {
   "consecutive_failures": 0,
   "domain": "gateofai.com",
-  "elapsed_s": 1.2,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "json_api",
   "last_count": 28,
@@ -1068,7 +1068,7 @@
  "gptbot-io": {
   "consecutive_failures": 0,
   "domain": "gptbot.io",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 123,
@@ -1081,7 +1081,7 @@
  "greenrocket-app": {
   "consecutive_failures": 0,
   "domain": "greenrocket.app",
-  "elapsed_s": 0.9,
+  "elapsed_s": 0.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 60,
@@ -1094,7 +1094,7 @@
  "hotweburls-com": {
   "consecutive_failures": 0,
   "domain": "hotweburls.com",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "html_list",
   "last_count": 15,
@@ -1107,7 +1107,7 @@
  "huludirectory-com": {
   "consecutive_failures": 0,
   "domain": "huludirectory.com",
-  "elapsed_s": 1.0,
+  "elapsed_s": 0.9,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -1120,7 +1120,7 @@
  "humanornot-co": {
   "consecutive_failures": 0,
   "domain": "humanornot.co",
-  "elapsed_s": 0.9,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 221,
@@ -1133,7 +1133,7 @@
  "hyzenpro-com": {
   "consecutive_failures": 0,
   "domain": "hyzenpro.com",
-  "elapsed_s": 2.7,
+  "elapsed_s": 1.7,
   "flagged": false,
   "kind": "json_api",
   "last_count": 219,
@@ -1159,7 +1159,7 @@
  "indieindex-xyz": {
   "consecutive_failures": 0,
   "domain": "indieindex.xyz",
-  "elapsed_s": 1.3,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "rss",
   "last_count": 319,
@@ -1172,7 +1172,7 @@
  "infrabase-ai": {
   "consecutive_failures": 0,
   "domain": "infrabase.ai",
-  "elapsed_s": 1.4,
+  "elapsed_s": 1.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 92,
@@ -1185,7 +1185,7 @@
  "iuu-ai": {
   "consecutive_failures": 0,
   "domain": "iuu.ai",
-  "elapsed_s": 1.6,
+  "elapsed_s": 2.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1198,7 +1198,7 @@
  "joinly-xyz": {
   "consecutive_failures": 0,
   "domain": "joinly.xyz",
-  "elapsed_s": 2.3,
+  "elapsed_s": 1.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1211,7 +1211,7 @@
  "justbuildapps-com": {
   "consecutive_failures": 0,
   "domain": "justbuildapps.com",
-  "elapsed_s": 0.9,
+  "elapsed_s": 1.4,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1224,7 +1224,7 @@
  "land-book-com": {
   "consecutive_failures": 0,
   "domain": "land-book.com",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -1237,7 +1237,7 @@
  "launch-ignlab-net": {
   "consecutive_failures": 0,
   "domain": "launch.ignlab.net",
-  "elapsed_s": 1.1,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "json_api",
   "last_count": 30,
@@ -1250,7 +1250,7 @@
  "launchfree-io": {
   "consecutive_failures": 0,
   "domain": "launchfree.io",
-  "elapsed_s": 0.9,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1263,11 +1263,11 @@
  "launchingnext-com": {
   "consecutive_failures": 0,
   "domain": "launchingnext.com",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "rss",
-  "last_count": 15,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -1276,7 +1276,7 @@
  "launchranked-com": {
   "consecutive_failures": 0,
   "domain": "launchranked.com",
-  "elapsed_s": 1.5,
+  "elapsed_s": 1.9,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 130,
@@ -1289,7 +1289,7 @@
  "launchsignal-ai": {
   "consecutive_failures": 0,
   "domain": "launchsignal.ai",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 100,
@@ -1302,7 +1302,7 @@
  "linki-hu": {
   "consecutive_failures": 0,
   "domain": "linki.hu",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 47,
@@ -1328,7 +1328,7 @@
  "listai-cc": {
   "consecutive_failures": 0,
   "domain": "listai.cc",
-  "elapsed_s": 0.8,
+  "elapsed_s": 0.9,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1341,7 +1341,7 @@
  "listedstartups-com": {
   "consecutive_failures": 0,
   "domain": "listedstartups.com",
-  "elapsed_s": 4.5,
+  "elapsed_s": 4.8,
   "flagged": false,
   "kind": "json_api",
   "last_count": 100,
@@ -1354,7 +1354,7 @@
  "llmrelevance-com": {
   "consecutive_failures": 0,
   "domain": "llmrelevance.com",
-  "elapsed_s": 0.6,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1367,7 +1367,7 @@
  "llmslist-com": {
   "consecutive_failures": 0,
   "domain": "llmslist.com",
-  "elapsed_s": 1.4,
+  "elapsed_s": 1.1,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 185,
@@ -1380,7 +1380,7 @@
  "lpdl-org": {
   "consecutive_failures": 0,
   "domain": "lpdl.org",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "html_list",
   "last_count": 21,
@@ -1393,7 +1393,7 @@
  "madewithstack-com": {
   "consecutive_failures": 0,
   "domain": "madewithstack.com",
-  "elapsed_s": 4.5,
+  "elapsed_s": 1.8,
   "flagged": false,
   "kind": "json_api",
   "last_count": 24,
@@ -1406,7 +1406,7 @@
  "marketinginternetdirectory-com": {
   "consecutive_failures": 0,
   "domain": "marketinginternetdirectory.com",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "html_list",
   "last_count": 21,
@@ -1419,7 +1419,7 @@
  "meweblink-com": {
   "consecutive_failures": 0,
   "domain": "meweblink.com",
-  "elapsed_s": 0.7,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 11,
@@ -1432,7 +1432,7 @@
  "my2077-com": {
   "consecutive_failures": 0,
   "domain": "my2077.com",
-  "elapsed_s": 1.0,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "json_api",
   "last_count": 8,
@@ -1445,7 +1445,7 @@
  "navs-site": {
   "consecutive_failures": 0,
   "domain": "navs.site",
-  "elapsed_s": 0.9,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1458,7 +1458,7 @@
  "neuron-co-uk": {
   "consecutive_failures": 0,
   "domain": "neuron.co.uk",
-  "elapsed_s": 1.5,
+  "elapsed_s": 1.0,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 72,
@@ -1471,7 +1471,7 @@
  "news-bensbites-com": {
   "consecutive_failures": 0,
   "domain": "news.bensbites.com",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "rss",
   "last_count": 20,
@@ -1484,7 +1484,7 @@
  "nextool-ai": {
   "consecutive_failures": 0,
   "domain": "nextool.ai",
-  "elapsed_s": 2.0,
+  "elapsed_s": 1.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -1497,11 +1497,11 @@
  "nextweekai-com": {
   "consecutive_failures": 0,
   "domain": "nextweekai.com",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "sitemap",
-  "last_count": 83,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: sitemap http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -1510,7 +1510,7 @@
  "nocodelib-com": {
   "consecutive_failures": 0,
   "domain": "nocodelib.com",
-  "elapsed_s": 0.9,
+  "elapsed_s": 1.0,
   "flagged": false,
   "kind": "json_api",
   "last_count": 84,
@@ -1523,7 +1523,7 @@
  "nothumansearch-ai": {
   "consecutive_failures": 0,
   "domain": "nothumansearch.ai",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -1536,7 +1536,7 @@
  "novatools-ai": {
   "consecutive_failures": 0,
   "domain": "novatools.ai",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "html_list",
   "last_count": 86,
@@ -1549,7 +1549,7 @@
  "onemilliondirectory-com": {
   "consecutive_failures": 0,
   "domain": "onemilliondirectory.com",
-  "elapsed_s": 1.1,
+  "elapsed_s": 2.8,
   "flagged": false,
   "kind": "rss",
   "last_count": 30,
@@ -1562,7 +1562,7 @@
  "openfuture-ai": {
   "consecutive_failures": 0,
   "domain": "openfuture.ai",
-  "elapsed_s": 1.2,
+  "elapsed_s": 1.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 75,
@@ -1575,7 +1575,7 @@
  "peerpush-com": {
   "consecutive_failures": 0,
   "domain": "peerpush.com",
-  "elapsed_s": 3.2,
+  "elapsed_s": 3.9,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1588,7 +1588,7 @@
  "peplio-com": {
   "consecutive_failures": 0,
   "domain": "peplio.com",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 10,
@@ -1601,11 +1601,11 @@
  "phototoolfinder-com": {
   "consecutive_failures": 0,
   "domain": "phototoolfinder.com",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "sitemap",
-  "last_count": 405,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: sitemap http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -1614,7 +1614,7 @@
  "pickapps-org": {
   "consecutive_failures": 0,
   "domain": "pickapps.org",
-  "elapsed_s": 2.4,
+  "elapsed_s": 2.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 204,
@@ -1627,7 +1627,7 @@
  "pitchwall-co": {
   "consecutive_failures": 0,
   "domain": "pitchwall.co",
-  "elapsed_s": 0.8,
+  "elapsed_s": 1.3,
   "flagged": false,
   "kind": "atom",
   "last_count": 30,
@@ -1640,7 +1640,7 @@
  "planet-ai-net": {
   "consecutive_failures": 0,
   "domain": "planet-ai.net",
-  "elapsed_s": 1.0,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -1653,7 +1653,7 @@
  "playlin-io": {
   "consecutive_failures": 0,
   "domain": "playlin.io",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 1000,
@@ -1666,7 +1666,7 @@
  "populardirectory-biz": {
   "consecutive_failures": 0,
   "domain": "populardirectory.biz",
-  "elapsed_s": 0.9,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -1679,7 +1679,7 @@
  "postlaunchkit-com": {
   "consecutive_failures": 0,
   "domain": "postlaunchkit.com",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "atom",
   "last_count": 50,
@@ -1692,7 +1692,7 @@
  "powerfulwebsites-io": {
   "consecutive_failures": 0,
   "domain": "powerfulwebsites.io",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1705,7 +1705,7 @@
  "promotebusinessdirectory-com": {
   "consecutive_failures": 0,
   "domain": "promotebusinessdirectory.com",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "html_list",
   "last_count": 21,
@@ -1718,7 +1718,7 @@
  "promoteindex-com": {
   "consecutive_failures": 0,
   "domain": "promoteindex.com",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "json_api",
   "last_count": 10,
@@ -1731,7 +1731,7 @@
  "pwa-directory": {
   "consecutive_failures": 0,
   "domain": "pwa.directory",
-  "elapsed_s": 0.7,
+  "elapsed_s": 0.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1757,7 +1757,7 @@
  "rankmyai-com": {
   "consecutive_failures": 0,
   "domain": "rankmyai.com",
-  "elapsed_s": 1.1,
+  "elapsed_s": 1.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1783,7 +1783,7 @@
  "royallinkup-com": {
   "consecutive_failures": 0,
   "domain": "royallinkup.com",
-  "elapsed_s": 0.9,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "rss",
   "last_count": 20,
@@ -1796,7 +1796,7 @@
  "saasdealer-com": {
   "consecutive_failures": 0,
   "domain": "saasdealer.com",
-  "elapsed_s": 1.1,
+  "elapsed_s": 0.9,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 277,
@@ -1809,7 +1809,7 @@
  "saasolution-io": {
   "consecutive_failures": 0,
   "domain": "saasolution.io",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -1822,7 +1822,7 @@
  "saaspirate-com": {
   "consecutive_failures": 0,
   "domain": "saaspirate.com",
-  "elapsed_s": 1.3,
+  "elapsed_s": 1.5,
   "flagged": false,
   "kind": "json_api",
   "last_count": 40,
@@ -1835,7 +1835,7 @@
  "saasworthy-com": {
   "consecutive_failures": 0,
   "domain": "saasworthy.com",
-  "elapsed_s": 1.0,
+  "elapsed_s": 2.0,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 1000,
@@ -1848,7 +1848,7 @@
  "seooptimizationdirectory-com": {
   "consecutive_failures": 0,
   "domain": "seooptimizationdirectory.com",
-  "elapsed_s": 1.3,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 47,
@@ -1861,7 +1861,7 @@
  "shipboard-live": {
   "consecutive_failures": 0,
   "domain": "shipboard.live",
-  "elapsed_s": 1.1,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 404,
@@ -1874,7 +1874,7 @@
  "sideprojects-net": {
   "consecutive_failures": 0,
   "domain": "sideprojects.net",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 1000,
@@ -1890,8 +1890,8 @@
   "elapsed_s": 0.1,
   "flagged": false,
   "kind": "html_list",
-  "last_count": 77,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -1900,7 +1900,7 @@
  "siteswebdirectory-com": {
   "consecutive_failures": 0,
   "domain": "siteswebdirectory.com",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "html_list",
   "last_count": 12,
@@ -1913,7 +1913,7 @@
  "softwareworld-co": {
   "consecutive_failures": 0,
   "domain": "softwareworld.co",
-  "elapsed_s": 3.6,
+  "elapsed_s": 5.0,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1926,11 +1926,11 @@
  "startfa-st": {
   "consecutive_failures": 0,
   "domain": "startfa.st",
-  "elapsed_s": 0.6,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "rss",
-  "last_count": 50,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -1939,7 +1939,7 @@
  "startup88-com": {
   "consecutive_failures": 0,
   "domain": "startup88.com",
-  "elapsed_s": 1.0,
+  "elapsed_s": 1.6,
   "flagged": false,
   "kind": "rss",
   "last_count": 100,
@@ -1952,7 +1952,7 @@
  "startupaitools-com": {
   "consecutive_failures": 0,
   "domain": "startupaitools.com",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "rss",
   "last_count": 10,
@@ -1978,7 +1978,7 @@
  "startups-fyi": {
   "consecutive_failures": 0,
   "domain": "startups.fyi",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -1991,7 +1991,7 @@
  "startups-snapmunk-com": {
   "consecutive_failures": 0,
   "domain": "startups.snapmunk.com",
-  "elapsed_s": 3.6,
+  "elapsed_s": 3.7,
   "flagged": false,
   "kind": "rss",
   "last_count": 100,
@@ -2004,7 +2004,7 @@
  "stork-ai": {
   "consecutive_failures": 0,
   "domain": "stork.ai",
-  "elapsed_s": 2.0,
+  "elapsed_s": 2.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2017,7 +2017,7 @@
  "submissionwebdirectory-com": {
   "consecutive_failures": 0,
   "domain": "submissionwebdirectory.com",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "html_list",
   "last_count": 25,
@@ -2030,7 +2030,7 @@
  "superlaunch-in": {
   "consecutive_failures": 0,
   "domain": "superlaunch.in",
-  "elapsed_s": 1.9,
+  "elapsed_s": 1.4,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 88,
@@ -2043,7 +2043,7 @@
  "tagshub-com": {
   "consecutive_failures": 1,
   "domain": "tagshub.com",
-  "elapsed_s": 0.3,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "rss",
   "last_count": 0,
@@ -2056,7 +2056,7 @@
  "tap4-ai": {
   "consecutive_failures": 0,
   "domain": "tap4.ai",
-  "elapsed_s": 5.2,
+  "elapsed_s": 5.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 1000,
@@ -2069,7 +2069,7 @@
  "techtools-cz": {
   "consecutive_failures": 0,
   "domain": "techtools.cz",
-  "elapsed_s": 1.0,
+  "elapsed_s": 0.9,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 79,
@@ -2082,7 +2082,7 @@
  "thataicollection-com": {
   "consecutive_failures": 0,
   "domain": "thataicollection.com",
-  "elapsed_s": 2.0,
+  "elapsed_s": 2.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2095,7 +2095,7 @@
  "the-ai-toolhub-lovable-app": {
   "consecutive_failures": 0,
   "domain": "the-ai-toolhub.lovable.app",
-  "elapsed_s": 1.5,
+  "elapsed_s": 1.6,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 30,
@@ -2108,7 +2108,7 @@
  "theagentbenchmark-com": {
   "consecutive_failures": 0,
   "domain": "theagentbenchmark.com",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2121,7 +2121,7 @@
  "thehackstack-com": {
   "consecutive_failures": 0,
   "domain": "thehackstack.com",
-  "elapsed_s": 1.4,
+  "elapsed_s": 1.3,
   "flagged": false,
   "kind": "html_list",
   "last_count": 51,
@@ -2134,7 +2134,7 @@
  "thenextaitool-com": {
   "consecutive_failures": 0,
   "domain": "thenextaitool.com",
-  "elapsed_s": 0.1,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 594,
@@ -2147,7 +2147,7 @@
  "thequestion-it": {
   "consecutive_failures": 0,
   "domain": "thequestion.it",
-  "elapsed_s": 2.5,
+  "elapsed_s": 2.2,
   "flagged": false,
   "kind": "rss",
   "last_count": 10,
@@ -2160,7 +2160,7 @@
  "thewebisfree-com": {
   "consecutive_failures": 0,
   "domain": "thewebisfree.com",
-  "elapsed_s": 4.0,
+  "elapsed_s": 1.3,
   "flagged": false,
   "kind": "json_api",
   "last_count": 40,
@@ -2173,7 +2173,7 @@
  "tipseason-com": {
   "consecutive_failures": 0,
   "domain": "tipseason.com",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2186,7 +2186,7 @@
  "toolgrep-com": {
   "consecutive_failures": 0,
   "domain": "toolgrep.com",
-  "elapsed_s": 0.6,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "json_api",
   "last_count": 20,
@@ -2199,7 +2199,7 @@
  "toolmaticai-com": {
   "consecutive_failures": 1,
   "domain": "toolmaticai.com",
-  "elapsed_s": 1.1,
+  "elapsed_s": 1.0,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 0,
@@ -2212,7 +2212,7 @@
  "toolpilot-ai": {
   "consecutive_failures": 0,
   "domain": "toolpilot.ai",
-  "elapsed_s": 0.9,
+  "elapsed_s": 4.9,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2225,7 +2225,7 @@
  "tools-landin-page": {
   "consecutive_failures": 0,
   "domain": "tools.landin.page",
-  "elapsed_s": 1.0,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2238,7 +2238,7 @@
  "tools-robingood-com": {
   "consecutive_failures": 0,
   "domain": "tools.robingood.com",
-  "elapsed_s": 1.1,
+  "elapsed_s": 1.0,
   "flagged": false,
   "kind": "atom",
   "last_count": 30,
@@ -2251,7 +2251,7 @@
  "toolsfine-com": {
   "consecutive_failures": 0,
   "domain": "toolsfine.com",
-  "elapsed_s": 6.1,
+  "elapsed_s": 5.4,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 71,
@@ -2264,7 +2264,7 @@
  "toools-design": {
   "consecutive_failures": 0,
   "domain": "toools.design",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 31,
@@ -2290,7 +2290,7 @@
  "totool-cc": {
   "consecutive_failures": 0,
   "domain": "totool.cc",
-  "elapsed_s": 0.9,
+  "elapsed_s": 1.6,
   "flagged": false,
   "kind": "json_api",
   "last_count": 20,
@@ -2303,11 +2303,11 @@
  "trillionagent-com": {
   "consecutive_failures": 0,
   "domain": "trillionagent.com",
-  "elapsed_s": 0.6,
+  "elapsed_s": 0.2,
   "flagged": false,
   "kind": "sitemap",
-  "last_count": 300,
-  "last_error": null,
+  "last_count": 0,
+  "last_error": "RuntimeError: sitemap http 403",
   "last_ok": "2026-10-24",
   "last_run": "2026-10-24",
   "seeded": true,
@@ -2316,7 +2316,7 @@
  "truewebdirectory-com": {
   "consecutive_failures": 0,
   "domain": "truewebdirectory.com",
-  "elapsed_s": 0.4,
+  "elapsed_s": 0.7,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 1000,
@@ -2329,7 +2329,7 @@
  "uneed-best": {
   "consecutive_failures": 0,
   "domain": "uneed.best",
-  "elapsed_s": 0.7,
+  "elapsed_s": 3.2,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2342,7 +2342,7 @@
  "usalistingdirectory-com": {
   "consecutive_failures": 0,
   "domain": "usalistingdirectory.com",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "html_list",
   "last_count": 25,
@@ -2355,7 +2355,7 @@
  "usefuturestack-com": {
   "consecutive_failures": 0,
   "domain": "usefuturestack.com",
-  "elapsed_s": 0.5,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "json_api",
   "last_count": 12,
@@ -2368,7 +2368,7 @@
  "verzeichnis4you-de": {
   "consecutive_failures": 0,
   "domain": "verzeichnis4you.de",
-  "elapsed_s": 1.9,
+  "elapsed_s": 1.3,
   "flagged": false,
   "kind": "rss",
   "last_count": 6,
@@ -2394,7 +2394,7 @@
  "viesearch-com": {
   "consecutive_failures": 0,
   "domain": "viesearch.com",
-  "elapsed_s": 1.3,
+  "elapsed_s": 0.5,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2407,7 +2407,7 @@
  "webapps-directory": {
   "consecutive_failures": 0,
   "domain": "webapps.directory",
-  "elapsed_s": 0.8,
+  "elapsed_s": 1.1,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2420,7 +2420,7 @@
  "webdirectory-top": {
   "consecutive_failures": 0,
   "domain": "webdirectory.top",
-  "elapsed_s": 0.6,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 1000,
@@ -2433,7 +2433,7 @@
  "webgora-com": {
   "consecutive_failures": 0,
   "domain": "webgora.com",
-  "elapsed_s": 0.7,
+  "elapsed_s": 1.0,
   "flagged": false,
   "kind": "json_api",
   "last_count": 20,
@@ -2446,7 +2446,7 @@
  "webinhalt-de": {
   "consecutive_failures": 0,
   "domain": "webinhalt.de",
-  "elapsed_s": 2.1,
+  "elapsed_s": 2.9,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2459,7 +2459,7 @@
  "webrankdirectory-org": {
   "consecutive_failures": 0,
   "domain": "webrankdirectory.org",
-  "elapsed_s": 0.7,
+  "elapsed_s": 0.8,
   "flagged": false,
   "kind": "json_api",
   "last_count": 20,
@@ -2472,7 +2472,7 @@
  "whatareyoubuilding-ai": {
   "consecutive_failures": 0,
   "domain": "whatareyoubuilding.ai",
-  "elapsed_s": 0.6,
+  "elapsed_s": 1.4,
   "flagged": false,
   "kind": "json_api",
   "last_count": 25,
@@ -2485,7 +2485,7 @@
  "whattheai-tech": {
   "consecutive_failures": 0,
   "domain": "whattheai.tech",
-  "elapsed_s": 1.6,
+  "elapsed_s": 2.0,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2498,7 +2498,7 @@
  "worthtotry-com": {
   "consecutive_failures": 0,
   "domain": "worthtotry.com",
-  "elapsed_s": 0.8,
+  "elapsed_s": 0.4,
   "flagged": false,
   "kind": "json_api",
   "last_count": 10,
@@ -2511,7 +2511,7 @@
  "yo-directory": {
   "consecutive_failures": 0,
   "domain": "yo.directory",
-  "elapsed_s": 0.6,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 300,
@@ -2524,7 +2524,7 @@
  "youtools-ai": {
   "consecutive_failures": 0,
   "domain": "youtools.ai",
-  "elapsed_s": 0.2,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "sitemap",
   "last_count": 92,
@@ -2537,7 +2537,7 @@
  "zearches-com": {
   "consecutive_failures": 0,
   "domain": "zearches.com",
-  "elapsed_s": 0.7,
+  "elapsed_s": 0.3,
   "flagged": false,
   "kind": "rss",
   "last_count": 50,
@@ -2550,7 +2550,7 @@
  "zoipi-com": {
   "consecutive_failures": 0,
   "domain": "zoipi.com",
-  "elapsed_s": 1.5,
+  "elapsed_s": 1.8,
   "flagged": false,
   "kind": "json_api",
   "last_count": 50,
