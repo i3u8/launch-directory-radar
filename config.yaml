@@ -1,0 +1,12 @@
+# Our own sites (public domains). Used to flag "our site is visible on directory X" vs. other products.
+our_domains:
+  - aithrillerdance.com
+  - deepseek-agent.com
+  - explainervideogenerator.com
+  - floatboat.ai
+  - fogsight.ai
+  - openfront.fyi
+  - redreamality.com
+  - roasbreak.com
+  - wallpapermakerai.com
+  - youlooklonely.com

@@ -1,0 +1,164 @@
+{
+ "date": "2026-10-24",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 195,
+ "sources_failed": 2,
+ "failed_ids": [
+  "tagshub-com",
+  "toolmaticai-com"
+ ],
+ "flagged_ids": [],
+ "new_today": 1395,
+ "new_today_unique": 1277,
+ "ai_share_today": 0.4,
+ "ai_share_30d": 0.33,
+ "top_terms": [
+  [
+   "video",
+   125,
+   true
+  ],
+  [
+   "image",
+   86,
+   true
+  ],
+  [
+   "photo",
+   80,
+   true
+  ],
+  [
+   "agent",
+   78,
+   false
+  ],
+  [
+   "browser",
+   73,
+   true
+  ],
+  [
+   "text",
+   67,
+   true
+  ],
+  [
+   "content",
+   64,
+   true
+  ],
+  [
+   "design",
+   63,
+   true
+  ],
+  [
+   "saas",
+   61,
+   false
+  ],
+  [
+   "marketing",
+   49,
+   true
+  ]
+ ],
+ "top_bigrams": [
+  [
+   "ai agent",
+   34
+  ],
+  [
+   "ai video",
+   27
+  ],
+  [
+   "social media",
+   19
+  ],
+  [
+   "ai image",
+   18
+  ],
+  [
+   "ai writing",
+   16
+  ],
+  [
+   "generative ai",
+   13
+  ],
+  [
+   "ai content",
+   12
+  ],
+  [
+   "text prompt",
+   10
+  ],
+  [
+   "ai model",
+   9
+  ],
+  [
+   "content creation",
+   9
+  ]
+ ],
+ "rising": [
+  [
+   "suggest",
+   9,
+   113.5
+  ],
+  [
+   "fees",
+   8,
+   100.9
+  ],
+  [
+   "particularly",
+   8,
+   100.9
+  ],
+  [
+   "enhance",
+   16,
+   67.3
+  ],
+  [
+   "understanding",
+   22,
+   55.5
+  ],
+  [
+   "driving",
+   7,
+   88.3
+  ],
+  [
+   "framecomet",
+   7,
+   88.3
+  ],
+  [
+   "known",
+   7,
+   88.3
+  ]
+ ],
+ "signals": [
+  "同日聚类「ai agent」34 个产品：AI Agents Listing、Sandbox0、AI agent tools that let you take your data out",
+  "同日聚类「ai video」27 个产品：Kling 4.0、Lobbee Hotel Lobby Ai Video Generator、Synthesia",
+  "同日聚类「marketing automation」19 个产品：HubSpot AI — CRM + AI marketing suite for all sizes、Marketo Engage — Enterprise account-based marketing automation、ActiveCampaign — Email + CRM + sales automation platform",
+  "我们的站点上线：youlooklonely.com @ canopystack.dev",
+  "跨目录同时出现：aiburningbridges.co（3 个目录）",
+  "跨目录同时出现：blog.google（3 个目录）",
+  "升温词「car trend」今日 8 条（近30天首次出现）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-10-24.md",
+ "digest": "今日数据显示，AI Agent基础设施（如沙箱环境、MCP目录）与AI视频生成（含Kling 4.0等）显著升温，同时AI销售自动化（SDR）需求强劲。独立开发者应聚焦构建Agent底层工具或垂直领域的视频/销售自动化应用，以切入高增长赛道。"
+}

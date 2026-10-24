@@ -1,0 +1,29 @@
+# Manual decisions applied on top of automatic screening (kept across re-screens).
+dev.to:               {enabled: false, reason: not_a_directory, notes: "general developer blog feed, not a launch/listing directory"}
+note.com:             {enabled: false, reason: not_a_directory, notes: "general blogging platform feed"}
+qiita.com:            {enabled: false, reason: not_a_directory, notes: "popular-articles feed, not listings"}
+inc42.com:            {enabled: false, reason: not_a_directory, notes: "news site feed"}
+fmhy.net:             {enabled: false, reason: not_a_directory, notes: "wiki change feed"}
+hackernews.com:       {enabled: false, reason: not_a_directory, notes: "redirects to news.ycombinator.com/newest (stories, not listings)"}
+business-software.com: {enabled: false, reason: false_positive, notes: "html pattern matched video/blog pages"}
+akama.com:            {enabled: false, reason: false_positive, notes: "html pattern matched geo category page"}
+a-zbusinessfinder.com: {enabled: false, reason: false_positive, notes: "regional business category page, not a latest list"}
+247webdirectory.com:  {enabled: false, reason: false_positive, notes: "regional category page, not a latest list"}
+blogarama.com:        {enabled: false, reason: false_positive, notes: "category page of blogs, not latest list"}
+saasbrowser.com:      {enabled: false, reason: false_positive, notes: "news-style page"}
+ainewsbase.com:       {enabled: false, reason: not_a_directory, notes: "news feed"}
+iaboxtool.es:         {enabled: false, reason: false_positive, notes: "comments feed"}
+snapmunk.com:         {enabled: false, reason: false_positive, notes: "comments feed (startups.snapmunk.com has its own enabled source)"}
+mediafiredirectlink.com: {enabled: false, reason: not_a_directory, notes: "unclear feed content"}
+addonbiz.com:         {enabled: false, reason: not_a_directory, notes: "job-listings post type"}
+rssamplifier.com:     {enabled: false, reason: not_a_directory, notes: "API lists the vendor's own feeds, not directory listings"}
+morefunz.com:         {enabled: false, reason: false_positive, notes: "page list, not listings"}
+alivelinks.org:       {enabled: false, reason: false_positive, notes: "html page is a category navigation menu"}
+fat64.net:            {enabled: false, reason: false_positive, notes: "html page is a category navigation menu"}
+allbusinessdirectory.biz: {enabled: false, reason: false_positive, notes: "html page links are site navigation, not listings"}
+businessseek.biz:     {enabled: false, reason: false_positive, notes: "html page links are site navigation, not listings"}
+directory.ldmstudio.com: {enabled: false, reason: false_positive, notes: "html page links are category navigation"}
+offpagesavvy.com:     {enabled: false, reason: false_positive, notes: "bookmarking-site roundup article, not a listing feed"}
+okay.directory:       {enabled: false, reason: false_positive, notes: "sponsored/top-pick blocks, no stable listing structure"}
+saashub.com:          {enabled: false, reason: false_positive, notes: "html page lists comparison headlines, not products"}
+aitoolnet.com:        {enabled: false, reason: false_positive, notes: "anchor text is a raw URL, name extraction unreliable"}
