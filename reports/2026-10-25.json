@@ -1,0 +1,688 @@
+{
+ "date": "2026-10-25",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 182,
+ "sources_failed": 15,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "aimojo-io",
+  "madewithstack-com",
+  "promoteindex-com",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [],
+ "new_today": 1436,
+ "new_today_unique": 1283,
+ "ai_share_today": 0.26,
+ "ai_share_30d": 0.34,
+ "niche_terms": [
+  {
+   "term": "hosted mcp server",
+   "count": 4,
+   "sources": 4,
+   "ratio": 55.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "HyperGSC",
+     "url": "https://dealmyapp.com/listings/hypergsc"
+    },
+    {
+     "name": "Google Search Console MCP for your AI | HyperGSC — score 75/",
+     "url": "https://nothumansearch.ai/site/hypergsc.com"
+    },
+    {
+     "name": "Surfer",
+     "url": "https://agentsindex.ai/surfer-seo"
+    }
+   ]
+  },
+  {
+   "term": "connect google search",
+   "count": 3,
+   "sources": 3,
+   "ratio": 41.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "HyperGSC",
+     "url": "https://dealmyapp.com/listings/hypergsc"
+    },
+    {
+     "name": "HyperGSC: Ask your AI chat app why search traffic changed, u",
+     "url": "https://saasolution.io/tool/hypergsc"
+    },
+    {
+     "name": "Google Search Console MCP for your AI | HyperGSC — score 75/",
+     "url": "https://nothumansearch.ai/site/hypergsc.com"
+    }
+   ]
+  },
+  {
+   "term": "ai metadata cleaner",
+   "count": 3,
+   "sources": 2,
+   "ratio": 41.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Metadata Cleaner — Free EXIF, GPS & C2PA Metadata Remover",
+     "url": "https://a2place.com/listing/ai-metadata-cleaner-—-free-exif-gps-and-c2pa-metadata-remover-718542"
+    },
+    {
+     "name": "AI Metadata Cleaner",
+     "url": "https://a2place.com/listing/ai-metadata-cleaner-718543"
+    },
+    {
+     "name": "AI Metadata Cleaner Free in-browser EXIF, GPS & C2PA metadat",
+     "url": "https://thehackstack.com/s/aimetadatacleaner"
+    }
+   ]
+  },
+  {
+   "term": "claude chatgpt codex",
+   "count": 3,
+   "sources": 2,
+   "ratio": 41.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "HyperGSC: Ask your AI chat app why search traffic changed, u",
+     "url": "https://saasolution.io/tool/hypergsc"
+    },
+    {
+     "name": "Tokenrip — The shared workspace your AI agents work from — s",
+     "url": "https://nothumansearch.ai/site/tokenrip.com"
+    },
+    {
+     "name": "Google Search Console MCP for your AI | HyperGSC — score 75/",
+     "url": "https://nothumansearch.ai/site/hypergsc.com"
+    }
+   ]
+  },
+  {
+   "term": "map pbr texture",
+   "count": 3,
+   "sources": 2,
+   "ratio": 41.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "NormalMapAI — Free Online Normal Map & PBR Texture Generator",
+     "url": "https://a2place.com/listing/normalmapai-—-free-online-normal-map-and-pbr-texture-generator-718537"
+    },
+    {
+     "name": "NormalMapAI: In-Browser PBR Texture & Normal Map Maker",
+     "url": "https://a2place.com/listing/normalmapai-in-browser-pbr-texture-and-normal-map-maker-718539"
+    },
+    {
+     "name": "NormalMapAI Free online Normal Map & PBR Texture Generator 💬",
+     "url": "https://thehackstack.com/s/normalmapai"
+    }
+   ]
+  },
+  {
+   "term": "food beverage",
+   "count": 5,
+   "sources": 2,
+   "ratio": 69.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Harikrushna Machines Pvt. Ltd.",
+     "url": "https://harikrushna.com/"
+    },
+    {
+     "name": "Come Again Foods",
+     "url": "https://comeagainfoods.com/"
+    },
+    {
+     "name": "IndiaRestros API and MCP server",
+     "url": "https://indiarestros.com/for-agents"
+    }
+   ]
+  },
+  {
+   "term": "legal tech",
+   "count": 4,
+   "sources": 2,
+   "ratio": 55.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "JurisGrid legal tech grid",
+     "url": "https://jurisgrid.com/"
+    },
+    {
+     "name": "JurisGrid (jurisgrid.com)",
+     "url": "https://jurisgrid.com/"
+    },
+    {
+     "name": "eCourtsIndia API and MCP server",
+     "url": "https://ecourtsindia.com/api/mcp"
+    }
+   ]
+  },
+  {
+   "term": "data infrastructure",
+   "count": 4,
+   "sources": 2,
+   "ratio": 55.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Zenrows",
+     "url": "https://zenrows.com/"
+    },
+    {
+     "name": "HeyVoli",
+     "url": "https://heyvoli.com/"
+    },
+    {
+     "name": "Dataline Data",
+     "url": "https://dataline.xyz/data"
+    }
+   ]
+  },
+  {
+   "term": "soft designer",
+   "count": 4,
+   "sources": 3,
+   "ratio": 55.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Andon light tower",
+     "url": "https://exampledir.com/listing/andon-light-tower-313138"
+    },
+    {
+     "name": "Digital andon for shopfloor",
+     "url": "https://aweblist.org/listing/digital-andon-for-shopfloor-970578"
+    },
+    {
+     "name": "Digital standard work instructions",
+     "url": "https://exampledir.com/listing/digital-standard-work-instructions-313133"
+    }
+   ]
+  },
+  {
+   "term": "vaughan ontario",
+   "count": 4,
+   "sources": 4,
+   "ratio": 55.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "EluxAI | Agentic AI & Automation Agents for Business",
+     "url": "https://aweblist.org/listing/eluxai-agentic-ai-and-automation-agents-for-business-970585"
+    },
+    {
+     "name": "EluxAI: Agentic AI Solutions in Vaughan, Ontario",
+     "url": "https://huludirectory.com/listing/eluxai-agentic-ai-solutions-in-vaughan-ontario-2259927"
+    },
+    {
+     "name": "EluxAI Builds Smart AI Agents That Handle Daily Work",
+     "url": "https://directory6.org/listing/eluxai-builds-smart-ai-agents-that-handle-daily-work-719731"
+    }
+   ]
+  },
+  {
+   "term": "ai note taker",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "UMEVO",
+     "url": "https://umevo.ai/"
+    },
+    {
+     "name": "Kimiko",
+     "url": "https://kimiko.app/"
+    }
+   ]
+  },
+  {
+   "term": "coding agent session",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "CCC",
+     "url": "https://postlaunchkit.com/directory/ccc"
+    },
+    {
+     "name": "Agenttrace",
+     "url": "https://nextool.ai/tools/agenttrace"
+    }
+   ]
+  },
+  {
+   "term": "face recognition api",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "SightRadar",
+     "url": "https://dealmyapp.com/listings/sightradar"
+    },
+    {
+     "name": "SightRadar Face recognition API, Rekognition-compatible, pay",
+     "url": "https://thehackstack.com/s/sightradar"
+    }
+   ]
+  },
+  {
+   "term": "reduce background noise",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "SoundClean: Take the wind, hum and fan noise out of a record",
+     "url": "https://saasolution.io/tool/soundclean"
+    },
+    {
+     "name": "SoundClean",
+     "url": "https://soundclean.app/"
+    }
+   ]
+  },
+  {
+   "term": "remove background noise",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Remove background noise from audio or video · SoundClean — s",
+     "url": "https://nothumansearch.ai/site/soundclean.app"
+    },
+    {
+     "name": "SoundClean",
+     "url": "https://soundclean.app/"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "normal map pbr",
+   "count": 3,
+   "sources": 2,
+   "ratio": 41.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "NormalMapAI — Free Online Normal Map & PBR Texture Generator",
+     "url": "https://a2place.com/listing/normalmapai-—-free-online-normal-map-and-pbr-texture-generator-718537"
+    },
+    {
+     "name": "NormalMapAI: In-Browser PBR Texture & Normal Map Maker",
+     "url": "https://a2place.com/listing/normalmapai-in-browser-pbr-texture-and-normal-map-maker-718539"
+    },
+    {
+     "name": "NormalMapAI Free online Normal Map & PBR Texture Generator 💬",
+     "url": "https://thehackstack.com/s/normalmapai"
+    }
+   ]
+  },
+  {
+   "term": "hypergsc connect google",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "HyperGSC",
+     "url": "https://dealmyapp.com/listings/hypergsc"
+    },
+    {
+     "name": "HyperGSC: Ask your AI chat app why search traffic changed, u",
+     "url": "https://saasolution.io/tool/hypergsc"
+    }
+   ]
+  },
+  {
+   "term": "search console mcp",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Google Search Console MCP for your AI | HyperGSC — score 75/",
+     "url": "https://nothumansearch.ai/site/hypergsc.com"
+    },
+    {
+     "name": "HyperGSC",
+     "url": "https://hypergsc.com/"
+    }
+   ]
+  },
+  {
+   "term": "separate insight calculator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "AION 2 Pets",
+     "url": "https://aion2pets.app/"
+    },
+    {
+     "name": "AION 2 Pets (aion2pets.app)",
+     "url": "https://aion2pets.app/"
+    }
+   ]
+  },
+  {
+   "term": "guide comparing",
+   "count": 3,
+   "sources": 2,
+   "ratio": 41.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calli",
+     "url": "https://marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp"
+    },
+    {
+     "name": "Lift Chair for Elderly",
+     "url": "https://liftchairforelderly.com/"
+    },
+    {
+     "name": "2 Person Infrared Sauna",
+     "url": "https://2personinfraredsauna.com/"
+    }
+   ]
+  },
+  {
+   "term": "ai signature generator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Signature Generators",
+     "url": "https://aisignaturegenerators.org/"
+    },
+    {
+     "name": "Ai Signature Generators Free Tool",
+     "url": "https://develif.com/s/ai-signature-generators-free-tool"
+    }
+   ]
+  },
+  {
+   "term": "career focused learning",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Top MBA/PGDM Colleges in Bangalore | IBA Bangalore",
+     "url": "https://huludirectory.com/listing/top-mbapgdm-colleges-in-bangalore-iba-bangalore-2259921"
+    },
+    {
+     "name": "mba colleges in bangalore",
+     "url": "https://exampledir.com/listing/mba-colleges-in-bangalore-313134"
+    }
+   ]
+  },
+  {
+   "term": "convert png jpg",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "ImageSVG: Trace a PNG or JPG logo into a vector SVG file you",
+     "url": "https://saasolution.io/tool/imagesvg"
+    },
+    {
+     "name": "Vectorize Image",
+     "url": "https://vectorizeimage.im/"
+    }
+   ]
+  },
+  {
+   "term": "custom restaurant uniform",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "RestroCart custom restaurant uniforms",
+     "url": "https://restrocart.com/catalogue/uniforms"
+    },
+    {
+     "name": "RestroCart",
+     "url": "https://restrocart.com/"
+    }
+   ]
+  },
+  {
+   "term": "eluxai agentic ai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 27.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "EluxAI | Agentic AI & Automation Agents for Business",
+     "url": "https://aweblist.org/listing/eluxai-agentic-ai-and-automation-agents-for-business-970585"
+    },
+    {
+     "name": "EluxAI: Agentic AI Solutions in Vaughan, Ontario",
+     "url": "https://huludirectory.com/listing/eluxai-agentic-ai-solutions-in-vaughan-ontario-2259927"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "hosted mcp server",
+   "size": 4,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Google Search Console MCP for your AI | HyperGSC — score 75/",
+     "url": "https://nothumansearch.ai/site/hypergsc.com"
+    },
+    {
+     "name": "HyperGSC",
+     "url": "https://hypergsc.com/"
+    },
+    {
+     "name": "Recraft",
+     "url": "https://agentsindex.ai/recraft"
+    },
+    {
+     "name": "Surfer",
+     "url": "https://agentsindex.ai/surfer-seo"
+    }
+   ]
+  },
+  {
+   "term": "connect google search",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Google Search Console MCP for your AI | HyperGSC — score 75/",
+     "url": "https://nothumansearch.ai/site/hypergsc.com"
+    },
+    {
+     "name": "HyperGSC",
+     "url": "https://hypergsc.com/"
+    },
+    {
+     "name": "HyperGSC: Ask your AI chat app why search traffic changed, u",
+     "url": "https://saasolution.io/tool/hypergsc"
+    }
+   ]
+  },
+  {
+   "term": "ai metadata cleaner",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "AI Metadata Cleaner",
+     "url": "https://a2place.com/listing/ai-metadata-cleaner-718543"
+    },
+    {
+     "name": "AI Metadata Cleaner: Free EXIF, GPS & C2PA Metadata Remover",
+     "url": "https://a2place.com/listing/ai-metadata-cleaner-free-exif-gps-and-c2pa-metadata-remover-718544"
+    },
+    {
+     "name": "AI Metadata Cleaner Free in-browser EXIF, GPS & C2PA metadat",
+     "url": "https://thehackstack.com/s/aimetadatacleaner"
+    }
+   ]
+  },
+  {
+   "term": "claude chatgpt codex",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Google Search Console MCP for your AI | HyperGSC — score 75/",
+     "url": "https://nothumansearch.ai/site/hypergsc.com"
+    },
+    {
+     "name": "HyperGSC: Ask your AI chat app why search traffic changed, u",
+     "url": "https://saasolution.io/tool/hypergsc"
+    },
+    {
+     "name": "Tokenrip — The shared workspace your AI agents work from — s",
+     "url": "https://nothumansearch.ai/site/tokenrip.com"
+    }
+   ]
+  },
+  {
+   "term": "map pbr texture",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "NormalMapAI — Free Online Normal Map & PBR Texture Generator",
+     "url": "https://a2place.com/listing/normalmapai-—-free-online-normal-map-and-pbr-texture-generator-718537"
+    },
+    {
+     "name": "NormalMapAI Free online Normal Map & PBR Texture Generator 💬",
+     "url": "https://thehackstack.com/s/normalmapai"
+    },
+    {
+     "name": "NormalMapAI: In-Browser PBR Texture & Normal Map Maker",
+     "url": "https://a2place.com/listing/normalmapai-in-browser-pbr-texture-and-normal-map-maker-718539"
+    }
+   ]
+  },
+  {
+   "term": "food beverage",
+   "size": 5,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Come Again Foods",
+     "url": "https://comeagainfoods.com/"
+    },
+    {
+     "name": "Harikrushna Machines Pvt. Ltd.",
+     "url": "https://harikrushna.com/"
+    },
+    {
+     "name": "IndiaRestros",
+     "url": "https://indiarestros.com/"
+    },
+    {
+     "name": "IndiaRestros API and MCP server",
+     "url": "https://indiarestros.com/for-agents"
+    }
+   ]
+  },
+  {
+   "term": "legal tech",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "eCourtsIndia",
+     "url": "https://ecourtsindia.com/"
+    },
+    {
+     "name": "eCourtsIndia API and MCP server",
+     "url": "https://ecourtsindia.com/api/mcp"
+    },
+    {
+     "name": "JurisGrid (jurisgrid.com)",
+     "url": "https://jurisgrid.com/"
+    },
+    {
+     "name": "JurisGrid legal tech grid",
+     "url": "https://jurisgrid.com/"
+    }
+   ]
+  },
+  {
+   "term": "data infrastructure",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Dataline",
+     "url": "https://dataline.xyz/"
+    },
+    {
+     "name": "Dataline Data",
+     "url": "https://dataline.xyz/data"
+    },
+    {
+     "name": "HeyVoli",
+     "url": "https://heyvoli.com/"
+    },
+    {
+     "name": "Zenrows",
+     "url": "https://zenrows.com/"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「hosted mcp server」今日 4 个产品/4 个目录：HyperGSC、Google Search Console MCP for your AI | HyperGSC — score 75/",
+  "小词「connect google search」今日 3 个产品/3 个目录：HyperGSC、HyperGSC: Ask your AI chat app why search traffic changed, u",
+  "小词「ai metadata cleaner」今日 3 个产品/2 个目录：AI Metadata Cleaner — Free EXIF, GPS & C2PA Metadata Remover、AI Metadata Cleaner",
+  "同日小簇「hosted mcp server」4 个相似产品：Google Search Console MCP for your AI | HyperGSC — score 75/、HyperGSC、Recraft",
+  "同日小簇「connect google search」3 个相似产品：Google Search Console MCP for your AI | HyperGSC — score 75/、HyperGSC、HyperGSC: Ask your AI chat app why search traffic changed, u",
+  "跨目录同时出现：brix36.com（3 个目录）",
+  "跨目录同时出现：datagalactica.com（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-10-25.md",
+ "niche_groups": "- AI搜索数据集成：hosted mcp server、connect google search、hypergsc connect google、search console mcp —— 将Google Search Console数据通过MCP协议接入AI应用以分析搜索流量变化\n- PBR纹理生成：map pbr texture、normal map pbr —— 在浏览器中生成法线贴图及PBR纹理素材\n- 音频降噪处理：reduce background noise、remove background noise —— 从音频或视频中去除风声、嗡嗡声等背景噪音\n- AI元数据清理：ai metadata cleaner —— 免费移除图片中的EXIF、GPS及C2PA等元数据信息\n- AI签名生成：ai signature generator —— 利用AI技术生成手写风格的电子签名"
+}

@@ -7,35 +7,35 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-10-24** · 新增 1846 · 监控 197 个目录（今日成功 185）
+**2026-10-25** · 新增 1436 · 监控 197 个目录（今日成功 182）
 
 聚焦小词 Top 15:
 
-- `digital marketing course` ×4（3 目录） 🆕：Skillfloor-Digital Marketing Course in Hyderabad；Digiperform – Digital Marketing and AI Training Courses
-- `media marketing agency` ×4（3 目录） 🆕：Social Media Marketing Agency Near Valasaravakkam - DGrow Ma；AI search optimization services in Jaipur
-- `description alt text` ×3（2 目录） 🆕：Image Describer: Copy the look of a reference picture into a；Describe Image: Draft alt text and captions from the picture
-- `google search console` ×3（3 目录） 🆕：Scalenut — AI SEO content planner and writer；QuickSEO.ai: Track and improve your SEO rankings and AI visi
-- `social media manager` ×3（2 目录） 🆕：AI-assisted Full Social Media Creation, Management and Distr；Create and Edit Digital Images with AI: Turner AI
-- `csv file` ×4（2 目录） 🆕：YouTranscripts；CSV Essentials Toolkit: Clean up messy CSV exports on your o
-- `claude opus` ×4（3 目录） 🆕：Quick Study；Coding Agent Index v2.0: Claude Opus 5.5 Leads at 61.7
-- `computer vision` ×4（2 目录） 🆕：Viston AI；Paar Autonomy
-- `data driven` ×4（3 目录） 🆕：Local SEO Expert Near Koyambedu DigitalSrija – Get Found Loc；SEO Company in Chennai | Spinta Digital
-- `performance optimization` ×4（2 目录） 🆕：10Web — AI WordPress website builder；Smartly.io — AI-powered social advertising automation
-- `printable coloring` ×4（6 目录） 🆕：Rainbow Coloring Page - Printable Coloring Pages；Top Coloring Pages: ai, coloring pages, kids
-- `safe zone` ×4（2 目录） 🆕：Tips Guide: Best Ledger Info - Choose Safe Zone；Tips Digest - Compare Safe Zone
-- `chennai` ×12（2 目录） 🆕：SEO Company in Chennai | Spinta Digital；top 10 Interior Decorators In chennai
-- `educational resource` ×3（3 目录） 🆕：Smootables: AI-Powered Academic Planning & Timetabling for S；Scholarship100 – Global Scholarships and Educational Resourc
-- `freestyle video` ×3（6 目录） 🆕：Dame Hombro AI；Bulin 47 AI Video Generator
+- `hosted mcp server` ×4（4 目录） 🆕：HyperGSC；Google Search Console MCP for your AI | HyperGSC — score 75/
+- `connect google search` ×3（3 目录） 🆕：HyperGSC；HyperGSC: Ask your AI chat app why search traffic changed, u
+- `ai metadata cleaner` ×3（2 目录） 🆕：AI Metadata Cleaner — Free EXIF, GPS & C2PA Metadata Remover；AI Metadata Cleaner
+- `claude chatgpt codex` ×3（2 目录） 🆕：HyperGSC: Ask your AI chat app why search traffic changed, u；Tokenrip — The shared workspace your AI agents work from — s
+- `map pbr texture` ×3（2 目录） 🆕：NormalMapAI — Free Online Normal Map & PBR Texture Generator；NormalMapAI: In-Browser PBR Texture & Normal Map Maker
+- `food beverage` ×5（2 目录） 🆕：Harikrushna Machines Pvt. Ltd.；Come Again Foods
+- `legal tech` ×4（2 目录） 🆕：JurisGrid legal tech grid；JurisGrid (jurisgrid.com)
+- `data infrastructure` ×4（2 目录） 🆕：Zenrows；HeyVoli
+- `soft designer` ×4（3 目录） 🆕：Andon light tower；Digital andon for shopfloor
+- `vaughan ontario` ×4（4 目录） 🆕：EluxAI | Agentic AI & Automation Agents for Business；EluxAI: Agentic AI Solutions in Vaughan, Ontario
+- `ai note taker` ×2（2 目录） 🆕：UMEVO；Kimiko
+- `coding agent session` ×2（2 目录） 🆕：CCC；Agenttrace
+- `face recognition api` ×2（2 目录） 🆕：SightRadar；SightRadar Face recognition API, Rekognition-compatible, pay
+- `reduce background noise` ×2（2 目录） 🆕：SoundClean: Take the wind, hum and fan noise out of a record；SoundClean
+- `remove background noise` ×2（2 目录） 🆕：Remove background noise from audio or video · SoundClean — s；SoundClean
 
 微赛道归纳:
 
-- AI营销与SEO服务：media marketing agency、google search console、search console、data driven、creative branding agency、performance optimization —— 提供AI驱动的搜索引擎优化、社交媒体管理及本地化数字营销代理服务。
-- 数字营销培训与咨询：digital marketing course、marketing course、consultant、educational resource —— 面向个人及企业的数字营销技能培训课程、学术资源及商业咨询服务。
-- AI图像与视频生成：description alt text、computer vision、freestyle video、trend video、social media manager —— 利用计算机视觉和生成式AI进行图片描述、alt文本生成、创意视频制作及社媒内容创作。
-- AI开发工具与模型应用：claude opus、usage limit、csv file —— 围绕大语言模型（如Claude）的编码辅助、使用限制管理及数据文件处理的开发者工具。
-- 本地生活与垂直服务：chennai、safe zone、printable coloring —— 聚焦特定地域（如金奈）的本地商家服务、安全区域信息查询及儿童娱乐资源。
+- AI搜索数据集成：hosted mcp server、connect google search、hypergsc connect google、search console mcp —— 将Google Search Console数据通过MCP协议接入AI应用以分析搜索流量变化
+- PBR纹理生成：map pbr texture、normal map pbr —— 在浏览器中生成法线贴图及PBR纹理素材
+- 音频降噪处理：reduce background noise、remove background noise —— 从音频或视频中去除风声、嗡嗡声等背景噪音
+- AI元数据清理：ai metadata cleaner —— 免费移除图片中的EXIF、GPS及C2PA等元数据信息
+- AI签名生成：ai signature generator —— 利用AI技术生成手写风格的电子签名
 
-完整报告: [reports/2026-10-24.md](reports/2026-10-24.md)
+完整报告: [reports/2026-10-25.md](reports/2026-10-25.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
