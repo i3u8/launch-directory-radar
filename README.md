@@ -7,35 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-10-25** · 新增 1436 · 监控 197 个目录（今日成功 182）
+**2026-10-26** · 新增 1632 · 监控 197 个目录（今日成功 183）
 
 聚焦小词 Top 15:
 
-- `hosted mcp server` ×4（4 目录） 🆕：HyperGSC；Google Search Console MCP for your AI | HyperGSC — score 75/
-- `connect google search` ×3（3 目录） 🆕：HyperGSC；HyperGSC: Ask your AI chat app why search traffic changed, u
-- `ai metadata cleaner` ×3（2 目录） 🆕：AI Metadata Cleaner — Free EXIF, GPS & C2PA Metadata Remover；AI Metadata Cleaner
-- `claude chatgpt codex` ×3（2 目录） 🆕：HyperGSC: Ask your AI chat app why search traffic changed, u；Tokenrip — The shared workspace your AI agents work from — s
-- `map pbr texture` ×3（2 目录） 🆕：NormalMapAI — Free Online Normal Map & PBR Texture Generator；NormalMapAI: In-Browser PBR Texture & Normal Map Maker
-- `food beverage` ×5（2 目录） 🆕：Harikrushna Machines Pvt. Ltd.；Come Again Foods
-- `legal tech` ×4（2 目录） 🆕：JurisGrid legal tech grid；JurisGrid (jurisgrid.com)
-- `data infrastructure` ×4（2 目录） 🆕：Zenrows；HeyVoli
-- `soft designer` ×4（3 目录） 🆕：Andon light tower；Digital andon for shopfloor
-- `vaughan ontario` ×4（4 目录） 🆕：EluxAI | Agentic AI & Automation Agents for Business；EluxAI: Agentic AI Solutions in Vaughan, Ontario
-- `ai note taker` ×2（2 目录） 🆕：UMEVO；Kimiko
-- `coding agent session` ×2（2 目录） 🆕：CCC；Agenttrace
-- `face recognition api` ×2（2 目录） 🆕：SightRadar；SightRadar Face recognition API, Rekognition-compatible, pay
-- `reduce background noise` ×2（2 目录） 🆕：SoundClean: Take the wind, hum and fan noise out of a record；SoundClean
-- `remove background noise` ×2（2 目录） 🆕：Remove background noise from audio or video · SoundClean — s；SoundClean
+- `practice test` ×11（2 目录） 🆕：ExamJungle: AI-powered IT certification exam practice & simu；Youth4work Haryana SSC Clerk Practice Tests
+- `design skill needed` ×3（3 目录） 🆕：HausDraft；HausDraft AI Room Design
+- `data galactica` ×11（2 目录）：Data Galactica Top Companies in Ireland；Data Galactica Top Companies in Poland
+- `booking option` ×4（2 目录） 🆕：Best Hotel in Bathinda for a Comfortable Stay；Washington to Hyderabad Flights Compare Ticket Prices
+- `luxury spa` ×4（2 目录） 🆕：Modern Beauty Best Spa | Best Luxury Spa in Somajiguda, Hyde；Best Spa & Best Wellness Experience luxury in narsingi
+- `ai native funnel` ×2（2 目录） 🆕：Autonnel；Autonnel Open-source, AI-native funnel builder for e-commerc
+- `interest funding rate` ×2（2 目录） 🆕：CoinBoss；Coin Boss
+- `sale crm` ×11（2 目录）：Bridge CRM: Get every ad lead to the right salesperson in se；Best Sales CRM Software in Kochi, Kerala | OCRM
+- `3d print stl` ×2（2 目录） 🆕：MYSTIQUE LAB Etsy Digital & STL Vault；Support Free 3D Print Stl And Seller Spreadsheets Vault
+- `baby hygiene safe` ×2（3 目录） 🆕：infant care maid in singapore；infant care maid singapore
+- `chennai tamil nadu` ×2（2 目录） 🆕：Best Sales CRM Software in Chennai, Tamil Nadu - OCRM；IndiaCos Shared Business Addresses in Chennai
+- `database setup required` ×2（2 目录） 🆕：OMOPHub - Medical Terminology API；OMOPHub - Medical Terminology API for SNOMED, ICD-10, LOINC 
+- `feedback poor marketing` ×2（4 目录） 🆕：Common Mobile App Launch Mistakes to Avoid Before and After ；How Can You Avoid Common Mobile App Launch Mistakes
+- `mental health screening` ×2（2 目录） 🆕：LuriaLab；Lurialab Free Online Mental Health Screenings
+- `multi agent system` ×2（2 目录） 🆕：Knowing Whom to Trust is not Enough: The Trust--Agreement Ga；Multi-agent systems: how they work and when to use them
 
 微赛道归纳:
 
-- AI搜索数据集成：hosted mcp server、connect google search、hypergsc connect google、search console mcp —— 将Google Search Console数据通过MCP协议接入AI应用以分析搜索流量变化
-- PBR纹理生成：map pbr texture、normal map pbr —— 在浏览器中生成法线贴图及PBR纹理素材
-- 音频降噪处理：reduce background noise、remove background noise —— 从音频或视频中去除风声、嗡嗡声等背景噪音
-- AI元数据清理：ai metadata cleaner —— 免费移除图片中的EXIF、GPS及C2PA等元数据信息
-- AI签名生成：ai signature generator —— 利用AI技术生成手写风格的电子签名
+- AI原生电商漏斗构建：ai native funnel、native funnel builder —— 利用AI技术自动化构建电商销售转化流程
+- 销售线索管理与CRM：sale crm、chennai tamil nadu —— 将广告线索精准分配给销售人员的客户关系管理系统
+- IT认证与职业考试练习：practice test —— 提供AI驱动的IT认证及各类职业资格考试模拟与练习
+- 本地化高端水疗与康养：luxury spa、luxury spa experience —— 提供高端SPA及身心康养体验的本地生活服务
+- 医疗术语标准化接口：medical terminology api、database setup required —— 提供SNOMED、ICD-10等医疗标准术语的API数据服务
+- 3D打印数字资源库：3d print stl —— 提供3D打印STL模型文件及卖家数据表的数字资源平台
 
-完整报告: [reports/2026-10-25.md](reports/2026-10-25.md)
+完整报告: [reports/2026-10-26.md](reports/2026-10-26.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

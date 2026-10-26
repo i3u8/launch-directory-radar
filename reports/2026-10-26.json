@@ -1,0 +1,659 @@
+{
+ "date": "2026-10-26",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 183,
+ "sources_failed": 14,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "promotebusinessdirectory-com",
+  "sitelike-org",
+  "madewithstack-com",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [],
+ "new_today": 1632,
+ "new_today_unique": 1536,
+ "ai_share_today": 0.2,
+ "ai_share_30d": 0.33,
+ "niche_terms": [
+  {
+   "term": "practice test",
+   "count": 11,
+   "sources": 2,
+   "ratio": 142.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "ExamJungle: AI-powered IT certification exam practice & simu",
+     "url": "https://awesomeindie.com/product/exam-jungle"
+    },
+    {
+     "name": "Youth4work Haryana SSC Clerk Practice Tests",
+     "url": "https://prep.youth4work.com/Government-Jobs/Haryana-SSC-Clerk-Test"
+    },
+    {
+     "name": "Youth4work Haryana Police Practice Tests",
+     "url": "https://prep.youth4work.com/Government-Jobs/Haryana-Police-Test"
+    }
+   ]
+  },
+  {
+   "term": "design skill needed",
+   "count": 3,
+   "sources": 3,
+   "ratio": 38.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "HausDraft",
+     "url": "https://aweblist.org/listing/hausdraft-970685"
+    },
+    {
+     "name": "HausDraft AI Room Design",
+     "url": "https://a2place.com/listing/hausdraft-ai-room-design-718552"
+    },
+    {
+     "name": "HausDraft Exterior House Color Visualizer",
+     "url": "https://exampledir.com/listing/hausdraft-exterior-house-color-visualizer-313171"
+    }
+   ]
+  },
+  {
+   "term": "data galactica",
+   "count": 11,
+   "sources": 2,
+   "ratio": 28.4,
+   "new": false,
+   "examples": [
+    {
+     "name": "Data Galactica Top Companies in Ireland",
+     "url": "https://datagalactica.com/companies/top/ie"
+    },
+    {
+     "name": "Data Galactica Top Companies in Poland",
+     "url": "https://datagalactica.com/companies/top/pl"
+    },
+    {
+     "name": "Data Galactica Top Companies in Austria",
+     "url": "https://datagalactica.com/companies/top/at"
+    }
+   ]
+  },
+  {
+   "term": "booking option",
+   "count": 4,
+   "sources": 2,
+   "ratio": 51.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Hotel in Bathinda for a Comfortable Stay",
+     "url": "https://exampledir.com/listing/best-hotel-in-bathinda-for-a-comfortable-stay-313185"
+    },
+    {
+     "name": "Washington to Hyderabad Flights Compare Ticket Prices",
+     "url": "https://directory6.org/listing/washington-to-hyderabad-flights-compare-ticket-prices-719874"
+    },
+    {
+     "name": "Washington to Delhi Flights Compare Fares and Book Online",
+     "url": "https://directory6.org/listing/washington-to-delhi-flights-compare-fares-and-book-online-719872"
+    }
+   ]
+  },
+  {
+   "term": "luxury spa",
+   "count": 4,
+   "sources": 2,
+   "ratio": 51.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Modern Beauty Best Spa | Best Luxury Spa in Somajiguda, Hyde",
+     "url": "https://aweblist.org/listing/modern-beauty-best-spa-best-luxury-spa-in-somajiguda-hyderabad-970706"
+    },
+    {
+     "name": "Best Spa & Best Wellness Experience luxury in narsingi",
+     "url": "https://aweblist.org/listing/best-spa-and-best-wellness-experience-luxury-in-narsingi-970698"
+    },
+    {
+     "name": "Best Spa in LB Nagar | Best Spa & Luxury Spa in LB Nagar Hyd",
+     "url": "https://directory6.org/listing/best-spa-in-lb-nagar-best-spa-and-luxury-spa-in-lb-nagar-hyderabad-719841"
+    }
+   ]
+  },
+  {
+   "term": "ai native funnel",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Autonnel",
+     "url": "https://whatareyoubuilding.ai/product/00O3rR6TZqR8CMGiYHDB"
+    },
+    {
+     "name": "Autonnel Open-source, AI-native funnel builder for e-commerc",
+     "url": "https://thehackstack.com/s/autonnel"
+    }
+   ]
+  },
+  {
+   "term": "interest funding rate",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "CoinBoss",
+     "url": "https://dealmyapp.com/listings/coinboss"
+    },
+    {
+     "name": "Coin Boss",
+     "url": "https://coinboss.com/"
+    }
+   ]
+  },
+  {
+   "term": "sale crm",
+   "count": 11,
+   "sources": 2,
+   "ratio": 20.3,
+   "new": false,
+   "examples": [
+    {
+     "name": "Bridge CRM: Get every ad lead to the right salesperson in se",
+     "url": "https://saasolution.io/tool/bridge-crm"
+    },
+    {
+     "name": "Best Sales CRM Software in Kochi, Kerala | OCRM",
+     "url": "https://huludirectory.com/listing/best-sales-crm-software-in-kochi-kerala-ocrm-2259999"
+    },
+    {
+     "name": "Affordable Sales CRM Software for Startups and SMEs in India",
+     "url": "https://huludirectory.com/listing/affordable-sales-crm-software-for-startups-and-smes-in-india-2259989"
+    }
+   ]
+  },
+  {
+   "term": "3d print stl",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "MYSTIQUE LAB Etsy Digital & STL Vault",
+     "url": "https://etsy.com/shop/MYSTIQUELAB"
+    },
+    {
+     "name": "Support Free 3D Print Stl And Seller Spreadsheets Vault",
+     "url": "https://develif.com/s/support-free-3d-print-stl-and-seller-spreadsheets-vault"
+    }
+   ]
+  },
+  {
+   "term": "baby hygiene safe",
+   "count": 2,
+   "sources": 3,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "infant care maid in singapore",
+     "url": "https://directory6.org/listing/infant-care-maid-in-singapore-719844"
+    },
+    {
+     "name": "infant care maid singapore",
+     "url": "https://aweblist.org/listing/infant-care-maid-singapore-970679"
+    }
+   ]
+  },
+  {
+   "term": "chennai tamil nadu",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Sales CRM Software in Chennai, Tamil Nadu - OCRM",
+     "url": "https://huludirectory.com/listing/best-sales-crm-software-in-chennai-tamil-nadu--ocrm-2259990"
+    },
+    {
+     "name": "IndiaCos Shared Business Addresses in Chennai",
+     "url": "https://indiacos.com/offices/tamil-nadu/chennai"
+    }
+   ]
+  },
+  {
+   "term": "database setup required",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "OMOPHub - Medical Terminology API",
+     "url": "https://dealmyapp.com/listings/omophub-medical-terminology-api"
+    },
+    {
+     "name": "OMOPHub - Medical Terminology API for SNOMED, ICD-10, LOINC ",
+     "url": "https://nothumansearch.ai/site/omophub.com"
+    }
+   ]
+  },
+  {
+   "term": "feedback poor marketing",
+   "count": 2,
+   "sources": 4,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Common Mobile App Launch Mistakes to Avoid Before and After ",
+     "url": "https://aweblist.org/listing/common-mobile-app-launch-mistakes-to-avoid-before-and-after-release-970695"
+    },
+    {
+     "name": "How Can You Avoid Common Mobile App Launch Mistakes",
+     "url": "https://exampledir.com/listing/how-can-you-avoid-common-mobile-app-launch-mistakes-313180"
+    }
+   ]
+  },
+  {
+   "term": "mental health screening",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "LuriaLab",
+     "url": "https://lurialab.com/"
+    },
+    {
+     "name": "Lurialab Free Online Mental Health Screenings",
+     "url": "https://develif.com/s/lurialab-free-online-mental-health-screenings"
+    }
+   ]
+  },
+  {
+   "term": "multi agent system",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Knowing Whom to Trust is not Enough: The Trust--Agreement Ga",
+     "url": "https://arxiv.org/abs/2610.31971"
+    },
+    {
+     "name": "Multi-agent systems: how they work and when to use them",
+     "url": "https://agentsindex.ai/blog/multi-agent-systems"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "homeowner upload",
+   "count": 4,
+   "sources": 4,
+   "ratio": 51.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "BidProof",
+     "url": "https://dealmyapp.com/listings/bidproof"
+    },
+    {
+     "name": "HausDraft",
+     "url": "https://aweblist.org/listing/hausdraft-970685"
+    },
+    {
+     "name": "HausDraft AI Room Design",
+     "url": "https://a2place.com/listing/hausdraft-ai-room-design-718552"
+    }
+   ]
+  },
+  {
+   "term": "native funnel builder",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Autonnel",
+     "url": "https://whatareyoubuilding.ai/product/00O3rR6TZqR8CMGiYHDB"
+    },
+    {
+     "name": "Autonnel Open-source, AI-native funnel builder for e-commerc",
+     "url": "https://thehackstack.com/s/autonnel"
+    }
+   ]
+  },
+  {
+   "term": "biodata check previous",
+   "count": 2,
+   "sources": 3,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "infant care maid in singapore",
+     "url": "https://directory6.org/listing/infant-care-maid-in-singapore-719844"
+    },
+    {
+     "name": "infant care maid singapore",
+     "url": "https://aweblist.org/listing/infant-care-maid-singapore-970679"
+    }
+   ]
+  },
+  {
+   "term": "luxury spa experience",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Spa & Best Wellness Experience luxury in narsingi",
+     "url": "https://aweblist.org/listing/best-spa-and-best-wellness-experience-luxury-in-narsingi-970698"
+    },
+    {
+     "name": "Best Spa in LB Nagar | Best Spa & Luxury Spa in LB Nagar Hyd",
+     "url": "https://directory6.org/listing/best-spa-in-lb-nagar-best-spa-and-luxury-spa-in-lb-nagar-hyderabad-719841"
+    }
+   ]
+  },
+  {
+   "term": "medical terminology api",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "OMOPHub - Medical Terminology API",
+     "url": "https://dealmyapp.com/listings/omophub-medical-terminology-api"
+    },
+    {
+     "name": "OMOPHub - Medical Terminology API for SNOMED, ICD-10, LOINC ",
+     "url": "https://nothumansearch.ai/site/omophub.com"
+    }
+   ]
+  },
+  {
+   "term": "music calendar note",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "NotchNook: Use the MacBook notch for music, calendar, notes ",
+     "url": "https://saasolution.io/tool/notchnook"
+    },
+    {
+     "name": "NotchNook",
+     "url": "https://azn8.com/listing/notchnook"
+    }
+   ]
+  },
+  {
+   "term": "neglecting security update",
+   "count": 2,
+   "sources": 4,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Common Mobile App Launch Mistakes to Avoid Before and After ",
+     "url": "https://aweblist.org/listing/common-mobile-app-launch-mistakes-to-avoid-before-and-after-release-970695"
+    },
+    {
+     "name": "How Can You Avoid Common Mobile App Launch Mistakes",
+     "url": "https://exampledir.com/listing/how-can-you-avoid-common-mobile-app-launch-mistakes-313180"
+    }
+   ]
+  },
+  {
+   "term": "pay raise calculator",
+   "count": 2,
+   "sources": 4,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Pay Raise Calculator",
+     "url": "https://azn8.com/listing/pay-raise-calculator"
+    },
+    {
+     "name": "The Pay Raise Calculator",
+     "url": "https://develif.com/s/the-pay-raise-calculator"
+    }
+   ]
+  },
+  {
+   "term": "seating chart maker",
+   "count": 2,
+   "sources": 3,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "SeatSolver",
+     "url": "https://whatareyoubuilding.ai/product/QLSyXZPETtW2fiDTEZaG"
+    },
+    {
+     "name": "SeatSolver Seating chart maker that reads your guest list sp",
+     "url": "https://thehackstack.com/s/seatsolver"
+    }
+   ]
+  },
+  {
+   "term": "tanatasa beauty shopping",
+   "count": 2,
+   "sources": 2,
+   "ratio": 25.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Tanatasa Beauty Shopping API & MCP",
+     "url": "https://tanatasa.sg/ai-agent-docs"
+    },
+    {
+     "name": "Tanatasa Beauty Shopping Mcp Api",
+     "url": "https://agents-launch.lovable.app/agents/tanatasa-beauty-shopping-mcp-api"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "design skill needed",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "HausDraft",
+     "url": "https://aweblist.org/listing/hausdraft-970685"
+    },
+    {
+     "name": "HausDraft AI Room Design",
+     "url": "https://a2place.com/listing/hausdraft-ai-room-design-718552"
+    },
+    {
+     "name": "HausDraft Exterior House Color Visualizer",
+     "url": "https://exampledir.com/listing/hausdraft-exterior-house-color-visualizer-313171"
+    }
+   ]
+  },
+  {
+   "term": "booking option",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best Hotel in Bathinda for a Comfortable Stay",
+     "url": "https://exampledir.com/listing/best-hotel-in-bathinda-for-a-comfortable-stay-313185"
+    },
+    {
+     "name": "Washington to Delhi Flights Compare Fares and Book Online",
+     "url": "https://directory6.org/listing/washington-to-delhi-flights-compare-fares-and-book-online-719872"
+    },
+    {
+     "name": "Washington to Hyderabad Flights Compare Ticket Prices",
+     "url": "https://directory6.org/listing/washington-to-hyderabad-flights-compare-ticket-prices-719874"
+    },
+    {
+     "name": "Washington to Kolkata Flights Find Competitive Airfares",
+     "url": "https://directory6.org/listing/washington-to-kolkata-flights-find-competitive-airfares-719880"
+    }
+   ]
+  },
+  {
+   "term": "luxury spa",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best Glory Wellness Spa | Best Luxury Spa in Khajaguda, Hyde",
+     "url": "https://aweblist.org/listing/best-glory-wellness-spa-best-luxury-spa-in-khajaguda-hyderabad-970710"
+    },
+    {
+     "name": "Best Spa & Best Wellness Experience luxury in narsingi",
+     "url": "https://aweblist.org/listing/best-spa-and-best-wellness-experience-luxury-in-narsingi-970698"
+    },
+    {
+     "name": "Best Spa in LB Nagar | Best Spa & Luxury Spa in LB Nagar Hyd",
+     "url": "https://directory6.org/listing/best-spa-in-lb-nagar-best-spa-and-luxury-spa-in-lb-nagar-hyderabad-719841"
+    },
+    {
+     "name": "Modern Beauty Best Spa | Best Luxury Spa in Somajiguda, Hyde",
+     "url": "https://aweblist.org/listing/modern-beauty-best-spa-best-luxury-spa-in-somajiguda-hyderabad-970706"
+    }
+   ]
+  },
+  {
+   "term": "never uploaded",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "ClipLocale",
+     "url": "https://whatareyoubuilding.ai/product/WAAvcwKeBTlxMYuevJR0"
+    },
+    {
+     "name": "EarChord",
+     "url": "https://dealmyapp.com/listings/earchord"
+    },
+    {
+     "name": "Lizely",
+     "url": "https://postlaunchkit.com/directory/lizely"
+    }
+   ]
+  },
+  {
+   "term": "choose suitable",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Choose Suitable Cable Solutions for Industrial Applications",
+     "url": "https://aweblist.org/listing/choose-suitable-cable-solutions-for-industrial-applications-970683"
+    },
+    {
+     "name": "Explore Circuit Protection Products for Electrical Systems",
+     "url": "https://aweblist.org/listing/explore-circuit-protection-products-for-electrical-systems-970684"
+    },
+    {
+     "name": "Tour Packages from Bilaspur",
+     "url": "https://exampledir.com/listing/tour-packages-from-bilaspur-313141"
+    }
+   ]
+  },
+  {
+   "term": "full length",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "AceFEExam",
+     "url": "https://whatareyoubuilding.ai/product/4iP78Lkfuz5f5rln6qaw"
+    },
+    {
+     "name": "Grok releases the first seven minutes of its AI-generated ‘O",
+     "url": "https://aisuqp.xyz/news/grok-releases-the-first-seven-minutes-of-its-ai-generated-od-0gn9"
+    },
+    {
+     "name": "LocalUpscale",
+     "url": "https://whatareyoubuilding.ai/product/IloIwEGLK6dQUW3gwEPp"
+    }
+   ]
+  },
+  {
+   "term": "international market",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Festival Items Supplie",
+     "url": "https://aweblist.org/listing/festival-items-supplie-970681"
+    },
+    {
+     "name": "Pharmaceutical Exporter In India - Salvavidas Pharmaceutical",
+     "url": "https://directory6.org/listing/pharmaceutical-exporter-in-india--salvavidas-pharmaceutical-pvt-ltd-719865"
+    },
+    {
+     "name": "Saartee Media Labs",
+     "url": "https://aweblist.org/listing/saartee-media-labs-970711"
+    }
+   ]
+  },
+  {
+   "term": "library ledger",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Library Ledger",
+     "url": "https://recap.sailtoworld.com/"
+    },
+    {
+     "name": "Library Ledger: Post the books you read this month or year a",
+     "url": "https://saasolution.io/tool/library-ledger"
+    },
+    {
+     "name": "Library Ledger Reading Recap",
+     "url": "https://develif.com/s/library-ledger-reading-recap"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「practice test」今日 11 个产品/2 个目录：ExamJungle: AI-powered IT certification exam practice & simu、Youth4work Haryana SSC Clerk Practice Tests",
+  "小词「design skill needed」今日 3 个产品/3 个目录：HausDraft、HausDraft AI Room Design",
+  "小词「data galactica」今日 11 个产品/2 个目录：Data Galactica Top Companies in Ireland、Data Galactica Top Companies in Poland",
+  "同日小簇「design skill needed」3 个相似产品：HausDraft、HausDraft AI Room Design、HausDraft Exterior House Color Visualizer",
+  "同日小簇「booking option」4 个相似产品：Best Hotel in Bathinda for a Comfortable Stay、Washington to Delhi Flights Compare Fares and Book Online、Washington to Hyderabad Flights Compare Ticket Prices",
+  "跨目录同时出现：datagalactica.com（3 个目录）",
+  "跨目录同时出现：indiainsurances.com（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-10-26.md",
+ "niche_groups": "- AI原生电商漏斗构建：ai native funnel、native funnel builder —— 利用AI技术自动化构建电商销售转化流程\n- 销售线索管理与CRM：sale crm、chennai tamil nadu —— 将广告线索精准分配给销售人员的客户关系管理系统\n- IT认证与职业考试练习：practice test —— 提供AI驱动的IT认证及各类职业资格考试模拟与练习\n- 本地化高端水疗与康养：luxury spa、luxury spa experience —— 提供高端SPA及身心康养体验的本地生活服务\n- 医疗术语标准化接口：medical terminology api、database setup required —— 提供SNOMED、ICD-10等医疗标准术语的API数据服务\n- 3D打印数字资源库：3d print stl —— 提供3D打印STL模型文件及卖家数据表的数字资源平台"
+}
