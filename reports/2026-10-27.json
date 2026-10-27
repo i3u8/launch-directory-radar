@@ -1,0 +1,667 @@
+{
+ "date": "2026-10-27",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 181,
+ "sources_failed": 16,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "promotebusinessdirectory-com",
+  "sitelike-org",
+  "siteswebdirectory-com",
+  "madewithstack-com",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "curlship-com",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1537,
+ "new_today_unique": 1415,
+ "ai_share_today": 0.28,
+ "ai_share_30d": 0.31,
+ "niche_terms": [
+  {
+   "term": "ows agency",
+   "count": 8,
+   "sources": 2,
+   "ratio": 126.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Social Media Marketing Services | ows agency",
+     "url": "https://aweblist.org/listing/social-media-marketing-services-ows-agency-971075"
+    },
+    {
+     "name": "Social Media Marketing Agency |ows agency",
+     "url": "https://aweblist.org/listing/social-media-marketing-agency-ows-agency-971076"
+    },
+    {
+     "name": "Branding Services | ows agency",
+     "url": "https://aweblist.org/listing/branding-services-ows-agency-971066"
+    }
+   ]
+  },
+  {
+   "term": "second vertical video",
+   "count": 3,
+   "sources": 3,
+   "ratio": 47.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "MemeRemake",
+     "url": "https://memeremake.com/"
+    },
+    {
+     "name": "PetAIVideo",
+     "url": "https://petaivideo.com/"
+    },
+    {
+     "name": "PetAIVideo One pet photo in, a 10-second vertical video out ",
+     "url": "https://thehackstack.com/s/petaivideo"
+    }
+   ]
+  },
+  {
+   "term": "excel xlsx file",
+   "count": 3,
+   "sources": 2,
+   "ratio": 47.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Bulk Barcode Generator",
+     "url": "https://whatareyoubuilding.ai/product/J3aEiWDgcYoU6NMJCGUY"
+    },
+    {
+     "name": "Bulk QR Code Generator",
+     "url": "https://whatareyoubuilding.ai/product/Ie0wsxPQxtiGGxMn5SQj"
+    },
+    {
+     "name": "Numbers2Excel: Open a spreadsheet someone made on a Mac by t",
+     "url": "https://saasolution.io/tool/numbers2excel"
+    }
+   ]
+  },
+  {
+   "term": "genjutsu ai recast",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Genjutsu AI",
+     "url": "https://whatareyoubuilding.ai/product/TeGJtyYGQn0yS9LUXPzq"
+    },
+    {
+     "name": "Genjutsu AI Video Generator",
+     "url": "https://gateofai.com/community-tools/genjutsu-ai-video-generator"
+    }
+   ]
+  },
+  {
+   "term": "health fitness mobile",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Liftor: iPhone fitness app, source code, website and brand",
+     "url": "https://dealmyapp.com/listings/liftor-iphone-fitness-app-website-source-code"
+    },
+    {
+     "name": "Pouch Free: Quit Nicotine",
+     "url": "https://pouch-free.com/"
+    }
+   ]
+  },
+  {
+   "term": "beautiful straighter smile",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Dentel clinic In Jaipur",
+     "url": "https://huludirectory.com/listing/best-dentel-clinic-in-jaipur-2260236"
+    },
+    {
+     "name": "Best dental clinic in Jaipur",
+     "url": "https://aweblist.org/listing/best-dental-clinic-in-jaipur-971097"
+    }
+   ]
+  },
+  {
+   "term": "connected stripe account",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "ProInvoice: Bill the balance of an accepted quote and get pa",
+     "url": "https://saasolution.io/tool/proinvoice"
+    },
+    {
+     "name": "ProInvoice",
+     "url": "https://proinvoice.app/"
+    }
+   ]
+  },
+  {
+   "term": "develop stronger relationship",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Social Media Marketing Agency Near Me | SMM agency",
+     "url": "https://aweblist.org/listing/social-media-marketing-agency-near-me-smm-agency-971073"
+    },
+    {
+     "name": "Social Media Marketing Agency Near Me | ows agency",
+     "url": "https://exampledir.com/listing/social-media-marketing-agency-near-me-ows-agency-313310"
+    }
+   ]
+  },
+  {
+   "term": "eyelash extension manufacturer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "LOKNZW — Eyelash Extensions",
+     "url": "https://loknzw.com/"
+    },
+    {
+     "name": "Loknzw Eyelash Extensions Manufacturer And Beauty Tools",
+     "url": "https://develif.com/s/loknzw-eyelash-extensions-manufacturer-and-beauty-tools"
+    }
+   ]
+  },
+  {
+   "term": "hand operated grease",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Manual Grease Pump for 5 Gallon Bucket | Hand Operated | Iso",
+     "url": "https://exampledir.com/listing/manual-grease-pump-for-5-gallon-bucket-hand-operated-isohitech-313296"
+    },
+    {
+     "name": "Hand-Operated Grease Pump for 5 Gallon Pails - IsoHiTech",
+     "url": "https://huludirectory.com/listing/hand-operated-grease-pump-for-5-gallon-pails--isohitech-2260193"
+    }
+   ]
+  },
+  {
+   "term": "minimax m3.1 flash",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "MiniMax M3.1 Flash vs M3：更便宜但未必更快更好",
+     "url": "https://aisuqp.xyz/learn/minimax-m3-1-flash-vs-m3-gengbianyidanweibigengkuaigenghao-6jeu"
+    },
+    {
+     "name": "SpaceBunny",
+     "url": "https://spacebunny.me/"
+    }
+   ]
+  },
+  {
+   "term": "original vocal beat",
+   "count": 2,
+   "sources": 4,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "AirapVideo1",
+     "url": "https://airapvideo1.com/"
+    },
+    {
+     "name": "AirapVideo1 Photo to AI rap video with original vocals, beat",
+     "url": "https://thehackstack.com/s/airapvideo1"
+    }
+   ]
+  },
+  {
+   "term": "rapid auto shipping",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Alaska Car Transport Requires Planning for Long-Distance Veh",
+     "url": "https://aweblist.org/listing/alaska-car-transport-requires-planning-for-long-distance-vehicle-shipping-971108"
+    },
+    {
+     "name": "Rapid Auto Shipping Helps Americans Arrange Convenient Natio",
+     "url": "https://directory6.org/listing/rapid-auto-shipping-helps-americans-arrange-convenient-nationwide-vehicle-transportation-720201"
+    }
+   ]
+  },
+  {
+   "term": "root canal treatment",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Root Canal Treatment in Hyderabad – Restore Your Natural Too",
+     "url": "https://huludirectory.com/listing/root-canal-treatment-in-hyderabad-–-restore-your-natural-tooth-2260237"
+    },
+    {
+     "name": "Dental Concepts",
+     "url": "https://dental-concepts.com/dentist-in-southampton"
+    }
+   ]
+  },
+  {
+   "term": "supporting long term",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Root Canal Treatment in Hyderabad – Restore Your Natural Too",
+     "url": "https://huludirectory.com/listing/root-canal-treatment-in-hyderabad-–-restore-your-natural-tooth-2260237"
+    },
+    {
+     "name": "Prenuptial Agreements in the UAE | Maan IGP",
+     "url": "https://exampledir.com/listing/prenuptial agreements-in-the-uae  maan igp-313293"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "trend preset supply",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Genjutsu AI",
+     "url": "https://whatareyoubuilding.ai/product/TeGJtyYGQn0yS9LUXPzq"
+    },
+    {
+     "name": "Genjutsu AI Video Generator",
+     "url": "https://gateofai.com/community-tools/genjutsu-ai-video-generator"
+    }
+   ]
+  },
+  {
+   "term": "comprehensive dental treatment",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Dentel clinic In Jaipur",
+     "url": "https://huludirectory.com/listing/best-dentel-clinic-in-jaipur-2260236"
+    },
+    {
+     "name": "Best dental clinic in Jaipur",
+     "url": "https://aweblist.org/listing/best-dental-clinic-in-jaipur-971097"
+    }
+   ]
+  },
+  {
+   "term": "loknzw eyelash extension",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "LOKNZW — Eyelash Extensions",
+     "url": "https://loknzw.com/"
+    },
+    {
+     "name": "Loknzw Eyelash Extensions Manufacturer And Beauty Tools",
+     "url": "https://develif.com/s/loknzw-eyelash-extensions-manufacturer-and-beauty-tools"
+    }
+   ]
+  },
+  {
+   "term": "operated grease pump",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Manual Grease Pump for 5 Gallon Bucket | Hand Operated | Iso",
+     "url": "https://exampledir.com/listing/manual-grease-pump-for-5-gallon-bucket-hand-operated-isohitech-313296"
+    },
+    {
+     "name": "Hand-Operated Grease Pump for 5 Gallon Pails - IsoHiTech",
+     "url": "https://huludirectory.com/listing/hand-operated-grease-pump-for-5-gallon-pails--isohitech-2260193"
+    }
+   ]
+  },
+  {
+   "term": "prioritize creativity consistency",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Social Media Marketing Agency Near Me | SMM agency",
+     "url": "https://aweblist.org/listing/social-media-marketing-agency-near-me-smm-agency-971073"
+    },
+    {
+     "name": "Social Media Marketing Agency Near Me | ows agency",
+     "url": "https://exampledir.com/listing/social-media-marketing-agency-near-me-ows-agency-313310"
+    }
+   ]
+  },
+  {
+   "term": "valorant crosshair code",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Valorant Crosshair Codes",
+     "url": "https://www.clapstorm.com/p/valorant-crosshair-codes"
+    },
+    {
+     "name": "Valorant Crosshair Codes Pro Valorant crosshair codes & cros",
+     "url": "https://thehackstack.com/s/valorantcrosshair"
+    }
+   ]
+  },
+  {
+   "term": "vin oil lookup",
+   "count": 2,
+   "sources": 2,
+   "ratio": 31.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Oil-Capacity.com — VIN Oil Lookup",
+     "url": "https://oil-capacity.com/oil-capacity-by-vin"
+    },
+    {
+     "name": "Oil Capacitycom Vin Oil Lookup",
+     "url": "https://develif.com/s/oil-capacitycom-vin-oil-lookup"
+    }
+   ]
+  },
+  {
+   "term": "file download",
+   "count": 3,
+   "sources": 2,
+   "ratio": 47.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Excel Translator",
+     "url": "https://whatareyoubuilding.ai/product/xUecNSSPcVrsTZ0maxTI"
+    },
+    {
+     "name": "MotifDeck",
+     "url": "https://whatareyoubuilding.ai/product/IxS73lkGjaOHPtznNS1C"
+    },
+    {
+     "name": "MediaFire File Download",
+     "url": "https://dealmyapp.com/listings/mediafire-file-download"
+    }
+   ]
+  },
+  {
+   "term": "cosmetic dental",
+   "count": 3,
+   "sources": 2,
+   "ratio": 47.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Dental Veneers in Gachibowli | Porcelain & Cosmetic Veneers",
+     "url": "https://huludirectory.com/listing/dental-veneers-in-gachibowli-porcelain-and-cosmetic-veneers-2260212"
+    },
+    {
+     "name": "Dental Clinic in Kadugodi",
+     "url": "https://aweblist.org/listing/dental-clinic-in-kadugodi-971104"
+    },
+    {
+     "name": "Smile Makeover Treatment in Whitefield, Bangalore",
+     "url": "https://aweblist.org/listing/smile-makeover-treatment-in-whitefield-bangalore-971093"
+    }
+   ]
+  },
+  {
+   "term": "photo maker",
+   "count": 3,
+   "sources": 3,
+   "ratio": 47.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "FreePassportPic",
+     "url": "https://freepassportpic.pages.dev/"
+    },
+    {
+     "name": "PassportPhoto.app",
+     "url": "https://azn8.com/listing/passportphoto-app"
+    },
+    {
+     "name": "PhotoFix Passport, visa & exam photo maker for India 💬 0 Com",
+     "url": "https://thehackstack.com/s/photofix"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "ows agency",
+   "size": 8,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Branding Firm | ows agency",
+     "url": "https://aweblist.org/listing/branding-firm-ows-agency-971065"
+    },
+    {
+     "name": "Branding Services | ows agency",
+     "url": "https://aweblist.org/listing/branding-services-ows-agency-971066"
+    },
+    {
+     "name": "Social Media Marketing Agency Near Me | ows agency",
+     "url": "https://exampledir.com/listing/social-media-marketing-agency-near-me-ows-agency-313310"
+    },
+    {
+     "name": "Social Media Marketing Agency |ows agency",
+     "url": "https://aweblist.org/listing/social-media-marketing-agency-ows-agency-971076"
+    }
+   ]
+  },
+  {
+   "term": "second vertical video",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "MemeRemake",
+     "url": "https://memeremake.com/"
+    },
+    {
+     "name": "PetAIVideo",
+     "url": "https://azn8.com/listing/petaivideo"
+    },
+    {
+     "name": "PetAIVideo One pet photo in, a 10-second vertical video out ",
+     "url": "https://thehackstack.com/s/petaivideo"
+    }
+   ]
+  },
+  {
+   "term": "excel xlsx file",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Bulk Barcode Generator",
+     "url": "https://whatareyoubuilding.ai/product/J3aEiWDgcYoU6NMJCGUY"
+    },
+    {
+     "name": "Bulk QR Code Generator",
+     "url": "https://whatareyoubuilding.ai/product/Ie0wsxPQxtiGGxMn5SQj"
+    },
+    {
+     "name": "Numbers2Excel: Open a spreadsheet someone made on a Mac by t",
+     "url": "https://saasolution.io/tool/numbers2excel"
+    }
+   ]
+  },
+  {
+   "term": "file download",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "AI Excel Translator",
+     "url": "https://whatareyoubuilding.ai/product/xUecNSSPcVrsTZ0maxTI"
+    },
+    {
+     "name": "MediaFire File Download",
+     "url": "https://dealmyapp.com/listings/mediafire-file-download"
+    },
+    {
+     "name": "MotifDeck",
+     "url": "https://motifdeck.com/"
+    }
+   ]
+  },
+  {
+   "term": "cosmetic dental",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Dental Clinic in Kadugodi",
+     "url": "https://aweblist.org/listing/dental-clinic-in-kadugodi-971104"
+    },
+    {
+     "name": "Dental Veneers in Gachibowli | Porcelain & Cosmetic Veneers",
+     "url": "https://huludirectory.com/listing/dental-veneers-in-gachibowli-porcelain-and-cosmetic-veneers-2260212"
+    },
+    {
+     "name": "Smile Makeover Treatment in Whitefield, Bangalore",
+     "url": "https://aweblist.org/listing/smile-makeover-treatment-in-whitefield-bangalore-971093"
+    }
+   ]
+  },
+  {
+   "term": "dental treatment",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best dental clinic in Jaipur",
+     "url": "https://aweblist.org/listing/best-dental-clinic-in-jaipur-971097"
+    },
+    {
+     "name": "Best Dentel clinic In Jaipur",
+     "url": "https://huludirectory.com/listing/best-dentel-clinic-in-jaipur-2260236"
+    },
+    {
+     "name": "Dental Clinic in Kadugodi",
+     "url": "https://aweblist.org/listing/dental-clinic-in-kadugodi-971104"
+    }
+   ]
+  },
+  {
+   "term": "photo maker",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "FreePassportPic",
+     "url": "https://freepassportpic.pages.dev/"
+    },
+    {
+     "name": "PassportPhoto.app",
+     "url": "https://azn8.com/listing/passportphoto-app"
+    },
+    {
+     "name": "PhotoFix Passport, visa & exam photo maker for India 💬 0 Com",
+     "url": "https://thehackstack.com/s/photofix"
+    }
+   ]
+  },
+  {
+   "term": "writing process",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "From Writing Advice to Manuscript Governance: A Constrained-",
+     "url": "https://arxiv.org/abs/2610.33001"
+    },
+    {
+     "name": "Wills in Abu Dhabi | The Will Writing Process",
+     "url": "https://exampledir.com/listing/wills-in-abu-dhabi-the-will-writing-process-313307"
+    },
+    {
+     "name": "Wills in Dubai | The Will Writing Process",
+     "url": "https://exampledir.com/listing/wills-in-dubai-the-will-writing-process-313306"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「ows agency」今日 8 个产品/2 个目录：Social Media Marketing Services | ows agency、Social Media Marketing Agency |ows agency",
+  "小词「second vertical video」今日 3 个产品/3 个目录：MemeRemake、PetAIVideo",
+  "小词「excel xlsx file」今日 3 个产品/2 个目录：Bulk Barcode Generator、Bulk QR Code Generator",
+  "同日小簇「ows agency」8 个相似产品：Branding Firm | ows agency、Branding Services | ows agency、Social Media Marketing Agency Near Me | ows agency",
+  "同日小簇「second vertical video」3 个相似产品：MemeRemake、PetAIVideo、PetAIVideo One pet photo in, a 10-second vertical video out ",
+  "跨目录同时出现：aniccaai.com（3 个目录）",
+  "跨目录同时出现：clear-pdf-converter.com（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-10-27.md",
+ "niche_groups": "- 社交媒体营销代理：ows agency、develop stronger relationship、prioritize creativity consistency —— 提供社交媒体营销服务及客户关系维护的代理机构\n- AI视频生成与特效：second vertical video、genjutsu ai recast、trend preset supply、original vocal beat —— 利用AI技术进行视频重制、特效生成及垂直短视频创作\n- 牙科诊所与治疗：beautiful straighter smile、root canal treatment、comprehensive dental treatment —— 提供牙齿矫正、根管治疗等综合牙科医疗服务\n- 手动润滑泵具：hand operated grease、operated grease pump —— 生产用于工业或汽车维护的手动操作润滑脂泵\n- 健康健身与戒烟应用：health fitness mobile —— 提供健身训练、戒烟辅助等移动端健康应用及服务\n- 批量文件生成工具：excel xlsx file —— 基于Excel格式进行批量条形码或二维码生成的工具"
+}

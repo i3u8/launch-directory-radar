@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-10-26** · 新增 1632 · 监控 197 个目录（今日成功 183）
+**2026-10-27** · 新增 1537 · 监控 197 个目录（今日成功 181）
 
 聚焦小词 Top 15:
 
-- `practice test` ×11（2 目录） 🆕：ExamJungle: AI-powered IT certification exam practice & simu；Youth4work Haryana SSC Clerk Practice Tests
-- `design skill needed` ×3（3 目录） 🆕：HausDraft；HausDraft AI Room Design
-- `data galactica` ×11（2 目录）：Data Galactica Top Companies in Ireland；Data Galactica Top Companies in Poland
-- `booking option` ×4（2 目录） 🆕：Best Hotel in Bathinda for a Comfortable Stay；Washington to Hyderabad Flights Compare Ticket Prices
-- `luxury spa` ×4（2 目录） 🆕：Modern Beauty Best Spa | Best Luxury Spa in Somajiguda, Hyde；Best Spa & Best Wellness Experience luxury in narsingi
-- `ai native funnel` ×2（2 目录） 🆕：Autonnel；Autonnel Open-source, AI-native funnel builder for e-commerc
-- `interest funding rate` ×2（2 目录） 🆕：CoinBoss；Coin Boss
-- `sale crm` ×11（2 目录）：Bridge CRM: Get every ad lead to the right salesperson in se；Best Sales CRM Software in Kochi, Kerala | OCRM
-- `3d print stl` ×2（2 目录） 🆕：MYSTIQUE LAB Etsy Digital & STL Vault；Support Free 3D Print Stl And Seller Spreadsheets Vault
-- `baby hygiene safe` ×2（3 目录） 🆕：infant care maid in singapore；infant care maid singapore
-- `chennai tamil nadu` ×2（2 目录） 🆕：Best Sales CRM Software in Chennai, Tamil Nadu - OCRM；IndiaCos Shared Business Addresses in Chennai
-- `database setup required` ×2（2 目录） 🆕：OMOPHub - Medical Terminology API；OMOPHub - Medical Terminology API for SNOMED, ICD-10, LOINC 
-- `feedback poor marketing` ×2（4 目录） 🆕：Common Mobile App Launch Mistakes to Avoid Before and After ；How Can You Avoid Common Mobile App Launch Mistakes
-- `mental health screening` ×2（2 目录） 🆕：LuriaLab；Lurialab Free Online Mental Health Screenings
-- `multi agent system` ×2（2 目录） 🆕：Knowing Whom to Trust is not Enough: The Trust--Agreement Ga；Multi-agent systems: how they work and when to use them
+- `ows agency` ×8（2 目录） 🆕：Social Media Marketing Services | ows agency；Social Media Marketing Agency |ows agency
+- `second vertical video` ×3（3 目录） 🆕：MemeRemake；PetAIVideo
+- `excel xlsx file` ×3（2 目录） 🆕：Bulk Barcode Generator；Bulk QR Code Generator
+- `genjutsu ai recast` ×2（2 目录） 🆕：Genjutsu AI；Genjutsu AI Video Generator
+- `health fitness mobile` ×2（2 目录） 🆕：Liftor: iPhone fitness app, source code, website and brand；Pouch Free: Quit Nicotine
+- `beautiful straighter smile` ×2（2 目录） 🆕：Best Dentel clinic In Jaipur；Best dental clinic in Jaipur
+- `connected stripe account` ×2（2 目录） 🆕：ProInvoice: Bill the balance of an accepted quote and get pa；ProInvoice
+- `develop stronger relationship` ×2（2 目录） 🆕：Social Media Marketing Agency Near Me | SMM agency；Social Media Marketing Agency Near Me | ows agency
+- `eyelash extension manufacturer` ×2（2 目录） 🆕：LOKNZW — Eyelash Extensions；Loknzw Eyelash Extensions Manufacturer And Beauty Tools
+- `hand operated grease` ×2（2 目录） 🆕：Manual Grease Pump for 5 Gallon Bucket | Hand Operated | Iso；Hand-Operated Grease Pump for 5 Gallon Pails - IsoHiTech
+- `minimax m3.1 flash` ×2（2 目录） 🆕：MiniMax M3.1 Flash vs M3：更便宜但未必更快更好；SpaceBunny
+- `original vocal beat` ×2（4 目录） 🆕：AirapVideo1；AirapVideo1 Photo to AI rap video with original vocals, beat
+- `rapid auto shipping` ×2（2 目录） 🆕：Alaska Car Transport Requires Planning for Long-Distance Veh；Rapid Auto Shipping Helps Americans Arrange Convenient Natio
+- `root canal treatment` ×2（2 目录） 🆕：Root Canal Treatment in Hyderabad – Restore Your Natural Too；Dental Concepts
+- `supporting long term` ×2（2 目录） 🆕：Root Canal Treatment in Hyderabad – Restore Your Natural Too；Prenuptial Agreements in the UAE | Maan IGP
 
 微赛道归纳:
 
-- AI原生电商漏斗构建：ai native funnel、native funnel builder —— 利用AI技术自动化构建电商销售转化流程
-- 销售线索管理与CRM：sale crm、chennai tamil nadu —— 将广告线索精准分配给销售人员的客户关系管理系统
-- IT认证与职业考试练习：practice test —— 提供AI驱动的IT认证及各类职业资格考试模拟与练习
-- 本地化高端水疗与康养：luxury spa、luxury spa experience —— 提供高端SPA及身心康养体验的本地生活服务
-- 医疗术语标准化接口：medical terminology api、database setup required —— 提供SNOMED、ICD-10等医疗标准术语的API数据服务
-- 3D打印数字资源库：3d print stl —— 提供3D打印STL模型文件及卖家数据表的数字资源平台
+- 社交媒体营销代理：ows agency、develop stronger relationship、prioritize creativity consistency —— 提供社交媒体营销服务及客户关系维护的代理机构
+- AI视频生成与特效：second vertical video、genjutsu ai recast、trend preset supply、original vocal beat —— 利用AI技术进行视频重制、特效生成及垂直短视频创作
+- 牙科诊所与治疗：beautiful straighter smile、root canal treatment、comprehensive dental treatment —— 提供牙齿矫正、根管治疗等综合牙科医疗服务
+- 手动润滑泵具：hand operated grease、operated grease pump —— 生产用于工业或汽车维护的手动操作润滑脂泵
+- 健康健身与戒烟应用：health fitness mobile —— 提供健身训练、戒烟辅助等移动端健康应用及服务
+- 批量文件生成工具：excel xlsx file —— 基于Excel格式进行批量条形码或二维码生成的工具
 
-完整报告: [reports/2026-10-26.md](reports/2026-10-26.md)
+完整报告: [reports/2026-10-27.md](reports/2026-10-27.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
