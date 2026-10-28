@@ -1,0 +1,661 @@
+{
+ "date": "2026-10-28",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 183,
+ "sources_failed": 14,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "promotebusinessdirectory-com",
+  "sitelike-org",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "promotebusinessdirectory-com",
+  "sitelike-org",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1564,
+ "new_today_unique": 1403,
+ "ai_share_today": 0.28,
+ "ai_share_30d": 0.3,
+ "niche_terms": [
+  {
+   "term": "travel dau rental",
+   "count": 4,
+   "sources": 2,
+   "ratio": 70.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Rent Bike In Amritsar for Convenient and Affordable Travel -",
+     "url": "https://exampledir.com/listing/rent-bike-in-amritsar-for-convenient-and-affordable-travel--dau-rental-313437"
+    },
+    {
+     "name": "Bike on Rent in Agra for Convenient City Travel - Dau Rental",
+     "url": "https://exampledir.com/listing/bike-on-rent-in-agra-for-convenient-city-travel--dau-rental-313424"
+    },
+    {
+     "name": "Scooty on Rent in Chandigarh for Easy and Affordable Travel ",
+     "url": "https://exampledir.com/listing/scooty-on-rent-in-chandigarh-for-easy-and-affordable-travel--dau-rental-313430"
+    }
+   ]
+  },
+  {
+   "term": "effective pest control",
+   "count": 3,
+   "sources": 3,
+   "ratio": 52.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Effective Pest Control Solutions for a Healthier Environment",
+     "url": "https://exampledir.com/listing/effective-pest-control-solutions-for-a-healthier-environment-313394"
+    },
+    {
+     "name": "Fair Deal",
+     "url": "https://directory6.org/listing/fair-deal-720537"
+    },
+    {
+     "name": "Fair Deal Pest Control",
+     "url": "https://directory6.org/listing/fair-deal-pest-control-720536"
+    }
+   ]
+  },
+  {
+   "term": "leading manufacturer",
+   "count": 4,
+   "sources": 3,
+   "ratio": 70.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Super Duplex S32750 Tubes Manufacturers in India",
+     "url": "https://directory6.org/listing/super-duplex-s32750-tubes-manufacturers-in-india-720525"
+    },
+    {
+     "name": "Super Duplex S32750 Tubes Suppliers in India",
+     "url": "https://aweblist.org/listing/super-duplex-s32750-tubes-suppliers-in-india-971462"
+    },
+    {
+     "name": "CTI Gear Cutting Hobs",
+     "url": "https://directory6.org/listing/cti-gear-cutting-hobs-720540"
+    }
+   ]
+  },
+  {
+   "term": "football match prediction",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Footalytics",
+     "url": "https://whatareyoubuilding.ai/product/RiIluwE2JTmiSs3vIPW2"
+    },
+    {
+     "name": "Footalytics — AI football match predictions — score 45/100 (",
+     "url": "https://nothumansearch.ai/site/footalytics.farvor.com"
+    }
+   ]
+  },
+  {
+   "term": "image video studio",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Eidora",
+     "url": "https://eidora.io/"
+    },
+    {
+     "name": "Eidora AI image & video studio — 40 models, credits on the b",
+     "url": "https://thehackstack.com/s/eidora"
+    }
+   ]
+  },
+  {
+   "term": "method commission pay",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Invisible Engine",
+     "url": "https://whatareyoubuilding.ai/product/PyyGLW0Z2iVNphDvVerr"
+    },
+    {
+     "name": "Invisible Engine | Your Unfair Search Advantage — score 50/1",
+     "url": "https://nothumansearch.ai/site/invisible.is"
+    }
+   ]
+  },
+  {
+   "term": "tiny desk concert",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Tiny Desk AI",
+     "url": "https://tinydeskaigen.com/"
+    },
+    {
+     "name": "Tiny Desk AI Put your friends in an AI Tiny Desk concert vid",
+     "url": "https://thehackstack.com/s/tinydeskaigen"
+    }
+   ]
+  },
+  {
+   "term": "attract targeted traffic",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best SEO Services India",
+     "url": "https://exampledir.com/listing/best-seo-services-india-313425"
+    },
+    {
+     "name": "SEO INDIA",
+     "url": "https://directory6.org/listing/seo-india-720514"
+    }
+   ]
+  },
+  {
+   "term": "biodegradable areca leaf",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Areca Palm Leaf Plates Exporter",
+     "url": "https://directory6.org/listing/areca-palm-leaf-plates-exporter-720522"
+    },
+    {
+     "name": "biodegradable dinnerware Exporter",
+     "url": "https://aweblist.org/listing/biodegradable-dinnerware-exporter-971434"
+    }
+   ]
+  },
+  {
+   "term": "bookkeeping case study",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Accounting & Bookkeeping (FNS40222) Assignment Help",
+     "url": "https://exampledir.com/listing/accounting-and-bookkeeping-(fns40222-assignment-help-313420"
+    },
+    {
+     "name": "FNS40222 Accounting & Bookkeeping Assignment Help",
+     "url": "https://huludirectory.com/listing/fns40222-accounting-and-bookkeeping-assignment-help-2260394"
+    }
+   ]
+  },
+  {
+   "term": "cause pain swelling",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Common Wrist Injuries and Conditions: Wrist Specialist in PC",
+     "url": "https://aweblist.org/listing/common-wrist-injuries-and-conditions-wrist-specialist-in-pcmc-971433"
+    },
+    {
+     "name": "ommon Wrist Injuries and Conditions: Wrist Specialist in PCM",
+     "url": "https://directory6.org/listing/ommon-wrist-injuries-and-conditions-wrist-specialist-in-pcmc-720518"
+    }
+   ]
+  },
+  {
+   "term": "damage restoration los",
+   "count": 2,
+   "sources": 3,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fire Damage Restoration Los Angeles: Complete Guide to Fire,",
+     "url": "https://directory6.org/listing/fire-damage-restoration-los-angeles-complete-guide-to-fire-smoke-and-soot-damage-recovery-720552"
+    },
+    {
+     "name": "Water Damage Restoration Los Angeles: Complete Guide to Wate",
+     "url": "https://exampledir.com/listing/water-damage-restoration-los-angeles-complete-guide-to-water-damage-cleanup-drying-and-property-repair-313438"
+    }
+   ]
+  },
+  {
+   "term": "engine plan write",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Invisible Engine | Your Unfair Search Advantage — score 50/1",
+     "url": "https://nothumansearch.ai/site/invisible.is"
+    },
+    {
+     "name": "Invisible Engine Plan, write, and launch affiliate websites ",
+     "url": "https://thehackstack.com/s/invisible"
+    }
+   ]
+  },
+  {
+   "term": "eye makeup cosmetic",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Browse Professional Eye Makeup Cosmetics in Zambia",
+     "url": "https://aweblist.org/listing/browse-professional-eye-makeup-cosmetics-in-zambia-971472"
+    },
+    {
+     "name": "Find Professional Eye Makeup Cosmetics in Zambia",
+     "url": "https://exampledir.com/listing/find-professional-eye-makeup-cosmetics-in-zambia-313434"
+    }
+   ]
+  },
+  {
+   "term": "kids early learning",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "kids early learning Lyndhurst",
+     "url": "https://aweblist.org/listing/kids-early-learning-lyndhurst-971459"
+    },
+    {
+     "name": "kids early learning centre Lyndhurst",
+     "url": "https://exampledir.com/listing/kids-early-learning-centre-lyndhurst-313427"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "travel dau",
+   "count": 4,
+   "sources": 2,
+   "ratio": 70.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Rent Bike In Amritsar for Convenient and Affordable Travel -",
+     "url": "https://exampledir.com/listing/rent-bike-in-amritsar-for-convenient-and-affordable-travel--dau-rental-313437"
+    },
+    {
+     "name": "Bike on Rent in Agra for Convenient City Travel - Dau Rental",
+     "url": "https://exampledir.com/listing/bike-on-rent-in-agra-for-convenient-city-travel--dau-rental-313424"
+    },
+    {
+     "name": "Scooty on Rent in Chandigarh for Easy and Affordable Travel ",
+     "url": "https://exampledir.com/listing/scooty-on-rent-in-chandigarh-for-easy-and-affordable-travel--dau-rental-313430"
+    }
+   ]
+  },
+  {
+   "term": "publishe topical authority",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Invisible Engine",
+     "url": "https://whatareyoubuilding.ai/product/PyyGLW0Z2iVNphDvVerr"
+    },
+    {
+     "name": "Invisible Engine | Your Unfair Search Advantage — score 50/1",
+     "url": "https://nothumansearch.ai/site/invisible.is"
+    }
+   ]
+  },
+  {
+   "term": "ant control cockroach",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fair Deal",
+     "url": "https://directory6.org/listing/fair-deal-720537"
+    },
+    {
+     "name": "Fair Deal Pest Control",
+     "url": "https://directory6.org/listing/fair-deal-pest-control-720536"
+    }
+   ]
+  },
+  {
+   "term": "blade gear hobs",
+   "count": 2,
+   "sources": 3,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "CTI Gear Cutting Hobs",
+     "url": "https://directory6.org/listing/cti-gear-cutting-hobs-720540"
+    },
+    {
+     "name": "CTI Gear Hobs",
+     "url": "https://aweblist.org/listing/cti-gear-hobs-971455"
+    }
+   ]
+  },
+  {
+   "term": "case study double",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Accounting & Bookkeeping (FNS40222) Assignment Help",
+     "url": "https://exampledir.com/listing/accounting-and-bookkeeping-(fns40222-assignment-help-313420"
+    },
+    {
+     "name": "FNS40222 Accounting & Bookkeeping Assignment Help",
+     "url": "https://huludirectory.com/listing/fns40222-accounting-and-bookkeeping-assignment-help-2260394"
+    }
+   ]
+  },
+  {
+   "term": "condition wrist specialist",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Common Wrist Injuries and Conditions: Wrist Specialist in PC",
+     "url": "https://aweblist.org/listing/common-wrist-injuries-and-conditions-wrist-specialist-in-pcmc-971433"
+    },
+    {
+     "name": "ommon Wrist Injuries and Conditions: Wrist Specialist in PCM",
+     "url": "https://directory6.org/listing/ommon-wrist-injuries-and-conditions-wrist-specialist-in-pcmc-720518"
+    }
+   ]
+  },
+  {
+   "term": "content hence showing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Super Duplex S32750 Tubes Manufacturers in India",
+     "url": "https://directory6.org/listing/super-duplex-s32750-tubes-manufacturers-in-india-720525"
+    },
+    {
+     "name": "Super Duplex S32750 Tubes Suppliers in India",
+     "url": "https://aweblist.org/listing/super-duplex-s32750-tubes-suppliers-in-india-971462"
+    }
+   ]
+  },
+  {
+   "term": "data driven approach",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best SEO Services India",
+     "url": "https://exampledir.com/listing/best-seo-services-india-313425"
+    },
+    {
+     "name": "SEO INDIA",
+     "url": "https://directory6.org/listing/seo-india-720514"
+    }
+   ]
+  },
+  {
+   "term": "export biodegradable areca",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Areca Palm Leaf Plates Exporter",
+     "url": "https://directory6.org/listing/areca-palm-leaf-plates-exporter-720522"
+    },
+    {
+     "name": "biodegradable dinnerware Exporter",
+     "url": "https://aweblist.org/listing/biodegradable-dinnerware-exporter-971434"
+    }
+   ]
+  },
+  {
+   "term": "invisible engine plan",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Invisible Engine | Your Unfair Search Advantage — score 50/1",
+     "url": "https://nothumansearch.ai/site/invisible.is"
+    },
+    {
+     "name": "Invisible Engine Plan, write, and launch affiliate websites ",
+     "url": "https://thehackstack.com/s/invisible"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "travel dau rental",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Activa on Rent in Varanasi for Convenient City Travel - Dau ",
+     "url": "https://exampledir.com/listing/activa-on-rent-in-varanasi-for-convenient-city-travel--dau-rental-313433"
+    },
+    {
+     "name": "Bike on Rent in Agra for Convenient City Travel - Dau Rental",
+     "url": "https://exampledir.com/listing/bike-on-rent-in-agra-for-convenient-city-travel--dau-rental-313424"
+    },
+    {
+     "name": "Rent Bike In Amritsar for Convenient and Affordable Travel -",
+     "url": "https://exampledir.com/listing/rent-bike-in-amritsar-for-convenient-and-affordable-travel--dau-rental-313437"
+    },
+    {
+     "name": "Scooty on Rent in Chandigarh for Easy and Affordable Travel ",
+     "url": "https://exampledir.com/listing/scooty-on-rent-in-chandigarh-for-easy-and-affordable-travel--dau-rental-313430"
+    }
+   ]
+  },
+  {
+   "term": "effective pest control",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Effective Pest Control Solutions for a Healthier Environment",
+     "url": "https://exampledir.com/listing/effective-pest-control-solutions-for-a-healthier-environment-313394"
+    },
+    {
+     "name": "Fair Deal",
+     "url": "https://directory6.org/listing/fair-deal-720537"
+    },
+    {
+     "name": "Fair Deal Pest Control",
+     "url": "https://directory6.org/listing/fair-deal-pest-control-720536"
+    }
+   ]
+  },
+  {
+   "term": "leading manufacturer",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "CTI Gear Cutting Hobs",
+     "url": "https://directory6.org/listing/cti-gear-cutting-hobs-720540"
+    },
+    {
+     "name": "CTI Gear Hobs",
+     "url": "https://aweblist.org/listing/cti-gear-hobs-971455"
+    },
+    {
+     "name": "Super Duplex S32750 Tubes Manufacturers in India",
+     "url": "https://directory6.org/listing/super-duplex-s32750-tubes-manufacturers-in-india-720525"
+    },
+    {
+     "name": "Super Duplex S32750 Tubes Suppliers in India",
+     "url": "https://aweblist.org/listing/super-duplex-s32750-tubes-suppliers-in-india-971462"
+    }
+   ]
+  },
+  {
+   "term": "affiliate website",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Invisible Engine",
+     "url": "https://aiagentsdirectory.com/agent/invisible-engine"
+    },
+    {
+     "name": "Invisible Engine Plan, write, and launch affiliate websites ",
+     "url": "https://thehackstack.com/s/invisible"
+    },
+    {
+     "name": "Invisible Engine | Your Unfair Search Advantage — score 50/1",
+     "url": "https://nothumansearch.ai/site/invisible.is"
+    }
+   ]
+  },
+  {
+   "term": "visual asset",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "GridBulk",
+     "url": "https://agentic.ai/t/gridbulk"
+    },
+    {
+     "name": "InkRoom",
+     "url": "https://agentic.ai/t/inkroom"
+    },
+    {
+     "name": "SurgePix",
+     "url": "https://surgepix.ai/"
+    }
+   ]
+  },
+  {
+   "term": "convenient option",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Activa on Rent in Varanasi for Convenient City Travel - Dau ",
+     "url": "https://exampledir.com/listing/activa-on-rent-in-varanasi-for-convenient-city-travel--dau-rental-313433"
+    },
+    {
+     "name": "Butter Chicken Restaurant Near Me | TT",
+     "url": "https://exampledir.com/listing/butter-chicken-restaurant-near-me--tt-313391"
+    },
+    {
+     "name": "Scooty on Rent in Chandigarh for Easy and Affordable Travel ",
+     "url": "https://exampledir.com/listing/scooty-on-rent-in-chandigarh-for-easy-and-affordable-travel--dau-rental-313430"
+    }
+   ]
+  },
+  {
+   "term": "sample collection",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best Blood Tests Center near me in Lakhimpur Kheri | No - 1",
+     "url": "https://directory6.org/listing/best-blood-tests-center-near-me-in-lakhimpur-kheri-no--1-720528"
+    },
+    {
+     "name": "Home Blood Sample Collection, Malaysia - Mobile Phlebotomy",
+     "url": "https://huludirectory.com/listing/home-blood-sample-collection-malaysia--mobile-phlebotomy-2260409"
+    },
+    {
+     "name": "MobiLab2u Home Blood Test & Tele Consultation in Malaysia",
+     "url": "https://huludirectory.com/listing/mobilab2u-home-blood-test-and-tele-consultation-in-malaysia-2260402"
+    }
+   ]
+  },
+  {
+   "term": "ai tiny desk",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "AI Tiny Desk",
+     "url": "https://azn8.com/listing/ai-tiny-desk"
+    },
+    {
+     "name": "Tiny Desk Ai",
+     "url": "https://agents-launch.lovable.app/agents/tiny-desk-ai"
+    },
+    {
+     "name": "Tiny Desk AI Put your friends in an AI Tiny Desk concert vid",
+     "url": "https://thehackstack.com/s/tinydeskaigen"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「travel dau rental」今日 4 个产品/2 个目录：Rent Bike In Amritsar for Convenient and Affordable Travel -、Bike on Rent in Agra for Convenient City Travel - Dau Rental",
+  "小词「effective pest control」今日 3 个产品/3 个目录：Effective Pest Control Solutions for a Healthier Environment、Fair Deal",
+  "小词「leading manufacturer」今日 4 个产品/3 个目录：Super Duplex S32750 Tubes Manufacturers in India、Super Duplex S32750 Tubes Suppliers in India",
+  "同日小簇「travel dau rental」4 个相似产品：Activa on Rent in Varanasi for Convenient City Travel - Dau 、Bike on Rent in Agra for Convenient City Travel - Dau Rental、Rent Bike In Amritsar for Convenient and Affordable Travel -",
+  "同日小簇「effective pest control」3 个相似产品：Effective Pest Control Solutions for a Healthier Environment、Fair Deal、Fair Deal Pest Control",
+  "跨目录同时出现：artgen.net（4 个目录）",
+  "跨目录同时出现：lizecheng.net（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-10-28.md",
+ "niche_groups": "- 印度自行车租赁：travel dau rental、travel dau —— 提供印度城市（如阿姆利则、阿格拉）的便捷自行车租赁服务\n- 害虫防治服务：effective pest control、ant control cockroach —— 提供针对蟑螂等害虫的有效控制解决方案\n- 工业管材制造：leading manufacturer —— 专注于超级双相不锈钢管等工业管材的制造与供应\n- AI足球预测：football match prediction —— 利用AI技术进行足球比赛比分预测\n- AI图像视频创作：image video studio、tiny desk concert —— 提供多模型AI图像视频生成及趣味AI演唱会视频制作工具\n- SEO与内容营销：method commission pay、attract targeted traffic、publishe topical authority、engine plan write —— 提供SEO优化、联盟网站构建及提升搜索排名的数字营销服务"
+}

@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-10-27** · 新增 1537 · 监控 197 个目录（今日成功 181）
+**2026-10-28** · 新增 1564 · 监控 197 个目录（今日成功 183）
 
 聚焦小词 Top 15:
 
-- `ows agency` ×8（2 目录） 🆕：Social Media Marketing Services | ows agency；Social Media Marketing Agency |ows agency
-- `second vertical video` ×3（3 目录） 🆕：MemeRemake；PetAIVideo
-- `excel xlsx file` ×3（2 目录） 🆕：Bulk Barcode Generator；Bulk QR Code Generator
-- `genjutsu ai recast` ×2（2 目录） 🆕：Genjutsu AI；Genjutsu AI Video Generator
-- `health fitness mobile` ×2（2 目录） 🆕：Liftor: iPhone fitness app, source code, website and brand；Pouch Free: Quit Nicotine
-- `beautiful straighter smile` ×2（2 目录） 🆕：Best Dentel clinic In Jaipur；Best dental clinic in Jaipur
-- `connected stripe account` ×2（2 目录） 🆕：ProInvoice: Bill the balance of an accepted quote and get pa；ProInvoice
-- `develop stronger relationship` ×2（2 目录） 🆕：Social Media Marketing Agency Near Me | SMM agency；Social Media Marketing Agency Near Me | ows agency
-- `eyelash extension manufacturer` ×2（2 目录） 🆕：LOKNZW — Eyelash Extensions；Loknzw Eyelash Extensions Manufacturer And Beauty Tools
-- `hand operated grease` ×2（2 目录） 🆕：Manual Grease Pump for 5 Gallon Bucket | Hand Operated | Iso；Hand-Operated Grease Pump for 5 Gallon Pails - IsoHiTech
-- `minimax m3.1 flash` ×2（2 目录） 🆕：MiniMax M3.1 Flash vs M3：更便宜但未必更快更好；SpaceBunny
-- `original vocal beat` ×2（4 目录） 🆕：AirapVideo1；AirapVideo1 Photo to AI rap video with original vocals, beat
-- `rapid auto shipping` ×2（2 目录） 🆕：Alaska Car Transport Requires Planning for Long-Distance Veh；Rapid Auto Shipping Helps Americans Arrange Convenient Natio
-- `root canal treatment` ×2（2 目录） 🆕：Root Canal Treatment in Hyderabad – Restore Your Natural Too；Dental Concepts
-- `supporting long term` ×2（2 目录） 🆕：Root Canal Treatment in Hyderabad – Restore Your Natural Too；Prenuptial Agreements in the UAE | Maan IGP
+- `travel dau rental` ×4（2 目录） 🆕：Rent Bike In Amritsar for Convenient and Affordable Travel -；Bike on Rent in Agra for Convenient City Travel - Dau Rental
+- `effective pest control` ×3（3 目录） 🆕：Effective Pest Control Solutions for a Healthier Environment；Fair Deal
+- `leading manufacturer` ×4（3 目录） 🆕：Super Duplex S32750 Tubes Manufacturers in India；Super Duplex S32750 Tubes Suppliers in India
+- `football match prediction` ×2（2 目录） 🆕：Footalytics；Footalytics — AI football match predictions — score 45/100 (
+- `image video studio` ×2（2 目录） 🆕：Eidora；Eidora AI image & video studio — 40 models, credits on the b
+- `method commission pay` ×2（2 目录） 🆕：Invisible Engine；Invisible Engine | Your Unfair Search Advantage — score 50/1
+- `tiny desk concert` ×2（2 目录） 🆕：Tiny Desk AI；Tiny Desk AI Put your friends in an AI Tiny Desk concert vid
+- `attract targeted traffic` ×2（2 目录） 🆕：Best SEO Services India；SEO INDIA
+- `biodegradable areca leaf` ×2（2 目录） 🆕：Areca Palm Leaf Plates Exporter；biodegradable dinnerware Exporter
+- `bookkeeping case study` ×2（2 目录） 🆕：Accounting & Bookkeeping (FNS40222) Assignment Help；FNS40222 Accounting & Bookkeeping Assignment Help
+- `cause pain swelling` ×2（2 目录） 🆕：Common Wrist Injuries and Conditions: Wrist Specialist in PC；ommon Wrist Injuries and Conditions: Wrist Specialist in PCM
+- `damage restoration los` ×2（3 目录） 🆕：Fire Damage Restoration Los Angeles: Complete Guide to Fire,；Water Damage Restoration Los Angeles: Complete Guide to Wate
+- `engine plan write` ×2（2 目录） 🆕：Invisible Engine | Your Unfair Search Advantage — score 50/1；Invisible Engine Plan, write, and launch affiliate websites 
+- `eye makeup cosmetic` ×2（2 目录） 🆕：Browse Professional Eye Makeup Cosmetics in Zambia；Find Professional Eye Makeup Cosmetics in Zambia
+- `kids early learning` ×2（2 目录） 🆕：kids early learning Lyndhurst；kids early learning centre Lyndhurst
 
 微赛道归纳:
 
-- 社交媒体营销代理：ows agency、develop stronger relationship、prioritize creativity consistency —— 提供社交媒体营销服务及客户关系维护的代理机构
-- AI视频生成与特效：second vertical video、genjutsu ai recast、trend preset supply、original vocal beat —— 利用AI技术进行视频重制、特效生成及垂直短视频创作
-- 牙科诊所与治疗：beautiful straighter smile、root canal treatment、comprehensive dental treatment —— 提供牙齿矫正、根管治疗等综合牙科医疗服务
-- 手动润滑泵具：hand operated grease、operated grease pump —— 生产用于工业或汽车维护的手动操作润滑脂泵
-- 健康健身与戒烟应用：health fitness mobile —— 提供健身训练、戒烟辅助等移动端健康应用及服务
-- 批量文件生成工具：excel xlsx file —— 基于Excel格式进行批量条形码或二维码生成的工具
+- 印度自行车租赁：travel dau rental、travel dau —— 提供印度城市（如阿姆利则、阿格拉）的便捷自行车租赁服务
+- 害虫防治服务：effective pest control、ant control cockroach —— 提供针对蟑螂等害虫的有效控制解决方案
+- 工业管材制造：leading manufacturer —— 专注于超级双相不锈钢管等工业管材的制造与供应
+- AI足球预测：football match prediction —— 利用AI技术进行足球比赛比分预测
+- AI图像视频创作：image video studio、tiny desk concert —— 提供多模型AI图像视频生成及趣味AI演唱会视频制作工具
+- SEO与内容营销：method commission pay、attract targeted traffic、publishe topical authority、engine plan write —— 提供SEO优化、联盟网站构建及提升搜索排名的数字营销服务
 
-完整报告: [reports/2026-10-27.md](reports/2026-10-27.md)
+完整报告: [reports/2026-10-28.md](reports/2026-10-28.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
