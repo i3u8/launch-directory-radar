@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-10-28** · 新增 1564 · 监控 197 个目录（今日成功 183）
+**2026-10-29** · 新增 1608 · 监控 197 个目录（今日成功 184）
 
 聚焦小词 Top 15:
 
-- `travel dau rental` ×4（2 目录） 🆕：Rent Bike In Amritsar for Convenient and Affordable Travel -；Bike on Rent in Agra for Convenient City Travel - Dau Rental
-- `effective pest control` ×3（3 目录） 🆕：Effective Pest Control Solutions for a Healthier Environment；Fair Deal
-- `leading manufacturer` ×4（3 目录） 🆕：Super Duplex S32750 Tubes Manufacturers in India；Super Duplex S32750 Tubes Suppliers in India
-- `football match prediction` ×2（2 目录） 🆕：Footalytics；Footalytics — AI football match predictions — score 45/100 (
-- `image video studio` ×2（2 目录） 🆕：Eidora；Eidora AI image & video studio — 40 models, credits on the b
-- `method commission pay` ×2（2 目录） 🆕：Invisible Engine；Invisible Engine | Your Unfair Search Advantage — score 50/1
-- `tiny desk concert` ×2（2 目录） 🆕：Tiny Desk AI；Tiny Desk AI Put your friends in an AI Tiny Desk concert vid
-- `attract targeted traffic` ×2（2 目录） 🆕：Best SEO Services India；SEO INDIA
-- `biodegradable areca leaf` ×2（2 目录） 🆕：Areca Palm Leaf Plates Exporter；biodegradable dinnerware Exporter
-- `bookkeeping case study` ×2（2 目录） 🆕：Accounting & Bookkeeping (FNS40222) Assignment Help；FNS40222 Accounting & Bookkeeping Assignment Help
-- `cause pain swelling` ×2（2 目录） 🆕：Common Wrist Injuries and Conditions: Wrist Specialist in PC；ommon Wrist Injuries and Conditions: Wrist Specialist in PCM
-- `damage restoration los` ×2（3 目录） 🆕：Fire Damage Restoration Los Angeles: Complete Guide to Fire,；Water Damage Restoration Los Angeles: Complete Guide to Wate
-- `engine plan write` ×2（2 目录） 🆕：Invisible Engine | Your Unfair Search Advantage — score 50/1；Invisible Engine Plan, write, and launch affiliate websites 
-- `eye makeup cosmetic` ×2（2 目录） 🆕：Browse Professional Eye Makeup Cosmetics in Zambia；Find Professional Eye Makeup Cosmetics in Zambia
-- `kids early learning` ×2（2 目录） 🆕：kids early learning Lyndhurst；kids early learning centre Lyndhurst
+- `aadiveer fab india` ×4（2 目录） 🆕：Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu；Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact
+- `outstanding tiny desk` ×4（5 目录） 🆕：Tiny Desk AI Video；Outstanding Tiny Desk
+- `commercial industrial agricultural` ×3（4 目录） 🆕：agriculture construction；commercial metal buildings
+- `access lahore karachi` ×2（2 目录） 🆕：VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed；VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed
+- `advertising social media` ×2（2 目录） 🆕：Blip: The fastest bulk ad launcher for media buyers；Brand Fuel Digital
+- `aircon light blinking` ×2（2 目录） 🆕：Aircon Light Blinking；Midea AC Light Blinking
+- `api integration expert` ×2（3 目录） 🆕：Flight Ticket API；Flight Ticket API01
+- `automate routine task` ×2（3 目录） 🆕：AI Chatbot Developer Singapore；LibControl – Library Management Software
+- `character stroke order` ×2（2 目录） 🆕：Lang Study；Chinese Stroke Order
+- `custom insulated bags` ×2（2 目录） 🆕：YUANEN Custom Insulated Bags；Custom Insulated Bags
+- `design ui ux` ×2（2 目录） 🆕：Website Design in Kolkata | Pink Shadow Media – Get Started；Digital Marketing Agency for Business Growth
+- `door supplier saudi` ×2（2 目录） 🆕：Fire Door Suppliers Saudi for Commercial Building Projects；Fire Door Suppliers Saudi for Fire-Safety Specification Plan
+- `elderly women jersey` ×2（2 目录） 🆕：computer repair support for elderly women jersey city nj；printer repair support for elderly women jersey city
+- `five social network` ×2（2 目录） 🆕：Forge；Statuz: Queue posts and threads for five social networks fro
+- `friday invoice chase` ×2（3 目录） 🆕：Friday Invoice Chase Ranker；Friday Invoice Chase
 
 微赛道归纳:
 
-- 印度自行车租赁：travel dau rental、travel dau —— 提供印度城市（如阿姆利则、阿格拉）的便捷自行车租赁服务
-- 害虫防治服务：effective pest control、ant control cockroach —— 提供针对蟑螂等害虫的有效控制解决方案
-- 工业管材制造：leading manufacturer —— 专注于超级双相不锈钢管等工业管材的制造与供应
-- AI足球预测：football match prediction —— 利用AI技术进行足球比赛比分预测
-- AI图像视频创作：image video studio、tiny desk concert —— 提供多模型AI图像视频生成及趣味AI演唱会视频制作工具
-- SEO与内容营销：method commission pay、attract targeted traffic、publishe topical authority、engine plan write —— 提供SEO优化、联盟网站构建及提升搜索排名的数字营销服务
+- 印度纺织面料供应：aadiveer fab india、fab india cater —— 提供印度本地面料制造与供应商服务
+- 巴基斯坦VPS主机服务：access lahore karachi、affordable vps server —— 面向巴基斯坦（拉合尔/卡拉奇）的VPS托管与管理服务
+- 沙特防火门供应：door supplier saudi、fire door supplier —— 为沙特商业建筑项目提供防火门及消防规范解决方案
+- 社交媒体广告与内容管理：advertising social media、five social network —— 提供批量广告发布及多平台社交内容队列管理工具
+- 中文汉字笔顺学习：character stroke order、chinese character stroke —— 提供汉字笔顺顺序查询与语言学习辅助
+- AI自动化与API集成：automate routine task、api integration expert —— 提供AI聊天机器人开发、常规任务自动化及机票等API接口服务
 
-完整报告: [reports/2026-10-28.md](reports/2026-10-28.md)
+完整报告: [reports/2026-10-29.md](reports/2026-10-29.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

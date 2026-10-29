@@ -1,27 +1,27 @@
-# 每日目录雷达 2026-10-28
+# 每日目录雷达 2026-10-29
 
-- 监控目录 197 / 筛查目录 478；今日成功 183，失败 14；连续失败预警：canadawebdir-com, canadiandirectory-org, promotebusinessdirectory-com, sitelike-org, ailibri-com, foundr-ai, startfa-st, aiagentautomation-site, aiimagetools-io, apprater-net, nextweekai-com, phototoolfinder-com, trillionagent-com
-- 今日新增条目 **1564**（去重后 1403）；7 天基线 7396，30 天基线 12362
-- 语料 13944 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.28，30天 0.3
+- 监控目录 197 / 筛查目录 478；今日成功 184，失败 13；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, ailibri-com, foundr-ai, startfa-st, aiagentautomation-site, aiimagetools-io, apprater-net, nextweekai-com, phototoolfinder-com, trillionagent-com
+- 今日新增条目 **1608**（去重后 1503）；7 天基线 7586，30 天基线 13445
+- 语料 15246 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.28，30天 0.3
 
 ## 微赛道归纳（LLM）
 
-- 印度自行车租赁：travel dau rental、travel dau —— 提供印度城市（如阿姆利则、阿格拉）的便捷自行车租赁服务
-- 害虫防治服务：effective pest control、ant control cockroach —— 提供针对蟑螂等害虫的有效控制解决方案
-- 工业管材制造：leading manufacturer —— 专注于超级双相不锈钢管等工业管材的制造与供应
-- AI足球预测：football match prediction —— 利用AI技术进行足球比赛比分预测
-- AI图像视频创作：image video studio、tiny desk concert —— 提供多模型AI图像视频生成及趣味AI演唱会视频制作工具
-- SEO与内容营销：method commission pay、attract targeted traffic、publishe topical authority、engine plan write —— 提供SEO优化、联盟网站构建及提升搜索排名的数字营销服务
+- 印度纺织面料供应：aadiveer fab india、fab india cater —— 提供印度本地面料制造与供应商服务
+- 巴基斯坦VPS主机服务：access lahore karachi、affordable vps server —— 面向巴基斯坦（拉合尔/卡拉奇）的VPS托管与管理服务
+- 沙特防火门供应：door supplier saudi、fire door supplier —— 为沙特商业建筑项目提供防火门及消防规范解决方案
+- 社交媒体广告与内容管理：advertising social media、five social network —— 提供批量广告发布及多平台社交内容队列管理工具
+- 中文汉字笔顺学习：character stroke order、chinese character stroke —— 提供汉字笔顺顺序查询与语言学习辅助
+- AI自动化与API集成：automate routine task、api integration expert —— 提供AI聊天机器人开发、常规任务自动化及机票等API接口服务
 
 ## 信号 Signals
 
-- 小词「travel dau rental」今日 4 个产品/2 个目录：Rent Bike In Amritsar for Convenient and Affordable Travel -、Bike on Rent in Agra for Convenient City Travel - Dau Rental
-- 小词「effective pest control」今日 3 个产品/3 个目录：Effective Pest Control Solutions for a Healthier Environment、Fair Deal
-- 小词「leading manufacturer」今日 4 个产品/3 个目录：Super Duplex S32750 Tubes Manufacturers in India、Super Duplex S32750 Tubes Suppliers in India
-- 同日小簇「travel dau rental」4 个相似产品：Activa on Rent in Varanasi for Convenient City Travel - Dau 、Bike on Rent in Agra for Convenient City Travel - Dau Rental、Rent Bike In Amritsar for Convenient and Affordable Travel -
-- 同日小簇「effective pest control」3 个相似产品：Effective Pest Control Solutions for a Healthier Environment、Fair Deal、Fair Deal Pest Control
-- 跨目录同时出现：artgen.net（4 个目录）
-- 跨目录同时出现：lizecheng.net（4 个目录）
+- 小词「aadiveer fab india」今日 4 个产品/2 个目录：Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu、Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact
+- 小词「outstanding tiny desk」今日 4 个产品/5 个目录：Tiny Desk AI Video、Outstanding Tiny Desk
+- 小词「commercial industrial agricultural」今日 3 个产品/4 个目录：agriculture construction、commercial metal buildings
+- 同日小簇「aadiveer fab india」4 个相似产品：Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu、Fabric Wholesalers In Delhi | Aadiveer Fab India – Fabric Ma、Knitted Fabric Manufacturers In India | Aadiveer Fab India –
+- 同日小簇「outstanding tiny desk」4 个相似产品：Outstanding Tiny Desk、Outstanding Tiny Desk Ai、Outstanding Tiny Desk Ai.Md
+- 跨目录同时出现：blog.google（4 个目录）
+- 跨目录同时出现：inaureon.com（4 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -29,75 +29,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **travel dau rental** | 4 | 2 | 🆕 | [Rent Bike In Amritsar for Convenient and Affordable Travel -](https://exampledir.com/listing/rent-bike-in-amritsar-for-convenient-and-affordable-travel--dau-rental-313437)；[Bike on Rent in Agra for Convenient City Travel - Dau Rental](https://exampledir.com/listing/bike-on-rent-in-agra-for-convenient-city-travel--dau-rental-313424)；[Scooty on Rent in Chandigarh for Easy and Affordable Travel ](https://exampledir.com/listing/scooty-on-rent-in-chandigarh-for-easy-and-affordable-travel--dau-rental-313430) |
-| 2 | **effective pest control** | 3 | 3 | 🆕 | [Effective Pest Control Solutions for a Healthier Environment](https://exampledir.com/listing/effective-pest-control-solutions-for-a-healthier-environment-313394)；[Fair Deal](https://directory6.org/listing/fair-deal-720537)；[Fair Deal Pest Control](https://directory6.org/listing/fair-deal-pest-control-720536) |
-| 3 | **leading manufacturer** | 4 | 3 | 🆕 | [Super Duplex S32750 Tubes Manufacturers in India](https://directory6.org/listing/super-duplex-s32750-tubes-manufacturers-in-india-720525)；[Super Duplex S32750 Tubes Suppliers in India](https://aweblist.org/listing/super-duplex-s32750-tubes-suppliers-in-india-971462)；[CTI Gear Cutting Hobs](https://directory6.org/listing/cti-gear-cutting-hobs-720540) |
-| 4 | **football match prediction** | 2 | 2 | 🆕 | [Footalytics](https://whatareyoubuilding.ai/product/RiIluwE2JTmiSs3vIPW2)；[Footalytics — AI football match predictions — score 45/100 (](https://nothumansearch.ai/site/footalytics.farvor.com) |
-| 5 | **image video studio** | 2 | 2 | 🆕 | [Eidora](https://eidora.io/)；[Eidora AI image & video studio — 40 models, credits on the b](https://thehackstack.com/s/eidora) |
-| 6 | **method commission pay** | 2 | 2 | 🆕 | [Invisible Engine](https://whatareyoubuilding.ai/product/PyyGLW0Z2iVNphDvVerr)；[Invisible Engine | Your Unfair Search Advantage — score 50/1](https://nothumansearch.ai/site/invisible.is) |
-| 7 | **tiny desk concert** | 2 | 2 | 🆕 | [Tiny Desk AI](https://tinydeskaigen.com/)；[Tiny Desk AI Put your friends in an AI Tiny Desk concert vid](https://thehackstack.com/s/tinydeskaigen) |
-| 8 | **attract targeted traffic** | 2 | 2 | 🆕 | [Best SEO Services India](https://exampledir.com/listing/best-seo-services-india-313425)；[SEO INDIA](https://directory6.org/listing/seo-india-720514) |
-| 9 | **biodegradable areca leaf** | 2 | 2 | 🆕 | [Areca Palm Leaf Plates Exporter](https://directory6.org/listing/areca-palm-leaf-plates-exporter-720522)；[biodegradable dinnerware Exporter](https://aweblist.org/listing/biodegradable-dinnerware-exporter-971434) |
-| 10 | **bookkeeping case study** | 2 | 2 | 🆕 | [Accounting & Bookkeeping (FNS40222) Assignment Help](https://exampledir.com/listing/accounting-and-bookkeeping-(fns40222-assignment-help-313420)；[FNS40222 Accounting & Bookkeeping Assignment Help](https://huludirectory.com/listing/fns40222-accounting-and-bookkeeping-assignment-help-2260394) |
-| 11 | **cause pain swelling** | 2 | 2 | 🆕 | [Common Wrist Injuries and Conditions: Wrist Specialist in PC](https://aweblist.org/listing/common-wrist-injuries-and-conditions-wrist-specialist-in-pcmc-971433)；[ommon Wrist Injuries and Conditions: Wrist Specialist in PCM](https://directory6.org/listing/ommon-wrist-injuries-and-conditions-wrist-specialist-in-pcmc-720518) |
-| 12 | **damage restoration los** | 2 | 3 | 🆕 | [Fire Damage Restoration Los Angeles: Complete Guide to Fire,](https://directory6.org/listing/fire-damage-restoration-los-angeles-complete-guide-to-fire-smoke-and-soot-damage-recovery-720552)；[Water Damage Restoration Los Angeles: Complete Guide to Wate](https://exampledir.com/listing/water-damage-restoration-los-angeles-complete-guide-to-water-damage-cleanup-drying-and-property-repair-313438) |
-| 13 | **engine plan write** | 2 | 2 | 🆕 | [Invisible Engine | Your Unfair Search Advantage — score 50/1](https://nothumansearch.ai/site/invisible.is)；[Invisible Engine Plan, write, and launch affiliate websites ](https://thehackstack.com/s/invisible) |
-| 14 | **eye makeup cosmetic** | 2 | 2 | 🆕 | [Browse Professional Eye Makeup Cosmetics in Zambia](https://aweblist.org/listing/browse-professional-eye-makeup-cosmetics-in-zambia-971472)；[Find Professional Eye Makeup Cosmetics in Zambia](https://exampledir.com/listing/find-professional-eye-makeup-cosmetics-in-zambia-313434) |
-| 15 | **kids early learning** | 2 | 2 | 🆕 | [kids early learning Lyndhurst](https://aweblist.org/listing/kids-early-learning-lyndhurst-971459)；[kids early learning centre Lyndhurst](https://exampledir.com/listing/kids-early-learning-centre-lyndhurst-313427) |
+| 1 | **aadiveer fab india** | 4 | 2 | 🆕 | [Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu](https://exampledir.com/listing/fabric-suppliers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313531)；[Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact](https://exampledir.com/listing/polyester-mesh-fabric-aadiveer-fab-india-–-fabric-manufacturing-313534)；[Knitted Fabric Manufacturers In India | Aadiveer Fab India –](https://exampledir.com/listing/knitted-fabric-manufacturers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313533) |
+| 2 | **outstanding tiny desk** | 4 | 5 | 🆕 | [Tiny Desk AI Video](https://tinydesk-aivideo.com/)；[Outstanding Tiny Desk](https://www.clapstorm.com/p/outstanding-tiny-desk)；[Outstanding Tiny Desk Ai](https://aitoolseekers.com/tools/outstanding-tiny-desk-ai) |
+| 3 | **commercial industrial agricultural** | 3 | 4 | 🆕 | [agriculture construction](https://directory6.org/listing/agriculture-construction-720733)；[commercial metal buildings](https://aweblist.org/listing/commercial-metal-buildings-971766)；[residential metal buildings](https://exampledir.com/listing/residential-metal-buildings-313541) |
+| 4 | **access lahore karachi** | 2 | 2 | 🆕 | [VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed](https://huludirectory.com/listing/vps-hosting-in-pakistan-vps-server-in-lahore-vps-managed-cpanel-hosting-2260599)；[VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed](https://aweblist.org/listing/vps-hosting-in-pakistan-vps-server-in-lahore-vps-managed-hosting-971764) |
+| 5 | **advertising social media** | 2 | 2 | 🆕 | [Blip: The fastest bulk ad launcher for media buyers](https://awesomeindie.com/product/blip)；[Brand Fuel Digital](https://brandfuel.digital/) |
+| 6 | **aircon light blinking** | 2 | 2 | 🆕 | [Aircon Light Blinking](https://aweblist.org/listing/aircon-light-blinking-971776)；[Midea AC Light Blinking](https://exampledir.com/listing/midea-ac-light-blinking-313523) |
+| 7 | **api integration expert** | 2 | 3 | 🆕 | [Flight Ticket API](https://aweblist.org/listing/flight-ticket-api-971796)；[Flight Ticket API01](https://directory6.org/listing/flight-ticket-api01-720758) |
+| 8 | **automate routine task** | 2 | 3 | 🆕 | [AI Chatbot Developer Singapore](https://exampledir.com/listing/ai-chatbot-developer-singapore-313519)；[LibControl – Library Management Software](https://aweblist.org/listing/libcontrol-–-library-management-software-971768) |
+| 9 | **character stroke order** | 2 | 2 | 🆕 | [Lang Study](https://getlangstudy.com/)；[Chinese Stroke Order](https://azn8.com/listing/chinese-stroke-order) |
+| 10 | **custom insulated bags** | 2 | 2 | 🆕 | [YUANEN Custom Insulated Bags](https://yuanenbag.com/)；[Custom Insulated Bags](https://develif.com/s/custom-insulated-bags) |
+| 11 | **design ui ux** | 2 | 2 | 🆕 | [Website Design in Kolkata | Pink Shadow Media – Get Started](https://aweblist.org/listing/website-design-in-kolkata-pink-shadow-media-–-get-started-971780)；[Digital Marketing Agency for Business Growth](https://exampledir.com/listing/digital-marketing-agency-for-business-growth-313529) |
+| 12 | **door supplier saudi** | 2 | 2 | 🆕 | [Fire Door Suppliers Saudi for Commercial Building Projects](https://exampledir.com/listing/fire-door-suppliers-saudi-for-commercial-building-projects-313496)；[Fire Door Suppliers Saudi for Fire-Safety Specification Plan](https://a2place.com/listing/fire-door-suppliers-saudi-for-fire-safety-specification-planning-718583) |
+| 13 | **elderly women jersey** | 2 | 2 | 🆕 | [computer repair support for elderly women jersey city nj](https://directory6.org/listing/computer-repair-support-for-elderly-women-jersey-city-nj-720719)；[printer repair support for elderly women jersey city](https://exampledir.com/listing/printer-repair-support-for-elderly-women-jersey-city-313507) |
+| 14 | **five social network** | 2 | 2 | 🆕 | [Forge](https://gateofai.com/community-tools/forge)；[Statuz: Queue posts and threads for five social networks fro](https://saasolution.io/tool/statuz) |
+| 15 | **friday invoice chase** | 2 | 3 | 🆕 | [Friday Invoice Chase Ranker](https://sirmem.github.io/friday-invoice-chase-tool)；[Friday Invoice Chase](https://sirmem.github.io/friday-invoice-chase-tool) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **travel dau** × 4（2 个目录）：[Rent Bike In Amritsar for Convenient and Affordable Travel -](https://exampledir.com/listing/rent-bike-in-amritsar-for-convenient-and-affordable-travel--dau-rental-313437)；[Bike on Rent in Agra for Convenient City Travel - Dau Rental](https://exampledir.com/listing/bike-on-rent-in-agra-for-convenient-city-travel--dau-rental-313424)；[Scooty on Rent in Chandigarh for Easy and Affordable Travel ](https://exampledir.com/listing/scooty-on-rent-in-chandigarh-for-easy-and-affordable-travel--dau-rental-313430)
-- **publishe topical authority** × 2（2 个目录）：[Invisible Engine](https://whatareyoubuilding.ai/product/PyyGLW0Z2iVNphDvVerr)；[Invisible Engine | Your Unfair Search Advantage — score 50/1](https://nothumansearch.ai/site/invisible.is)
-- **ant control cockroach** × 2（2 个目录）：[Fair Deal](https://directory6.org/listing/fair-deal-720537)；[Fair Deal Pest Control](https://directory6.org/listing/fair-deal-pest-control-720536)
-- **blade gear hobs** × 2（3 个目录）：[CTI Gear Cutting Hobs](https://directory6.org/listing/cti-gear-cutting-hobs-720540)；[CTI Gear Hobs](https://aweblist.org/listing/cti-gear-hobs-971455)
-- **case study double** × 2（2 个目录）：[Accounting & Bookkeeping (FNS40222) Assignment Help](https://exampledir.com/listing/accounting-and-bookkeeping-(fns40222-assignment-help-313420)；[FNS40222 Accounting & Bookkeeping Assignment Help](https://huludirectory.com/listing/fns40222-accounting-and-bookkeeping-assignment-help-2260394)
-- **condition wrist specialist** × 2（2 个目录）：[Common Wrist Injuries and Conditions: Wrist Specialist in PC](https://aweblist.org/listing/common-wrist-injuries-and-conditions-wrist-specialist-in-pcmc-971433)；[ommon Wrist Injuries and Conditions: Wrist Specialist in PCM](https://directory6.org/listing/ommon-wrist-injuries-and-conditions-wrist-specialist-in-pcmc-720518)
-- **content hence showing** × 2（2 个目录）：[Super Duplex S32750 Tubes Manufacturers in India](https://directory6.org/listing/super-duplex-s32750-tubes-manufacturers-in-india-720525)；[Super Duplex S32750 Tubes Suppliers in India](https://aweblist.org/listing/super-duplex-s32750-tubes-suppliers-in-india-971462)
-- **data driven approach** × 2（2 个目录）：[Best SEO Services India](https://exampledir.com/listing/best-seo-services-india-313425)；[SEO INDIA](https://directory6.org/listing/seo-india-720514)
-- **export biodegradable areca** × 2（2 个目录）：[Areca Palm Leaf Plates Exporter](https://directory6.org/listing/areca-palm-leaf-plates-exporter-720522)；[biodegradable dinnerware Exporter](https://aweblist.org/listing/biodegradable-dinnerware-exporter-971434)
-- **invisible engine plan** × 2（2 个目录）：[Invisible Engine | Your Unfair Search Advantage — score 50/1](https://nothumansearch.ai/site/invisible.is)；[Invisible Engine Plan, write, and launch affiliate websites ](https://thehackstack.com/s/invisible)
+- **fab india cater** × 4（2 个目录）：[Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu](https://exampledir.com/listing/fabric-suppliers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313531)；[Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact](https://exampledir.com/listing/polyester-mesh-fabric-aadiveer-fab-india-–-fabric-manufacturing-313534)；[Knitted Fabric Manufacturers In India | Aadiveer Fab India –](https://exampledir.com/listing/knitted-fabric-manufacturers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313533)
+- **constructing steel structure** × 3（4 个目录）：[agriculture construction](https://directory6.org/listing/agriculture-construction-720733)；[commercial metal buildings](https://aweblist.org/listing/commercial-metal-buildings-971766)；[residential metal buildings](https://exampledir.com/listing/residential-metal-buildings-313541)
+- **outstanding tiny** × 4（5 个目录）：[Tiny Desk AI Video](https://tinydesk-aivideo.com/)；[Outstanding Tiny Desk](https://www.clapstorm.com/p/outstanding-tiny-desk)；[Outstanding Tiny Desk Ai](https://aitoolseekers.com/tools/outstanding-tiny-desk-ai)
+- **affordable vps server** × 2（2 个目录）：[VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed](https://huludirectory.com/listing/vps-hosting-in-pakistan-vps-server-in-lahore-vps-managed-cpanel-hosting-2260599)；[VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed](https://aweblist.org/listing/vps-hosting-in-pakistan-vps-server-in-lahore-vps-managed-hosting-971764)
+- **chinese character stroke** × 2（2 个目录）：[Lang Study](https://getlangstudy.com/)；[Chinese Stroke Order](https://azn8.com/listing/chinese-stroke-order)
+- **fire door supplier** × 2（2 个目录）：[Fire Door Suppliers Saudi for Commercial Building Projects](https://exampledir.com/listing/fire-door-suppliers-saudi-for-commercial-building-projects-313496)；[Fire Door Suppliers Saudi for Fire-Safety Specification Plan](https://a2place.com/listing/fire-door-suppliers-saudi-for-fire-safety-specification-planning-718583)
+- **flight api integration** × 2（3 个目录）：[Flight Ticket API](https://aweblist.org/listing/flight-ticket-api-971796)；[Flight Ticket API01](https://directory6.org/listing/flight-ticket-api01-720758)
+- **nearby area call** × 2（2 个目录）：[computer repair support for elderly women jersey city nj](https://directory6.org/listing/computer-repair-support-for-elderly-women-jersey-city-nj-720719)；[printer repair support for elderly women jersey city](https://exampledir.com/listing/printer-repair-support-for-elderly-women-jersey-city-313507)
+- **overdue freelance invoice** × 2（2 个目录）：[Friday Invoice Chase Ranker](https://sirmem.github.io/friday-invoice-chase-tool)；[Friday Invoice Chase](https://sirmem.github.io/friday-invoice-chase-tool)
+- **panasonic air conditioner** × 2（2 个目录）：[Panasonic AC Light blinking](https://directory6.org/listing/panasonic-ac-light-blinking-720756)；[Panasonic Aircon Singapore](https://huludirectory.com/listing/panasonic-aircon-singapore-2260608)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **travel dau rental** × 4（2 个目录）：[Activa on Rent in Varanasi for Convenient City Travel - Dau ](https://exampledir.com/listing/activa-on-rent-in-varanasi-for-convenient-city-travel--dau-rental-313433)；[Bike on Rent in Agra for Convenient City Travel - Dau Rental](https://exampledir.com/listing/bike-on-rent-in-agra-for-convenient-city-travel--dau-rental-313424)；[Rent Bike In Amritsar for Convenient and Affordable Travel -](https://exampledir.com/listing/rent-bike-in-amritsar-for-convenient-and-affordable-travel--dau-rental-313437)；[Scooty on Rent in Chandigarh for Easy and Affordable Travel ](https://exampledir.com/listing/scooty-on-rent-in-chandigarh-for-easy-and-affordable-travel--dau-rental-313430)
-- **effective pest control** × 3（3 个目录）：[Effective Pest Control Solutions for a Healthier Environment](https://exampledir.com/listing/effective-pest-control-solutions-for-a-healthier-environment-313394)；[Fair Deal](https://directory6.org/listing/fair-deal-720537)；[Fair Deal Pest Control](https://directory6.org/listing/fair-deal-pest-control-720536)
-- **leading manufacturer** × 4（3 个目录）：[CTI Gear Cutting Hobs](https://directory6.org/listing/cti-gear-cutting-hobs-720540)；[CTI Gear Hobs](https://aweblist.org/listing/cti-gear-hobs-971455)；[Super Duplex S32750 Tubes Manufacturers in India](https://directory6.org/listing/super-duplex-s32750-tubes-manufacturers-in-india-720525)；[Super Duplex S32750 Tubes Suppliers in India](https://aweblist.org/listing/super-duplex-s32750-tubes-suppliers-in-india-971462)
-- **affiliate website** × 3（3 个目录）：[Invisible Engine](https://aiagentsdirectory.com/agent/invisible-engine)；[Invisible Engine Plan, write, and launch affiliate websites ](https://thehackstack.com/s/invisible)；[Invisible Engine | Your Unfair Search Advantage — score 50/1](https://nothumansearch.ai/site/invisible.is)
-- **visual asset** × 3（2 个目录）：[GridBulk](https://agentic.ai/t/gridbulk)；[InkRoom](https://agentic.ai/t/inkroom)；[SurgePix](https://surgepix.ai/)
-- **convenient option** × 3（2 个目录）：[Activa on Rent in Varanasi for Convenient City Travel - Dau ](https://exampledir.com/listing/activa-on-rent-in-varanasi-for-convenient-city-travel--dau-rental-313433)；[Butter Chicken Restaurant Near Me | TT](https://exampledir.com/listing/butter-chicken-restaurant-near-me--tt-313391)；[Scooty on Rent in Chandigarh for Easy and Affordable Travel ](https://exampledir.com/listing/scooty-on-rent-in-chandigarh-for-easy-and-affordable-travel--dau-rental-313430)
-- **sample collection** × 3（2 个目录）：[Best Blood Tests Center near me in Lakhimpur Kheri | No - 1](https://directory6.org/listing/best-blood-tests-center-near-me-in-lakhimpur-kheri-no--1-720528)；[Home Blood Sample Collection, Malaysia - Mobile Phlebotomy](https://huludirectory.com/listing/home-blood-sample-collection-malaysia--mobile-phlebotomy-2260409)；[MobiLab2u Home Blood Test & Tele Consultation in Malaysia](https://huludirectory.com/listing/mobilab2u-home-blood-test-and-tele-consultation-in-malaysia-2260402)
-- **ai tiny desk** × 3（4 个目录）：[AI Tiny Desk](https://azn8.com/listing/ai-tiny-desk)；[Tiny Desk Ai](https://agents-launch.lovable.app/agents/tiny-desk-ai)；[Tiny Desk AI Put your friends in an AI Tiny Desk concert vid](https://thehackstack.com/s/tinydeskaigen)
+- **aadiveer fab india** × 4（2 个目录）：[Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu](https://exampledir.com/listing/fabric-suppliers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313531)；[Fabric Wholesalers In Delhi | Aadiveer Fab India – Fabric Ma](https://exampledir.com/listing/fabric-wholesalers-in-delhi-aadiveer-fab-india-–-fabric-manufacturing-313532)；[Knitted Fabric Manufacturers In India | Aadiveer Fab India –](https://exampledir.com/listing/knitted-fabric-manufacturers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313533)；[Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact](https://exampledir.com/listing/polyester-mesh-fabric-aadiveer-fab-india-–-fabric-manufacturing-313534)
+- **outstanding tiny desk** × 4（5 个目录）：[Outstanding Tiny Desk](https://www.clapstorm.com/p/outstanding-tiny-desk)；[Outstanding Tiny Desk Ai](https://aitoolseekers.com/tools/outstanding-tiny-desk-ai)；[Outstanding Tiny Desk Ai.Md](https://aitoolseekers.com/tools/outstanding-tiny-desk-ai.md)；[Tiny Desk AI Video](https://tinydesk-aivideo.com/)
+- **commercial industrial agricultural** × 3（4 个目录）：[agriculture construction](https://directory6.org/listing/agriculture-construction-720733)；[commercial metal buildings](https://aweblist.org/listing/commercial-metal-buildings-971766)；[residential metal buildings](https://exampledir.com/listing/residential-metal-buildings-313541)
+- **air conditioner** × 3（3 个目录）：[Midea Aircon Singapore](https://exampledir.com/listing/midea-aircon-singapore-313536)；[Panasonic AC Light blinking](https://directory6.org/listing/panasonic-ac-light-blinking-720756)；[Panasonic Aircon Singapore](https://huludirectory.com/listing/panasonic-aircon-singapore-2260608)
+- **cyber defender** × 3（2 个目录）：[[AINews] Gemini 4 Carbon tops leaderboards, launches for cyb](https://latent.space/p/ainews-gemini-4-carbon)；[Gemini 4 Carbon puts cybersecurity first, and general access](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon)；[Google DeepMind Introduces Gemini 4 Carbon, Its Top Model fo](https://marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model)
+- **garden letter** × 3（4 个目录）：[Garden Letters](https://www.clapstorm.com/p/garden-letters)；[Garden Letters Digital Letters With Floral Cards And Music](https://develif.com/s/garden-letters-digital-letters-with-floral-cards-and-music)；[Garden Letters Turn your words into a keepsake letter gift 💬](https://thehackstack.com/s/gardenletters)
+- **light blinking** × 3（3 个目录）：[Aircon Light Blinking](https://aweblist.org/listing/aircon-light-blinking-971776)；[Midea AC Light Blinking](https://exampledir.com/listing/midea-ac-light-blinking-313523)；[Panasonic AC Light blinking](https://directory6.org/listing/panasonic-ac-light-blinking-720756)
+- **peptide library** × 3（4 个目录）：[Peptide Library](https://www.clapstorm.com/p/peptide-library)；[Peptide Library Free Peptide Research Library](https://develif.com/s/peptide-library-free-peptide-research-library)；[Peptide Library Freemium research-peptide reference with RES](https://thehackstack.com/s/peptidelibrary)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| listedstartups.com | 100 | AI(6)、Data & Analytics, AI(3)、AI, Infrastructure, Cloud(3) |
-| peerpush.com | 100 | p(99) |
-| develif.com | 88 | s(87) |
-| canopystack.dev | 82 | SaaS(38)、Other(25)、Dev tool(5) |
-| thataicollection.com | 74 | application(74) |
-| aitoolseekers.com | 70 | tools(70) |
-| clapstorm.com | 55 | p(45) |
-| thehackstack.com | 51 |  |
+| listedstartups.com | 100 | AI, Video(7)、Developer Tools, Industrial, SaaS(5)、Data Labeling, Computer Vision(3) |
+| peerpush.com | 98 | p(98) |
+| aitoolseekers.com | 96 | tools(96) |
+| thataicollection.com | 95 | application(94) |
+| develif.com | 82 | s(81) |
+| clapstorm.com | 64 | p(60) |
+| canopystack.dev | 63 | SaaS(31)、Other(22)、Dev tool(4) |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
 | exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
+| planet-ai.net | 50 | ContentCategory.NEWS(34)、ContentCategory.RESEARCH(8)、ContentCategory.ENGINEERING(3) |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- artgen.net（artgen）：canopystack.dev, listedstartups.com, promoteindex.com, zearches.com
-- lizecheng.net（）：canopystack.dev, launch.ignlab.net, listedstartups.com, promoteindex.com
-- submityourstartup.now（Submit Your Startup）：canopystack.dev, listedstartups.com, promoteindex.com, worthtotry.com
-- taoliapp.com（Taoli AI）：canopystack.dev, hyzenpro.com, launch.ignlab.net, worthtotry.com
-- ai.i258.cn（LaunchShelf）：canopystack.dev, listedstartups.com, zearches.com
-- aireiter.com（AIReiter）：hyzenpro.com, launch.ignlab.net, listedstartups.com
-- audjust.ai（Audjust AI）：canopystack.dev, hyzenpro.com, listedstartups.com
-- carvideoai.com（CarVideoAI）：canopystack.dev, hyzenpro.com, listedstartups.com
-- filetoolskit.com（FileTools Kit）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- imagetoimageai.io（Image to Image AI）：canopystack.dev, launch.ignlab.net, zearches.com
+- blog.google（Google EmbeddingGemma 2）：aitoolly.com, bestaitools.com, planet-ai.net, thequestion.it
+- inaureon.com（Aureon）：canopystack.dev, hyzenpro.com, listedstartups.com, worthtotry.com
+- ai-tinydesk.com（AI Tiny Desk）：canopystack.dev, listedstartups.com, zearches.com
+- aimakevideos.com（Aimake Videos）：canopystack.dev, hyzenpro.com, worthtotry.com
+- airapvideo1.com（AirapVideo1）：launch.ignlab.net, listedstartups.com, zearches.com
+- chong-zhen.com（ChatGPT充值）：aitoolly.com, canopystack.dev, listedstartups.com
+- effectclick.com（EffectClick）：canopystack.dev, launch.ignlab.net, zearches.com
+- letsmkvideo.com（letsmkvideo）：canopystack.dev, launch.ignlab.net, zearches.com
+- agent.xidao.xyz（AgentFlow）：launch.ignlab.net, listedstartups.com
+- appsbid.com（Appsbid）：canopystack.dev, listedstartups.com
 
 ## 我们的站点已被目录公开展示
 
@@ -111,19 +111,18 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 4 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 4 天）
-- promotebusinessdirectory-com: ConnectionError: HTTPSConnectionPool(host='promotebusinessdirectory.com', port=443): Max retries exceeded with url: /index.php?list=latest (Caused by ReadTimeoutError("HTTPSConnectionPool(host='promot（连续 3 天）
-- sitelike-org: RuntimeError: http 403（连续 4 天）
-- ailibri-com: ConnectionError: HTTPSConnectionPool(host='ailibri.com', port=443): Max retries exceeded with url: /rss (Caused by NewConnectionError("HTTPSConnection(host='ailibri.com', port=443): Failed to establis（连续 4 天）
-- foundr-ai: RuntimeError: http 403（连续 4 天）
-- startfa-st: RuntimeError: http 403（连续 4 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 4 天）
-- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 4 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 4 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f77df9a37（连续 1 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 4 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 4 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 4 天）
+- canadawebdir-com: RuntimeError: http 403（连续 5 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 5 天）
+- sitelike-org: RuntimeError: http 403（连续 5 天）
+- ailibri-com: ConnectionError: HTTPSConnectionPool(host='ailibri.com', port=443): Max retries exceeded with url: /rss (Caused by NewConnectionError("HTTPSConnection(host='ailibri.com', port=443): Failed to establis（连续 5 天）
+- foundr-ai: RuntimeError: http 403（连续 5 天）
+- startfa-st: RuntimeError: http 403（连续 5 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 5 天）
+- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 5 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 5 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7fee9479d4（连续 2 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 5 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 5 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 5 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar

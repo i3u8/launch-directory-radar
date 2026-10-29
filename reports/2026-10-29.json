@@ -1,0 +1,667 @@
+{
+ "date": "2026-10-29",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 184,
+ "sources_failed": 13,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1608,
+ "new_today_unique": 1503,
+ "ai_share_today": 0.28,
+ "ai_share_30d": 0.3,
+ "niche_terms": [
+  {
+   "term": "aadiveer fab india",
+   "count": 4,
+   "sources": 2,
+   "ratio": 71.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu",
+     "url": "https://exampledir.com/listing/fabric-suppliers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313531"
+    },
+    {
+     "name": "Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact",
+     "url": "https://exampledir.com/listing/polyester-mesh-fabric-aadiveer-fab-india-–-fabric-manufacturing-313534"
+    },
+    {
+     "name": "Knitted Fabric Manufacturers In India | Aadiveer Fab India –",
+     "url": "https://exampledir.com/listing/knitted-fabric-manufacturers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313533"
+    }
+   ]
+  },
+  {
+   "term": "outstanding tiny desk",
+   "count": 4,
+   "sources": 5,
+   "ratio": 71.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Tiny Desk AI Video",
+     "url": "https://tinydesk-aivideo.com/"
+    },
+    {
+     "name": "Outstanding Tiny Desk",
+     "url": "https://www.clapstorm.com/p/outstanding-tiny-desk"
+    },
+    {
+     "name": "Outstanding Tiny Desk Ai",
+     "url": "https://aitoolseekers.com/tools/outstanding-tiny-desk-ai"
+    }
+   ]
+  },
+  {
+   "term": "commercial industrial agricultural",
+   "count": 3,
+   "sources": 4,
+   "ratio": 53.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "agriculture construction",
+     "url": "https://directory6.org/listing/agriculture-construction-720733"
+    },
+    {
+     "name": "commercial metal buildings",
+     "url": "https://aweblist.org/listing/commercial-metal-buildings-971766"
+    },
+    {
+     "name": "residential metal buildings",
+     "url": "https://exampledir.com/listing/residential-metal-buildings-313541"
+    }
+   ]
+  },
+  {
+   "term": "access lahore karachi",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed",
+     "url": "https://huludirectory.com/listing/vps-hosting-in-pakistan-vps-server-in-lahore-vps-managed-cpanel-hosting-2260599"
+    },
+    {
+     "name": "VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed",
+     "url": "https://aweblist.org/listing/vps-hosting-in-pakistan-vps-server-in-lahore-vps-managed-hosting-971764"
+    }
+   ]
+  },
+  {
+   "term": "advertising social media",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Blip: The fastest bulk ad launcher for media buyers",
+     "url": "https://awesomeindie.com/product/blip"
+    },
+    {
+     "name": "Brand Fuel Digital",
+     "url": "https://brandfuel.digital/"
+    }
+   ]
+  },
+  {
+   "term": "aircon light blinking",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Aircon Light Blinking",
+     "url": "https://aweblist.org/listing/aircon-light-blinking-971776"
+    },
+    {
+     "name": "Midea AC Light Blinking",
+     "url": "https://exampledir.com/listing/midea-ac-light-blinking-313523"
+    }
+   ]
+  },
+  {
+   "term": "api integration expert",
+   "count": 2,
+   "sources": 3,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Flight Ticket API",
+     "url": "https://aweblist.org/listing/flight-ticket-api-971796"
+    },
+    {
+     "name": "Flight Ticket API01",
+     "url": "https://directory6.org/listing/flight-ticket-api01-720758"
+    }
+   ]
+  },
+  {
+   "term": "automate routine task",
+   "count": 2,
+   "sources": 3,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Chatbot Developer Singapore",
+     "url": "https://exampledir.com/listing/ai-chatbot-developer-singapore-313519"
+    },
+    {
+     "name": "LibControl – Library Management Software",
+     "url": "https://aweblist.org/listing/libcontrol-–-library-management-software-971768"
+    }
+   ]
+  },
+  {
+   "term": "character stroke order",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Lang Study",
+     "url": "https://getlangstudy.com/"
+    },
+    {
+     "name": "Chinese Stroke Order",
+     "url": "https://azn8.com/listing/chinese-stroke-order"
+    }
+   ]
+  },
+  {
+   "term": "custom insulated bags",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "YUANEN Custom Insulated Bags",
+     "url": "https://yuanenbag.com/"
+    },
+    {
+     "name": "Custom Insulated Bags",
+     "url": "https://develif.com/s/custom-insulated-bags"
+    }
+   ]
+  },
+  {
+   "term": "design ui ux",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Website Design in Kolkata | Pink Shadow Media – Get Started",
+     "url": "https://aweblist.org/listing/website-design-in-kolkata-pink-shadow-media-–-get-started-971780"
+    },
+    {
+     "name": "Digital Marketing Agency for Business Growth",
+     "url": "https://exampledir.com/listing/digital-marketing-agency-for-business-growth-313529"
+    }
+   ]
+  },
+  {
+   "term": "door supplier saudi",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fire Door Suppliers Saudi for Commercial Building Projects",
+     "url": "https://exampledir.com/listing/fire-door-suppliers-saudi-for-commercial-building-projects-313496"
+    },
+    {
+     "name": "Fire Door Suppliers Saudi for Fire-Safety Specification Plan",
+     "url": "https://a2place.com/listing/fire-door-suppliers-saudi-for-fire-safety-specification-planning-718583"
+    }
+   ]
+  },
+  {
+   "term": "elderly women jersey",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "computer repair support for elderly women jersey city nj",
+     "url": "https://directory6.org/listing/computer-repair-support-for-elderly-women-jersey-city-nj-720719"
+    },
+    {
+     "name": "printer repair support for elderly women jersey city",
+     "url": "https://exampledir.com/listing/printer-repair-support-for-elderly-women-jersey-city-313507"
+    }
+   ]
+  },
+  {
+   "term": "five social network",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Forge",
+     "url": "https://gateofai.com/community-tools/forge"
+    },
+    {
+     "name": "Statuz: Queue posts and threads for five social networks fro",
+     "url": "https://saasolution.io/tool/statuz"
+    }
+   ]
+  },
+  {
+   "term": "friday invoice chase",
+   "count": 2,
+   "sources": 3,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Friday Invoice Chase Ranker",
+     "url": "https://sirmem.github.io/friday-invoice-chase-tool"
+    },
+    {
+     "name": "Friday Invoice Chase",
+     "url": "https://sirmem.github.io/friday-invoice-chase-tool"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "fab india cater",
+   "count": 4,
+   "sources": 2,
+   "ratio": 71.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu",
+     "url": "https://exampledir.com/listing/fabric-suppliers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313531"
+    },
+    {
+     "name": "Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact",
+     "url": "https://exampledir.com/listing/polyester-mesh-fabric-aadiveer-fab-india-–-fabric-manufacturing-313534"
+    },
+    {
+     "name": "Knitted Fabric Manufacturers In India | Aadiveer Fab India –",
+     "url": "https://exampledir.com/listing/knitted-fabric-manufacturers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313533"
+    }
+   ]
+  },
+  {
+   "term": "constructing steel structure",
+   "count": 3,
+   "sources": 4,
+   "ratio": 53.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "agriculture construction",
+     "url": "https://directory6.org/listing/agriculture-construction-720733"
+    },
+    {
+     "name": "commercial metal buildings",
+     "url": "https://aweblist.org/listing/commercial-metal-buildings-971766"
+    },
+    {
+     "name": "residential metal buildings",
+     "url": "https://exampledir.com/listing/residential-metal-buildings-313541"
+    }
+   ]
+  },
+  {
+   "term": "outstanding tiny",
+   "count": 4,
+   "sources": 5,
+   "ratio": 71.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Tiny Desk AI Video",
+     "url": "https://tinydesk-aivideo.com/"
+    },
+    {
+     "name": "Outstanding Tiny Desk",
+     "url": "https://www.clapstorm.com/p/outstanding-tiny-desk"
+    },
+    {
+     "name": "Outstanding Tiny Desk Ai",
+     "url": "https://aitoolseekers.com/tools/outstanding-tiny-desk-ai"
+    }
+   ]
+  },
+  {
+   "term": "affordable vps server",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed",
+     "url": "https://huludirectory.com/listing/vps-hosting-in-pakistan-vps-server-in-lahore-vps-managed-cpanel-hosting-2260599"
+    },
+    {
+     "name": "VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed",
+     "url": "https://aweblist.org/listing/vps-hosting-in-pakistan-vps-server-in-lahore-vps-managed-hosting-971764"
+    }
+   ]
+  },
+  {
+   "term": "chinese character stroke",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Lang Study",
+     "url": "https://getlangstudy.com/"
+    },
+    {
+     "name": "Chinese Stroke Order",
+     "url": "https://azn8.com/listing/chinese-stroke-order"
+    }
+   ]
+  },
+  {
+   "term": "fire door supplier",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fire Door Suppliers Saudi for Commercial Building Projects",
+     "url": "https://exampledir.com/listing/fire-door-suppliers-saudi-for-commercial-building-projects-313496"
+    },
+    {
+     "name": "Fire Door Suppliers Saudi for Fire-Safety Specification Plan",
+     "url": "https://a2place.com/listing/fire-door-suppliers-saudi-for-fire-safety-specification-planning-718583"
+    }
+   ]
+  },
+  {
+   "term": "flight api integration",
+   "count": 2,
+   "sources": 3,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Flight Ticket API",
+     "url": "https://aweblist.org/listing/flight-ticket-api-971796"
+    },
+    {
+     "name": "Flight Ticket API01",
+     "url": "https://directory6.org/listing/flight-ticket-api01-720758"
+    }
+   ]
+  },
+  {
+   "term": "nearby area call",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "computer repair support for elderly women jersey city nj",
+     "url": "https://directory6.org/listing/computer-repair-support-for-elderly-women-jersey-city-nj-720719"
+    },
+    {
+     "name": "printer repair support for elderly women jersey city",
+     "url": "https://exampledir.com/listing/printer-repair-support-for-elderly-women-jersey-city-313507"
+    }
+   ]
+  },
+  {
+   "term": "overdue freelance invoice",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Friday Invoice Chase Ranker",
+     "url": "https://sirmem.github.io/friday-invoice-chase-tool"
+    },
+    {
+     "name": "Friday Invoice Chase",
+     "url": "https://sirmem.github.io/friday-invoice-chase-tool"
+    }
+   ]
+  },
+  {
+   "term": "panasonic air conditioner",
+   "count": 2,
+   "sources": 2,
+   "ratio": 35.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Panasonic AC Light blinking",
+     "url": "https://directory6.org/listing/panasonic-ac-light-blinking-720756"
+    },
+    {
+     "name": "Panasonic Aircon Singapore",
+     "url": "https://huludirectory.com/listing/panasonic-aircon-singapore-2260608"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "aadiveer fab india",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu",
+     "url": "https://exampledir.com/listing/fabric-suppliers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313531"
+    },
+    {
+     "name": "Fabric Wholesalers In Delhi | Aadiveer Fab India – Fabric Ma",
+     "url": "https://exampledir.com/listing/fabric-wholesalers-in-delhi-aadiveer-fab-india-–-fabric-manufacturing-313532"
+    },
+    {
+     "name": "Knitted Fabric Manufacturers In India | Aadiveer Fab India –",
+     "url": "https://exampledir.com/listing/knitted-fabric-manufacturers-in-india-aadiveer-fab-india-–-fabric-manufacturing-313533"
+    },
+    {
+     "name": "Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact",
+     "url": "https://exampledir.com/listing/polyester-mesh-fabric-aadiveer-fab-india-–-fabric-manufacturing-313534"
+    }
+   ]
+  },
+  {
+   "term": "outstanding tiny desk",
+   "size": 4,
+   "sources": 5,
+   "examples": [
+    {
+     "name": "Outstanding Tiny Desk",
+     "url": "https://www.clapstorm.com/p/outstanding-tiny-desk"
+    },
+    {
+     "name": "Outstanding Tiny Desk Ai",
+     "url": "https://aitoolseekers.com/tools/outstanding-tiny-desk-ai"
+    },
+    {
+     "name": "Outstanding Tiny Desk Ai.Md",
+     "url": "https://aitoolseekers.com/tools/outstanding-tiny-desk-ai.md"
+    },
+    {
+     "name": "Tiny Desk AI Video",
+     "url": "https://tinydesk-aivideo.com/"
+    }
+   ]
+  },
+  {
+   "term": "commercial industrial agricultural",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "agriculture construction",
+     "url": "https://directory6.org/listing/agriculture-construction-720733"
+    },
+    {
+     "name": "commercial metal buildings",
+     "url": "https://aweblist.org/listing/commercial-metal-buildings-971766"
+    },
+    {
+     "name": "residential metal buildings",
+     "url": "https://exampledir.com/listing/residential-metal-buildings-313541"
+    }
+   ]
+  },
+  {
+   "term": "air conditioner",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Midea Aircon Singapore",
+     "url": "https://exampledir.com/listing/midea-aircon-singapore-313536"
+    },
+    {
+     "name": "Panasonic AC Light blinking",
+     "url": "https://directory6.org/listing/panasonic-ac-light-blinking-720756"
+    },
+    {
+     "name": "Panasonic Aircon Singapore",
+     "url": "https://huludirectory.com/listing/panasonic-aircon-singapore-2260608"
+    }
+   ]
+  },
+  {
+   "term": "cyber defender",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyb",
+     "url": "https://latent.space/p/ainews-gemini-4-carbon"
+    },
+    {
+     "name": "Gemini 4 Carbon puts cybersecurity first, and general access",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon"
+    },
+    {
+     "name": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model fo",
+     "url": "https://marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model"
+    }
+   ]
+  },
+  {
+   "term": "garden letter",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Garden Letters",
+     "url": "https://www.clapstorm.com/p/garden-letters"
+    },
+    {
+     "name": "Garden Letters Digital Letters With Floral Cards And Music",
+     "url": "https://develif.com/s/garden-letters-digital-letters-with-floral-cards-and-music"
+    },
+    {
+     "name": "Garden Letters Turn your words into a keepsake letter gift 💬",
+     "url": "https://thehackstack.com/s/gardenletters"
+    }
+   ]
+  },
+  {
+   "term": "light blinking",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Aircon Light Blinking",
+     "url": "https://aweblist.org/listing/aircon-light-blinking-971776"
+    },
+    {
+     "name": "Midea AC Light Blinking",
+     "url": "https://exampledir.com/listing/midea-ac-light-blinking-313523"
+    },
+    {
+     "name": "Panasonic AC Light blinking",
+     "url": "https://directory6.org/listing/panasonic-ac-light-blinking-720756"
+    }
+   ]
+  },
+  {
+   "term": "peptide library",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Peptide Library",
+     "url": "https://www.clapstorm.com/p/peptide-library"
+    },
+    {
+     "name": "Peptide Library Free Peptide Research Library",
+     "url": "https://develif.com/s/peptide-library-free-peptide-research-library"
+    },
+    {
+     "name": "Peptide Library Freemium research-peptide reference with RES",
+     "url": "https://thehackstack.com/s/peptidelibrary"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「aadiveer fab india」今日 4 个产品/2 个目录：Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu、Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact",
+  "小词「outstanding tiny desk」今日 4 个产品/5 个目录：Tiny Desk AI Video、Outstanding Tiny Desk",
+  "小词「commercial industrial agricultural」今日 3 个产品/4 个目录：agriculture construction、commercial metal buildings",
+  "同日小簇「aadiveer fab india」4 个相似产品：Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu、Fabric Wholesalers In Delhi | Aadiveer Fab India – Fabric Ma、Knitted Fabric Manufacturers In India | Aadiveer Fab India –",
+  "同日小簇「outstanding tiny desk」4 个相似产品：Outstanding Tiny Desk、Outstanding Tiny Desk Ai、Outstanding Tiny Desk Ai.Md",
+  "跨目录同时出现：blog.google（4 个目录）",
+  "跨目录同时出现：inaureon.com（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-10-29.md",
+ "niche_groups": "- 印度纺织面料供应：aadiveer fab india、fab india cater —— 提供印度本地面料制造与供应商服务\n- 巴基斯坦VPS主机服务：access lahore karachi、affordable vps server —— 面向巴基斯坦（拉合尔/卡拉奇）的VPS托管与管理服务\n- 沙特防火门供应：door supplier saudi、fire door supplier —— 为沙特商业建筑项目提供防火门及消防规范解决方案\n- 社交媒体广告与内容管理：advertising social media、five social network —— 提供批量广告发布及多平台社交内容队列管理工具\n- 中文汉字笔顺学习：character stroke order、chinese character stroke —— 提供汉字笔顺顺序查询与语言学习辅助\n- AI自动化与API集成：automate routine task、api integration expert —— 提供AI聊天机器人开发、常规任务自动化及机票等API接口服务"
+}
