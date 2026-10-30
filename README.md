@@ -7,36 +7,35 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-10-29** · 新增 1608 · 监控 197 个目录（今日成功 184）
+**2026-10-30** · 新增 1609 · 监控 197 个目录（今日成功 184）
 
 聚焦小词 Top 15:
 
-- `aadiveer fab india` ×4（2 目录） 🆕：Fabric Suppliers In India | Aadiveer Fab India – Fabric Manu；Polyester Mesh Fabric | Aadiveer Fab India – Fabric Manufact
-- `outstanding tiny desk` ×4（5 目录） 🆕：Tiny Desk AI Video；Outstanding Tiny Desk
-- `commercial industrial agricultural` ×3（4 目录） 🆕：agriculture construction；commercial metal buildings
-- `access lahore karachi` ×2（2 目录） 🆕：VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed；VPS Hosting in Pakistan | VPS Server in Lahore | VPS Managed
-- `advertising social media` ×2（2 目录） 🆕：Blip: The fastest bulk ad launcher for media buyers；Brand Fuel Digital
-- `aircon light blinking` ×2（2 目录） 🆕：Aircon Light Blinking；Midea AC Light Blinking
-- `api integration expert` ×2（3 目录） 🆕：Flight Ticket API；Flight Ticket API01
-- `automate routine task` ×2（3 目录） 🆕：AI Chatbot Developer Singapore；LibControl – Library Management Software
-- `character stroke order` ×2（2 目录） 🆕：Lang Study；Chinese Stroke Order
-- `custom insulated bags` ×2（2 目录） 🆕：YUANEN Custom Insulated Bags；Custom Insulated Bags
-- `design ui ux` ×2（2 目录） 🆕：Website Design in Kolkata | Pink Shadow Media – Get Started；Digital Marketing Agency for Business Growth
-- `door supplier saudi` ×2（2 目录） 🆕：Fire Door Suppliers Saudi for Commercial Building Projects；Fire Door Suppliers Saudi for Fire-Safety Specification Plan
-- `elderly women jersey` ×2（2 目录） 🆕：computer repair support for elderly women jersey city nj；printer repair support for elderly women jersey city
-- `five social network` ×2（2 目录） 🆕：Forge；Statuz: Queue posts and threads for five social networks fro
-- `friday invoice chase` ×2（3 目录） 🆕：Friday Invoice Chase Ranker；Friday Invoice Chase
+- `rajinder dhutti` ×6（2 目录） 🆕：Real Estate Agents In Abbotsford Bc | best realtor；Abbotsford Real Estate Agents | best realtors
+- `flat rate` ×4（3 目录） 🆕：APIClaw: Flat-Rate Claude & GPT API from $19/mo, OpenAI-Comp；APIClaw Flat-rate OpenAI-compatible API: Claude, GPT, Gemini
+- `indian restaurant` ×4（2 目录） 🆕：Best Indian restaurant；Best Indian Restaurant In Surrey BC | Restaurant
+- `transportation whether` ×4（2 目录） 🆕：Rent Bike In Lucknow - Dau Rental；Rent Bike In Lucknow And Dau Rental
+- `bridge cup scene` ×2（2 目录） 🆕：Burning Bridges cup scene AI；Burning Bridges AI
+- `video image api` ×2（2 目录） 🆕：Makernice；Makernice AI video & image API. One key. Pay only for result
+- `aarambh school started` ×2（2 目录） 🆕：pre primary school in Dehradun；pre primary school in Dehradun15
+- `adopter collect upvote` ×2（3 目录） 🆕：Build Your Launch；BuildYourLaunch.com
+- `compare tms clinic` ×2（2 目录） 🆕：Compare TMS clinics and costs | TMSClinics — score 80/100 (d；TMSClinics
+- `connect multiple courier` ×2（2 目录） 🆕：logistics aggregators；shipping aggregator
+- `demand discovery ai` ×2（2 目录） 🆕：Demand Discovery AI Evidence over optimism | Prove demand be；Demand Discovery Ai Evidence Over Optimism Or Prove Demand B
+- `imgmov last frame` ×2（2 目录） 🆕：Imgmov Last Frame Extractor；imgmov Last Frame Extractor Save a video ending as a local P
+- `instagram tiktok discord` ×2（2 目录） 🆕：Cute Font Generator；Aesthetic Font Generator
+- `relaxing wellness experience` ×2（2 目录） 🆕：Best Spa in Secunderabad | Best Spa & Luxury Spa in Secunder；Spa in Secunderabad | Best Spa & Luxury Spa in Secunderabad 
+- `seek assistance call` ×2（4 目录） 🆕：ngo contact number in kolkata​；ngo contact number in kolkata​_The We Foundation
 
 微赛道归纳:
 
-- 印度纺织面料供应：aadiveer fab india、fab india cater —— 提供印度本地面料制造与供应商服务
-- 巴基斯坦VPS主机服务：access lahore karachi、affordable vps server —— 面向巴基斯坦（拉合尔/卡拉奇）的VPS托管与管理服务
-- 沙特防火门供应：door supplier saudi、fire door supplier —— 为沙特商业建筑项目提供防火门及消防规范解决方案
-- 社交媒体广告与内容管理：advertising social media、five social network —— 提供批量广告发布及多平台社交内容队列管理工具
-- 中文汉字笔顺学习：character stroke order、chinese character stroke —— 提供汉字笔顺顺序查询与语言学习辅助
-- AI自动化与API集成：automate routine task、api integration expert —— 提供AI聊天机器人开发、常规任务自动化及机票等API接口服务
+- AI API聚合与计费服务：flat rate、apiclaw flat rate、video image api —— 提供固定费率或按结果计费的AI模型API接入及视频图像生成接口
+- 物流与快递聚合管理：connect multiple courier、courier partner manage —— 整合多家快递合作伙伴的物流聚合与发货管理工具
+- 本地生活与垂直服务SEO：rajinder dhutti、indian restaurant、relaxing wellness experience、seek assistance call、abbotsford rajinder dhutti、compare tms clinic —— 针对房产、餐饮、SPA、NGO及医疗诊所等本地服务的关键词优化与排名产品
+- 创意工具与内容生成：bridge cup scene、burning bridge cup、imgmov last frame、instagram tiktok discord —— 提供特定场景AI生成、视频帧提取及社媒字体生成的创意辅助工具
+- 教育招生与需求验证：aarambh school started、apollo international school、demand discovery ai、adopter collect upvote —— 涵盖学校招生展示、产品需求验证及早期用户互动收集的平台
 
-完整报告: [reports/2026-10-29.md](reports/2026-10-29.md)
+完整报告: [reports/2026-10-30.md](reports/2026-10-30.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

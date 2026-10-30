@@ -1,0 +1,674 @@
+{
+ "date": "2026-10-30",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 184,
+ "sources_failed": 13,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "openfuture-ai",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1609,
+ "new_today_unique": 1492,
+ "ai_share_today": 0.26,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "rajinder dhutti",
+   "count": 6,
+   "sources": 2,
+   "ratio": 117.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Real Estate Agents In Abbotsford Bc | best realtor",
+     "url": "https://exampledir.com/listing/real-estate-agents-in-abbotsford-bc-best-realtor-313616"
+    },
+    {
+     "name": "Abbotsford Real Estate Agents | best realtors",
+     "url": "https://exampledir.com/listing/abbotsford-real-estate-agents-best-realtors-313615"
+    },
+    {
+     "name": "Abbotsford Realtors | best Realtor",
+     "url": "https://exampledir.com/listing/abbotsford-realtors-best-realtor-313614"
+    }
+   ]
+  },
+  {
+   "term": "flat rate",
+   "count": 4,
+   "sources": 3,
+   "ratio": 78.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "APIClaw: Flat-Rate Claude & GPT API from $19/mo, OpenAI-Comp",
+     "url": "https://nothumansearch.ai/site/apiclaw.biz"
+    },
+    {
+     "name": "APIClaw Flat-rate OpenAI-compatible API: Claude, GPT, Gemini",
+     "url": "https://thehackstack.com/s/apiclaw"
+    },
+    {
+     "name": "HVAC Flat Rate Pricing Software Flat rate price book and quo",
+     "url": "https://thehackstack.com/s/hvacflatratepricingsoftware"
+    }
+   ]
+  },
+  {
+   "term": "indian restaurant",
+   "count": 4,
+   "sources": 2,
+   "ratio": 78.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Indian restaurant",
+     "url": "https://directory6.org/listing/best-indian-restaurant-720928"
+    },
+    {
+     "name": "Best Indian Restaurant In Surrey BC | Restaurant",
+     "url": "https://huludirectory.com/listing/best-indian-restaurant-in-surrey-bc--restaurant-2260756"
+    },
+    {
+     "name": "Indian Restaurant Near Me | Indian Restaurant",
+     "url": "https://huludirectory.com/listing/indian-restaurant-near-me-indian-restaurant-2260757"
+    }
+   ]
+  },
+  {
+   "term": "transportation whether",
+   "count": 4,
+   "sources": 2,
+   "ratio": 78.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Rent Bike In Lucknow - Dau Rental",
+     "url": "https://aweblist.org/listing/rent-bike-in-lucknow--dau-rental-972092"
+    },
+    {
+     "name": "Rent Bike In Lucknow And Dau Rental",
+     "url": "https://exampledir.com/listing/rent-bike-in-lucknow-and-dau-rental-313633"
+    },
+    {
+     "name": "Rent Bike in Mathura And Dau Rental",
+     "url": "https://exampledir.com/listing/rent-bike-in-mathura-and-dau-rental-313639"
+    }
+   ]
+  },
+  {
+   "term": "bridge cup scene",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Burning Bridges cup scene AI",
+     "url": "https://huludirectory.com/listing/burning-bridges-cup-scene-ai-2260741"
+    },
+    {
+     "name": "Burning Bridges AI",
+     "url": "https://burningbridgesai.com/"
+    }
+   ]
+  },
+  {
+   "term": "video image api",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Makernice",
+     "url": "https://makernice.com/"
+    },
+    {
+     "name": "Makernice AI video & image API. One key. Pay only for result",
+     "url": "https://thehackstack.com/s/makernice"
+    }
+   ]
+  },
+  {
+   "term": "aarambh school started",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "pre primary school in Dehradun",
+     "url": "https://directory6.org/listing/pre-primary-school-in-dehradun-720952"
+    },
+    {
+     "name": "pre primary school in Dehradun15",
+     "url": "https://aweblist.org/listing/pre-primary-school-in-dehradun15-972098"
+    }
+   ]
+  },
+  {
+   "term": "adopter collect upvote",
+   "count": 2,
+   "sources": 3,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Build Your Launch",
+     "url": "https://dealmyapp.com/listings/build-your-launch"
+    },
+    {
+     "name": "BuildYourLaunch.com",
+     "url": "https://buildyourlaunch.com/"
+    }
+   ]
+  },
+  {
+   "term": "compare tms clinic",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Compare TMS clinics and costs | TMSClinics — score 80/100 (d",
+     "url": "https://nothumansearch.ai/site/tmsclinics.fyi"
+    },
+    {
+     "name": "TMSClinics",
+     "url": "https://tmsclinics.fyi/"
+    }
+   ]
+  },
+  {
+   "term": "connect multiple courier",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "logistics aggregators",
+     "url": "https://exampledir.com/listing/logistics-aggregators-313627"
+    },
+    {
+     "name": "shipping aggregator",
+     "url": "https://huludirectory.com/listing/shipping-aggregator-2260761"
+    }
+   ]
+  },
+  {
+   "term": "demand discovery ai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Demand Discovery AI Evidence over optimism | Prove demand be",
+     "url": "https://thehackstack.com/s/demanddiscovery"
+    },
+    {
+     "name": "Demand Discovery Ai Evidence Over Optimism Or Prove Demand B",
+     "url": "https://develif.com/s/demand-discovery-ai-evidence-over-optimism-or-prove-demand-before-you-build-with"
+    }
+   ]
+  },
+  {
+   "term": "imgmov last frame",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Imgmov Last Frame Extractor",
+     "url": "https://sideprojects.net/projects/imgmov-last-frame-extractor"
+    },
+    {
+     "name": "imgmov Last Frame Extractor Save a video ending as a local P",
+     "url": "https://thehackstack.com/s/imgmov"
+    }
+   ]
+  },
+  {
+   "term": "instagram tiktok discord",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Cute Font Generator",
+     "url": "https://cutefontgen.com/number-font-generator"
+    },
+    {
+     "name": "Aesthetic Font Generator",
+     "url": "https://aestheticfonts.im/"
+    }
+   ]
+  },
+  {
+   "term": "relaxing wellness experience",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Spa in Secunderabad | Best Spa & Luxury Spa in Secunder",
+     "url": "https://directory6.org/listing/best-spa-in-secunderabad-best-spa-and-luxury-spa-in-secunderabad-and-best-spa-720909"
+    },
+    {
+     "name": "Spa in Secunderabad | Best Spa & Luxury Spa in Secunderabad ",
+     "url": "https://exampledir.com/listing/spa-in-secunderabad-best-spa-and-luxury-spa-in-secunderabad-and-best-spa-313619"
+    }
+   ]
+  },
+  {
+   "term": "seek assistance call",
+   "count": 2,
+   "sources": 4,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "ngo contact number in kolkata​",
+     "url": "https://a2place.com/listing/ngo-contact-number-in-kolkata​-718614"
+    },
+    {
+     "name": "ngo contact number in kolkata​_The We Foundation",
+     "url": "https://exampledir.com/listing/ngo-contact-number-in-kolkata​_the-we-foundation-313626"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "burning bridge cup",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Burning Bridges cup scene AI",
+     "url": "https://huludirectory.com/listing/burning-bridges-cup-scene-ai-2260741"
+    },
+    {
+     "name": "Burning Bridges AI",
+     "url": "https://burningbridgesai.com/"
+    }
+   ]
+  },
+  {
+   "term": "abbotsford rajinder dhutti",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Abbotsford Realtors | best Realtor",
+     "url": "https://exampledir.com/listing/abbotsford-realtors-best-realtor-313614"
+    },
+    {
+     "name": "Abbotsford Realtors | best Realtors bc",
+     "url": "https://huludirectory.com/listing/abbotsford-realtors-best-realtors-bc-2260747"
+    }
+   ]
+  },
+  {
+   "term": "apiclaw flat rate",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "APIClaw: Flat-Rate Claude & GPT API from $19/mo, OpenAI-Comp",
+     "url": "https://nothumansearch.ai/site/apiclaw.biz"
+    },
+    {
+     "name": "APIClaw Flat-rate OpenAI-compatible API: Claude, GPT, Gemini",
+     "url": "https://thehackstack.com/s/apiclaw"
+    }
+   ]
+  },
+  {
+   "term": "apollo international school",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "pre primary school in Dehradun",
+     "url": "https://directory6.org/listing/pre-primary-school-in-dehradun-720952"
+    },
+    {
+     "name": "pre primary school in Dehradun15",
+     "url": "https://aweblist.org/listing/pre-primary-school-in-dehradun15-972098"
+    }
+   ]
+  },
+  {
+   "term": "bike give visitor",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Rent Bike in Mathura And Dau Rental",
+     "url": "https://exampledir.com/listing/rent-bike-in-mathura-and-dau-rental-313639"
+    },
+    {
+     "name": "Rent Bike in Mathura With Dau Rental",
+     "url": "https://aweblist.org/listing/rent-bike-in-mathura-with-dau-rental-972109"
+    }
+   ]
+  },
+  {
+   "term": "courier partner manage",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "logistics aggregators",
+     "url": "https://exampledir.com/listing/logistics-aggregators-313627"
+    },
+    {
+     "name": "shipping aggregator",
+     "url": "https://huludirectory.com/listing/shipping-aggregator-2260761"
+    }
+   ]
+  },
+  {
+   "term": "customer friendly rental",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Rent Bike In Lucknow - Dau Rental",
+     "url": "https://aweblist.org/listing/rent-bike-in-lucknow--dau-rental-972092"
+    },
+    {
+     "name": "Rent Bike In Lucknow And Dau Rental",
+     "url": "https://exampledir.com/listing/rent-bike-in-lucknow-and-dau-rental-313633"
+    }
+   ]
+  },
+  {
+   "term": "discovery ai evidence",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Demand Discovery AI Evidence over optimism | Prove demand be",
+     "url": "https://thehackstack.com/s/demanddiscovery"
+    },
+    {
+     "name": "Demand Discovery Ai Evidence Over Optimism Or Prove Demand B",
+     "url": "https://develif.com/s/demand-discovery-ai-evidence-over-optimism-or-prove-demand-before-you-build-with"
+    }
+   ]
+  },
+  {
+   "term": "early adopter collect",
+   "count": 2,
+   "sources": 3,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Build Your Launch",
+     "url": "https://dealmyapp.com/listings/build-your-launch"
+    },
+    {
+     "name": "BuildYourLaunch.com",
+     "url": "https://buildyourlaunch.com/"
+    }
+   ]
+  },
+  {
+   "term": "hvac flat rate",
+   "count": 2,
+   "sources": 2,
+   "ratio": 39.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "HVAC Flat Rate Pricing Software Flat rate price book and quo",
+     "url": "https://thehackstack.com/s/hvacflatratepricingsoftware"
+    },
+    {
+     "name": "Hvac Flat Rate Pricing Software",
+     "url": "https://www.clapstorm.com/p/hvac-flat-rate-pricing-software"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "rajinder dhutti",
+   "size": 6,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Abbotsford Real Estate Agents | best realtors",
+     "url": "https://exampledir.com/listing/abbotsford-real-estate-agents-best-realtors-313615"
+    },
+    {
+     "name": "Abbotsford Realtors | best Realtor",
+     "url": "https://exampledir.com/listing/abbotsford-realtors-best-realtor-313614"
+    },
+    {
+     "name": "Abbotsford Realtors | best Realtors bc",
+     "url": "https://huludirectory.com/listing/abbotsford-realtors-best-realtors-bc-2260747"
+    },
+    {
+     "name": "Real Estate Agents In Abbotsford Bc | best realtor",
+     "url": "https://exampledir.com/listing/real-estate-agents-in-abbotsford-bc-best-realtor-313616"
+    }
+   ]
+  },
+  {
+   "term": "flat rate",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "APIClaw: Flat-Rate Claude & GPT API from $19/mo, OpenAI-Comp",
+     "url": "https://nothumansearch.ai/site/apiclaw.biz"
+    },
+    {
+     "name": "APIClaw Flat-rate OpenAI-compatible API: Claude, GPT, Gemini",
+     "url": "https://thehackstack.com/s/apiclaw"
+    },
+    {
+     "name": "Hvac Flat Rate Pricing Software",
+     "url": "https://www.clapstorm.com/p/hvac-flat-rate-pricing-software"
+    },
+    {
+     "name": "HVAC Flat Rate Pricing Software Flat rate price book and quo",
+     "url": "https://thehackstack.com/s/hvacflatratepricingsoftware"
+    }
+   ]
+  },
+  {
+   "term": "indian restaurant",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best Indian restaurant",
+     "url": "https://directory6.org/listing/best-indian-restaurant-720928"
+    },
+    {
+     "name": "Best Indian Restaurant In Surrey BC | Restaurant",
+     "url": "https://huludirectory.com/listing/best-indian-restaurant-in-surrey-bc--restaurant-2260756"
+    },
+    {
+     "name": "Indian Cuisine Surrey BC | Indian Restaurant",
+     "url": "https://huludirectory.com/listing/indian-cuisine-surrey-bc-indian-restaurant-2260759"
+    },
+    {
+     "name": "Indian Restaurant Near Me | Indian Restaurant",
+     "url": "https://huludirectory.com/listing/indian-restaurant-near-me-indian-restaurant-2260757"
+    }
+   ]
+  },
+  {
+   "term": "transportation whether",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Rent Bike In Lucknow And Dau Rental",
+     "url": "https://exampledir.com/listing/rent-bike-in-lucknow-and-dau-rental-313633"
+    },
+    {
+     "name": "Rent Bike In Lucknow - Dau Rental",
+     "url": "https://aweblist.org/listing/rent-bike-in-lucknow--dau-rental-972092"
+    },
+    {
+     "name": "Rent Bike in Mathura And Dau Rental",
+     "url": "https://exampledir.com/listing/rent-bike-in-mathura-and-dau-rental-313639"
+    },
+    {
+     "name": "Rent Bike in Mathura With Dau Rental",
+     "url": "https://aweblist.org/listing/rent-bike-in-mathura-with-dau-rental-972109"
+    }
+   ]
+  },
+  {
+   "term": "spa luxury",
+   "size": 6,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Belleza Wellness Spa | Luxury Spa in Nanakramguda",
+     "url": "https://aweblist.org/listing/belleza-wellness-spa-luxury-spa-in-nanakramguda-972064"
+    },
+    {
+     "name": "BEST Spa in Banjara Hills | Best Spa & Luxury Spa in Banjara",
+     "url": "https://exampledir.com/listing/best-spa-in-banjara-hills-best-spa-and-luxury-spa-in-banjara-hills-313617"
+    },
+    {
+     "name": "Best Spa in LB Nagar | Best Spa & Luxury Spa in LB Nagar Hyd",
+     "url": "https://exampledir.com/listing/best-spa-in-lb-nagar-best-spa-and-luxury-spa-in-lb-nagar-hyderabad-313618"
+    },
+    {
+     "name": "Best Spa in Secunderabad | Best Spa & Luxury Spa in Secunder",
+     "url": "https://directory6.org/listing/best-spa-in-secunderabad-best-spa-and-luxury-spa-in-secunderabad-and-best-spa-720909"
+    }
+   ]
+  },
+  {
+   "term": "estate agent",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Abbotsford Real Estate Agents | best realtors",
+     "url": "https://exampledir.com/listing/abbotsford-real-estate-agents-best-realtors-313615"
+    },
+    {
+     "name": "Real Estate Agents In Abbotsford Bc | best realtor",
+     "url": "https://exampledir.com/listing/real-estate-agents-in-abbotsford-bc-best-realtor-313616"
+    },
+    {
+     "name": "USAgentLeads",
+     "url": "https://usagentleads.com/"
+    }
+   ]
+  },
+  {
+   "term": "frame extractor",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Imgmov Last Frame Extractor",
+     "url": "https://sideprojects.net/projects/imgmov-last-frame-extractor"
+    },
+    {
+     "name": "imgmov Last Frame Extractor Save a video ending as a local P",
+     "url": "https://thehackstack.com/s/imgmov"
+    },
+    {
+     "name": "Video Frame Extractor",
+     "url": "https://yo.directory/tool/video-frame-extractor"
+    }
+   ]
+  },
+  {
+   "term": "burning bridge ai",
+   "size": 4,
+   "sources": 5,
+   "examples": [
+    {
+     "name": "Burning Bridges AI",
+     "url": "https://burningbridgesai.com/"
+    },
+    {
+     "name": "Burning Bridges Ai 2",
+     "url": "https://navs.site/website/burning-bridges-ai-2"
+    },
+    {
+     "name": "Burning Bridges Ai Video Generator",
+     "url": "https://agents-launch.lovable.app/agents/burning-bridges-ai-video-generator"
+    },
+    {
+     "name": "Burning Bridges cup scene AI",
+     "url": "https://huludirectory.com/listing/burning-bridges-cup-scene-ai-2260741"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「rajinder dhutti」今日 6 个产品/2 个目录：Real Estate Agents In Abbotsford Bc | best realtor、Abbotsford Real Estate Agents | best realtors",
+  "小词「flat rate」今日 4 个产品/3 个目录：APIClaw: Flat-Rate Claude & GPT API from $19/mo, OpenAI-Comp、APIClaw Flat-rate OpenAI-compatible API: Claude, GPT, Gemini",
+  "小词「indian restaurant」今日 4 个产品/2 个目录：Best Indian restaurant、Best Indian Restaurant In Surrey BC | Restaurant",
+  "同日小簇「rajinder dhutti」6 个相似产品：Abbotsford Real Estate Agents | best realtors、Abbotsford Realtors | best Realtor、Abbotsford Realtors | best Realtors bc",
+  "同日小簇「flat rate」4 个相似产品：APIClaw: Flat-Rate Claude & GPT API from $19/mo, OpenAI-Comp、APIClaw Flat-rate OpenAI-compatible API: Claude, GPT, Gemini、Hvac Flat Rate Pricing Software",
+  "跨目录同时出现：airapvideo1.com（4 个目录）",
+  "跨目录同时出现：operavue.com（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-10-30.md",
+ "niche_groups": "- AI API聚合与计费服务：flat rate、apiclaw flat rate、video image api —— 提供固定费率或按结果计费的AI模型API接入及视频图像生成接口\n- 物流与快递聚合管理：connect multiple courier、courier partner manage —— 整合多家快递合作伙伴的物流聚合与发货管理工具\n- 本地生活与垂直服务SEO：rajinder dhutti、indian restaurant、relaxing wellness experience、seek assistance call、abbotsford rajinder dhutti、compare tms clinic —— 针对房产、餐饮、SPA、NGO及医疗诊所等本地服务的关键词优化与排名产品\n- 创意工具与内容生成：bridge cup scene、burning bridge cup、imgmov last frame、instagram tiktok discord —— 提供特定场景AI生成、视频帧提取及社媒字体生成的创意辅助工具\n- 教育招生与需求验证：aarambh school started、apollo international school、demand discovery ai、adopter collect upvote —— 涵盖学校招生展示、产品需求验证及早期用户互动收集的平台"
+}
