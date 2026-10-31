@@ -1,0 +1,650 @@
+{
+ "date": "2026-10-31",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 184,
+ "sources_failed": 13,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1588,
+ "new_today_unique": 1442,
+ "ai_share_today": 0.31,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "random animal",
+   "count": 4,
+   "sources": 3,
+   "ratio": 87.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "RandomAnimalGen",
+     "url": "https://randomanimalgen.com/"
+    },
+    {
+     "name": "Random Animal Generator",
+     "url": "https://aitoolseekers.com/tools/random-animal-generator"
+    },
+    {
+     "name": "Random Animal Generator.Md",
+     "url": "https://aitoolseekers.com/tools/random-animal-generator.md"
+    }
+   ]
+  },
+  {
+   "term": "live speech translation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Transync AI",
+     "url": "https://transyncai.com/"
+    },
+    {
+     "name": "Transly",
+     "url": "https://transly.app/"
+    }
+   ]
+  },
+  {
+   "term": "nos workspace keep",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "NOS Workspace",
+     "url": "https://postlaunchkit.com/directory/nos-workspace"
+    },
+    {
+     "name": "NOS Workspace: Keep HTML pages beside your docs, fix text on",
+     "url": "https://saasolution.io/tool/nos-workspace"
+    }
+   ]
+  },
+  {
+   "term": "printable cursive worksheet",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Cursive Generator",
+     "url": "https://whatareyoubuilding.ai/product/tEguziPqVMbJUtu61qdc"
+    },
+    {
+     "name": "Cursive Generator: Free Cursive & Calligraphy Text Maker",
+     "url": "https://a2place.com/listing/cursive-generator-free-cursive-and-calligraphy-text-maker-718627"
+    }
+   ]
+  },
+  {
+   "term": "20+ year expertise",
+   "count": 4,
+   "sources": 2,
+   "ratio": 29.2,
+   "new": false,
+   "examples": [
+    {
+     "name": "VLSI Coaching Center Bangalore",
+     "url": "https://aweblist.org/listing/vlsi-coaching-center-bangalore-972310"
+    },
+    {
+     "name": "VLSI Educational institution Bangalore",
+     "url": "https://directory6.org/listing/vlsi-educational-institution-bangalore-721146"
+    },
+    {
+     "name": "VLSI Learning center Bangalore",
+     "url": "https://aweblist.org/listing/vlsi-learning-center-bangalore-972311"
+    }
+   ]
+  },
+  {
+   "term": "adhd evaluation provider",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Find an ADHD evaluation near you | ADHDEvaluations — score 8",
+     "url": "https://nothumansearch.ai/site/adhdevaluations.fyi"
+    },
+    {
+     "name": "ADHDEvaluations",
+     "url": "https://adhdevaluations.fyi/"
+    }
+   ]
+  },
+  {
+   "term": "ai excel formula",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "SheetGPT",
+     "url": "https://postlaunchkit.com/directory/sheetgpt"
+    },
+    {
+     "name": "Sheetgpt Ai Excel Formula Generator",
+     "url": "https://agents-launch.lovable.app/agents/sheetgpt-ai-excel-formula-generator"
+    }
+   ]
+  },
+  {
+   "term": "ai governance risk",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI governance, risk and compliance software | AIGovernanceTo",
+     "url": "https://nothumansearch.ai/site/aigovernancetools.fyi"
+    },
+    {
+     "name": "AIGovernanceTools",
+     "url": "https://aigovernancetools.fyi/"
+    }
+   ]
+  },
+  {
+   "term": "air conditioner running",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Aircon General Servicing",
+     "url": "https://aweblist.org/listing/aircon-general-servicing-972331"
+    },
+    {
+     "name": "Save Electricity with Your Mitsubishi Aircon in Singapore",
+     "url": "https://huludirectory.com/listing/save-electricity-with-your-mitsubishi-aircon-in-singapore-2260947"
+    }
+   ]
+  },
+  {
+   "term": "api car xml",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Car API 10",
+     "url": "https://huludirectory.com/listing/car-api-10-2260939"
+    },
+    {
+     "name": "Car API 8",
+     "url": "https://a2place.com/listing/car-api-8-718640"
+    }
+   ]
+  },
+  {
+   "term": "auto title loan",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fast Cash Surrey | Auto Title Loans In Surrey",
+     "url": "https://huludirectory.com/listing/fast-cash-surrey-auto-title-loans-in-surrey-2260912"
+    },
+    {
+     "name": "Edmonton Auto Title Loans – Fast & Convenient Vehicle Financ",
+     "url": "https://a2place.com/listing/edmonton-auto-title-loans-–-fast-and-convenient-vehicle-financing-instant-cash-edmonton-718632"
+    }
+   ]
+  },
+  {
+   "term": "bazi liuyao feng",
+   "count": 2,
+   "sources": 3,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Cantian AI",
+     "url": "https://cantian.ai/"
+    },
+    {
+     "name": "Cantian AI AI Skills for BaZi, Liuyao, Feng Shui & naming 💬 ",
+     "url": "https://thehackstack.com/s/cantian"
+    }
+   ]
+  },
+  {
+   "term": "compare gpu cloud",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Compare GPU cloud providers | GPUClouds — score 80/100 (fina",
+     "url": "https://nothumansearch.ai/site/gpuclouds.fyi"
+    },
+    {
+     "name": "GPUClouds",
+     "url": "https://gpuclouds.fyi/"
+    }
+   ]
+  },
+  {
+   "term": "component anala pump",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Chlorine Dosing System for Water Treatment Applications",
+     "url": "https://directory6.org/listing/chlorine-dosing-system-for-water-treatment-applications-721147"
+    },
+    {
+     "name": "Polymer Dosing System for Industrial Water Treatment",
+     "url": "https://huludirectory.com/listing/polymer-dosing-system-for-industrial-water-treatment-2260931"
+    }
+   ]
+  },
+  {
+   "term": "croydon cars looking",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Trusted Purley Minicab | Book Your Ride Today",
+     "url": "https://directory6.org/listing/trusted-purley-minicab-book-your-ride-today-721176"
+    },
+    {
+     "name": "Reliable Purley Minicab Services | Safe & Affordable",
+     "url": "https://a2place.com/listing/reliable-purley-minicab-services-safe-and-affordable-718641"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "api integration car",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Car API 10",
+     "url": "https://huludirectory.com/listing/car-api-10-2260939"
+    },
+    {
+     "name": "Car API 8",
+     "url": "https://a2place.com/listing/car-api-8-718640"
+    }
+   ]
+  },
+  {
+   "term": "customized digital marketing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Digital Marketing Agency for Business Growth | WaysPro TECH",
+     "url": "https://exampledir.com/listing/digital-marketing-agency-for-business-growth-wayspro-tech-313699"
+    },
+    {
+     "name": "Digital Divya Harsora A Certified Digital Marketer in Mira B",
+     "url": "https://directory6.org/listing/digital-divya-harsora-a-certified-digital-marketer-in-mira-bhayandar-721173"
+    }
+   ]
+  },
+  {
+   "term": "eligible vehicle owner",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fast Cash Surrey | Auto Title Loans In Surrey",
+     "url": "https://huludirectory.com/listing/fast-cash-surrey-auto-title-loans-in-surrey-2260912"
+    },
+    {
+     "name": "Edmonton Auto Title Loans – Fast & Convenient Vehicle Financ",
+     "url": "https://a2place.com/listing/edmonton-auto-title-loans-–-fast-and-convenient-vehicle-financing-instant-cash-edmonton-718632"
+    }
+   ]
+  },
+  {
+   "term": "feng shui naming",
+   "count": 2,
+   "sources": 3,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Cantian AI",
+     "url": "https://cantian.ai/"
+    },
+    {
+     "name": "Cantian AI AI Skills for BaZi, Liuyao, Feng Shui & naming 💬 ",
+     "url": "https://thehackstack.com/s/cantian"
+    }
+   ]
+  },
+  {
+   "term": "foreclosure data hub",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Foreclosure Data Hub",
+     "url": "https://postlaunchkit.com/directory/foreclosure-data-hub"
+    },
+    {
+     "name": "Foreclosure Data Hub Daily foreclosure data, alerts, and inv",
+     "url": "https://thehackstack.com/s/foreclosuredatahub"
+    }
+   ]
+  },
+  {
+   "term": "gopiban logistic deliver",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Modern Trucking Solutions for Business Deliveries Pune Trans",
+     "url": "https://aweblist.org/listing/modern-trucking-solutions-for-business-deliveries-pune-transportation-services-–-gopiban-logistics-972328"
+    },
+    {
+     "name": "Quality-Driven Goods Transportation from Pune to Leh Transpo",
+     "url": "https://aweblist.org/listing/quality-driven-goods-transportation-from-pune-to-leh-transport-service-–-gopiban-logistics-972348"
+    }
+   ]
+  },
+  {
+   "term": "indian competitive exam",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Edora: AI study app for JEE/NEET aspirants, live on Google P",
+     "url": "https://dealmyapp.com/listings/edora-ai-study-app-for-jeeneet-aspirants-live-on-google-play-full-source-plus-domain"
+    },
+    {
+     "name": "RankMatters",
+     "url": "https://rankmatters.in/"
+    }
+   ]
+  },
+  {
+   "term": "laptop repair center",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Laptop Repair Center in kaikondrahalli | Dell | HP | Lenovo ",
+     "url": "https://aweblist.org/listing/laptop-repair-center-in-kaikondrahalli-dell-hp-lenovo-acer-972343"
+    },
+    {
+     "name": "Laptop Repair Center near me Bangalore | Dell | HP | Lenovo ",
+     "url": "https://huludirectory.com/listing/laptop-repair-center-near-me-bangalore-dell-hp-lenovo-acer-2260952"
+    }
+   ]
+  },
+  {
+   "term": "minicab croydon cars",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Trusted Purley Minicab | Book Your Ride Today",
+     "url": "https://directory6.org/listing/trusted-purley-minicab-book-your-ride-today-721176"
+    },
+    {
+     "name": "Reliable Purley Minicab Services | Safe & Affordable",
+     "url": "https://a2place.com/listing/reliable-purley-minicab-services-safe-and-affordable-718641"
+    }
+   ]
+  },
+  {
+   "term": "pinterest video image",
+   "count": 2,
+   "sources": 2,
+   "ratio": 43.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "PinClip Pinterest DL",
+     "url": "https://pinclip.app/"
+    },
+    {
+     "name": "PinClip",
+     "url": "https://pinclip.app/"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "random animal",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Random Animal Generator",
+     "url": "https://aitoolseekers.com/tools/random-animal-generator"
+    },
+    {
+     "name": "Random Animal Generator.Md",
+     "url": "https://aitoolseekers.com/tools/random-animal-generator.md"
+    },
+    {
+     "name": "Random Animal Picker",
+     "url": "https://navs.site/website/random-animal-picker"
+    },
+    {
+     "name": "RandomAnimalGen",
+     "url": "https://randomanimalgen.com/"
+    }
+   ]
+  },
+  {
+   "term": "20+ year expertise",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "VLSI Coaching Center Bangalore",
+     "url": "https://aweblist.org/listing/vlsi-coaching-center-bangalore-972310"
+    },
+    {
+     "name": "VLSI Educational institution Bangalore",
+     "url": "https://directory6.org/listing/vlsi-educational-institution-bangalore-721146"
+    },
+    {
+     "name": "VLSI Learning center Bangalore",
+     "url": "https://aweblist.org/listing/vlsi-learning-center-bangalore-972311"
+    },
+    {
+     "name": "VLSI Learning center Hyderabad",
+     "url": "https://directory6.org/listing/vlsi-learning-center-hyderabad-721141"
+    }
+   ]
+  },
+  {
+   "term": "chemical dosing",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Chemical Dosing Pump for Accurate Chemical Delivery",
+     "url": "https://huludirectory.com/listing/chemical-dosing-pump-for-accurate-chemical-delivery-2260928"
+    },
+    {
+     "name": "Chemical Dosing Skid for Integrated Industrial Dosing",
+     "url": "https://a2place.com/listing/chemical-dosing-skid-for-integrated-industrial-dosing-718638"
+    },
+    {
+     "name": "Polymer Dosing System for Industrial Water Treatment",
+     "url": "https://huludirectory.com/listing/polymer-dosing-system-for-industrial-water-treatment-2260931"
+    }
+   ]
+  },
+  {
+   "term": "dosing pump",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Chemical Dosing Pump for Accurate Chemical Delivery",
+     "url": "https://huludirectory.com/listing/chemical-dosing-pump-for-accurate-chemical-delivery-2260928"
+    },
+    {
+     "name": "Chemical Dosing Skid for Integrated Industrial Dosing",
+     "url": "https://a2place.com/listing/chemical-dosing-skid-for-integrated-industrial-dosing-718638"
+    },
+    {
+     "name": "Chlorine Dosing System for Water Treatment Applications",
+     "url": "https://directory6.org/listing/chlorine-dosing-system-for-water-treatment-applications-721147"
+    }
+   ]
+  },
+  {
+   "term": "lenovo acer",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Laptop Repair Center in kaikondrahalli | Dell | HP | Lenovo ",
+     "url": "https://aweblist.org/listing/laptop-repair-center-in-kaikondrahalli-dell-hp-lenovo-acer-972343"
+    },
+    {
+     "name": "Laptop Repair Center near me Bangalore | Dell | HP | Lenovo ",
+     "url": "https://huludirectory.com/listing/laptop-repair-center-near-me-bangalore-dell-hp-lenovo-acer-2260952"
+    },
+    {
+     "name": "Laptop Repair in kaikondrahalli | Dell | HP | Lenovo | Acer",
+     "url": "https://huludirectory.com/listing/laptop-repair-in-kaikondrahalli-dell-hp-lenovo-acer-2260953"
+    }
+   ]
+  },
+  {
+   "term": "makify ai",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "GPT Image 2 - AI Image Generator & Photo Editor | Makify AI ",
+     "url": "https://nothumansearch.ai/site/makifyai.com"
+    },
+    {
+     "name": "Makify AI - AI Creative Platform",
+     "url": "https://azn8.com/listing/makify-ai-ai-creative-platform"
+    },
+    {
+     "name": "Makify AI - Multi-Model Creative Platform",
+     "url": "https://makifyai.com/"
+    }
+   ]
+  },
+  {
+   "term": "shadow hand",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Shadow Hands",
+     "url": "https://shadowhands.shop/"
+    },
+    {
+     "name": "Unplayable By Shadow Hands",
+     "url": "https://www.clapstorm.com/p/unplayable-by-shadow-hands"
+    },
+    {
+     "name": "Unplayable by Shadow Hands Become the one nobody can play. 💬",
+     "url": "https://thehackstack.com/s/app-shadowhands"
+    }
+   ]
+  },
+  {
+   "term": "title loan",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Edmonton Auto Title Loans – Fast & Convenient Vehicle Financ",
+     "url": "https://a2place.com/listing/edmonton-auto-title-loans-–-fast-and-convenient-vehicle-financing-instant-cash-edmonton-718632"
+    },
+    {
+     "name": "Fast Cash Burnaby – Title Loans Burnaby, BC",
+     "url": "https://huludirectory.com/listing/fast-cash-burnaby-–-title-loans-burnaby-bc-2260913"
+    },
+    {
+     "name": "Fast Cash Surrey | Auto Title Loans In Surrey",
+     "url": "https://huludirectory.com/listing/fast-cash-surrey-auto-title-loans-in-surrey-2260912"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「random animal」今日 4 个产品/3 个目录：RandomAnimalGen、Random Animal Generator",
+  "小词「live speech translation」今日 2 个产品/2 个目录：Transync AI、Transly",
+  "小词「nos workspace keep」今日 2 个产品/2 个目录：NOS Workspace、NOS Workspace: Keep HTML pages beside your docs, fix text on",
+  "同日小簇「random animal」4 个相似产品：Random Animal Generator、Random Animal Generator.Md、Random Animal Picker",
+  "同日小簇「20+ year expertise」4 个相似产品：VLSI Coaching Center Bangalore、VLSI Educational institution Bangalore、VLSI Learning center Bangalore",
+  "跨目录同时出现：genflick.com（4 个目录）",
+  "跨目录同时出现：indiainsurances.com（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-10-31.md",
+ "niche_groups": "- random animal：random animal —— 提供随机动物生成或展示功能\n- live speech translation：live speech translation —— 提供实时语音翻译服务\n- nos workspace keep：nos workspace keep —— 提供网页与文档并排显示及文本修复的工作区工具\n- printable cursive worksheet：printable cursive worksheet —— 生成可打印的草书或书法练习工作表\n- 20+ year expertise：20+ year expertise —— 提供VLSI领域的专业教育与辅导服务\n- adhd evaluation provider：adhd evaluation provider —— 提供ADHD评估服务的查找或预约平台"
+}

@@ -7,35 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-10-30** · 新增 1609 · 监控 197 个目录（今日成功 184）
+**2026-10-31** · 新增 1588 · 监控 197 个目录（今日成功 184）
 
 聚焦小词 Top 15:
 
-- `rajinder dhutti` ×6（2 目录） 🆕：Real Estate Agents In Abbotsford Bc | best realtor；Abbotsford Real Estate Agents | best realtors
-- `flat rate` ×4（3 目录） 🆕：APIClaw: Flat-Rate Claude & GPT API from $19/mo, OpenAI-Comp；APIClaw Flat-rate OpenAI-compatible API: Claude, GPT, Gemini
-- `indian restaurant` ×4（2 目录） 🆕：Best Indian restaurant；Best Indian Restaurant In Surrey BC | Restaurant
-- `transportation whether` ×4（2 目录） 🆕：Rent Bike In Lucknow - Dau Rental；Rent Bike In Lucknow And Dau Rental
-- `bridge cup scene` ×2（2 目录） 🆕：Burning Bridges cup scene AI；Burning Bridges AI
-- `video image api` ×2（2 目录） 🆕：Makernice；Makernice AI video & image API. One key. Pay only for result
-- `aarambh school started` ×2（2 目录） 🆕：pre primary school in Dehradun；pre primary school in Dehradun15
-- `adopter collect upvote` ×2（3 目录） 🆕：Build Your Launch；BuildYourLaunch.com
-- `compare tms clinic` ×2（2 目录） 🆕：Compare TMS clinics and costs | TMSClinics — score 80/100 (d；TMSClinics
-- `connect multiple courier` ×2（2 目录） 🆕：logistics aggregators；shipping aggregator
-- `demand discovery ai` ×2（2 目录） 🆕：Demand Discovery AI Evidence over optimism | Prove demand be；Demand Discovery Ai Evidence Over Optimism Or Prove Demand B
-- `imgmov last frame` ×2（2 目录） 🆕：Imgmov Last Frame Extractor；imgmov Last Frame Extractor Save a video ending as a local P
-- `instagram tiktok discord` ×2（2 目录） 🆕：Cute Font Generator；Aesthetic Font Generator
-- `relaxing wellness experience` ×2（2 目录） 🆕：Best Spa in Secunderabad | Best Spa & Luxury Spa in Secunder；Spa in Secunderabad | Best Spa & Luxury Spa in Secunderabad 
-- `seek assistance call` ×2（4 目录） 🆕：ngo contact number in kolkata​；ngo contact number in kolkata​_The We Foundation
+- `random animal` ×4（3 目录） 🆕：RandomAnimalGen；Random Animal Generator
+- `live speech translation` ×2（2 目录） 🆕：Transync AI；Transly
+- `nos workspace keep` ×2（2 目录） 🆕：NOS Workspace；NOS Workspace: Keep HTML pages beside your docs, fix text on
+- `printable cursive worksheet` ×2（2 目录） 🆕：Cursive Generator；Cursive Generator: Free Cursive & Calligraphy Text Maker
+- `20+ year expertise` ×4（2 目录）：VLSI Coaching Center Bangalore；VLSI Educational institution Bangalore
+- `adhd evaluation provider` ×2（2 目录） 🆕：Find an ADHD evaluation near you | ADHDEvaluations — score 8；ADHDEvaluations
+- `ai excel formula` ×2（2 目录） 🆕：SheetGPT；Sheetgpt Ai Excel Formula Generator
+- `ai governance risk` ×2（2 目录） 🆕：AI governance, risk and compliance software | AIGovernanceTo；AIGovernanceTools
+- `air conditioner running` ×2（2 目录） 🆕：Aircon General Servicing；Save Electricity with Your Mitsubishi Aircon in Singapore
+- `api car xml` ×2（2 目录） 🆕：Car API 10；Car API 8
+- `auto title loan` ×2（2 目录） 🆕：Fast Cash Surrey | Auto Title Loans In Surrey；Edmonton Auto Title Loans – Fast & Convenient Vehicle Financ
+- `bazi liuyao feng` ×2（3 目录） 🆕：Cantian AI；Cantian AI AI Skills for BaZi, Liuyao, Feng Shui & naming 💬 
+- `compare gpu cloud` ×2（2 目录） 🆕：Compare GPU cloud providers | GPUClouds — score 80/100 (fina；GPUClouds
+- `component anala pump` ×2（2 目录） 🆕：Chlorine Dosing System for Water Treatment Applications；Polymer Dosing System for Industrial Water Treatment
+- `croydon cars looking` ×2（2 目录） 🆕：Trusted Purley Minicab | Book Your Ride Today；Reliable Purley Minicab Services | Safe & Affordable
 
 微赛道归纳:
 
-- AI API聚合与计费服务：flat rate、apiclaw flat rate、video image api —— 提供固定费率或按结果计费的AI模型API接入及视频图像生成接口
-- 物流与快递聚合管理：connect multiple courier、courier partner manage —— 整合多家快递合作伙伴的物流聚合与发货管理工具
-- 本地生活与垂直服务SEO：rajinder dhutti、indian restaurant、relaxing wellness experience、seek assistance call、abbotsford rajinder dhutti、compare tms clinic —— 针对房产、餐饮、SPA、NGO及医疗诊所等本地服务的关键词优化与排名产品
-- 创意工具与内容生成：bridge cup scene、burning bridge cup、imgmov last frame、instagram tiktok discord —— 提供特定场景AI生成、视频帧提取及社媒字体生成的创意辅助工具
-- 教育招生与需求验证：aarambh school started、apollo international school、demand discovery ai、adopter collect upvote —— 涵盖学校招生展示、产品需求验证及早期用户互动收集的平台
+- random animal：random animal —— 提供随机动物生成或展示功能
+- live speech translation：live speech translation —— 提供实时语音翻译服务
+- nos workspace keep：nos workspace keep —— 提供网页与文档并排显示及文本修复的工作区工具
+- printable cursive worksheet：printable cursive worksheet —— 生成可打印的草书或书法练习工作表
+- 20+ year expertise：20+ year expertise —— 提供VLSI领域的专业教育与辅导服务
+- adhd evaluation provider：adhd evaluation provider —— 提供ADHD评估服务的查找或预约平台
 
-完整报告: [reports/2026-10-30.md](reports/2026-10-30.md)
+完整报告: [reports/2026-10-31.md](reports/2026-10-31.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
