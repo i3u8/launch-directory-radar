@@ -7,36 +7,35 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-10-31** · 新增 1588 · 监控 197 个目录（今日成功 184）
+**2026-11-01** · 新增 1422 · 监控 197 个目录（今日成功 182）
 
 聚焦小词 Top 15:
 
-- `random animal` ×4（3 目录） 🆕：RandomAnimalGen；Random Animal Generator
-- `live speech translation` ×2（2 目录） 🆕：Transync AI；Transly
-- `nos workspace keep` ×2（2 目录） 🆕：NOS Workspace；NOS Workspace: Keep HTML pages beside your docs, fix text on
-- `printable cursive worksheet` ×2（2 目录） 🆕：Cursive Generator；Cursive Generator: Free Cursive & Calligraphy Text Maker
-- `20+ year expertise` ×4（2 目录）：VLSI Coaching Center Bangalore；VLSI Educational institution Bangalore
-- `adhd evaluation provider` ×2（2 目录） 🆕：Find an ADHD evaluation near you | ADHDEvaluations — score 8；ADHDEvaluations
-- `ai excel formula` ×2（2 目录） 🆕：SheetGPT；Sheetgpt Ai Excel Formula Generator
-- `ai governance risk` ×2（2 目录） 🆕：AI governance, risk and compliance software | AIGovernanceTo；AIGovernanceTools
-- `air conditioner running` ×2（2 目录） 🆕：Aircon General Servicing；Save Electricity with Your Mitsubishi Aircon in Singapore
-- `api car xml` ×2（2 目录） 🆕：Car API 10；Car API 8
-- `auto title loan` ×2（2 目录） 🆕：Fast Cash Surrey | Auto Title Loans In Surrey；Edmonton Auto Title Loans – Fast & Convenient Vehicle Financ
-- `bazi liuyao feng` ×2（3 目录） 🆕：Cantian AI；Cantian AI AI Skills for BaZi, Liuyao, Feng Shui & naming 💬 
-- `compare gpu cloud` ×2（2 目录） 🆕：Compare GPU cloud providers | GPUClouds — score 80/100 (fina；GPUClouds
-- `component anala pump` ×2（2 目录） 🆕：Chlorine Dosing System for Water Treatment Applications；Polymer Dosing System for Industrial Water Treatment
-- `croydon cars looking` ×2（2 目录） 🆕：Trusted Purley Minicab | Book Your Ride Today；Reliable Purley Minicab Services | Safe & Affordable
+- `previous year question` ×3（2 目录） 🆕：CA Foundation Notes；Class 9 Maths Introduction to
+- `ai british accent` ×2（3 目录） 🆕：British Accent Generator；British Accent Generator AI British accent text-to-speech wi
+- `douyin xiaohongshu rednote` ×2（2 目录） 🆕：Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/；Qovia
+- `instagram reel safe` ×2（2 目录） 🆕：Instagram Reels Safe Zone Checker；Instagram Reels Safe Zone Checker Check 9:16 creative agains
+- `les propri taire` ×2（3 目录） 🆕：Performance Énergétique Appartement à Bruxelles – Certismart；Votre Land Rover a besoin d’une réparation ? Trouvez les bon
+- `lip synced ai` ×2（2 目录） 🆕：AI Rap Video Generator；AI Rap Video
+- `second lip synced` ×2（2 目录） 🆕：WakePix；AI Rap Video Generator
+- `early access` ×3（3 目录） 🆕：Pond: AI Artificial inteligence；Eazlio FollowUp Early Access
+- `remote monitoring` ×3（3 目录） 🆕：Security Surveillance Singapore；Nizlo
+- `blood vessel` ×3（3 目录） 🆕：Tadalista 40 Mg And Medical Assessment For ED；Vidalista Black 80 Mg And Hypertension-Related ED
+- `gym management` ×3（4 目录） 🆕：FitFaat；FitFaat (Dai Software)
+- `mumbai vip` ×3（2 目录） 🆕：Mumbai VIP Escorts 9098957425；Mumbai VIP escort service
+- `reddy anna` ×3（3 目录） 🆕：Reddy Anna website；Reddy Anna
+- `scribe audio` ×5（5 目录）：Le Scribe Audio - B2B AI Speech-to-Text & Diarization；Le Scribe Audio - AI Audio & Video Transcription
+- `ai landscape` ×2（2 目录） 🆕：Apple CEO says the company doesn’t ‘want to ship AI for AI’s；AI Landscape Design
 
 微赛道归纳:
 
-- random animal：random animal —— 提供随机动物生成或展示功能
-- live speech translation：live speech translation —— 提供实时语音翻译服务
-- nos workspace keep：nos workspace keep —— 提供网页与文档并排显示及文本修复的工作区工具
-- printable cursive worksheet：printable cursive worksheet —— 生成可打印的草书或书法练习工作表
-- 20+ year expertise：20+ year expertise —— 提供VLSI领域的专业教育与辅导服务
-- adhd evaluation provider：adhd evaluation provider —— 提供ADHD评估服务的查找或预约平台
+- AI语音与视频生成：ai british accent、lip synced ai、second lip synced、scribe audio、synced ai rap —— 提供英式口音TTS、AI说唱视频生成及B2B音频转写服务
+- 社交媒体内容工具：douyin xiaohongshu rednote、instagram reel safe、reel safe zone、100+ endpoint、android iphone —— 涵盖多平台数据API、Reels安全区检查及跨平台应用
+- 教育笔记与资源：previous year question、chapter wise、ai landscape —— 提供CA基础笔记、章节数学内容及AI景观设计资讯
+- 垂直行业SaaS：gym management、remote monitoring、les propri taire —— 针对健身房管理、远程安防监控及欧洲房产/汽车服务的垂直解决方案
+- 医疗健康与成人服务：blood vessel、mumbai vip、reddy anna —— 涉及ED药物评估、特定地区VIP服务及特定人物/网站入口
 
-完整报告: [reports/2026-10-31.md](reports/2026-10-31.md)
+完整报告: [reports/2026-11-01.md](reports/2026-11-01.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

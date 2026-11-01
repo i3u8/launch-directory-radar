@@ -1,0 +1,677 @@
+{
+ "date": "2026-11-01",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 182,
+ "sources_failed": 15,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "promoteindex-com",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1422,
+ "new_today_unique": 1293,
+ "ai_share_today": 0.3,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "previous year question",
+   "count": 3,
+   "sources": 2,
+   "ratio": 78.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "CA Foundation Notes",
+     "url": "https://huludirectory.com/listing/ca-foundation-notes-2260997"
+    },
+    {
+     "name": "Class 9 Maths Introduction to",
+     "url": "https://notebookedu-app.netlify.app/notes/class-9/maths/introduction-to-probability"
+    },
+    {
+     "name": "Class 9 Maths Statistics notes",
+     "url": "https://notebookedu-app.netlify.app/notes/class-9/maths/statistics"
+    }
+   ]
+  },
+  {
+   "term": "ai british accent",
+   "count": 2,
+   "sources": 3,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "British Accent Generator",
+     "url": "https://britishaccent.pro/"
+    },
+    {
+     "name": "British Accent Generator AI British accent text-to-speech wi",
+     "url": "https://thehackstack.com/s/britishaccent"
+    }
+   ]
+  },
+  {
+   "term": "douyin xiaohongshu rednote",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/",
+     "url": "https://nothumansearch.ai/site/qovia.ai"
+    },
+    {
+     "name": "Qovia",
+     "url": "https://qovia.ai/"
+    }
+   ]
+  },
+  {
+   "term": "instagram reel safe",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Instagram Reels Safe Zone Checker",
+     "url": "https://develif.com/s/instagram-reels-safe-zone-checker"
+    },
+    {
+     "name": "Instagram Reels Safe Zone Checker Check 9:16 creative agains",
+     "url": "https://thehackstack.com/s/maestrogtm"
+    }
+   ]
+  },
+  {
+   "term": "les propri taire",
+   "count": 2,
+   "sources": 3,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Performance Énergétique Appartement à Bruxelles – Certismart",
+     "url": "https://huludirectory.com/listing/performance-energetique-appartement-a-bruxelles-–-certismart-2261035"
+    },
+    {
+     "name": "Votre Land Rover a besoin d’une réparation ? Trouvez les bon",
+     "url": "https://aweblist.org/listing/votre-land-rover-a-besoin-d’une-reparation-trouvez-les-bonnes-pieces-avant-votre-prochaine-972490"
+    }
+   ]
+  },
+  {
+   "term": "lip synced ai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Rap Video Generator",
+     "url": "https://airapvideogenerator.app/"
+    },
+    {
+     "name": "AI Rap Video",
+     "url": "https://rapvideo.ai/"
+    }
+   ]
+  },
+  {
+   "term": "second lip synced",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "WakePix",
+     "url": "https://whatareyoubuilding.ai/product/yaMyeKHBdbph1n5JDw3S"
+    },
+    {
+     "name": "AI Rap Video Generator",
+     "url": "https://airapvideogenerator.app/"
+    }
+   ]
+  },
+  {
+   "term": "early access",
+   "count": 3,
+   "sources": 3,
+   "ratio": 78.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Pond: AI Artificial inteligence",
+     "url": "https://awesomeindie.com/product/pond"
+    },
+    {
+     "name": "Eazlio FollowUp Early Access",
+     "url": "https://eazlio-followup.netlify.app/"
+    },
+    {
+     "name": "Relaxuna",
+     "url": "https://azn8.com/listing/relaxuna"
+    }
+   ]
+  },
+  {
+   "term": "remote monitoring",
+   "count": 3,
+   "sources": 3,
+   "ratio": 78.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Security Surveillance Singapore",
+     "url": "https://aweblist.org/listing/security-surveillance-singapore-972494"
+    },
+    {
+     "name": "Nizlo",
+     "url": "https://nizlo.com/"
+    },
+    {
+     "name": "Remote Monitoring Software For It Teams",
+     "url": "https://develif.com/s/remote-monitoring-software-for-it-teams"
+    }
+   ]
+  },
+  {
+   "term": "blood vessel",
+   "count": 3,
+   "sources": 3,
+   "ratio": 78.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Tadalista 40 Mg And Medical Assessment For ED",
+     "url": "https://huludirectory.com/listing/tadalista-40-mg-and-medical-assessment-for-ed-2261002"
+    },
+    {
+     "name": "Vidalista Black 80 Mg And Hypertension-Related ED",
+     "url": "https://exampledir.com/listing/vidalista-black-80-mg-and-hypertension-related-ed-313752"
+    },
+    {
+     "name": "Vidalista And Common Erectile Health Challenges",
+     "url": "https://a2place.com/listing/vidalista-and-common-erectile-health-challenges-718642"
+    }
+   ]
+  },
+  {
+   "term": "gym management",
+   "count": 3,
+   "sources": 4,
+   "ratio": 78.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "FitFaat",
+     "url": "https://whatareyoubuilding.ai/product/4IzI5sQUgiu4dtIVpMgi"
+    },
+    {
+     "name": "FitFaat (Dai Software)",
+     "url": "https://fitfaat.com/"
+    },
+    {
+     "name": "FitFaat Gym management software & app for Indian gyms 💬 0 Co",
+     "url": "https://thehackstack.com/s/fitfaat"
+    }
+   ]
+  },
+  {
+   "term": "mumbai vip",
+   "count": 3,
+   "sources": 2,
+   "ratio": 78.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mumbai VIP Escorts 9098957425",
+     "url": "https://huludirectory.com/listing/mumbai-vip-escorts-9098957425-2260999"
+    },
+    {
+     "name": "Mumbai VIP escort service",
+     "url": "https://directory6.org/listing/mumbai-vip-escort-service-721282"
+    },
+    {
+     "name": "Mumbai VIP model escort service",
+     "url": "https://directory6.org/listing/mumbai-vip-model-escort-service-721288"
+    }
+   ]
+  },
+  {
+   "term": "reddy anna",
+   "count": 3,
+   "sources": 3,
+   "ratio": 78.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Reddy Anna website",
+     "url": "https://aweblist.org/listing/reddy-anna-website-972514"
+    },
+    {
+     "name": "Reddy Anna",
+     "url": "https://directory6.org/listing/reddy-anna-721294"
+    },
+    {
+     "name": "Reddy Anna ID online",
+     "url": "https://huludirectory.com/listing/reddy-anna-id-online-2261039"
+    }
+   ]
+  },
+  {
+   "term": "scribe audio",
+   "count": 5,
+   "sources": 5,
+   "ratio": 26.0,
+   "new": false,
+   "examples": [
+    {
+     "name": "Le Scribe Audio - B2B AI Speech-to-Text & Diarization",
+     "url": "https://exampledir.com/listing/le-scribe-audio--b2b-ai-speech-to-text-and-diarization-313764"
+    },
+    {
+     "name": "Le Scribe Audio - AI Audio & Video Transcription",
+     "url": "https://a2place.com/listing/le-scribe-audio--ai-audio-and-video-transcription-718644"
+    },
+    {
+     "name": "Le Scribe Audio | Logiciel & Service de Transcription (60 mi",
+     "url": "https://nothumansearch.ai/site/lescribeaudio.com"
+    }
+   ]
+  },
+  {
+   "term": "ai landscape",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s",
+     "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake"
+    },
+    {
+     "name": "AI Landscape Design",
+     "url": "https://ai-landscape-design.com/"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "british accent text",
+   "count": 2,
+   "sources": 3,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "British Accent Generator",
+     "url": "https://britishaccent.pro/"
+    },
+    {
+     "name": "British Accent Generator AI British accent text-to-speech wi",
+     "url": "https://thehackstack.com/s/britishaccent"
+    }
+   ]
+  },
+  {
+   "term": "reel safe zone",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Instagram Reels Safe Zone Checker",
+     "url": "https://develif.com/s/instagram-reels-safe-zone-checker"
+    },
+    {
+     "name": "Instagram Reels Safe Zone Checker Check 9:16 creative agains",
+     "url": "https://thehackstack.com/s/maestrogtm"
+    }
+   ]
+  },
+  {
+   "term": "synced ai rap",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Rap Video Generator",
+     "url": "https://airapvideogenerator.app/"
+    },
+    {
+     "name": "AI Rap Video",
+     "url": "https://rapvideo.ai/"
+    }
+   ]
+  },
+  {
+   "term": "chapter wise",
+   "count": 3,
+   "sources": 2,
+   "ratio": 78.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "CA Foundation Notes",
+     "url": "https://huludirectory.com/listing/ca-foundation-notes-2260997"
+    },
+    {
+     "name": "Class 9 Maths Introduction to",
+     "url": "https://notebookedu-app.netlify.app/notes/class-9/maths/introduction-to-probability"
+    },
+    {
+     "name": "Class 9 Maths Statistics notes",
+     "url": "https://notebookedu-app.netlify.app/notes/class-9/maths/statistics"
+    }
+   ]
+  },
+  {
+   "term": "100+ endpoint",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/",
+     "url": "https://nothumansearch.ai/site/qovia.ai"
+    },
+    {
+     "name": "Qovia",
+     "url": "https://qovia.ai/"
+    }
+   ]
+  },
+  {
+   "term": "android iphone",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "20-0.org - Free Online Games",
+     "url": "https://20-0.org/"
+    },
+    {
+     "name": "Money Tracker Expense & Budget",
+     "url": "https://gateofai.com/community-tools/money-tracker-expense-budget"
+    }
+   ]
+  },
+  {
+   "term": "automation agency",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "TrustedAIAgencies",
+     "url": "https://whatareyoubuilding.ai/product/1FSFn52fhRLSY868ARft"
+    },
+    {
+     "name": "TrustedAIAgencies: UK AI automation agency directory",
+     "url": "https://aweblist.org/listing/trustedaiagencies-uk-ai-automation-agency-directory-972515"
+    }
+   ]
+  },
+  {
+   "term": "germline variant",
+   "count": 2,
+   "sources": 3,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Germline Variant Interpretation and ACMG Evidence | Folklore",
+     "url": "https://nothumansearch.ai/site/folklore.helena.bio"
+    },
+    {
+     "name": "Folklore Clinical Variant Interpretation MCP",
+     "url": "https://folklore.helena.bio/integrations/mcp"
+    }
+   ]
+  },
+  {
+   "term": "local install",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "FaceSwapAI",
+     "url": "https://gateofai.com/community-tools/faceswapai"
+    },
+    {
+     "name": "Image to Image AI – YouTube Endscreen Art",
+     "url": "https://directory6.org/listing/image-to-image-ai-–-youtube-endscreen-art-721326"
+    }
+   ]
+  },
+  {
+   "term": "matter setup",
+   "count": 2,
+   "sources": 2,
+   "ratio": 52.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "priv QR: Make a 3D-printable QR code from a link or text, or",
+     "url": "https://saasolution.io/tool/privqr"
+    },
+    {
+     "name": "priv QR",
+     "url": "https://webrankdirectory.org/listing/priv-qr"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "previous year question",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "CA Foundation Notes",
+     "url": "https://huludirectory.com/listing/ca-foundation-notes-2260997"
+    },
+    {
+     "name": "Class 9 Maths Introduction to",
+     "url": "https://notebookedu-app.netlify.app/notes/class-9/maths/introduction-to-probability"
+    },
+    {
+     "name": "Class 9 Maths Statistics notes",
+     "url": "https://notebookedu-app.netlify.app/notes/class-9/maths/statistics"
+    }
+   ]
+  },
+  {
+   "term": "early access",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Eazlio FollowUp Early Access",
+     "url": "https://eazlio-followup.netlify.app/"
+    },
+    {
+     "name": "Pond: AI Artificial inteligence",
+     "url": "https://awesomeindie.com/product/pond"
+    },
+    {
+     "name": "Relaxuna",
+     "url": "https://azn8.com/listing/relaxuna"
+    }
+   ]
+  },
+  {
+   "term": "remote monitoring",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Nizlo",
+     "url": "https://azn8.com/listing/nizlo"
+    },
+    {
+     "name": "Remote Monitoring Software For It Teams",
+     "url": "https://develif.com/s/remote-monitoring-software-for-it-teams"
+    },
+    {
+     "name": "Security Surveillance Singapore",
+     "url": "https://aweblist.org/listing/security-surveillance-singapore-972494"
+    }
+   ]
+  },
+  {
+   "term": "blood vessel",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Tadalista 40 Mg And Medical Assessment For ED",
+     "url": "https://huludirectory.com/listing/tadalista-40-mg-and-medical-assessment-for-ed-2261002"
+    },
+    {
+     "name": "Vidalista And Common Erectile Health Challenges",
+     "url": "https://a2place.com/listing/vidalista-and-common-erectile-health-challenges-718642"
+    },
+    {
+     "name": "Vidalista Black 80 Mg And Hypertension-Related ED",
+     "url": "https://exampledir.com/listing/vidalista-black-80-mg-and-hypertension-related-ed-313752"
+    }
+   ]
+  },
+  {
+   "term": "gym management",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "FitFaat",
+     "url": "https://dealmyapp.com/listings/fitfaat"
+    },
+    {
+     "name": "FitFaat (Dai Software)",
+     "url": "https://fitfaat.com/"
+    },
+    {
+     "name": "FitFaat Gym management software & app for Indian gyms 💬 0 Co",
+     "url": "https://thehackstack.com/s/fitfaat"
+    }
+   ]
+  },
+  {
+   "term": "mumbai vip",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Mumbai VIP escort service",
+     "url": "https://directory6.org/listing/mumbai-vip-escort-service-721282"
+    },
+    {
+     "name": "Mumbai VIP Escorts 9098957425",
+     "url": "https://huludirectory.com/listing/mumbai-vip-escorts-9098957425-2260999"
+    },
+    {
+     "name": "Mumbai VIP model escort service",
+     "url": "https://directory6.org/listing/mumbai-vip-model-escort-service-721288"
+    }
+   ]
+  },
+  {
+   "term": "reddy anna",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Reddy Anna",
+     "url": "https://directory6.org/listing/reddy-anna-721294"
+    },
+    {
+     "name": "Reddy Anna ID online",
+     "url": "https://huludirectory.com/listing/reddy-anna-id-online-2261039"
+    },
+    {
+     "name": "Reddy Anna website",
+     "url": "https://aweblist.org/listing/reddy-anna-website-972514"
+    }
+   ]
+  },
+  {
+   "term": "scribe audio",
+   "size": 5,
+   "sources": 5,
+   "examples": [
+    {
+     "name": "Le Scribe Audio",
+     "url": "https://www.clapstorm.com/p/le-scribe-audio"
+    },
+    {
+     "name": "Le Scribe Audio 2-pass AI audio & video transcription with .",
+     "url": "https://thehackstack.com/s/lescribeaudio"
+    },
+    {
+     "name": "Le Scribe Audio - AI Audio & Video Transcription",
+     "url": "https://a2place.com/listing/le-scribe-audio--ai-audio-and-video-transcription-718644"
+    },
+    {
+     "name": "Le Scribe Audio - B2B AI Speech-to-Text & Diarization",
+     "url": "https://exampledir.com/listing/le-scribe-audio--b2b-ai-speech-to-text-and-diarization-313764"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「previous year question」今日 3 个产品/2 个目录：CA Foundation Notes、Class 9 Maths Introduction to",
+  "小词「ai british accent」今日 2 个产品/3 个目录：British Accent Generator、British Accent Generator AI British accent text-to-speech wi",
+  "小词「douyin xiaohongshu rednote」今日 2 个产品/2 个目录：Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/、Qovia",
+  "同日小簇「previous year question」3 个相似产品：CA Foundation Notes、Class 9 Maths Introduction to、Class 9 Maths Statistics notes",
+  "同日小簇「early access」3 个相似产品：Eazlio FollowUp Early Access、Pond: AI Artificial inteligence、Relaxuna",
+  "跨目录同时出现：airapvides.com（4 个目录）",
+  "跨目录同时出现：datagalactica.com（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-01.md",
+ "niche_groups": "- AI语音与视频生成：ai british accent、lip synced ai、second lip synced、scribe audio、synced ai rap —— 提供英式口音TTS、AI说唱视频生成及B2B音频转写服务\n- 社交媒体内容工具：douyin xiaohongshu rednote、instagram reel safe、reel safe zone、100+ endpoint、android iphone —— 涵盖多平台数据API、Reels安全区检查及跨平台应用\n- 教育笔记与资源：previous year question、chapter wise、ai landscape —— 提供CA基础笔记、章节数学内容及AI景观设计资讯\n- 垂直行业SaaS：gym management、remote monitoring、les propri taire —— 针对健身房管理、远程安防监控及欧洲房产/汽车服务的垂直解决方案\n- 医疗健康与成人服务：blood vessel、mumbai vip、reddy anna —— 涉及ED药物评估、特定地区VIP服务及特定人物/网站入口"
+}

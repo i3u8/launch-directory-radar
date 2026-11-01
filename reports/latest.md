@@ -1,27 +1,26 @@
-# 每日目录雷达 2026-10-31
+# 每日目录雷达 2026-11-01
 
-- 监控目录 197 / 筛查目录 478；今日成功 184，失败 13；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, foundr-ai, startfa-st, aiagentautomation-site, apprater-net, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
-- 今日新增条目 **1588**（去重后 1442）；7 天基线 9639，30 天基线 15803
-- 语料 17764 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.31，30天 0.29
+- 监控目录 197 / 筛查目录 478；今日成功 182，失败 15；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, madewithstack-com, foundr-ai, startfa-st, aiagentautomation-site, apprater-net, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
+- 今日新增条目 **1422**（去重后 1293）；7 天基线 9417，30 天基线 16827
+- 语料 18819 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.3，30天 0.29
 
 ## 微赛道归纳（LLM）
 
-- random animal：random animal —— 提供随机动物生成或展示功能
-- live speech translation：live speech translation —— 提供实时语音翻译服务
-- nos workspace keep：nos workspace keep —— 提供网页与文档并排显示及文本修复的工作区工具
-- printable cursive worksheet：printable cursive worksheet —— 生成可打印的草书或书法练习工作表
-- 20+ year expertise：20+ year expertise —— 提供VLSI领域的专业教育与辅导服务
-- adhd evaluation provider：adhd evaluation provider —— 提供ADHD评估服务的查找或预约平台
+- AI语音与视频生成：ai british accent、lip synced ai、second lip synced、scribe audio、synced ai rap —— 提供英式口音TTS、AI说唱视频生成及B2B音频转写服务
+- 社交媒体内容工具：douyin xiaohongshu rednote、instagram reel safe、reel safe zone、100+ endpoint、android iphone —— 涵盖多平台数据API、Reels安全区检查及跨平台应用
+- 教育笔记与资源：previous year question、chapter wise、ai landscape —— 提供CA基础笔记、章节数学内容及AI景观设计资讯
+- 垂直行业SaaS：gym management、remote monitoring、les propri taire —— 针对健身房管理、远程安防监控及欧洲房产/汽车服务的垂直解决方案
+- 医疗健康与成人服务：blood vessel、mumbai vip、reddy anna —— 涉及ED药物评估、特定地区VIP服务及特定人物/网站入口
 
 ## 信号 Signals
 
-- 小词「random animal」今日 4 个产品/3 个目录：RandomAnimalGen、Random Animal Generator
-- 小词「live speech translation」今日 2 个产品/2 个目录：Transync AI、Transly
-- 小词「nos workspace keep」今日 2 个产品/2 个目录：NOS Workspace、NOS Workspace: Keep HTML pages beside your docs, fix text on
-- 同日小簇「random animal」4 个相似产品：Random Animal Generator、Random Animal Generator.Md、Random Animal Picker
-- 同日小簇「20+ year expertise」4 个相似产品：VLSI Coaching Center Bangalore、VLSI Educational institution Bangalore、VLSI Learning center Bangalore
-- 跨目录同时出现：genflick.com（4 个目录）
-- 跨目录同时出现：indiainsurances.com（4 个目录）
+- 小词「previous year question」今日 3 个产品/2 个目录：CA Foundation Notes、Class 9 Maths Introduction to
+- 小词「ai british accent」今日 2 个产品/3 个目录：British Accent Generator、British Accent Generator AI British accent text-to-speech wi
+- 小词「douyin xiaohongshu rednote」今日 2 个产品/2 个目录：Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/、Qovia
+- 同日小簇「previous year question」3 个相似产品：CA Foundation Notes、Class 9 Maths Introduction to、Class 9 Maths Statistics notes
+- 同日小簇「early access」3 个相似产品：Eazlio FollowUp Early Access、Pond: AI Artificial inteligence、Relaxuna
+- 跨目录同时出现：airapvides.com（4 个目录）
+- 跨目录同时出现：datagalactica.com（4 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -29,75 +28,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **random animal** | 4 | 3 | 🆕 | [RandomAnimalGen](https://randomanimalgen.com/)；[Random Animal Generator](https://aitoolseekers.com/tools/random-animal-generator)；[Random Animal Generator.Md](https://aitoolseekers.com/tools/random-animal-generator.md) |
-| 2 | **live speech translation** | 2 | 2 | 🆕 | [Transync AI](https://transyncai.com/)；[Transly](https://transly.app/) |
-| 3 | **nos workspace keep** | 2 | 2 | 🆕 | [NOS Workspace](https://postlaunchkit.com/directory/nos-workspace)；[NOS Workspace: Keep HTML pages beside your docs, fix text on](https://saasolution.io/tool/nos-workspace) |
-| 4 | **printable cursive worksheet** | 2 | 2 | 🆕 | [Cursive Generator](https://whatareyoubuilding.ai/product/tEguziPqVMbJUtu61qdc)；[Cursive Generator: Free Cursive & Calligraphy Text Maker](https://a2place.com/listing/cursive-generator-free-cursive-and-calligraphy-text-maker-718627) |
-| 5 | **20+ year expertise** | 4 | 2 | 29.2x | [VLSI Coaching Center Bangalore](https://aweblist.org/listing/vlsi-coaching-center-bangalore-972310)；[VLSI Educational institution Bangalore](https://directory6.org/listing/vlsi-educational-institution-bangalore-721146)；[VLSI Learning center Bangalore](https://aweblist.org/listing/vlsi-learning-center-bangalore-972311) |
-| 6 | **adhd evaluation provider** | 2 | 2 | 🆕 | [Find an ADHD evaluation near you | ADHDEvaluations — score 8](https://nothumansearch.ai/site/adhdevaluations.fyi)；[ADHDEvaluations](https://adhdevaluations.fyi/) |
-| 7 | **ai excel formula** | 2 | 2 | 🆕 | [SheetGPT](https://postlaunchkit.com/directory/sheetgpt)；[Sheetgpt Ai Excel Formula Generator](https://agents-launch.lovable.app/agents/sheetgpt-ai-excel-formula-generator) |
-| 8 | **ai governance risk** | 2 | 2 | 🆕 | [AI governance, risk and compliance software | AIGovernanceTo](https://nothumansearch.ai/site/aigovernancetools.fyi)；[AIGovernanceTools](https://aigovernancetools.fyi/) |
-| 9 | **air conditioner running** | 2 | 2 | 🆕 | [Aircon General Servicing](https://aweblist.org/listing/aircon-general-servicing-972331)；[Save Electricity with Your Mitsubishi Aircon in Singapore](https://huludirectory.com/listing/save-electricity-with-your-mitsubishi-aircon-in-singapore-2260947) |
-| 10 | **api car xml** | 2 | 2 | 🆕 | [Car API 10](https://huludirectory.com/listing/car-api-10-2260939)；[Car API 8](https://a2place.com/listing/car-api-8-718640) |
-| 11 | **auto title loan** | 2 | 2 | 🆕 | [Fast Cash Surrey | Auto Title Loans In Surrey](https://huludirectory.com/listing/fast-cash-surrey-auto-title-loans-in-surrey-2260912)；[Edmonton Auto Title Loans – Fast & Convenient Vehicle Financ](https://a2place.com/listing/edmonton-auto-title-loans-–-fast-and-convenient-vehicle-financing-instant-cash-edmonton-718632) |
-| 12 | **bazi liuyao feng** | 2 | 3 | 🆕 | [Cantian AI](https://cantian.ai/)；[Cantian AI AI Skills for BaZi, Liuyao, Feng Shui & naming 💬 ](https://thehackstack.com/s/cantian) |
-| 13 | **compare gpu cloud** | 2 | 2 | 🆕 | [Compare GPU cloud providers | GPUClouds — score 80/100 (fina](https://nothumansearch.ai/site/gpuclouds.fyi)；[GPUClouds](https://gpuclouds.fyi/) |
-| 14 | **component anala pump** | 2 | 2 | 🆕 | [Chlorine Dosing System for Water Treatment Applications](https://directory6.org/listing/chlorine-dosing-system-for-water-treatment-applications-721147)；[Polymer Dosing System for Industrial Water Treatment](https://huludirectory.com/listing/polymer-dosing-system-for-industrial-water-treatment-2260931) |
-| 15 | **croydon cars looking** | 2 | 2 | 🆕 | [Trusted Purley Minicab | Book Your Ride Today](https://directory6.org/listing/trusted-purley-minicab-book-your-ride-today-721176)；[Reliable Purley Minicab Services | Safe & Affordable](https://a2place.com/listing/reliable-purley-minicab-services-safe-and-affordable-718641) |
+| 1 | **previous year question** | 3 | 2 | 🆕 | [CA Foundation Notes](https://huludirectory.com/listing/ca-foundation-notes-2260997)；[Class 9 Maths Introduction to](https://notebookedu-app.netlify.app/notes/class-9/maths/introduction-to-probability)；[Class 9 Maths Statistics notes](https://notebookedu-app.netlify.app/notes/class-9/maths/statistics) |
+| 2 | **ai british accent** | 2 | 3 | 🆕 | [British Accent Generator](https://britishaccent.pro/)；[British Accent Generator AI British accent text-to-speech wi](https://thehackstack.com/s/britishaccent) |
+| 3 | **douyin xiaohongshu rednote** | 2 | 2 | 🆕 | [Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/](https://nothumansearch.ai/site/qovia.ai)；[Qovia](https://qovia.ai/) |
+| 4 | **instagram reel safe** | 2 | 2 | 🆕 | [Instagram Reels Safe Zone Checker](https://develif.com/s/instagram-reels-safe-zone-checker)；[Instagram Reels Safe Zone Checker Check 9:16 creative agains](https://thehackstack.com/s/maestrogtm) |
+| 5 | **les propri taire** | 2 | 3 | 🆕 | [Performance Énergétique Appartement à Bruxelles – Certismart](https://huludirectory.com/listing/performance-energetique-appartement-a-bruxelles-–-certismart-2261035)；[Votre Land Rover a besoin d’une réparation ? Trouvez les bon](https://aweblist.org/listing/votre-land-rover-a-besoin-d’une-reparation-trouvez-les-bonnes-pieces-avant-votre-prochaine-972490) |
+| 6 | **lip synced ai** | 2 | 2 | 🆕 | [AI Rap Video Generator](https://airapvideogenerator.app/)；[AI Rap Video](https://rapvideo.ai/) |
+| 7 | **second lip synced** | 2 | 2 | 🆕 | [WakePix](https://whatareyoubuilding.ai/product/yaMyeKHBdbph1n5JDw3S)；[AI Rap Video Generator](https://airapvideogenerator.app/) |
+| 8 | **early access** | 3 | 3 | 🆕 | [Pond: AI Artificial inteligence](https://awesomeindie.com/product/pond)；[Eazlio FollowUp Early Access](https://eazlio-followup.netlify.app/)；[Relaxuna](https://azn8.com/listing/relaxuna) |
+| 9 | **remote monitoring** | 3 | 3 | 🆕 | [Security Surveillance Singapore](https://aweblist.org/listing/security-surveillance-singapore-972494)；[Nizlo](https://nizlo.com/)；[Remote Monitoring Software For It Teams](https://develif.com/s/remote-monitoring-software-for-it-teams) |
+| 10 | **blood vessel** | 3 | 3 | 🆕 | [Tadalista 40 Mg And Medical Assessment For ED](https://huludirectory.com/listing/tadalista-40-mg-and-medical-assessment-for-ed-2261002)；[Vidalista Black 80 Mg And Hypertension-Related ED](https://exampledir.com/listing/vidalista-black-80-mg-and-hypertension-related-ed-313752)；[Vidalista And Common Erectile Health Challenges](https://a2place.com/listing/vidalista-and-common-erectile-health-challenges-718642) |
+| 11 | **gym management** | 3 | 4 | 🆕 | [FitFaat](https://whatareyoubuilding.ai/product/4IzI5sQUgiu4dtIVpMgi)；[FitFaat (Dai Software)](https://fitfaat.com/)；[FitFaat Gym management software & app for Indian gyms 💬 0 Co](https://thehackstack.com/s/fitfaat) |
+| 12 | **mumbai vip** | 3 | 2 | 🆕 | [Mumbai VIP Escorts 9098957425](https://huludirectory.com/listing/mumbai-vip-escorts-9098957425-2260999)；[Mumbai VIP escort service](https://directory6.org/listing/mumbai-vip-escort-service-721282)；[Mumbai VIP model escort service](https://directory6.org/listing/mumbai-vip-model-escort-service-721288) |
+| 13 | **reddy anna** | 3 | 3 | 🆕 | [Reddy Anna website](https://aweblist.org/listing/reddy-anna-website-972514)；[Reddy Anna](https://directory6.org/listing/reddy-anna-721294)；[Reddy Anna ID online](https://huludirectory.com/listing/reddy-anna-id-online-2261039) |
+| 14 | **scribe audio** | 5 | 5 | 26.0x | [Le Scribe Audio - B2B AI Speech-to-Text & Diarization](https://exampledir.com/listing/le-scribe-audio--b2b-ai-speech-to-text-and-diarization-313764)；[Le Scribe Audio - AI Audio & Video Transcription](https://a2place.com/listing/le-scribe-audio--ai-audio-and-video-transcription-718644)；[Le Scribe Audio | Logiciel & Service de Transcription (60 mi](https://nothumansearch.ai/site/lescribeaudio.com) |
+| 15 | **ai landscape** | 2 | 2 | 🆕 | [Apple CEO says the company doesn’t ‘want to ship AI for AI’s](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake)；[AI Landscape Design](https://ai-landscape-design.com/) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **api integration car** × 2（2 个目录）：[Car API 10](https://huludirectory.com/listing/car-api-10-2260939)；[Car API 8](https://a2place.com/listing/car-api-8-718640)
-- **customized digital marketing** × 2（2 个目录）：[Digital Marketing Agency for Business Growth | WaysPro TECH](https://exampledir.com/listing/digital-marketing-agency-for-business-growth-wayspro-tech-313699)；[Digital Divya Harsora A Certified Digital Marketer in Mira B](https://directory6.org/listing/digital-divya-harsora-a-certified-digital-marketer-in-mira-bhayandar-721173)
-- **eligible vehicle owner** × 2（2 个目录）：[Fast Cash Surrey | Auto Title Loans In Surrey](https://huludirectory.com/listing/fast-cash-surrey-auto-title-loans-in-surrey-2260912)；[Edmonton Auto Title Loans – Fast & Convenient Vehicle Financ](https://a2place.com/listing/edmonton-auto-title-loans-–-fast-and-convenient-vehicle-financing-instant-cash-edmonton-718632)
-- **feng shui naming** × 2（3 个目录）：[Cantian AI](https://cantian.ai/)；[Cantian AI AI Skills for BaZi, Liuyao, Feng Shui & naming 💬 ](https://thehackstack.com/s/cantian)
-- **foreclosure data hub** × 2（2 个目录）：[Foreclosure Data Hub](https://postlaunchkit.com/directory/foreclosure-data-hub)；[Foreclosure Data Hub Daily foreclosure data, alerts, and inv](https://thehackstack.com/s/foreclosuredatahub)
-- **gopiban logistic deliver** × 2（2 个目录）：[Modern Trucking Solutions for Business Deliveries Pune Trans](https://aweblist.org/listing/modern-trucking-solutions-for-business-deliveries-pune-transportation-services-–-gopiban-logistics-972328)；[Quality-Driven Goods Transportation from Pune to Leh Transpo](https://aweblist.org/listing/quality-driven-goods-transportation-from-pune-to-leh-transport-service-–-gopiban-logistics-972348)
-- **indian competitive exam** × 2（2 个目录）：[Edora: AI study app for JEE/NEET aspirants, live on Google P](https://dealmyapp.com/listings/edora-ai-study-app-for-jeeneet-aspirants-live-on-google-play-full-source-plus-domain)；[RankMatters](https://rankmatters.in/)
-- **laptop repair center** × 2（2 个目录）：[Laptop Repair Center in kaikondrahalli | Dell | HP | Lenovo ](https://aweblist.org/listing/laptop-repair-center-in-kaikondrahalli-dell-hp-lenovo-acer-972343)；[Laptop Repair Center near me Bangalore | Dell | HP | Lenovo ](https://huludirectory.com/listing/laptop-repair-center-near-me-bangalore-dell-hp-lenovo-acer-2260952)
-- **minicab croydon cars** × 2（2 个目录）：[Trusted Purley Minicab | Book Your Ride Today](https://directory6.org/listing/trusted-purley-minicab-book-your-ride-today-721176)；[Reliable Purley Minicab Services | Safe & Affordable](https://a2place.com/listing/reliable-purley-minicab-services-safe-and-affordable-718641)
-- **pinterest video image** × 2（2 个目录）：[PinClip Pinterest DL](https://pinclip.app/)；[PinClip](https://pinclip.app/)
+- **british accent text** × 2（3 个目录）：[British Accent Generator](https://britishaccent.pro/)；[British Accent Generator AI British accent text-to-speech wi](https://thehackstack.com/s/britishaccent)
+- **reel safe zone** × 2（2 个目录）：[Instagram Reels Safe Zone Checker](https://develif.com/s/instagram-reels-safe-zone-checker)；[Instagram Reels Safe Zone Checker Check 9:16 creative agains](https://thehackstack.com/s/maestrogtm)
+- **synced ai rap** × 2（2 个目录）：[AI Rap Video Generator](https://airapvideogenerator.app/)；[AI Rap Video](https://rapvideo.ai/)
+- **chapter wise** × 3（2 个目录）：[CA Foundation Notes](https://huludirectory.com/listing/ca-foundation-notes-2260997)；[Class 9 Maths Introduction to](https://notebookedu-app.netlify.app/notes/class-9/maths/introduction-to-probability)；[Class 9 Maths Statistics notes](https://notebookedu-app.netlify.app/notes/class-9/maths/statistics)
+- **100+ endpoint** × 2（2 个目录）：[Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/](https://nothumansearch.ai/site/qovia.ai)；[Qovia](https://qovia.ai/)
+- **android iphone** × 2（2 个目录）：[20-0.org - Free Online Games](https://20-0.org/)；[Money Tracker Expense & Budget](https://gateofai.com/community-tools/money-tracker-expense-budget)
+- **automation agency** × 2（2 个目录）：[TrustedAIAgencies](https://whatareyoubuilding.ai/product/1FSFn52fhRLSY868ARft)；[TrustedAIAgencies: UK AI automation agency directory](https://aweblist.org/listing/trustedaiagencies-uk-ai-automation-agency-directory-972515)
+- **germline variant** × 2（3 个目录）：[Germline Variant Interpretation and ACMG Evidence | Folklore](https://nothumansearch.ai/site/folklore.helena.bio)；[Folklore Clinical Variant Interpretation MCP](https://folklore.helena.bio/integrations/mcp)
+- **local install** × 2（2 个目录）：[FaceSwapAI](https://gateofai.com/community-tools/faceswapai)；[Image to Image AI – YouTube Endscreen Art](https://directory6.org/listing/image-to-image-ai-–-youtube-endscreen-art-721326)
+- **matter setup** × 2（2 个目录）：[priv QR: Make a 3D-printable QR code from a link or text, or](https://saasolution.io/tool/privqr)；[priv QR](https://webrankdirectory.org/listing/priv-qr)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **random animal** × 4（3 个目录）：[Random Animal Generator](https://aitoolseekers.com/tools/random-animal-generator)；[Random Animal Generator.Md](https://aitoolseekers.com/tools/random-animal-generator.md)；[Random Animal Picker](https://navs.site/website/random-animal-picker)；[RandomAnimalGen](https://randomanimalgen.com/)
-- **20+ year expertise** × 4（2 个目录）：[VLSI Coaching Center Bangalore](https://aweblist.org/listing/vlsi-coaching-center-bangalore-972310)；[VLSI Educational institution Bangalore](https://directory6.org/listing/vlsi-educational-institution-bangalore-721146)；[VLSI Learning center Bangalore](https://aweblist.org/listing/vlsi-learning-center-bangalore-972311)；[VLSI Learning center Hyderabad](https://directory6.org/listing/vlsi-learning-center-hyderabad-721141)
-- **chemical dosing** × 3（2 个目录）：[Chemical Dosing Pump for Accurate Chemical Delivery](https://huludirectory.com/listing/chemical-dosing-pump-for-accurate-chemical-delivery-2260928)；[Chemical Dosing Skid for Integrated Industrial Dosing](https://a2place.com/listing/chemical-dosing-skid-for-integrated-industrial-dosing-718638)；[Polymer Dosing System for Industrial Water Treatment](https://huludirectory.com/listing/polymer-dosing-system-for-industrial-water-treatment-2260931)
-- **dosing pump** × 3（3 个目录）：[Chemical Dosing Pump for Accurate Chemical Delivery](https://huludirectory.com/listing/chemical-dosing-pump-for-accurate-chemical-delivery-2260928)；[Chemical Dosing Skid for Integrated Industrial Dosing](https://a2place.com/listing/chemical-dosing-skid-for-integrated-industrial-dosing-718638)；[Chlorine Dosing System for Water Treatment Applications](https://directory6.org/listing/chlorine-dosing-system-for-water-treatment-applications-721147)
-- **lenovo acer** × 3（2 个目录）：[Laptop Repair Center in kaikondrahalli | Dell | HP | Lenovo ](https://aweblist.org/listing/laptop-repair-center-in-kaikondrahalli-dell-hp-lenovo-acer-972343)；[Laptop Repair Center near me Bangalore | Dell | HP | Lenovo ](https://huludirectory.com/listing/laptop-repair-center-near-me-bangalore-dell-hp-lenovo-acer-2260952)；[Laptop Repair in kaikondrahalli | Dell | HP | Lenovo | Acer](https://huludirectory.com/listing/laptop-repair-in-kaikondrahalli-dell-hp-lenovo-acer-2260953)
-- **makify ai** × 3（3 个目录）：[GPT Image 2 - AI Image Generator & Photo Editor | Makify AI ](https://nothumansearch.ai/site/makifyai.com)；[Makify AI - AI Creative Platform](https://azn8.com/listing/makify-ai-ai-creative-platform)；[Makify AI - Multi-Model Creative Platform](https://makifyai.com/)
-- **shadow hand** × 3（3 个目录）：[Shadow Hands](https://shadowhands.shop/)；[Unplayable By Shadow Hands](https://www.clapstorm.com/p/unplayable-by-shadow-hands)；[Unplayable by Shadow Hands Become the one nobody can play. 💬](https://thehackstack.com/s/app-shadowhands)
-- **title loan** × 3（2 个目录）：[Edmonton Auto Title Loans – Fast & Convenient Vehicle Financ](https://a2place.com/listing/edmonton-auto-title-loans-–-fast-and-convenient-vehicle-financing-instant-cash-edmonton-718632)；[Fast Cash Burnaby – Title Loans Burnaby, BC](https://huludirectory.com/listing/fast-cash-burnaby-–-title-loans-burnaby-bc-2260913)；[Fast Cash Surrey | Auto Title Loans In Surrey](https://huludirectory.com/listing/fast-cash-surrey-auto-title-loans-in-surrey-2260912)
+- **previous year question** × 3（2 个目录）：[CA Foundation Notes](https://huludirectory.com/listing/ca-foundation-notes-2260997)；[Class 9 Maths Introduction to](https://notebookedu-app.netlify.app/notes/class-9/maths/introduction-to-probability)；[Class 9 Maths Statistics notes](https://notebookedu-app.netlify.app/notes/class-9/maths/statistics)
+- **early access** × 3（3 个目录）：[Eazlio FollowUp Early Access](https://eazlio-followup.netlify.app/)；[Pond: AI Artificial inteligence](https://awesomeindie.com/product/pond)；[Relaxuna](https://azn8.com/listing/relaxuna)
+- **remote monitoring** × 3（3 个目录）：[Nizlo](https://azn8.com/listing/nizlo)；[Remote Monitoring Software For It Teams](https://develif.com/s/remote-monitoring-software-for-it-teams)；[Security Surveillance Singapore](https://aweblist.org/listing/security-surveillance-singapore-972494)
+- **blood vessel** × 3（3 个目录）：[Tadalista 40 Mg And Medical Assessment For ED](https://huludirectory.com/listing/tadalista-40-mg-and-medical-assessment-for-ed-2261002)；[Vidalista And Common Erectile Health Challenges](https://a2place.com/listing/vidalista-and-common-erectile-health-challenges-718642)；[Vidalista Black 80 Mg And Hypertension-Related ED](https://exampledir.com/listing/vidalista-black-80-mg-and-hypertension-related-ed-313752)
+- **gym management** × 3（4 个目录）：[FitFaat](https://dealmyapp.com/listings/fitfaat)；[FitFaat (Dai Software)](https://fitfaat.com/)；[FitFaat Gym management software & app for Indian gyms 💬 0 Co](https://thehackstack.com/s/fitfaat)
+- **mumbai vip** × 3（2 个目录）：[Mumbai VIP escort service](https://directory6.org/listing/mumbai-vip-escort-service-721282)；[Mumbai VIP Escorts 9098957425](https://huludirectory.com/listing/mumbai-vip-escorts-9098957425-2260999)；[Mumbai VIP model escort service](https://directory6.org/listing/mumbai-vip-model-escort-service-721288)
+- **reddy anna** × 3（3 个目录）：[Reddy Anna](https://directory6.org/listing/reddy-anna-721294)；[Reddy Anna ID online](https://huludirectory.com/listing/reddy-anna-id-online-2261039)；[Reddy Anna website](https://aweblist.org/listing/reddy-anna-website-972514)
+- **scribe audio** × 5（5 个目录）：[Le Scribe Audio](https://www.clapstorm.com/p/le-scribe-audio)；[Le Scribe Audio 2-pass AI audio & video transcription with .](https://thehackstack.com/s/lescribeaudio)；[Le Scribe Audio - AI Audio & Video Transcription](https://a2place.com/listing/le-scribe-audio--ai-audio-and-video-transcription-718644)；[Le Scribe Audio - B2B AI Speech-to-Text & Diarization](https://exampledir.com/listing/le-scribe-audio--b2b-ai-speech-to-text-and-diarization-313764)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| canopystack.dev | 125 | Other(51)、SaaS(50)、Dev tool(12) |
-| listedstartups.com | 100 | AI, Deep Tech, Market Intelligence(2)、Educational Tools, Language Learning(2)、Generative AI(2) |
-| aitoolseekers.com | 98 | tools(97) |
-| corpus.blog | 94 | sites(94) |
-| thataicollection.com | 81 | application(81) |
+| listedstartups.com | 100 | AI(5)、HealthTech, Medical Devices(4)、Space Tech, Aerospace, Propulsion(4) |
+| thataicollection.com | 99 | application(99) |
+| canopystack.dev | 84 | SaaS(34)、Other(29)、Dev tool(11) |
+| aitoolseekers.com | 74 | tools(74) |
+| corpus.blog | 66 | sites(66) |
+| thehackstack.com | 51 |  |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
-| exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
-| thehackstack.com | 50 |  |
 | zearches.com | 50 |  |
-| planet-ai.net | 48 | ContentCategory.NEWS(32)、ContentCategory.TUTORIAL(7)、ContentCategory.ENGINEERING(5) |
+| develif.com | 47 | s(46) |
+| exampledir.com | 46 |  |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- genflick.com（）：canopystack.dev, hyzenpro.com, listedstartups.com, toolgrep.com
-- indiainsurances.com（IndiaInsurances）：canopystack.dev, listedstartups.com, worthtotry.com, zearches.com
-- ecourtsindia.com（eCourtsIndia）：canopystack.dev, listedstartups.com, zearches.com
-- framecomet.com（FrameComet）：canopystack.dev, hyzenpro.com, listedstartups.com
-- genedai.cv（ModernCV）：canopystack.dev, hyzenpro.com, listedstartups.com
-- indiacos.com（IndiaCos）：canopystack.dev, listedstartups.com, zearches.com
-- indiapropertyregister.com（India Property Register）：canopystack.dev, listedstartups.com, zearches.com
-- indiarestros.com（IndiaRestros）：canopystack.dev, listedstartups.com, zearches.com
-- jujubit.ai（JuJuBit）：aitoolly.com, canopystack.dev, submissionwebdirectory.com
-- scormmaker.com（ScormMaker）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- airapvides.com（AI Rap Video Generator）：canopystack.dev, launch.ignlab.net, listedstartups.com, worthtotry.com
+- datagalactica.com（Data Galactica）：canopystack.dev, listedstartups.com, worthtotry.com, zearches.com
+- aisignaturegenerators.org（AI Signature Generators）：canopystack.dev, listedstartups.com, zearches.com
+- aniccaai.com（Daily Affirmations - Anicca）：canopystack.dev, listedstartups.com, zearches.com
+- apps.canonforge.top（CanonForge Mac Apps）：canopystack.dev, listedstartups.com, zearches.com
+- bobhairfashion.com（BobHairFashion）：canopystack.dev, listedstartups.com, zearches.com
+- eidora.io（Eidora）：canopystack.dev, hyzenpro.com, worthtotry.com
+- gradebooktools.com（Gradebook Calculator）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- intolayers.com（IntoLayers）：launch.ignlab.net, startup88.com, zearches.com
+- kdpbuilder.com（KDP Builder）：canopystack.dev, launch.ignlab.net, listedstartups.com
 
 ## 我们的站点已被目录公开展示
 
@@ -111,18 +110,20 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 7 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 7 天）
-- sitelike-org: RuntimeError: http 403（连续 7 天）
-- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 2 天）
-- foundr-ai: RuntimeError: http 403（连续 7 天）
-- startfa-st: RuntimeError: http 403（连续 7 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 7 天）
-- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 1 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 7 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7fdd6c92d9（连续 4 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 7 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 7 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 7 天）
+- canadawebdir-com: RuntimeError: http 403（连续 8 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 8 天）
+- sitelike-org: RuntimeError: http 403（连续 8 天）
+- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 3 天）
+- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 1 天）
+- ailibri-com: ConnectionError: HTTPSConnectionPool(host='ailibri.com', port=443): Max retries exceeded with url: /rss (Caused by NewConnectionError("HTTPSConnection(host='ailibri.com', port=443): Failed to establis（连续 1 天）
+- foundr-ai: RuntimeError: http 403（连续 8 天）
+- startfa-st: RuntimeError: http 403（连续 8 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 8 天）
+- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 2 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 8 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f5758ee95（连续 5 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 8 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 8 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 8 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar
