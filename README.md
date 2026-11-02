@@ -7,35 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-01** · 新增 1422 · 监控 197 个目录（今日成功 182）
+**2026-11-02** · 新增 1516 · 监控 197 个目录（今日成功 182）
 
 聚焦小词 Top 15:
 
-- `previous year question` ×3（2 目录） 🆕：CA Foundation Notes；Class 9 Maths Introduction to
-- `ai british accent` ×2（3 目录） 🆕：British Accent Generator；British Accent Generator AI British accent text-to-speech wi
-- `douyin xiaohongshu rednote` ×2（2 目录） 🆕：Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/；Qovia
-- `instagram reel safe` ×2（2 目录） 🆕：Instagram Reels Safe Zone Checker；Instagram Reels Safe Zone Checker Check 9:16 creative agains
-- `les propri taire` ×2（3 目录） 🆕：Performance Énergétique Appartement à Bruxelles – Certismart；Votre Land Rover a besoin d’une réparation ? Trouvez les bon
-- `lip synced ai` ×2（2 目录） 🆕：AI Rap Video Generator；AI Rap Video
-- `second lip synced` ×2（2 目录） 🆕：WakePix；AI Rap Video Generator
-- `early access` ×3（3 目录） 🆕：Pond: AI Artificial inteligence；Eazlio FollowUp Early Access
-- `remote monitoring` ×3（3 目录） 🆕：Security Surveillance Singapore；Nizlo
-- `blood vessel` ×3（3 目录） 🆕：Tadalista 40 Mg And Medical Assessment For ED；Vidalista Black 80 Mg And Hypertension-Related ED
-- `gym management` ×3（4 目录） 🆕：FitFaat；FitFaat (Dai Software)
-- `mumbai vip` ×3（2 目录） 🆕：Mumbai VIP Escorts 9098957425；Mumbai VIP escort service
-- `reddy anna` ×3（3 目录） 🆕：Reddy Anna website；Reddy Anna
-- `scribe audio` ×5（5 目录）：Le Scribe Audio - B2B AI Speech-to-Text & Diarization；Le Scribe Audio - AI Audio & Video Transcription
-- `ai landscape` ×2（2 目录） 🆕：Apple CEO says the company doesn’t ‘want to ship AI for AI’s；AI Landscape Design
+- `dream call girl` ×4（3 目录） 🆕：Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i；High Profile Rishikesh Escorts Service | Rishikesh Call Girl
+- `official bully contract` ×2（2 目录） 🆕：BULLY Crypto Agent: Robinhood Chain Contract Checker；BULLY Crypto Agent
+- `ai humanizer rewrite` ×2（3 目录） 🆕：Humanize Ink；Humanize Ink Free AI humanizer: rewrite drafts in Natural, P
+- `air con promotion` ×2（2 目录） 🆕：Midea air con promotion；Mitsubishi air con promotion
+- `aware social publishing` ×2（2 目录） 🆕：Creavily；Creavily Product-aware social publishing for ecommerce brand
+- `bike rental option` ×2（3 目录） 🆕：Rent A Bike In Haridwar Easily - Dau Rental；Best Bike On Rent In Indore For Easy Travel - Dau Rental
+- `chipmunk dance ai` ×2（5 目录） 🆕：Chipmunks Dance AI；Chipmunks Dance AI Silent 15s trio dance from three adult ph
+- `chrome extension downloader` ×2（2 目录） 🆕：Chrome Extension Downloader — score 25/100 (other)；Chrome Extension Downloader
+- `conveniently located near` ×2（2 目录） 🆕：Fins Bar & Rooftop – Nashville Rooftop Bar & Dining Experien；Sigma Pilates
+- `customer engagement financial` ×2（2 目录） 🆕：Application Security Market Challenges；Application Security Market Threats
+- `dance outfit change` ×2（3 目录） 🆕：ReelBoop；ReelBoop Turn photos into dance, outfit-change, duet and pro
+- `dau rental enjoy` ×2（3 目录） 🆕：Rent A Bike In Haridwar Easily - Dau Rental；Affordable Bike On Rent In Jaisalmer - Dau Rental
+- `dedicated server vps` ×2（2 目录） 🆕：Q-DC；Q Dc Dedicated Servers Vps And Web Hosting
+- `domain search king` ×2（2 目录） 🆕：Domain Search King；Domain Search King Find available .com domain names, checked
+- `dot grid isometric` ×2（4 目录） 🆕：TrueGrid Graph Paper - Free Printable Graph Paper PDFs；Graph Paper Generator
 
 微赛道归纳:
 
-- AI语音与视频生成：ai british accent、lip synced ai、second lip synced、scribe audio、synced ai rap —— 提供英式口音TTS、AI说唱视频生成及B2B音频转写服务
-- 社交媒体内容工具：douyin xiaohongshu rednote、instagram reel safe、reel safe zone、100+ endpoint、android iphone —— 涵盖多平台数据API、Reels安全区检查及跨平台应用
-- 教育笔记与资源：previous year question、chapter wise、ai landscape —— 提供CA基础笔记、章节数学内容及AI景观设计资讯
-- 垂直行业SaaS：gym management、remote monitoring、les propri taire —— 针对健身房管理、远程安防监控及欧洲房产/汽车服务的垂直解决方案
-- 医疗健康与成人服务：blood vessel、mumbai vip、reddy anna —— 涉及ED药物评估、特定地区VIP服务及特定人物/网站入口
+- 成人陪侍服务：dream call girl、rishikesh call girl —— 提供特定地区（如Rishikesh）的线下陪侍与约会服务
+- AI内容自然化：ai humanizer rewrite —— 利用AI技术将文本改写为更自然、非机器生成的风格
+- 电商社交营销：aware social publishing —— 为电商品牌提供基于产品认知的社交媒体内容发布工具
+- 本地生活租赁：bike rental option、dau rental enjoy —— 提供城市间的自行车租赁与本地出行服务
+- AI视频特效生成：chipmunk dance ai、dance outfit change、outfit change duet —— 将静态照片转化为舞蹈、换装或双人互动的短视频特效
+- 垂直领域工具：official bully contract、chrome extension downloader、dedicated server vps、domain search king、dot grid isometric、parametric 3d cad —— 涵盖加密合约检测、浏览器插件下载、服务器托管、域名查询、网格纸生成及参数化3D建模等细分工具
 
-完整报告: [reports/2026-11-01.md](reports/2026-11-01.md)
+完整报告: [reports/2026-11-02.md](reports/2026-11-02.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

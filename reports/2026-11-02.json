@@ -1,0 +1,650 @@
+{
+ "date": "2026-11-02",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 182,
+ "sources_failed": 15,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "promoteindex-com",
+  "ailibri-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1516,
+ "new_today_unique": 1398,
+ "ai_share_today": 0.32,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "dream call girl",
+   "count": 4,
+   "sources": 3,
+   "ratio": 101.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i",
+     "url": "https://exampledir.com/listing/best-rishikesh-escorts-escorts-in-rishikesh-call-girls-in-rishikesh-313833"
+    },
+    {
+     "name": "High Profile Rishikesh Escorts Service | Rishikesh Call Girl",
+     "url": "https://huludirectory.com/listing/high-profile-rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-2261126"
+    },
+    {
+     "name": "Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E",
+     "url": "https://aweblist.org/listing/rishikesh-call-girls-rishikesh-escorts-girls-rishikesh-escorts-972633"
+    }
+   ]
+  },
+  {
+   "term": "official bully contract",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "BULLY Crypto Agent: Robinhood Chain Contract Checker",
+     "url": "https://dealmyapp.com/listings/bully-crypto-agent-robinhood-chain-contract-checker"
+    },
+    {
+     "name": "BULLY Crypto Agent",
+     "url": "https://abullycoin.com/crypto-agent"
+    }
+   ]
+  },
+  {
+   "term": "ai humanizer rewrite",
+   "count": 2,
+   "sources": 3,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Humanize Ink",
+     "url": "https://humanizeink.com/"
+    },
+    {
+     "name": "Humanize Ink Free AI humanizer: rewrite drafts in Natural, P",
+     "url": "https://thehackstack.com/s/humanizeink-2"
+    }
+   ]
+  },
+  {
+   "term": "air con promotion",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Midea air con promotion",
+     "url": "https://huludirectory.com/listing/midea-air-con-promotion-2261137"
+    },
+    {
+     "name": "Mitsubishi air con promotion",
+     "url": "https://exampledir.com/listing/mitsubishi-air-con-promotion-313837"
+    }
+   ]
+  },
+  {
+   "term": "aware social publishing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Creavily",
+     "url": "https://azn8.com/listing/creavily"
+    },
+    {
+     "name": "Creavily Product-aware social publishing for ecommerce brand",
+     "url": "https://thehackstack.com/s/creavily"
+    }
+   ]
+  },
+  {
+   "term": "bike rental option",
+   "count": 2,
+   "sources": 3,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Rent A Bike In Haridwar Easily - Dau Rental",
+     "url": "https://aweblist.org/listing/rent-a-bike-in-haridwar-easily--dau-rental-972636"
+    },
+    {
+     "name": "Best Bike On Rent In Indore For Easy Travel - Dau Rental",
+     "url": "https://aweblist.org/listing/best-bike-on-rent-in-indore-for-easy-travel--dau-rental-972618"
+    }
+   ]
+  },
+  {
+   "term": "chipmunk dance ai",
+   "count": 2,
+   "sources": 5,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Chipmunks Dance AI",
+     "url": "https://whatareyoubuilding.ai/product/gUPwyNzKtO7AeRcehqYV"
+    },
+    {
+     "name": "Chipmunks Dance AI Silent 15s trio dance from three adult ph",
+     "url": "https://thehackstack.com/s/memeremake-2"
+    }
+   ]
+  },
+  {
+   "term": "chrome extension downloader",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Chrome Extension Downloader — score 25/100 (other)",
+     "url": "https://nothumansearch.ai/site/extensiondownloader.com"
+    },
+    {
+     "name": "Chrome Extension Downloader",
+     "url": "https://navs.site/website/chrome-extension-downloader"
+    }
+   ]
+  },
+  {
+   "term": "conveniently located near",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fins Bar & Rooftop – Nashville Rooftop Bar & Dining Experien",
+     "url": "https://aweblist.org/listing/fins-bar-and-rooftop-–-nashville-rooftop-bar-and-dining-experience-972608"
+    },
+    {
+     "name": "Sigma Pilates",
+     "url": "https://huludirectory.com/listing/sigma-pilates-2261131"
+    }
+   ]
+  },
+  {
+   "term": "customer engagement financial",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Application Security Market Challenges",
+     "url": "https://aweblist.org/listing/application-security-market-challenges-972609"
+    },
+    {
+     "name": "Application Security Market Threats",
+     "url": "https://huludirectory.com/listing/application-security-market-threats-2261114"
+    }
+   ]
+  },
+  {
+   "term": "dance outfit change",
+   "count": 2,
+   "sources": 3,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "ReelBoop",
+     "url": "https://reelboop.com/"
+    },
+    {
+     "name": "ReelBoop Turn photos into dance, outfit-change, duet and pro",
+     "url": "https://thehackstack.com/s/reelboop-2"
+    }
+   ]
+  },
+  {
+   "term": "dau rental enjoy",
+   "count": 2,
+   "sources": 3,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Rent A Bike In Haridwar Easily - Dau Rental",
+     "url": "https://aweblist.org/listing/rent-a-bike-in-haridwar-easily--dau-rental-972636"
+    },
+    {
+     "name": "Affordable Bike On Rent In Jaisalmer - Dau Rental",
+     "url": "https://aweblist.org/listing/affordable-bike-on-rent-in-jaisalmer--dau-rental-972646"
+    }
+   ]
+  },
+  {
+   "term": "dedicated server vps",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Q-DC",
+     "url": "https://q-dc.net/"
+    },
+    {
+     "name": "Q Dc Dedicated Servers Vps And Web Hosting",
+     "url": "https://develif.com/s/q-dc-dedicated-servers-vps-and-web-hosting"
+    }
+   ]
+  },
+  {
+   "term": "domain search king",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Domain Search King",
+     "url": "https://sideprojects.net/projects/domain-search-king"
+    },
+    {
+     "name": "Domain Search King Find available .com domain names, checked",
+     "url": "https://thehackstack.com/s/domainsearchking"
+    }
+   ]
+  },
+  {
+   "term": "dot grid isometric",
+   "count": 2,
+   "sources": 4,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "TrueGrid Graph Paper - Free Printable Graph Paper PDFs",
+     "url": "https://aweblist.org/listing/truegrid-graph-paper--free-printable-graph-paper-pdfs-972634"
+    },
+    {
+     "name": "Graph Paper Generator",
+     "url": "https://10015.io/tools/graph-paper-generator"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "rishikesh call girl",
+   "count": 4,
+   "sources": 3,
+   "ratio": 101.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i",
+     "url": "https://exampledir.com/listing/best-rishikesh-escorts-escorts-in-rishikesh-call-girls-in-rishikesh-313833"
+    },
+    {
+     "name": "High Profile Rishikesh Escorts Service | Rishikesh Call Girl",
+     "url": "https://huludirectory.com/listing/high-profile-rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-2261126"
+    },
+    {
+     "name": "Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E",
+     "url": "https://aweblist.org/listing/rishikesh-call-girls-rishikesh-escorts-girls-rishikesh-escorts-972633"
+    }
+   ]
+  },
+  {
+   "term": "data management however",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Application Security Market Challenges",
+     "url": "https://aweblist.org/listing/application-security-market-challenges-972609"
+    },
+    {
+     "name": "Application Security Market Threats",
+     "url": "https://huludirectory.com/listing/application-security-market-threats-2261114"
+    }
+   ]
+  },
+  {
+   "term": "mind smoke shop",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Vape Stores Near Me",
+     "url": "https://aweblist.org/listing/vape-stores-near-me-972610"
+    },
+    {
+     "name": "Smoke Shop Near Me",
+     "url": "https://huludirectory.com/listing/smoke-shop-near-me-2261115"
+    }
+   ]
+  },
+  {
+   "term": "mobile access account",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gold365 App – Mobile Access, Account Features, and Support",
+     "url": "https://directory6.org/listing/gold365-app-–-mobile-access-account-features-and-support-721437"
+    },
+    {
+     "name": "Gold365 Green – Gold365 App and Online Platform Features",
+     "url": "https://aweblist.org/listing/gold365-green-–-gold365-app-and-online-platform-features-972623"
+    }
+   ]
+  },
+  {
+   "term": "outfit change duet",
+   "count": 2,
+   "sources": 3,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "ReelBoop",
+     "url": "https://reelboop.com/"
+    },
+    {
+     "name": "ReelBoop Turn photos into dance, outfit-change, duet and pro",
+     "url": "https://thehackstack.com/s/reelboop-2"
+    }
+   ]
+  },
+  {
+   "term": "parametric 3d cad",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "SolidCraft CAD",
+     "url": "https://solidcraftcad.com/"
+    },
+    {
+     "name": "SolidCraft Parametric 3D CAD in your browser — plus PartBatc",
+     "url": "https://thehackstack.com/s/solidcraft"
+    }
+   ]
+  },
+  {
+   "term": "peptide dosage calculator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Peptide Dosage Calculator",
+     "url": "https://webrankdirectory.org/listing/peptide-dosage-calculator"
+    },
+    {
+     "name": "Peptide Dosage Calculator Free Online Tool",
+     "url": "https://develif.com/s/peptide-dosage-calculator-free-online-tool"
+    }
+   ]
+  },
+  {
+   "term": "radiant optimizer game",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Radiant Optimizer Games",
+     "url": "https://azn8.com/listing/radiant-optimizer-games"
+    },
+    {
+     "name": "Radiant Optimizer Games A Free Guide To Browser Games And Se",
+     "url": "https://develif.com/s/radiant-optimizer-games-a-free-guide-to-browser-games-and-setup-notes"
+    }
+   ]
+  },
+  {
+   "term": "social media account",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Xinghaopu - Social Media Account Store",
+     "url": "https://a2place.com/listing/xinghaopu--social-media-account-store-718651"
+    },
+    {
+     "name": "Xinghaopu Social Media Accounts And Digital Goods",
+     "url": "https://develif.com/s/xinghaopu-social-media-accounts-and-digital-goods"
+    }
+   ]
+  },
+  {
+   "term": "spotify apple music",
+   "count": 2,
+   "sources": 2,
+   "ratio": 50.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "SongFlip: Zero-click music link redirects across streaming a",
+     "url": "https://awesomeindie.com/product/song-flip"
+    },
+    {
+     "name": "Trackmatch",
+     "url": "https://trackmatch.co/"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "dream call girl",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i",
+     "url": "https://exampledir.com/listing/best-rishikesh-escorts-escorts-in-rishikesh-call-girls-in-rishikesh-313833"
+    },
+    {
+     "name": "High Profile Rishikesh Escorts Service | Rishikesh Call Girl",
+     "url": "https://huludirectory.com/listing/high-profile-rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-2261126"
+    },
+    {
+     "name": "Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E",
+     "url": "https://aweblist.org/listing/rishikesh-call-girls-rishikesh-escorts-girls-rishikesh-escorts-972633"
+    },
+    {
+     "name": "Rishikesh Escorts Service | Rishikesh Call Girls | Escorts i",
+     "url": "https://aweblist.org/listing/rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-972640"
+    }
+   ]
+  },
+  {
+   "term": "abandoned place",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Urbexology",
+     "url": "https://urbexology.com/"
+    },
+    {
+     "name": "Urbexology A map for researching abandoned places 💬 0 Commen",
+     "url": "https://thehackstack.com/s/urbexology"
+    },
+    {
+     "name": "Urbexology Map Of Historic And Abandoned Places",
+     "url": "https://develif.com/s/urbexology-map-of-historic-and-abandoned-places"
+    }
+   ]
+  },
+  {
+   "term": "cash aint",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Cash Aint One",
+     "url": "https://azn8.com/listing/cash-aint-one"
+    },
+    {
+     "name": "Cash Aint One Know If Today Made Money",
+     "url": "https://develif.com/s/cash-aint-one-know-if-today-made-money"
+    },
+    {
+     "name": "Cash Aint One Know if today made money 💬 0 Comments",
+     "url": "https://thehackstack.com/s/cashaintone"
+    }
+   ]
+  },
+  {
+   "term": "exchange tutorial",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Ubneo Exchange Tutorials And Transfer Safety",
+     "url": "https://develif.com/s/ubneo-exchange-tutorials-and-transfer-safety"
+    },
+    {
+     "name": "UKNEO",
+     "url": "https://ukneo.com/"
+    },
+    {
+     "name": "vsvar",
+     "url": "https://vsvar.com/"
+    }
+   ]
+  },
+  {
+   "term": "naif gravity",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "NAIF Gravity",
+     "url": "https://naifgravity.com/"
+    },
+    {
+     "name": "Naif Gravity Developer Tools",
+     "url": "https://develif.com/s/naif-gravity-developer-tools"
+    },
+    {
+     "name": "Naif Gravity Sos",
+     "url": "https://agents-launch.lovable.app/agents/naif-gravity-sos"
+    }
+   ]
+  },
+  {
+   "term": "radiant optimizer",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Radiant Optimizer",
+     "url": "https://radiantoptimizer.live/"
+    },
+    {
+     "name": "Radiant Optimizer Games",
+     "url": "https://azn8.com/listing/radiant-optimizer-games"
+    },
+    {
+     "name": "Radiant Optimizer Games A Free Guide To Browser Games And Se",
+     "url": "https://develif.com/s/radiant-optimizer-games-a-free-guide-to-browser-games-and-setup-notes"
+    }
+   ]
+  },
+  {
+   "term": "social publishing",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Creavily",
+     "url": "https://azn8.com/listing/creavily"
+    },
+    {
+     "name": "Creavily Product-aware social publishing for ecommerce brand",
+     "url": "https://thehackstack.com/s/creavily"
+    },
+    {
+     "name": "Creavily Social Publishing For Ecommerce Brands",
+     "url": "https://develif.com/s/creavily-social-publishing-for-ecommerce-brands"
+    }
+   ]
+  },
+  {
+   "term": "trading cost",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Ieneo Exchange Guides And Trading Costs",
+     "url": "https://develif.com/s/ieneo-exchange-guides-and-trading-costs"
+    },
+    {
+     "name": "Stocknas Stock Tokens And Trading Costs",
+     "url": "https://develif.com/s/stocknas-stock-tokens-and-trading-costs"
+    },
+    {
+     "name": "vsvar",
+     "url": "https://vsvar.com/"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「dream call girl」今日 4 个产品/3 个目录：Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i、High Profile Rishikesh Escorts Service | Rishikesh Call Girl",
+  "小词「official bully contract」今日 2 个产品/2 个目录：BULLY Crypto Agent: Robinhood Chain Contract Checker、BULLY Crypto Agent",
+  "小词「ai humanizer rewrite」今日 2 个产品/3 个目录：Humanize Ink、Humanize Ink Free AI humanizer: rewrite drafts in Natural, P",
+  "同日小簇「dream call girl」4 个相似产品：Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i、High Profile Rishikesh Escorts Service | Rishikesh Call Girl、Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E",
+  "同日小簇「abandoned place」3 个相似产品：Urbexology、Urbexology A map for researching abandoned places 💬 0 Commen、Urbexology Map Of Historic And Abandoned Places",
+  "我们的站点上线：aithrillerdance.com @ canopystack.dev",
+  "跨目录同时出现：agenlify.ai（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-02.md",
+ "niche_groups": "- 成人陪侍服务：dream call girl、rishikesh call girl —— 提供特定地区（如Rishikesh）的线下陪侍与约会服务\n- AI内容自然化：ai humanizer rewrite —— 利用AI技术将文本改写为更自然、非机器生成的风格\n- 电商社交营销：aware social publishing —— 为电商品牌提供基于产品认知的社交媒体内容发布工具\n- 本地生活租赁：bike rental option、dau rental enjoy —— 提供城市间的自行车租赁与本地出行服务\n- AI视频特效生成：chipmunk dance ai、dance outfit change、outfit change duet —— 将静态照片转化为舞蹈、换装或双人互动的短视频特效\n- 垂直领域工具：official bully contract、chrome extension downloader、dedicated server vps、domain search king、dot grid isometric、parametric 3d cad —— 涵盖加密合约检测、浏览器插件下载、服务器托管、域名查询、网格纸生成及参数化3D建模等细分工具"
+}

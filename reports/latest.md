@@ -1,26 +1,28 @@
-# 每日目录雷达 2026-11-01
+# 每日目录雷达 2026-11-02
 
-- 监控目录 197 / 筛查目录 478；今日成功 182，失败 15；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, madewithstack-com, foundr-ai, startfa-st, aiagentautomation-site, apprater-net, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
-- 今日新增条目 **1422**（去重后 1293）；7 天基线 9417，30 天基线 16827
-- 语料 18819 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.3，30天 0.29
+- 监控目录 197 / 筛查目录 478；今日成功 182，失败 15；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, madewithstack-com, foundr-ai, startfa-st, aiagentautomation-site, aiimagetools-io, apprater-net, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
+- 今日新增条目 **1516**（去重后 1398）；7 天基线 9385，30 天基线 17661
+- 语料 19928 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.32，30天 0.29
 
 ## 微赛道归纳（LLM）
 
-- AI语音与视频生成：ai british accent、lip synced ai、second lip synced、scribe audio、synced ai rap —— 提供英式口音TTS、AI说唱视频生成及B2B音频转写服务
-- 社交媒体内容工具：douyin xiaohongshu rednote、instagram reel safe、reel safe zone、100+ endpoint、android iphone —— 涵盖多平台数据API、Reels安全区检查及跨平台应用
-- 教育笔记与资源：previous year question、chapter wise、ai landscape —— 提供CA基础笔记、章节数学内容及AI景观设计资讯
-- 垂直行业SaaS：gym management、remote monitoring、les propri taire —— 针对健身房管理、远程安防监控及欧洲房产/汽车服务的垂直解决方案
-- 医疗健康与成人服务：blood vessel、mumbai vip、reddy anna —— 涉及ED药物评估、特定地区VIP服务及特定人物/网站入口
+- 成人陪侍服务：dream call girl、rishikesh call girl —— 提供特定地区（如Rishikesh）的线下陪侍与约会服务
+- AI内容自然化：ai humanizer rewrite —— 利用AI技术将文本改写为更自然、非机器生成的风格
+- 电商社交营销：aware social publishing —— 为电商品牌提供基于产品认知的社交媒体内容发布工具
+- 本地生活租赁：bike rental option、dau rental enjoy —— 提供城市间的自行车租赁与本地出行服务
+- AI视频特效生成：chipmunk dance ai、dance outfit change、outfit change duet —— 将静态照片转化为舞蹈、换装或双人互动的短视频特效
+- 垂直领域工具：official bully contract、chrome extension downloader、dedicated server vps、domain search king、dot grid isometric、parametric 3d cad —— 涵盖加密合约检测、浏览器插件下载、服务器托管、域名查询、网格纸生成及参数化3D建模等细分工具
 
 ## 信号 Signals
 
-- 小词「previous year question」今日 3 个产品/2 个目录：CA Foundation Notes、Class 9 Maths Introduction to
-- 小词「ai british accent」今日 2 个产品/3 个目录：British Accent Generator、British Accent Generator AI British accent text-to-speech wi
-- 小词「douyin xiaohongshu rednote」今日 2 个产品/2 个目录：Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/、Qovia
-- 同日小簇「previous year question」3 个相似产品：CA Foundation Notes、Class 9 Maths Introduction to、Class 9 Maths Statistics notes
-- 同日小簇「early access」3 个相似产品：Eazlio FollowUp Early Access、Pond: AI Artificial inteligence、Relaxuna
-- 跨目录同时出现：airapvides.com（4 个目录）
-- 跨目录同时出现：datagalactica.com（4 个目录）
+- 小词「dream call girl」今日 4 个产品/3 个目录：Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i、High Profile Rishikesh Escorts Service | Rishikesh Call Girl
+- 小词「official bully contract」今日 2 个产品/2 个目录：BULLY Crypto Agent: Robinhood Chain Contract Checker、BULLY Crypto Agent
+- 小词「ai humanizer rewrite」今日 2 个产品/3 个目录：Humanize Ink、Humanize Ink Free AI humanizer: rewrite drafts in Natural, P
+- 同日小簇「dream call girl」4 个相似产品：Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i、High Profile Rishikesh Escorts Service | Rishikesh Call Girl、Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E
+- 同日小簇「abandoned place」3 个相似产品：Urbexology、Urbexology A map for researching abandoned places 💬 0 Commen、Urbexology Map Of Historic And Abandoned Places
+- 我们的站点上线：aithrillerdance.com @ canopystack.dev
+- 跨目录同时出现：agenlify.ai（3 个目录）
+- 跨目录同时出现：airapvideospot.com（3 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -28,78 +30,79 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **previous year question** | 3 | 2 | 🆕 | [CA Foundation Notes](https://huludirectory.com/listing/ca-foundation-notes-2260997)；[Class 9 Maths Introduction to](https://notebookedu-app.netlify.app/notes/class-9/maths/introduction-to-probability)；[Class 9 Maths Statistics notes](https://notebookedu-app.netlify.app/notes/class-9/maths/statistics) |
-| 2 | **ai british accent** | 2 | 3 | 🆕 | [British Accent Generator](https://britishaccent.pro/)；[British Accent Generator AI British accent text-to-speech wi](https://thehackstack.com/s/britishaccent) |
-| 3 | **douyin xiaohongshu rednote** | 2 | 2 | 🆕 | [Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/](https://nothumansearch.ai/site/qovia.ai)；[Qovia](https://qovia.ai/) |
-| 4 | **instagram reel safe** | 2 | 2 | 🆕 | [Instagram Reels Safe Zone Checker](https://develif.com/s/instagram-reels-safe-zone-checker)；[Instagram Reels Safe Zone Checker Check 9:16 creative agains](https://thehackstack.com/s/maestrogtm) |
-| 5 | **les propri taire** | 2 | 3 | 🆕 | [Performance Énergétique Appartement à Bruxelles – Certismart](https://huludirectory.com/listing/performance-energetique-appartement-a-bruxelles-–-certismart-2261035)；[Votre Land Rover a besoin d’une réparation ? Trouvez les bon](https://aweblist.org/listing/votre-land-rover-a-besoin-d’une-reparation-trouvez-les-bonnes-pieces-avant-votre-prochaine-972490) |
-| 6 | **lip synced ai** | 2 | 2 | 🆕 | [AI Rap Video Generator](https://airapvideogenerator.app/)；[AI Rap Video](https://rapvideo.ai/) |
-| 7 | **second lip synced** | 2 | 2 | 🆕 | [WakePix](https://whatareyoubuilding.ai/product/yaMyeKHBdbph1n5JDw3S)；[AI Rap Video Generator](https://airapvideogenerator.app/) |
-| 8 | **early access** | 3 | 3 | 🆕 | [Pond: AI Artificial inteligence](https://awesomeindie.com/product/pond)；[Eazlio FollowUp Early Access](https://eazlio-followup.netlify.app/)；[Relaxuna](https://azn8.com/listing/relaxuna) |
-| 9 | **remote monitoring** | 3 | 3 | 🆕 | [Security Surveillance Singapore](https://aweblist.org/listing/security-surveillance-singapore-972494)；[Nizlo](https://nizlo.com/)；[Remote Monitoring Software For It Teams](https://develif.com/s/remote-monitoring-software-for-it-teams) |
-| 10 | **blood vessel** | 3 | 3 | 🆕 | [Tadalista 40 Mg And Medical Assessment For ED](https://huludirectory.com/listing/tadalista-40-mg-and-medical-assessment-for-ed-2261002)；[Vidalista Black 80 Mg And Hypertension-Related ED](https://exampledir.com/listing/vidalista-black-80-mg-and-hypertension-related-ed-313752)；[Vidalista And Common Erectile Health Challenges](https://a2place.com/listing/vidalista-and-common-erectile-health-challenges-718642) |
-| 11 | **gym management** | 3 | 4 | 🆕 | [FitFaat](https://whatareyoubuilding.ai/product/4IzI5sQUgiu4dtIVpMgi)；[FitFaat (Dai Software)](https://fitfaat.com/)；[FitFaat Gym management software & app for Indian gyms 💬 0 Co](https://thehackstack.com/s/fitfaat) |
-| 12 | **mumbai vip** | 3 | 2 | 🆕 | [Mumbai VIP Escorts 9098957425](https://huludirectory.com/listing/mumbai-vip-escorts-9098957425-2260999)；[Mumbai VIP escort service](https://directory6.org/listing/mumbai-vip-escort-service-721282)；[Mumbai VIP model escort service](https://directory6.org/listing/mumbai-vip-model-escort-service-721288) |
-| 13 | **reddy anna** | 3 | 3 | 🆕 | [Reddy Anna website](https://aweblist.org/listing/reddy-anna-website-972514)；[Reddy Anna](https://directory6.org/listing/reddy-anna-721294)；[Reddy Anna ID online](https://huludirectory.com/listing/reddy-anna-id-online-2261039) |
-| 14 | **scribe audio** | 5 | 5 | 26.0x | [Le Scribe Audio - B2B AI Speech-to-Text & Diarization](https://exampledir.com/listing/le-scribe-audio--b2b-ai-speech-to-text-and-diarization-313764)；[Le Scribe Audio - AI Audio & Video Transcription](https://a2place.com/listing/le-scribe-audio--ai-audio-and-video-transcription-718644)；[Le Scribe Audio | Logiciel & Service de Transcription (60 mi](https://nothumansearch.ai/site/lescribeaudio.com) |
-| 15 | **ai landscape** | 2 | 2 | 🆕 | [Apple CEO says the company doesn’t ‘want to ship AI for AI’s](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake)；[AI Landscape Design](https://ai-landscape-design.com/) |
+| 1 | **dream call girl** | 4 | 3 | 🆕 | [Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i](https://exampledir.com/listing/best-rishikesh-escorts-escorts-in-rishikesh-call-girls-in-rishikesh-313833)；[High Profile Rishikesh Escorts Service | Rishikesh Call Girl](https://huludirectory.com/listing/high-profile-rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-2261126)；[Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E](https://aweblist.org/listing/rishikesh-call-girls-rishikesh-escorts-girls-rishikesh-escorts-972633) |
+| 2 | **official bully contract** | 2 | 2 | 🆕 | [BULLY Crypto Agent: Robinhood Chain Contract Checker](https://dealmyapp.com/listings/bully-crypto-agent-robinhood-chain-contract-checker)；[BULLY Crypto Agent](https://abullycoin.com/crypto-agent) |
+| 3 | **ai humanizer rewrite** | 2 | 3 | 🆕 | [Humanize Ink](https://humanizeink.com/)；[Humanize Ink Free AI humanizer: rewrite drafts in Natural, P](https://thehackstack.com/s/humanizeink-2) |
+| 4 | **air con promotion** | 2 | 2 | 🆕 | [Midea air con promotion](https://huludirectory.com/listing/midea-air-con-promotion-2261137)；[Mitsubishi air con promotion](https://exampledir.com/listing/mitsubishi-air-con-promotion-313837) |
+| 5 | **aware social publishing** | 2 | 2 | 🆕 | [Creavily](https://azn8.com/listing/creavily)；[Creavily Product-aware social publishing for ecommerce brand](https://thehackstack.com/s/creavily) |
+| 6 | **bike rental option** | 2 | 3 | 🆕 | [Rent A Bike In Haridwar Easily - Dau Rental](https://aweblist.org/listing/rent-a-bike-in-haridwar-easily--dau-rental-972636)；[Best Bike On Rent In Indore For Easy Travel - Dau Rental](https://aweblist.org/listing/best-bike-on-rent-in-indore-for-easy-travel--dau-rental-972618) |
+| 7 | **chipmunk dance ai** | 2 | 5 | 🆕 | [Chipmunks Dance AI](https://whatareyoubuilding.ai/product/gUPwyNzKtO7AeRcehqYV)；[Chipmunks Dance AI Silent 15s trio dance from three adult ph](https://thehackstack.com/s/memeremake-2) |
+| 8 | **chrome extension downloader** | 2 | 2 | 🆕 | [Chrome Extension Downloader — score 25/100 (other)](https://nothumansearch.ai/site/extensiondownloader.com)；[Chrome Extension Downloader](https://navs.site/website/chrome-extension-downloader) |
+| 9 | **conveniently located near** | 2 | 2 | 🆕 | [Fins Bar & Rooftop – Nashville Rooftop Bar & Dining Experien](https://aweblist.org/listing/fins-bar-and-rooftop-–-nashville-rooftop-bar-and-dining-experience-972608)；[Sigma Pilates](https://huludirectory.com/listing/sigma-pilates-2261131) |
+| 10 | **customer engagement financial** | 2 | 2 | 🆕 | [Application Security Market Challenges](https://aweblist.org/listing/application-security-market-challenges-972609)；[Application Security Market Threats](https://huludirectory.com/listing/application-security-market-threats-2261114) |
+| 11 | **dance outfit change** | 2 | 3 | 🆕 | [ReelBoop](https://reelboop.com/)；[ReelBoop Turn photos into dance, outfit-change, duet and pro](https://thehackstack.com/s/reelboop-2) |
+| 12 | **dau rental enjoy** | 2 | 3 | 🆕 | [Rent A Bike In Haridwar Easily - Dau Rental](https://aweblist.org/listing/rent-a-bike-in-haridwar-easily--dau-rental-972636)；[Affordable Bike On Rent In Jaisalmer - Dau Rental](https://aweblist.org/listing/affordable-bike-on-rent-in-jaisalmer--dau-rental-972646) |
+| 13 | **dedicated server vps** | 2 | 2 | 🆕 | [Q-DC](https://q-dc.net/)；[Q Dc Dedicated Servers Vps And Web Hosting](https://develif.com/s/q-dc-dedicated-servers-vps-and-web-hosting) |
+| 14 | **domain search king** | 2 | 2 | 🆕 | [Domain Search King](https://sideprojects.net/projects/domain-search-king)；[Domain Search King Find available .com domain names, checked](https://thehackstack.com/s/domainsearchking) |
+| 15 | **dot grid isometric** | 2 | 4 | 🆕 | [TrueGrid Graph Paper - Free Printable Graph Paper PDFs](https://aweblist.org/listing/truegrid-graph-paper--free-printable-graph-paper-pdfs-972634)；[Graph Paper Generator](https://10015.io/tools/graph-paper-generator) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **british accent text** × 2（3 个目录）：[British Accent Generator](https://britishaccent.pro/)；[British Accent Generator AI British accent text-to-speech wi](https://thehackstack.com/s/britishaccent)
-- **reel safe zone** × 2（2 个目录）：[Instagram Reels Safe Zone Checker](https://develif.com/s/instagram-reels-safe-zone-checker)；[Instagram Reels Safe Zone Checker Check 9:16 creative agains](https://thehackstack.com/s/maestrogtm)
-- **synced ai rap** × 2（2 个目录）：[AI Rap Video Generator](https://airapvideogenerator.app/)；[AI Rap Video](https://rapvideo.ai/)
-- **chapter wise** × 3（2 个目录）：[CA Foundation Notes](https://huludirectory.com/listing/ca-foundation-notes-2260997)；[Class 9 Maths Introduction to](https://notebookedu-app.netlify.app/notes/class-9/maths/introduction-to-probability)；[Class 9 Maths Statistics notes](https://notebookedu-app.netlify.app/notes/class-9/maths/statistics)
-- **100+ endpoint** × 2（2 个目录）：[Douyin, RedNote, Weibo & TikTok data API | Qovia — score 55/](https://nothumansearch.ai/site/qovia.ai)；[Qovia](https://qovia.ai/)
-- **android iphone** × 2（2 个目录）：[20-0.org - Free Online Games](https://20-0.org/)；[Money Tracker Expense & Budget](https://gateofai.com/community-tools/money-tracker-expense-budget)
-- **automation agency** × 2（2 个目录）：[TrustedAIAgencies](https://whatareyoubuilding.ai/product/1FSFn52fhRLSY868ARft)；[TrustedAIAgencies: UK AI automation agency directory](https://aweblist.org/listing/trustedaiagencies-uk-ai-automation-agency-directory-972515)
-- **germline variant** × 2（3 个目录）：[Germline Variant Interpretation and ACMG Evidence | Folklore](https://nothumansearch.ai/site/folklore.helena.bio)；[Folklore Clinical Variant Interpretation MCP](https://folklore.helena.bio/integrations/mcp)
-- **local install** × 2（2 个目录）：[FaceSwapAI](https://gateofai.com/community-tools/faceswapai)；[Image to Image AI – YouTube Endscreen Art](https://directory6.org/listing/image-to-image-ai-–-youtube-endscreen-art-721326)
-- **matter setup** × 2（2 个目录）：[priv QR: Make a 3D-printable QR code from a link or text, or](https://saasolution.io/tool/privqr)；[priv QR](https://webrankdirectory.org/listing/priv-qr)
+- **rishikesh call girl** × 4（3 个目录）：[Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i](https://exampledir.com/listing/best-rishikesh-escorts-escorts-in-rishikesh-call-girls-in-rishikesh-313833)；[High Profile Rishikesh Escorts Service | Rishikesh Call Girl](https://huludirectory.com/listing/high-profile-rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-2261126)；[Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E](https://aweblist.org/listing/rishikesh-call-girls-rishikesh-escorts-girls-rishikesh-escorts-972633)
+- **data management however** × 2（2 个目录）：[Application Security Market Challenges](https://aweblist.org/listing/application-security-market-challenges-972609)；[Application Security Market Threats](https://huludirectory.com/listing/application-security-market-threats-2261114)
+- **mind smoke shop** × 2（2 个目录）：[Vape Stores Near Me](https://aweblist.org/listing/vape-stores-near-me-972610)；[Smoke Shop Near Me](https://huludirectory.com/listing/smoke-shop-near-me-2261115)
+- **mobile access account** × 2（2 个目录）：[Gold365 App – Mobile Access, Account Features, and Support](https://directory6.org/listing/gold365-app-–-mobile-access-account-features-and-support-721437)；[Gold365 Green – Gold365 App and Online Platform Features](https://aweblist.org/listing/gold365-green-–-gold365-app-and-online-platform-features-972623)
+- **outfit change duet** × 2（3 个目录）：[ReelBoop](https://reelboop.com/)；[ReelBoop Turn photos into dance, outfit-change, duet and pro](https://thehackstack.com/s/reelboop-2)
+- **parametric 3d cad** × 2（2 个目录）：[SolidCraft CAD](https://solidcraftcad.com/)；[SolidCraft Parametric 3D CAD in your browser — plus PartBatc](https://thehackstack.com/s/solidcraft)
+- **peptide dosage calculator** × 2（2 个目录）：[Peptide Dosage Calculator](https://webrankdirectory.org/listing/peptide-dosage-calculator)；[Peptide Dosage Calculator Free Online Tool](https://develif.com/s/peptide-dosage-calculator-free-online-tool)
+- **radiant optimizer game** × 2（2 个目录）：[Radiant Optimizer Games](https://azn8.com/listing/radiant-optimizer-games)；[Radiant Optimizer Games A Free Guide To Browser Games And Se](https://develif.com/s/radiant-optimizer-games-a-free-guide-to-browser-games-and-setup-notes)
+- **social media account** × 2（2 个目录）：[Xinghaopu - Social Media Account Store](https://a2place.com/listing/xinghaopu--social-media-account-store-718651)；[Xinghaopu Social Media Accounts And Digital Goods](https://develif.com/s/xinghaopu-social-media-accounts-and-digital-goods)
+- **spotify apple music** × 2（2 个目录）：[SongFlip: Zero-click music link redirects across streaming a](https://awesomeindie.com/product/song-flip)；[Trackmatch](https://trackmatch.co/)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **previous year question** × 3（2 个目录）：[CA Foundation Notes](https://huludirectory.com/listing/ca-foundation-notes-2260997)；[Class 9 Maths Introduction to](https://notebookedu-app.netlify.app/notes/class-9/maths/introduction-to-probability)；[Class 9 Maths Statistics notes](https://notebookedu-app.netlify.app/notes/class-9/maths/statistics)
-- **early access** × 3（3 个目录）：[Eazlio FollowUp Early Access](https://eazlio-followup.netlify.app/)；[Pond: AI Artificial inteligence](https://awesomeindie.com/product/pond)；[Relaxuna](https://azn8.com/listing/relaxuna)
-- **remote monitoring** × 3（3 个目录）：[Nizlo](https://azn8.com/listing/nizlo)；[Remote Monitoring Software For It Teams](https://develif.com/s/remote-monitoring-software-for-it-teams)；[Security Surveillance Singapore](https://aweblist.org/listing/security-surveillance-singapore-972494)
-- **blood vessel** × 3（3 个目录）：[Tadalista 40 Mg And Medical Assessment For ED](https://huludirectory.com/listing/tadalista-40-mg-and-medical-assessment-for-ed-2261002)；[Vidalista And Common Erectile Health Challenges](https://a2place.com/listing/vidalista-and-common-erectile-health-challenges-718642)；[Vidalista Black 80 Mg And Hypertension-Related ED](https://exampledir.com/listing/vidalista-black-80-mg-and-hypertension-related-ed-313752)
-- **gym management** × 3（4 个目录）：[FitFaat](https://dealmyapp.com/listings/fitfaat)；[FitFaat (Dai Software)](https://fitfaat.com/)；[FitFaat Gym management software & app for Indian gyms 💬 0 Co](https://thehackstack.com/s/fitfaat)
-- **mumbai vip** × 3（2 个目录）：[Mumbai VIP escort service](https://directory6.org/listing/mumbai-vip-escort-service-721282)；[Mumbai VIP Escorts 9098957425](https://huludirectory.com/listing/mumbai-vip-escorts-9098957425-2260999)；[Mumbai VIP model escort service](https://directory6.org/listing/mumbai-vip-model-escort-service-721288)
-- **reddy anna** × 3（3 个目录）：[Reddy Anna](https://directory6.org/listing/reddy-anna-721294)；[Reddy Anna ID online](https://huludirectory.com/listing/reddy-anna-id-online-2261039)；[Reddy Anna website](https://aweblist.org/listing/reddy-anna-website-972514)
-- **scribe audio** × 5（5 个目录）：[Le Scribe Audio](https://www.clapstorm.com/p/le-scribe-audio)；[Le Scribe Audio 2-pass AI audio & video transcription with .](https://thehackstack.com/s/lescribeaudio)；[Le Scribe Audio - AI Audio & Video Transcription](https://a2place.com/listing/le-scribe-audio--ai-audio-and-video-transcription-718644)；[Le Scribe Audio - B2B AI Speech-to-Text & Diarization](https://exampledir.com/listing/le-scribe-audio--b2b-ai-speech-to-text-and-diarization-313764)
+- **dream call girl** × 4（3 个目录）：[Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i](https://exampledir.com/listing/best-rishikesh-escorts-escorts-in-rishikesh-call-girls-in-rishikesh-313833)；[High Profile Rishikesh Escorts Service | Rishikesh Call Girl](https://huludirectory.com/listing/high-profile-rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-2261126)；[Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E](https://aweblist.org/listing/rishikesh-call-girls-rishikesh-escorts-girls-rishikesh-escorts-972633)；[Rishikesh Escorts Service | Rishikesh Call Girls | Escorts i](https://aweblist.org/listing/rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-972640)
+- **abandoned place** × 3（4 个目录）：[Urbexology](https://urbexology.com/)；[Urbexology A map for researching abandoned places 💬 0 Commen](https://thehackstack.com/s/urbexology)；[Urbexology Map Of Historic And Abandoned Places](https://develif.com/s/urbexology-map-of-historic-and-abandoned-places)
+- **cash aint** × 3（3 个目录）：[Cash Aint One](https://azn8.com/listing/cash-aint-one)；[Cash Aint One Know If Today Made Money](https://develif.com/s/cash-aint-one-know-if-today-made-money)；[Cash Aint One Know if today made money 💬 0 Comments](https://thehackstack.com/s/cashaintone)
+- **exchange tutorial** × 3（2 个目录）：[Ubneo Exchange Tutorials And Transfer Safety](https://develif.com/s/ubneo-exchange-tutorials-and-transfer-safety)；[UKNEO](https://ukneo.com/)；[vsvar](https://vsvar.com/)
+- **naif gravity** × 3（3 个目录）：[NAIF Gravity](https://naifgravity.com/)；[Naif Gravity Developer Tools](https://develif.com/s/naif-gravity-developer-tools)；[Naif Gravity Sos](https://agents-launch.lovable.app/agents/naif-gravity-sos)
+- **radiant optimizer** × 3（3 个目录）：[Radiant Optimizer](https://radiantoptimizer.live/)；[Radiant Optimizer Games](https://azn8.com/listing/radiant-optimizer-games)；[Radiant Optimizer Games A Free Guide To Browser Games And Se](https://develif.com/s/radiant-optimizer-games-a-free-guide-to-browser-games-and-setup-notes)
+- **social publishing** × 3（3 个目录）：[Creavily](https://azn8.com/listing/creavily)；[Creavily Product-aware social publishing for ecommerce brand](https://thehackstack.com/s/creavily)；[Creavily Social Publishing For Ecommerce Brands](https://develif.com/s/creavily-social-publishing-for-ecommerce-brands)
+- **trading cost** × 3（2 个目录）：[Ieneo Exchange Guides And Trading Costs](https://develif.com/s/ieneo-exchange-guides-and-trading-costs)；[Stocknas Stock Tokens And Trading Costs](https://develif.com/s/stocknas-stock-tokens-and-trading-costs)；[vsvar](https://vsvar.com/)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| listedstartups.com | 100 | AI(5)、HealthTech, Medical Devices(4)、Space Tech, Aerospace, Propulsion(4) |
-| thataicollection.com | 99 | application(99) |
-| canopystack.dev | 84 | SaaS(34)、Other(29)、Dev tool(11) |
-| aitoolseekers.com | 74 | tools(74) |
-| corpus.blog | 66 | sites(66) |
-| thehackstack.com | 51 |  |
+| canopystack.dev | 134 | Other(91)、SaaS(30)、Dev tool(8) |
+| listedstartups.com | 100 | Developer Tools, Industrial, SaaS(26)、Energy, Hardware, Climate Tech(2)、AI, Cloud Infrastructure, Developer Tools(2) |
+| thataicollection.com | 95 | application(95) |
+| develif.com | 91 | s(87) |
+| hyzenpro.com | 81 | AI Video Tools(17)、AI General Tools(16)、AI Image Tools(9) |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
+| exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
+| thehackstack.com | 50 |  |
 | zearches.com | 50 |  |
-| develif.com | 47 | s(46) |
-| exampledir.com | 46 |  |
+| planet-ai.net | 49 | ContentCategory.RESEARCH(36)、ContentCategory.TUTORIAL(7)、ContentCategory.NEWS(6) |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- airapvides.com（AI Rap Video Generator）：canopystack.dev, launch.ignlab.net, listedstartups.com, worthtotry.com
-- datagalactica.com（Data Galactica）：canopystack.dev, listedstartups.com, worthtotry.com, zearches.com
-- aisignaturegenerators.org（AI Signature Generators）：canopystack.dev, listedstartups.com, zearches.com
-- aniccaai.com（Daily Affirmations - Anicca）：canopystack.dev, listedstartups.com, zearches.com
-- apps.canonforge.top（CanonForge Mac Apps）：canopystack.dev, listedstartups.com, zearches.com
-- bobhairfashion.com（BobHairFashion）：canopystack.dev, listedstartups.com, zearches.com
-- eidora.io（Eidora）：canopystack.dev, hyzenpro.com, worthtotry.com
-- gradebooktools.com（Gradebook Calculator）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- intolayers.com（IntoLayers）：launch.ignlab.net, startup88.com, zearches.com
-- kdpbuilder.com（KDP Builder）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- agenlify.ai（Agenlify）：canopystack.dev, listedstartups.com, startup88.com
+- airapvideospot.com（AI Rap Video Spot）：canopystack.dev, launch.ignlab.net, worthtotry.com
+- britishaccent.pro（British Accent Generator）：launch.ignlab.net, listedstartups.com, zearches.com
+- ciphercove.com（Cipher Cove）：canopystack.dev, launch.ignlab.net, zearches.com
+- deskwink.com（DeskWink）：hyzenpro.com, launch.ignlab.net, zearches.com
+- flipclock.info（FlipClock）：canopystack.dev, listedstartups.com, zearches.com
+- flow-music.org（Flow Music）：canopystack.dev, listedstartups.com, zearches.com
+- flowaivideo.net（Flow AI Video）：canopystack.dev, listedstartups.com, zearches.com
+- fondoblanco.org（Fondo Blanco）：canopystack.dev, hyzenpro.com, listedstartups.com
+- getgangly.com（Gangly）：canopystack.dev, hyzenpro.com, listedstartups.com
 
 ## 我们的站点已被目录公开展示
 
+- aithrillerdance.com：canopystack.dev
 - deepseek-agent.com：canopystack.dev
 - floatboat.ai：canopystack.dev
 - fogsight.ai：canopystack.dev
@@ -110,20 +113,20 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 8 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 8 天）
-- sitelike-org: RuntimeError: http 403（连续 8 天）
-- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 3 天）
-- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 1 天）
-- ailibri-com: ConnectionError: HTTPSConnectionPool(host='ailibri.com', port=443): Max retries exceeded with url: /rss (Caused by NewConnectionError("HTTPSConnection(host='ailibri.com', port=443): Failed to establis（连续 1 天）
-- foundr-ai: RuntimeError: http 403（连续 8 天）
-- startfa-st: RuntimeError: http 403（连续 8 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 8 天）
-- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 2 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 8 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f5758ee95（连续 5 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 8 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 8 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 8 天）
+- canadawebdir-com: RuntimeError: http 403（连续 9 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 9 天）
+- sitelike-org: RuntimeError: http 403（连续 9 天）
+- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 4 天）
+- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 2 天）
+- ailibri-com: ConnectionError: HTTPSConnectionPool(host='ailibri.com', port=443): Max retries exceeded with url: /rss (Caused by NewConnectionError("HTTPSConnection(host='ailibri.com', port=443): Failed to establis（连续 2 天）
+- foundr-ai: RuntimeError: http 403（连续 9 天）
+- startfa-st: RuntimeError: http 403（连续 9 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 9 天）
+- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 3 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 9 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f27dc2d79（连续 6 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 9 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 9 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 9 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar
