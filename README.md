@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-02** · 新增 1516 · 监控 197 个目录（今日成功 182）
+**2026-11-03** · 新增 1626 · 监控 197 个目录（今日成功 178）
 
 聚焦小词 Top 15:
 
-- `dream call girl` ×4（3 目录） 🆕：Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i；High Profile Rishikesh Escorts Service | Rishikesh Call Girl
-- `official bully contract` ×2（2 目录） 🆕：BULLY Crypto Agent: Robinhood Chain Contract Checker；BULLY Crypto Agent
-- `ai humanizer rewrite` ×2（3 目录） 🆕：Humanize Ink；Humanize Ink Free AI humanizer: rewrite drafts in Natural, P
-- `air con promotion` ×2（2 目录） 🆕：Midea air con promotion；Mitsubishi air con promotion
-- `aware social publishing` ×2（2 目录） 🆕：Creavily；Creavily Product-aware social publishing for ecommerce brand
-- `bike rental option` ×2（3 目录） 🆕：Rent A Bike In Haridwar Easily - Dau Rental；Best Bike On Rent In Indore For Easy Travel - Dau Rental
-- `chipmunk dance ai` ×2（5 目录） 🆕：Chipmunks Dance AI；Chipmunks Dance AI Silent 15s trio dance from three adult ph
-- `chrome extension downloader` ×2（2 目录） 🆕：Chrome Extension Downloader — score 25/100 (other)；Chrome Extension Downloader
-- `conveniently located near` ×2（2 目录） 🆕：Fins Bar & Rooftop – Nashville Rooftop Bar & Dining Experien；Sigma Pilates
-- `customer engagement financial` ×2（2 目录） 🆕：Application Security Market Challenges；Application Security Market Threats
-- `dance outfit change` ×2（3 目录） 🆕：ReelBoop；ReelBoop Turn photos into dance, outfit-change, duet and pro
-- `dau rental enjoy` ×2（3 目录） 🆕：Rent A Bike In Haridwar Easily - Dau Rental；Affordable Bike On Rent In Jaisalmer - Dau Rental
-- `dedicated server vps` ×2（2 目录） 🆕：Q-DC；Q Dc Dedicated Servers Vps And Web Hosting
-- `domain search king` ×2（2 目录） 🆕：Domain Search King；Domain Search King Find available .com domain names, checked
-- `dot grid isometric` ×2（4 目录） 🆕：TrueGrid Graph Paper - Free Printable Graph Paper PDFs；Graph Paper Generator
+- `group stay near` ×3（3 目录） 🆕：Private Group Stay Near Jammu with Modern Comforts；Family and Friends Group Stay Near Jammu at Stay Royal
+- `signco qld deliver` ×3（3 目录） 🆕：Reception signs Brisbane；Shop signs Brisbane
+- `github repository` ×14（3 目录）：zeroshot recorded a GitHub repository push；ContextForge (IBM MCP Context Forge) recorded a GitHub repos
+- `material science` ×5（3 目录） 🆕：Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod；9th Global Summit on Material Science and Engineering
+- `distributor oem buyer` ×2（2 目录） 🆕：Top Brass Bolts Exporter er to poland；Top Brass Bolts Exporter to poland
+- `emirati arabic text` ×2（2 目录） 🆕：Emirati Arabic Text to Speech | Ramsa Speech AI — score 45/1；Ramsa Speech
+- `freelance job board` ×2（4 目录） 🆕：chainjobs；Chainjobs Web3 And Freelance Job Board
+- `transactional email campaign` ×2（2 目录） 🆕：Unitpost；Volanea — Transactional Email & Campaigns on Amazon SES — sc
+- `packer household shifting` ×4（2 目录）：Relocation Support from Pickup to Delivery；Trusted Goods Shifting Services
+- `agency partner interactive` ×2（2 目录） 🆕：Agency Partner Interactive；Agency Partner Interactive Building Powerful Ecommerce Store
+- `ai trend club` ×2（2 目录） 🆕：AI Trend Club；AI Trend Club Turn one photo into trending AI videos. 💬 0 Co
+- `conduit fill calculator` ×2（2 目录） 🆕：WireFillChart；Wire Fill Chart And Conduit Fill Calculator
+- `durable swimming pool` ×2（2 目录） 🆕：Best Tensile Swimming Pool Structure Manufacturer in Delhi N；Tensile Swimming Pool Structure Manufacturer in Delhi NCR
+- `een meer energie` ×2（2 目录） 🆕：Authentieke Himalaya Hars met Ayurvedische Traditie；Premium Himalaya Hars voor een Bewuste Wellnessroutine
+- `isolation packer market` ×2（2 目录） 🆕：Zonal Isolation Packers Market Dynamics Shaping Well Complet；Zonal Isolation Packers Market Forecast: Emerging Technologi
 
 微赛道归纳:
 
-- 成人陪侍服务：dream call girl、rishikesh call girl —— 提供特定地区（如Rishikesh）的线下陪侍与约会服务
-- AI内容自然化：ai humanizer rewrite —— 利用AI技术将文本改写为更自然、非机器生成的风格
-- 电商社交营销：aware social publishing —— 为电商品牌提供基于产品认知的社交媒体内容发布工具
-- 本地生活租赁：bike rental option、dau rental enjoy —— 提供城市间的自行车租赁与本地出行服务
-- AI视频特效生成：chipmunk dance ai、dance outfit change、outfit change duet —— 将静态照片转化为舞蹈、换装或双人互动的短视频特效
-- 垂直领域工具：official bully contract、chrome extension downloader、dedicated server vps、domain search king、dot grid isometric、parametric 3d cad —— 涵盖加密合约检测、浏览器插件下载、服务器托管、域名查询、网格纸生成及参数化3D建模等细分工具
+- AI 趋势内容生成：ai trend club —— 将单张照片转化为热门 AI 视频的内容创作工具
+- GitHub 仓库监控：github repository —— 记录和分析 GitHub 仓库推送及上下文数据的开发工具
+- 材料科学大模型：material science、chemistry material science —— 发布用于材料科学研究的开源大模型及行业峰会
+- B2B 工业品出口：distributor oem buyer、importer distributor oem、isolation packer market —— 面向波兰等市场的黄铜螺栓出口及油井隔离包装器市场分析
+- 本地化生活服务：group stay near、royal imperial jammu、packer household shifting、durable swimming pool、pool structure manufacturer —— 提供查穆克地区团体住宿、家庭搬迁及张力泳池结构制造服务
+- 区域品牌与营销：signco qld deliver、attractive shop sign、emirati arabic text、transactional email campaign、agency partner interactive、freelance job board —— 涵盖布里斯班招牌制作、阿联酋阿拉伯语语音合成、事务性邮件营销及 Web3 自由职业招聘
 
-完整报告: [reports/2026-11-02.md](reports/2026-11-02.md)
+完整报告: [reports/2026-11-03.md](reports/2026-11-03.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

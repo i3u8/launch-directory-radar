@@ -1,0 +1,679 @@
+{
+ "date": "2026-11-03",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 178,
+ "sources_failed": 19,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "promoteindex-com",
+  "bestaitools-com",
+  "foundr-ai",
+  "startfa-st",
+  "startups-snapmunk-com",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "openfuture-ai",
+  "phototoolfinder-com",
+  "saasworthy-com",
+  "softwareworld-co",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "promoteindex-com",
+  "foundr-ai",
+  "startfa-st",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1626,
+ "new_today_unique": 1528,
+ "ai_share_today": 0.31,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "group stay near",
+   "count": 3,
+   "sources": 3,
+   "ratio": 73.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Private Group Stay Near Jammu with Modern Comforts",
+     "url": "https://exampledir.com/listing/private-group-stay-near-jammu-with-modern-comforts-313924"
+    },
+    {
+     "name": "Family and Friends Group Stay Near Jammu at Stay Royal",
+     "url": "https://huludirectory.com/listing/family-and-friends-group-stay-near-jammu-at-stay-royal-2261283"
+    },
+    {
+     "name": "Book a Spacious Group Stay Near Jammu for Your Next Trip",
+     "url": "https://directory6.org/listing/book-a-spacious-group-stay-near-jammu-for-your-next-trip-721758"
+    }
+   ]
+  },
+  {
+   "term": "signco qld deliver",
+   "count": 3,
+   "sources": 3,
+   "ratio": 73.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Reception signs Brisbane",
+     "url": "https://aweblist.org/listing/reception-signs-brisbane-972941"
+    },
+    {
+     "name": "Shop signs Brisbane",
+     "url": "https://exampledir.com/listing/shop-signs-brisbane-313925"
+    },
+    {
+     "name": "Wall graphics Brisbane",
+     "url": "https://huludirectory.com/listing/wall-graphics-brisbane-2261278"
+    }
+   ]
+  },
+  {
+   "term": "github repository",
+   "count": 14,
+   "sources": 3,
+   "ratio": 114.2,
+   "new": false,
+   "examples": [
+    {
+     "name": "zeroshot recorded a GitHub repository push",
+     "url": "https://agentsearchengine.app/agents/zeroshot"
+    },
+    {
+     "name": "ContextForge (IBM MCP Context Forge) recorded a GitHub repos",
+     "url": "https://agentsearchengine.app/agents/contextforge"
+    },
+    {
+     "name": "Kubernetes MCP Server (containers) recorded a GitHub reposit",
+     "url": "https://agentsearchengine.app/agents/kubernetes-mcp-server"
+    }
+   ]
+  },
+  {
+   "term": "material science",
+   "count": 5,
+   "sources": 3,
+   "ratio": 122.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod",
+     "url": "https://marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model"
+    },
+    {
+     "name": "9th Global Summit on Material Science and Engineering",
+     "url": "https://a2place.com/listing/9th-global-summit-on-material-science-and-engineering-718674"
+    },
+    {
+     "name": "Deep Principle",
+     "url": "https://deepprinciple.com/index.html"
+    }
+   ]
+  },
+  {
+   "term": "distributor oem buyer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Top Brass Bolts Exporter er to poland",
+     "url": "https://huludirectory.com/listing/top-brass-bolts-exporter-er-to-poland-2261250"
+    },
+    {
+     "name": "Top Brass Bolts Exporter to poland",
+     "url": "https://directory6.org/listing/top-brass-bolts-exporter-to-poland-721724"
+    }
+   ]
+  },
+  {
+   "term": "emirati arabic text",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Emirati Arabic Text to Speech | Ramsa Speech AI — score 45/1",
+     "url": "https://nothumansearch.ai/site/ramsaspeech.ai"
+    },
+    {
+     "name": "Ramsa Speech",
+     "url": "https://ramsaspeech.ai/"
+    }
+   ]
+  },
+  {
+   "term": "freelance job board",
+   "count": 2,
+   "sources": 4,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "chainjobs",
+     "url": "https://chainjobs.app/"
+    },
+    {
+     "name": "Chainjobs Web3 And Freelance Job Board",
+     "url": "https://develif.com/s/chainjobs-web3-and-freelance-job-board"
+    }
+   ]
+  },
+  {
+   "term": "transactional email campaign",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Unitpost",
+     "url": "https://whatareyoubuilding.ai/product/7udRRBApLQg4ag6YBBv9"
+    },
+    {
+     "name": "Volanea — Transactional Email & Campaigns on Amazon SES — sc",
+     "url": "https://nothumansearch.ai/site/volanea.com"
+    }
+   ]
+  },
+  {
+   "term": "packer household shifting",
+   "count": 4,
+   "sources": 2,
+   "ratio": 32.6,
+   "new": false,
+   "examples": [
+    {
+     "name": "Relocation Support from Pickup to Delivery",
+     "url": "https://aweblist.org/listing/relocation-support-from-pickup-to-delivery-972951"
+    },
+    {
+     "name": "Trusted Goods Shifting Services",
+     "url": "https://a2place.com/listing/trusted-goods-shifting-services-718670"
+    },
+    {
+     "name": "Bike and Car Moving Solutions Across India",
+     "url": "https://a2place.com/listing/bike-and-car-moving-solutions-across-india-718669"
+    }
+   ]
+  },
+  {
+   "term": "agency partner interactive",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Agency Partner Interactive",
+     "url": "https://www.clapstorm.com/p/agency-partner-interactive"
+    },
+    {
+     "name": "Agency Partner Interactive Building Powerful Ecommerce Store",
+     "url": "https://thehackstack.com/s/agencypartner"
+    }
+   ]
+  },
+  {
+   "term": "ai trend club",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Trend Club",
+     "url": "https://aitrendclub.com/"
+    },
+    {
+     "name": "AI Trend Club Turn one photo into trending AI videos. 💬 0 Co",
+     "url": "https://thehackstack.com/s/aitrendclub"
+    }
+   ]
+  },
+  {
+   "term": "conduit fill calculator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "WireFillChart",
+     "url": "https://webrankdirectory.org/listing/wirefillchart"
+    },
+    {
+     "name": "Wire Fill Chart And Conduit Fill Calculator",
+     "url": "https://develif.com/s/wire-fill-chart-and-conduit-fill-calculator"
+    }
+   ]
+  },
+  {
+   "term": "durable swimming pool",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Tensile Swimming Pool Structure Manufacturer in Delhi N",
+     "url": "https://aweblist.org/listing/best-tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-972933"
+    },
+    {
+     "name": "Tensile Swimming Pool Structure Manufacturer in Delhi NCR",
+     "url": "https://directory6.org/listing/tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-721739"
+    }
+   ]
+  },
+  {
+   "term": "een meer energie",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Authentieke Himalaya Hars met Ayurvedische Traditie",
+     "url": "https://exampledir.com/listing/authentieke-himalaya-hars-met-ayurvedische-traditie-313928"
+    },
+    {
+     "name": "Premium Himalaya Hars voor een Bewuste Wellnessroutine",
+     "url": "https://huludirectory.com/listing/premium-himalaya-hars-voor-een-bewuste-wellnessroutine-2261288"
+    }
+   ]
+  },
+  {
+   "term": "isolation packer market",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Zonal Isolation Packers Market Dynamics Shaping Well Complet",
+     "url": "https://aweblist.org/listing/zonal-isolation-packers-market-dynamics-shaping-well-completion-strategies-972931"
+    },
+    {
+     "name": "Zonal Isolation Packers Market Forecast: Emerging Technologi",
+     "url": "https://huludirectory.com/listing/zonal-isolation-packers-market-forecast-emerging-technologies-and-industry-growth-prospects-2261272"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "royal imperial jammu",
+   "count": 3,
+   "sources": 3,
+   "ratio": 73.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Private Group Stay Near Jammu with Modern Comforts",
+     "url": "https://exampledir.com/listing/private-group-stay-near-jammu-with-modern-comforts-313924"
+    },
+    {
+     "name": "Family and Friends Group Stay Near Jammu at Stay Royal",
+     "url": "https://huludirectory.com/listing/family-and-friends-group-stay-near-jammu-at-stay-royal-2261283"
+    },
+    {
+     "name": "Book a Spacious Group Stay Near Jammu for Your Next Trip",
+     "url": "https://directory6.org/listing/book-a-spacious-group-stay-near-jammu-for-your-next-trip-721758"
+    }
+   ]
+  },
+  {
+   "term": "importer distributor oem",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Top Brass Bolts Exporter er to poland",
+     "url": "https://huludirectory.com/listing/top-brass-bolts-exporter-er-to-poland-2261250"
+    },
+    {
+     "name": "Top Brass Bolts Exporter to poland",
+     "url": "https://directory6.org/listing/top-brass-bolts-exporter-to-poland-721724"
+    }
+   ]
+  },
+  {
+   "term": "attractive shop sign",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Reception signs Brisbane",
+     "url": "https://aweblist.org/listing/reception-signs-brisbane-972941"
+    },
+    {
+     "name": "Shop signs Brisbane",
+     "url": "https://exampledir.com/listing/shop-signs-brisbane-313925"
+    }
+   ]
+  },
+  {
+   "term": "chemistry material science",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod",
+     "url": "https://marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model"
+    },
+    {
+     "name": "Hydrogen-1.0",
+     "url": "https://huggingface.co/deep-principle/Hydrogen-1.0"
+    }
+   ]
+  },
+  {
+   "term": "herbal shilajit hars",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Authentieke Himalaya Hars met Ayurvedische Traditie",
+     "url": "https://exampledir.com/listing/authentieke-himalaya-hars-met-ayurvedische-traditie-313928"
+    },
+    {
+     "name": "Premium Himalaya Hars voor een Bewuste Wellnessroutine",
+     "url": "https://huludirectory.com/listing/premium-himalaya-hars-voor-een-bewuste-wellnessroutine-2261288"
+    }
+   ]
+  },
+  {
+   "term": "pool structure manufacturer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Tensile Swimming Pool Structure Manufacturer in Delhi N",
+     "url": "https://aweblist.org/listing/best-tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-972933"
+    },
+    {
+     "name": "Tensile Swimming Pool Structure Manufacturer in Delhi NCR",
+     "url": "https://directory6.org/listing/tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-721739"
+    }
+   ]
+  },
+  {
+   "term": "seo friendly content",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Digital Marketing Content Creation Services | VSS Digital",
+     "url": "https://directory6.org/listing/digital-marketing-content-creation-services-vss-digital-721751"
+    },
+    {
+     "name": "kholaseo: Free AI-powered SEO tool by Kholaseh Agency",
+     "url": "https://awesomeindie.com/product/kholaseo"
+    }
+   ]
+  },
+  {
+   "term": "wire fill chart",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "WireFillChart",
+     "url": "https://webrankdirectory.org/listing/wirefillchart"
+    },
+    {
+     "name": "Wire Fill Chart And Conduit Fill Calculator",
+     "url": "https://develif.com/s/wire-fill-chart-and-conduit-fill-calculator"
+    }
+   ]
+  },
+  {
+   "term": "zonal isolation packer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 48.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Zonal Isolation Packers Market Dynamics Shaping Well Complet",
+     "url": "https://aweblist.org/listing/zonal-isolation-packers-market-dynamics-shaping-well-completion-strategies-972931"
+    },
+    {
+     "name": "Zonal Isolation Packers Market Forecast: Emerging Technologi",
+     "url": "https://huludirectory.com/listing/zonal-isolation-packers-market-forecast-emerging-technologies-and-industry-growth-prospects-2261272"
+    }
+   ]
+  },
+  {
+   "term": "ai scientist",
+   "count": 3,
+   "sources": 2,
+   "ratio": 73.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "ToolUniverse recorded a GitHub repository push",
+     "url": "https://agentsearchengine.app/agents/tooluniverse"
+    },
+    {
+     "name": "Deep Principle",
+     "url": "https://deepprinciple.com/index.html"
+    },
+    {
+     "name": "Mira",
+     "url": "https://agentmira.io/"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "group stay near",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Book a Spacious Group Stay Near Jammu for Your Next Trip",
+     "url": "https://directory6.org/listing/book-a-spacious-group-stay-near-jammu-for-your-next-trip-721758"
+    },
+    {
+     "name": "Family and Friends Group Stay Near Jammu at Stay Royal",
+     "url": "https://huludirectory.com/listing/family-and-friends-group-stay-near-jammu-at-stay-royal-2261283"
+    },
+    {
+     "name": "Private Group Stay Near Jammu with Modern Comforts",
+     "url": "https://exampledir.com/listing/private-group-stay-near-jammu-with-modern-comforts-313924"
+    }
+   ]
+  },
+  {
+   "term": "signco qld deliver",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Reception signs Brisbane",
+     "url": "https://aweblist.org/listing/reception-signs-brisbane-972941"
+    },
+    {
+     "name": "Shop signs Brisbane",
+     "url": "https://exampledir.com/listing/shop-signs-brisbane-313925"
+    },
+    {
+     "name": "Wall graphics Brisbane",
+     "url": "https://huludirectory.com/listing/wall-graphics-brisbane-2261278"
+    }
+   ]
+  },
+  {
+   "term": "material science",
+   "size": 5,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "9th Global Summit on Material Science and Engineering",
+     "url": "https://a2place.com/listing/9th-global-summit-on-material-science-and-engineering-718674"
+    },
+    {
+     "name": "Deep Principle",
+     "url": "https://deepprinciple.com/index.html"
+    },
+    {
+     "name": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod",
+     "url": "https://marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model"
+    },
+    {
+     "name": "Hydrogen-1.0",
+     "url": "https://huggingface.co/deep-principle/Hydrogen-1.0"
+    }
+   ]
+  },
+  {
+   "term": "packer household shifting",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Bike and Car Moving Solutions Across India",
+     "url": "https://a2place.com/listing/bike-and-car-moving-solutions-across-india-718669"
+    },
+    {
+     "name": "Relocation Support from Pickup to Delivery",
+     "url": "https://aweblist.org/listing/relocation-support-from-pickup-to-delivery-972951"
+    },
+    {
+     "name": "Secure Furniture Packing and Household Goods Transportation",
+     "url": "https://a2place.com/listing/secure-furniture-packing-and-household-goods-transportation-718668"
+    },
+    {
+     "name": "Trusted Goods Shifting Services",
+     "url": "https://a2place.com/listing/trusted-goods-shifting-services-718670"
+    }
+   ]
+  },
+  {
+   "term": "ai scientist",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Deep Principle",
+     "url": "https://deepprinciple.com/index.html"
+    },
+    {
+     "name": "Mira",
+     "url": "https://agentmira.io/"
+    },
+    {
+     "name": "ToolUniverse recorded a GitHub repository push",
+     "url": "https://agentsearchengine.app/agents/tooluniverse"
+    }
+   ]
+  },
+  {
+   "term": "les information",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Checklist pour comparer un casino en ligne",
+     "url": "https://betrivers-casino.us.com/fr"
+    },
+    {
+     "name": "Checklist pour comparer une plateforme de jeu",
+     "url": "https://22bet-canada.us.com/fr"
+    },
+    {
+     "name": "RITUALIS.MG",
+     "url": "https://ritualis.mg/"
+    }
+   ]
+  },
+  {
+   "term": "shop sign",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Laser Engraving & Shop Signs | Northampton",
+     "url": "https://huludirectory.com/listing/laser-engraving-and-shop-signs-northampton-2261247"
+    },
+    {
+     "name": "Reception signs Brisbane",
+     "url": "https://aweblist.org/listing/reception-signs-brisbane-972941"
+    },
+    {
+     "name": "Shop signs Brisbane",
+     "url": "https://exampledir.com/listing/shop-signs-brisbane-313925"
+    }
+   ]
+  },
+  {
+   "term": "bazi chart",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "BaZi Web",
+     "url": "https://bazi-web.com/"
+    },
+    {
+     "name": "Destiny Book: Get your Chinese BaZi chart calculated by fixe",
+     "url": "https://saasolution.io/tool/destiny-book"
+    },
+    {
+     "name": "Know Yourself: Read your BaZi chart or ask the I Ching one q",
+     "url": "https://saasolution.io/tool/know-yourself"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「group stay near」今日 3 个产品/3 个目录：Private Group Stay Near Jammu with Modern Comforts、Family and Friends Group Stay Near Jammu at Stay Royal",
+  "小词「signco qld deliver」今日 3 个产品/3 个目录：Reception signs Brisbane、Shop signs Brisbane",
+  "小词「github repository」今日 14 个产品/3 个目录：zeroshot recorded a GitHub repository push、ContextForge (IBM MCP Context Forge) recorded a GitHub repos",
+  "同日小簇「group stay near」3 个相似产品：Book a Spacious Group Stay Near Jammu for Your Next Trip、Family and Friends Group Stay Near Jammu at Stay Royal、Private Group Stay Near Jammu with Modern Comforts",
+  "同日小簇「signco qld deliver」3 个相似产品：Reception signs Brisbane、Shop signs Brisbane、Wall graphics Brisbane",
+  "跨目录同时出现：blog.google（4 个目录）",
+  "跨目录同时出现：flipclock.info（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-03.md",
+ "niche_groups": "- AI 趋势内容生成：ai trend club —— 将单张照片转化为热门 AI 视频的内容创作工具\n- GitHub 仓库监控：github repository —— 记录和分析 GitHub 仓库推送及上下文数据的开发工具\n- 材料科学大模型：material science、chemistry material science —— 发布用于材料科学研究的开源大模型及行业峰会\n- B2B 工业品出口：distributor oem buyer、importer distributor oem、isolation packer market —— 面向波兰等市场的黄铜螺栓出口及油井隔离包装器市场分析\n- 本地化生活服务：group stay near、royal imperial jammu、packer household shifting、durable swimming pool、pool structure manufacturer —— 提供查穆克地区团体住宿、家庭搬迁及张力泳池结构制造服务\n- 区域品牌与营销：signco qld deliver、attractive shop sign、emirati arabic text、transactional email campaign、agency partner interactive、freelance job board —— 涵盖布里斯班招牌制作、阿联酋阿拉伯语语音合成、事务性邮件营销及 Web3 自由职业招聘"
+}

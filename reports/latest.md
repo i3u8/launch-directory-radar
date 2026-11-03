@@ -1,28 +1,27 @@
-# 每日目录雷达 2026-11-02
+# 每日目录雷达 2026-11-03
 
-- 监控目录 197 / 筛查目录 478；今日成功 182，失败 15；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, madewithstack-com, foundr-ai, startfa-st, aiagentautomation-site, aiimagetools-io, apprater-net, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
-- 今日新增条目 **1516**（去重后 1398）；7 天基线 9385，30 天基线 17661
-- 语料 19928 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.32，30天 0.29
+- 监控目录 197 / 筛查目录 478；今日成功 178，失败 19；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, madewithstack-com, promoteindex-com, foundr-ai, startfa-st, aiagentautomation-site, aiimagetools-io, apprater-net, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
+- 今日新增条目 **1626**（去重后 1528）；7 天基线 9178，30 天基线 18687
+- 语料 21208 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.31，30天 0.29
 
 ## 微赛道归纳（LLM）
 
-- 成人陪侍服务：dream call girl、rishikesh call girl —— 提供特定地区（如Rishikesh）的线下陪侍与约会服务
-- AI内容自然化：ai humanizer rewrite —— 利用AI技术将文本改写为更自然、非机器生成的风格
-- 电商社交营销：aware social publishing —— 为电商品牌提供基于产品认知的社交媒体内容发布工具
-- 本地生活租赁：bike rental option、dau rental enjoy —— 提供城市间的自行车租赁与本地出行服务
-- AI视频特效生成：chipmunk dance ai、dance outfit change、outfit change duet —— 将静态照片转化为舞蹈、换装或双人互动的短视频特效
-- 垂直领域工具：official bully contract、chrome extension downloader、dedicated server vps、domain search king、dot grid isometric、parametric 3d cad —— 涵盖加密合约检测、浏览器插件下载、服务器托管、域名查询、网格纸生成及参数化3D建模等细分工具
+- AI 趋势内容生成：ai trend club —— 将单张照片转化为热门 AI 视频的内容创作工具
+- GitHub 仓库监控：github repository —— 记录和分析 GitHub 仓库推送及上下文数据的开发工具
+- 材料科学大模型：material science、chemistry material science —— 发布用于材料科学研究的开源大模型及行业峰会
+- B2B 工业品出口：distributor oem buyer、importer distributor oem、isolation packer market —— 面向波兰等市场的黄铜螺栓出口及油井隔离包装器市场分析
+- 本地化生活服务：group stay near、royal imperial jammu、packer household shifting、durable swimming pool、pool structure manufacturer —— 提供查穆克地区团体住宿、家庭搬迁及张力泳池结构制造服务
+- 区域品牌与营销：signco qld deliver、attractive shop sign、emirati arabic text、transactional email campaign、agency partner interactive、freelance job board —— 涵盖布里斯班招牌制作、阿联酋阿拉伯语语音合成、事务性邮件营销及 Web3 自由职业招聘
 
 ## 信号 Signals
 
-- 小词「dream call girl」今日 4 个产品/3 个目录：Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i、High Profile Rishikesh Escorts Service | Rishikesh Call Girl
-- 小词「official bully contract」今日 2 个产品/2 个目录：BULLY Crypto Agent: Robinhood Chain Contract Checker、BULLY Crypto Agent
-- 小词「ai humanizer rewrite」今日 2 个产品/3 个目录：Humanize Ink、Humanize Ink Free AI humanizer: rewrite drafts in Natural, P
-- 同日小簇「dream call girl」4 个相似产品：Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i、High Profile Rishikesh Escorts Service | Rishikesh Call Girl、Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E
-- 同日小簇「abandoned place」3 个相似产品：Urbexology、Urbexology A map for researching abandoned places 💬 0 Commen、Urbexology Map Of Historic And Abandoned Places
-- 我们的站点上线：aithrillerdance.com @ canopystack.dev
-- 跨目录同时出现：agenlify.ai（3 个目录）
-- 跨目录同时出现：airapvideospot.com（3 个目录）
+- 小词「group stay near」今日 3 个产品/3 个目录：Private Group Stay Near Jammu with Modern Comforts、Family and Friends Group Stay Near Jammu at Stay Royal
+- 小词「signco qld deliver」今日 3 个产品/3 个目录：Reception signs Brisbane、Shop signs Brisbane
+- 小词「github repository」今日 14 个产品/3 个目录：zeroshot recorded a GitHub repository push、ContextForge (IBM MCP Context Forge) recorded a GitHub repos
+- 同日小簇「group stay near」3 个相似产品：Book a Spacious Group Stay Near Jammu for Your Next Trip、Family and Friends Group Stay Near Jammu at Stay Royal、Private Group Stay Near Jammu with Modern Comforts
+- 同日小簇「signco qld deliver」3 个相似产品：Reception signs Brisbane、Shop signs Brisbane、Wall graphics Brisbane
+- 跨目录同时出现：blog.google（4 个目录）
+- 跨目录同时出现：flipclock.info（4 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -30,75 +29,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **dream call girl** | 4 | 3 | 🆕 | [Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i](https://exampledir.com/listing/best-rishikesh-escorts-escorts-in-rishikesh-call-girls-in-rishikesh-313833)；[High Profile Rishikesh Escorts Service | Rishikesh Call Girl](https://huludirectory.com/listing/high-profile-rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-2261126)；[Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E](https://aweblist.org/listing/rishikesh-call-girls-rishikesh-escorts-girls-rishikesh-escorts-972633) |
-| 2 | **official bully contract** | 2 | 2 | 🆕 | [BULLY Crypto Agent: Robinhood Chain Contract Checker](https://dealmyapp.com/listings/bully-crypto-agent-robinhood-chain-contract-checker)；[BULLY Crypto Agent](https://abullycoin.com/crypto-agent) |
-| 3 | **ai humanizer rewrite** | 2 | 3 | 🆕 | [Humanize Ink](https://humanizeink.com/)；[Humanize Ink Free AI humanizer: rewrite drafts in Natural, P](https://thehackstack.com/s/humanizeink-2) |
-| 4 | **air con promotion** | 2 | 2 | 🆕 | [Midea air con promotion](https://huludirectory.com/listing/midea-air-con-promotion-2261137)；[Mitsubishi air con promotion](https://exampledir.com/listing/mitsubishi-air-con-promotion-313837) |
-| 5 | **aware social publishing** | 2 | 2 | 🆕 | [Creavily](https://azn8.com/listing/creavily)；[Creavily Product-aware social publishing for ecommerce brand](https://thehackstack.com/s/creavily) |
-| 6 | **bike rental option** | 2 | 3 | 🆕 | [Rent A Bike In Haridwar Easily - Dau Rental](https://aweblist.org/listing/rent-a-bike-in-haridwar-easily--dau-rental-972636)；[Best Bike On Rent In Indore For Easy Travel - Dau Rental](https://aweblist.org/listing/best-bike-on-rent-in-indore-for-easy-travel--dau-rental-972618) |
-| 7 | **chipmunk dance ai** | 2 | 5 | 🆕 | [Chipmunks Dance AI](https://whatareyoubuilding.ai/product/gUPwyNzKtO7AeRcehqYV)；[Chipmunks Dance AI Silent 15s trio dance from three adult ph](https://thehackstack.com/s/memeremake-2) |
-| 8 | **chrome extension downloader** | 2 | 2 | 🆕 | [Chrome Extension Downloader — score 25/100 (other)](https://nothumansearch.ai/site/extensiondownloader.com)；[Chrome Extension Downloader](https://navs.site/website/chrome-extension-downloader) |
-| 9 | **conveniently located near** | 2 | 2 | 🆕 | [Fins Bar & Rooftop – Nashville Rooftop Bar & Dining Experien](https://aweblist.org/listing/fins-bar-and-rooftop-–-nashville-rooftop-bar-and-dining-experience-972608)；[Sigma Pilates](https://huludirectory.com/listing/sigma-pilates-2261131) |
-| 10 | **customer engagement financial** | 2 | 2 | 🆕 | [Application Security Market Challenges](https://aweblist.org/listing/application-security-market-challenges-972609)；[Application Security Market Threats](https://huludirectory.com/listing/application-security-market-threats-2261114) |
-| 11 | **dance outfit change** | 2 | 3 | 🆕 | [ReelBoop](https://reelboop.com/)；[ReelBoop Turn photos into dance, outfit-change, duet and pro](https://thehackstack.com/s/reelboop-2) |
-| 12 | **dau rental enjoy** | 2 | 3 | 🆕 | [Rent A Bike In Haridwar Easily - Dau Rental](https://aweblist.org/listing/rent-a-bike-in-haridwar-easily--dau-rental-972636)；[Affordable Bike On Rent In Jaisalmer - Dau Rental](https://aweblist.org/listing/affordable-bike-on-rent-in-jaisalmer--dau-rental-972646) |
-| 13 | **dedicated server vps** | 2 | 2 | 🆕 | [Q-DC](https://q-dc.net/)；[Q Dc Dedicated Servers Vps And Web Hosting](https://develif.com/s/q-dc-dedicated-servers-vps-and-web-hosting) |
-| 14 | **domain search king** | 2 | 2 | 🆕 | [Domain Search King](https://sideprojects.net/projects/domain-search-king)；[Domain Search King Find available .com domain names, checked](https://thehackstack.com/s/domainsearchking) |
-| 15 | **dot grid isometric** | 2 | 4 | 🆕 | [TrueGrid Graph Paper - Free Printable Graph Paper PDFs](https://aweblist.org/listing/truegrid-graph-paper--free-printable-graph-paper-pdfs-972634)；[Graph Paper Generator](https://10015.io/tools/graph-paper-generator) |
+| 1 | **group stay near** | 3 | 3 | 🆕 | [Private Group Stay Near Jammu with Modern Comforts](https://exampledir.com/listing/private-group-stay-near-jammu-with-modern-comforts-313924)；[Family and Friends Group Stay Near Jammu at Stay Royal](https://huludirectory.com/listing/family-and-friends-group-stay-near-jammu-at-stay-royal-2261283)；[Book a Spacious Group Stay Near Jammu for Your Next Trip](https://directory6.org/listing/book-a-spacious-group-stay-near-jammu-for-your-next-trip-721758) |
+| 2 | **signco qld deliver** | 3 | 3 | 🆕 | [Reception signs Brisbane](https://aweblist.org/listing/reception-signs-brisbane-972941)；[Shop signs Brisbane](https://exampledir.com/listing/shop-signs-brisbane-313925)；[Wall graphics Brisbane](https://huludirectory.com/listing/wall-graphics-brisbane-2261278) |
+| 3 | **github repository** | 14 | 3 | 114.2x | [zeroshot recorded a GitHub repository push](https://agentsearchengine.app/agents/zeroshot)；[ContextForge (IBM MCP Context Forge) recorded a GitHub repos](https://agentsearchengine.app/agents/contextforge)；[Kubernetes MCP Server (containers) recorded a GitHub reposit](https://agentsearchengine.app/agents/kubernetes-mcp-server) |
+| 4 | **material science** | 5 | 3 | 🆕 | [Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod](https://marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model)；[9th Global Summit on Material Science and Engineering](https://a2place.com/listing/9th-global-summit-on-material-science-and-engineering-718674)；[Deep Principle](https://deepprinciple.com/index.html) |
+| 5 | **distributor oem buyer** | 2 | 2 | 🆕 | [Top Brass Bolts Exporter er to poland](https://huludirectory.com/listing/top-brass-bolts-exporter-er-to-poland-2261250)；[Top Brass Bolts Exporter to poland](https://directory6.org/listing/top-brass-bolts-exporter-to-poland-721724) |
+| 6 | **emirati arabic text** | 2 | 2 | 🆕 | [Emirati Arabic Text to Speech | Ramsa Speech AI — score 45/1](https://nothumansearch.ai/site/ramsaspeech.ai)；[Ramsa Speech](https://ramsaspeech.ai/) |
+| 7 | **freelance job board** | 2 | 4 | 🆕 | [chainjobs](https://chainjobs.app/)；[Chainjobs Web3 And Freelance Job Board](https://develif.com/s/chainjobs-web3-and-freelance-job-board) |
+| 8 | **transactional email campaign** | 2 | 2 | 🆕 | [Unitpost](https://whatareyoubuilding.ai/product/7udRRBApLQg4ag6YBBv9)；[Volanea — Transactional Email & Campaigns on Amazon SES — sc](https://nothumansearch.ai/site/volanea.com) |
+| 9 | **packer household shifting** | 4 | 2 | 32.6x | [Relocation Support from Pickup to Delivery](https://aweblist.org/listing/relocation-support-from-pickup-to-delivery-972951)；[Trusted Goods Shifting Services](https://a2place.com/listing/trusted-goods-shifting-services-718670)；[Bike and Car Moving Solutions Across India](https://a2place.com/listing/bike-and-car-moving-solutions-across-india-718669) |
+| 10 | **agency partner interactive** | 2 | 2 | 🆕 | [Agency Partner Interactive](https://www.clapstorm.com/p/agency-partner-interactive)；[Agency Partner Interactive Building Powerful Ecommerce Store](https://thehackstack.com/s/agencypartner) |
+| 11 | **ai trend club** | 2 | 2 | 🆕 | [AI Trend Club](https://aitrendclub.com/)；[AI Trend Club Turn one photo into trending AI videos. 💬 0 Co](https://thehackstack.com/s/aitrendclub) |
+| 12 | **conduit fill calculator** | 2 | 2 | 🆕 | [WireFillChart](https://webrankdirectory.org/listing/wirefillchart)；[Wire Fill Chart And Conduit Fill Calculator](https://develif.com/s/wire-fill-chart-and-conduit-fill-calculator) |
+| 13 | **durable swimming pool** | 2 | 2 | 🆕 | [Best Tensile Swimming Pool Structure Manufacturer in Delhi N](https://aweblist.org/listing/best-tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-972933)；[Tensile Swimming Pool Structure Manufacturer in Delhi NCR](https://directory6.org/listing/tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-721739) |
+| 14 | **een meer energie** | 2 | 2 | 🆕 | [Authentieke Himalaya Hars met Ayurvedische Traditie](https://exampledir.com/listing/authentieke-himalaya-hars-met-ayurvedische-traditie-313928)；[Premium Himalaya Hars voor een Bewuste Wellnessroutine](https://huludirectory.com/listing/premium-himalaya-hars-voor-een-bewuste-wellnessroutine-2261288) |
+| 15 | **isolation packer market** | 2 | 2 | 🆕 | [Zonal Isolation Packers Market Dynamics Shaping Well Complet](https://aweblist.org/listing/zonal-isolation-packers-market-dynamics-shaping-well-completion-strategies-972931)；[Zonal Isolation Packers Market Forecast: Emerging Technologi](https://huludirectory.com/listing/zonal-isolation-packers-market-forecast-emerging-technologies-and-industry-growth-prospects-2261272) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **rishikesh call girl** × 4（3 个目录）：[Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i](https://exampledir.com/listing/best-rishikesh-escorts-escorts-in-rishikesh-call-girls-in-rishikesh-313833)；[High Profile Rishikesh Escorts Service | Rishikesh Call Girl](https://huludirectory.com/listing/high-profile-rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-2261126)；[Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E](https://aweblist.org/listing/rishikesh-call-girls-rishikesh-escorts-girls-rishikesh-escorts-972633)
-- **data management however** × 2（2 个目录）：[Application Security Market Challenges](https://aweblist.org/listing/application-security-market-challenges-972609)；[Application Security Market Threats](https://huludirectory.com/listing/application-security-market-threats-2261114)
-- **mind smoke shop** × 2（2 个目录）：[Vape Stores Near Me](https://aweblist.org/listing/vape-stores-near-me-972610)；[Smoke Shop Near Me](https://huludirectory.com/listing/smoke-shop-near-me-2261115)
-- **mobile access account** × 2（2 个目录）：[Gold365 App – Mobile Access, Account Features, and Support](https://directory6.org/listing/gold365-app-–-mobile-access-account-features-and-support-721437)；[Gold365 Green – Gold365 App and Online Platform Features](https://aweblist.org/listing/gold365-green-–-gold365-app-and-online-platform-features-972623)
-- **outfit change duet** × 2（3 个目录）：[ReelBoop](https://reelboop.com/)；[ReelBoop Turn photos into dance, outfit-change, duet and pro](https://thehackstack.com/s/reelboop-2)
-- **parametric 3d cad** × 2（2 个目录）：[SolidCraft CAD](https://solidcraftcad.com/)；[SolidCraft Parametric 3D CAD in your browser — plus PartBatc](https://thehackstack.com/s/solidcraft)
-- **peptide dosage calculator** × 2（2 个目录）：[Peptide Dosage Calculator](https://webrankdirectory.org/listing/peptide-dosage-calculator)；[Peptide Dosage Calculator Free Online Tool](https://develif.com/s/peptide-dosage-calculator-free-online-tool)
-- **radiant optimizer game** × 2（2 个目录）：[Radiant Optimizer Games](https://azn8.com/listing/radiant-optimizer-games)；[Radiant Optimizer Games A Free Guide To Browser Games And Se](https://develif.com/s/radiant-optimizer-games-a-free-guide-to-browser-games-and-setup-notes)
-- **social media account** × 2（2 个目录）：[Xinghaopu - Social Media Account Store](https://a2place.com/listing/xinghaopu--social-media-account-store-718651)；[Xinghaopu Social Media Accounts And Digital Goods](https://develif.com/s/xinghaopu-social-media-accounts-and-digital-goods)
-- **spotify apple music** × 2（2 个目录）：[SongFlip: Zero-click music link redirects across streaming a](https://awesomeindie.com/product/song-flip)；[Trackmatch](https://trackmatch.co/)
+- **royal imperial jammu** × 3（3 个目录）：[Private Group Stay Near Jammu with Modern Comforts](https://exampledir.com/listing/private-group-stay-near-jammu-with-modern-comforts-313924)；[Family and Friends Group Stay Near Jammu at Stay Royal](https://huludirectory.com/listing/family-and-friends-group-stay-near-jammu-at-stay-royal-2261283)；[Book a Spacious Group Stay Near Jammu for Your Next Trip](https://directory6.org/listing/book-a-spacious-group-stay-near-jammu-for-your-next-trip-721758)
+- **importer distributor oem** × 2（2 个目录）：[Top Brass Bolts Exporter er to poland](https://huludirectory.com/listing/top-brass-bolts-exporter-er-to-poland-2261250)；[Top Brass Bolts Exporter to poland](https://directory6.org/listing/top-brass-bolts-exporter-to-poland-721724)
+- **attractive shop sign** × 2（2 个目录）：[Reception signs Brisbane](https://aweblist.org/listing/reception-signs-brisbane-972941)；[Shop signs Brisbane](https://exampledir.com/listing/shop-signs-brisbane-313925)
+- **chemistry material science** × 2（2 个目录）：[Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod](https://marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model)；[Hydrogen-1.0](https://huggingface.co/deep-principle/Hydrogen-1.0)
+- **herbal shilajit hars** × 2（2 个目录）：[Authentieke Himalaya Hars met Ayurvedische Traditie](https://exampledir.com/listing/authentieke-himalaya-hars-met-ayurvedische-traditie-313928)；[Premium Himalaya Hars voor een Bewuste Wellnessroutine](https://huludirectory.com/listing/premium-himalaya-hars-voor-een-bewuste-wellnessroutine-2261288)
+- **pool structure manufacturer** × 2（2 个目录）：[Best Tensile Swimming Pool Structure Manufacturer in Delhi N](https://aweblist.org/listing/best-tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-972933)；[Tensile Swimming Pool Structure Manufacturer in Delhi NCR](https://directory6.org/listing/tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-721739)
+- **seo friendly content** × 2（2 个目录）：[Digital Marketing Content Creation Services | VSS Digital](https://directory6.org/listing/digital-marketing-content-creation-services-vss-digital-721751)；[kholaseo: Free AI-powered SEO tool by Kholaseh Agency](https://awesomeindie.com/product/kholaseo)
+- **wire fill chart** × 2（2 个目录）：[WireFillChart](https://webrankdirectory.org/listing/wirefillchart)；[Wire Fill Chart And Conduit Fill Calculator](https://develif.com/s/wire-fill-chart-and-conduit-fill-calculator)
+- **zonal isolation packer** × 2（2 个目录）：[Zonal Isolation Packers Market Dynamics Shaping Well Complet](https://aweblist.org/listing/zonal-isolation-packers-market-dynamics-shaping-well-completion-strategies-972931)；[Zonal Isolation Packers Market Forecast: Emerging Technologi](https://huludirectory.com/listing/zonal-isolation-packers-market-forecast-emerging-technologies-and-industry-growth-prospects-2261272)
+- **ai scientist** × 3（2 个目录）：[ToolUniverse recorded a GitHub repository push](https://agentsearchengine.app/agents/tooluniverse)；[Deep Principle](https://deepprinciple.com/index.html)；[Mira](https://agentmira.io/)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **dream call girl** × 4（3 个目录）：[Best Rishikesh Escorts | Escorts in Rishikesh | Call Girls i](https://exampledir.com/listing/best-rishikesh-escorts-escorts-in-rishikesh-call-girls-in-rishikesh-313833)；[High Profile Rishikesh Escorts Service | Rishikesh Call Girl](https://huludirectory.com/listing/high-profile-rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-2261126)；[Rishikesh Call Girls | Rishikesh Escorts Girls | Rishikesh E](https://aweblist.org/listing/rishikesh-call-girls-rishikesh-escorts-girls-rishikesh-escorts-972633)；[Rishikesh Escorts Service | Rishikesh Call Girls | Escorts i](https://aweblist.org/listing/rishikesh-escorts-service-rishikesh-call-girls-escorts-in-rishikesh-972640)
-- **abandoned place** × 3（4 个目录）：[Urbexology](https://urbexology.com/)；[Urbexology A map for researching abandoned places 💬 0 Commen](https://thehackstack.com/s/urbexology)；[Urbexology Map Of Historic And Abandoned Places](https://develif.com/s/urbexology-map-of-historic-and-abandoned-places)
-- **cash aint** × 3（3 个目录）：[Cash Aint One](https://azn8.com/listing/cash-aint-one)；[Cash Aint One Know If Today Made Money](https://develif.com/s/cash-aint-one-know-if-today-made-money)；[Cash Aint One Know if today made money 💬 0 Comments](https://thehackstack.com/s/cashaintone)
-- **exchange tutorial** × 3（2 个目录）：[Ubneo Exchange Tutorials And Transfer Safety](https://develif.com/s/ubneo-exchange-tutorials-and-transfer-safety)；[UKNEO](https://ukneo.com/)；[vsvar](https://vsvar.com/)
-- **naif gravity** × 3（3 个目录）：[NAIF Gravity](https://naifgravity.com/)；[Naif Gravity Developer Tools](https://develif.com/s/naif-gravity-developer-tools)；[Naif Gravity Sos](https://agents-launch.lovable.app/agents/naif-gravity-sos)
-- **radiant optimizer** × 3（3 个目录）：[Radiant Optimizer](https://radiantoptimizer.live/)；[Radiant Optimizer Games](https://azn8.com/listing/radiant-optimizer-games)；[Radiant Optimizer Games A Free Guide To Browser Games And Se](https://develif.com/s/radiant-optimizer-games-a-free-guide-to-browser-games-and-setup-notes)
-- **social publishing** × 3（3 个目录）：[Creavily](https://azn8.com/listing/creavily)；[Creavily Product-aware social publishing for ecommerce brand](https://thehackstack.com/s/creavily)；[Creavily Social Publishing For Ecommerce Brands](https://develif.com/s/creavily-social-publishing-for-ecommerce-brands)
-- **trading cost** × 3（2 个目录）：[Ieneo Exchange Guides And Trading Costs](https://develif.com/s/ieneo-exchange-guides-and-trading-costs)；[Stocknas Stock Tokens And Trading Costs](https://develif.com/s/stocknas-stock-tokens-and-trading-costs)；[vsvar](https://vsvar.com/)
+- **group stay near** × 3（3 个目录）：[Book a Spacious Group Stay Near Jammu for Your Next Trip](https://directory6.org/listing/book-a-spacious-group-stay-near-jammu-for-your-next-trip-721758)；[Family and Friends Group Stay Near Jammu at Stay Royal](https://huludirectory.com/listing/family-and-friends-group-stay-near-jammu-at-stay-royal-2261283)；[Private Group Stay Near Jammu with Modern Comforts](https://exampledir.com/listing/private-group-stay-near-jammu-with-modern-comforts-313924)
+- **signco qld deliver** × 3（3 个目录）：[Reception signs Brisbane](https://aweblist.org/listing/reception-signs-brisbane-972941)；[Shop signs Brisbane](https://exampledir.com/listing/shop-signs-brisbane-313925)；[Wall graphics Brisbane](https://huludirectory.com/listing/wall-graphics-brisbane-2261278)
+- **material science** × 5（3 个目录）：[9th Global Summit on Material Science and Engineering](https://a2place.com/listing/9th-global-summit-on-material-science-and-engineering-718674)；[Deep Principle](https://deepprinciple.com/index.html)；[Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod](https://marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model)；[Hydrogen-1.0](https://huggingface.co/deep-principle/Hydrogen-1.0)
+- **packer household shifting** × 4（2 个目录）：[Bike and Car Moving Solutions Across India](https://a2place.com/listing/bike-and-car-moving-solutions-across-india-718669)；[Relocation Support from Pickup to Delivery](https://aweblist.org/listing/relocation-support-from-pickup-to-delivery-972951)；[Secure Furniture Packing and Household Goods Transportation](https://a2place.com/listing/secure-furniture-packing-and-household-goods-transportation-718668)；[Trusted Goods Shifting Services](https://a2place.com/listing/trusted-goods-shifting-services-718670)
+- **ai scientist** × 3（2 个目录）：[Deep Principle](https://deepprinciple.com/index.html)；[Mira](https://agentmira.io/)；[ToolUniverse recorded a GitHub repository push](https://agentsearchengine.app/agents/tooluniverse)
+- **les information** × 3（2 个目录）：[Checklist pour comparer un casino en ligne](https://betrivers-casino.us.com/fr)；[Checklist pour comparer une plateforme de jeu](https://22bet-canada.us.com/fr)；[RITUALIS.MG](https://ritualis.mg/)
+- **shop sign** × 3（3 个目录）：[Laser Engraving & Shop Signs | Northampton](https://huludirectory.com/listing/laser-engraving-and-shop-signs-northampton-2261247)；[Reception signs Brisbane](https://aweblist.org/listing/reception-signs-brisbane-972941)；[Shop signs Brisbane](https://exampledir.com/listing/shop-signs-brisbane-313925)
+- **bazi chart** × 3（3 个目录）：[BaZi Web](https://bazi-web.com/)；[Destiny Book: Get your Chinese BaZi chart calculated by fixe](https://saasolution.io/tool/destiny-book)；[Know Yourself: Read your BaZi chart or ask the I Ching one q](https://saasolution.io/tool/know-yourself)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| canopystack.dev | 134 | Other(91)、SaaS(30)、Dev tool(8) |
-| listedstartups.com | 100 | Developer Tools, Industrial, SaaS(26)、Energy, Hardware, Climate Tech(2)、AI, Cloud Infrastructure, Developer Tools(2) |
-| thataicollection.com | 95 | application(95) |
-| develif.com | 91 | s(87) |
-| hyzenpro.com | 81 | AI Video Tools(17)、AI General Tools(16)、AI Image Tools(9) |
+| canopystack.dev | 122 | Other(77)、SaaS(32)、Dev tool(8) |
+| listedstartups.com | 100 | Developer Tools, Industrial, SaaS(10)、Education(2)、AI, AI Infrastructure, Machine Learning, Developer Tools(2) |
+| launchfree.io | 92 | listings(89) |
+| corpus.blog | 81 | sites(81) |
+| thataicollection.com | 79 | application(78) |
+| develif.com | 67 | s(62) |
+| thehackstack.com | 51 |  |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
 | exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
-| thehackstack.com | 50 |  |
-| zearches.com | 50 |  |
-| planet-ai.net | 49 | ContentCategory.RESEARCH(36)、ContentCategory.TUTORIAL(7)、ContentCategory.NEWS(6) |
+| planet-ai.net | 50 | ContentCategory.NEWS(35)、ContentCategory.RESEARCH(6)、ContentCategory.ENGINEERING(4) |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- agenlify.ai（Agenlify）：canopystack.dev, listedstartups.com, startup88.com
-- airapvideospot.com（AI Rap Video Spot）：canopystack.dev, launch.ignlab.net, worthtotry.com
-- britishaccent.pro（British Accent Generator）：launch.ignlab.net, listedstartups.com, zearches.com
-- ciphercove.com（Cipher Cove）：canopystack.dev, launch.ignlab.net, zearches.com
-- deskwink.com（DeskWink）：hyzenpro.com, launch.ignlab.net, zearches.com
-- flipclock.info（FlipClock）：canopystack.dev, listedstartups.com, zearches.com
-- flow-music.org（Flow Music）：canopystack.dev, listedstartups.com, zearches.com
-- flowaivideo.net（Flow AI Video）：canopystack.dev, listedstartups.com, zearches.com
-- fondoblanco.org（Fondo Blanco）：canopystack.dev, hyzenpro.com, listedstartups.com
-- getgangly.com（Gangly）：canopystack.dev, hyzenpro.com, listedstartups.com
+- blog.google（Google EmbeddingGemma 2）：aitoolly.com, bestaitools.com, planet-ai.net, thequestion.it
+- flipclock.info（FlipClock）：canopystack.dev, launch.ignlab.net, listedstartups.com, zearches.com
+- aihealthexport.com（AI Health Export）：launch.ignlab.net, listedstartups.com, zearches.com
+- bazi-web.com（BaZi Web）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- cascadology.com（Cascadology）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- ceofans.com（CEOFans）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- codexreset.co（Codex Reset）：hyzenpro.com, launch.ignlab.net, zearches.com
+- facetry.beauty（Facetry）：canopystack.dev, hyzenpro.com, worthtotry.com
+- foodallergycard.org（FoodAllergyCard）：canopystack.dev, launch.ignlab.net, zearches.com
+- hellomona.app（HelloMona）：hyzenpro.com, launch.ignlab.net, zearches.com
 
 ## 我们的站点已被目录公开展示
 
@@ -113,20 +112,24 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 9 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 9 天）
-- sitelike-org: RuntimeError: http 403（连续 9 天）
-- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 4 天）
-- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 2 天）
-- ailibri-com: ConnectionError: HTTPSConnectionPool(host='ailibri.com', port=443): Max retries exceeded with url: /rss (Caused by NewConnectionError("HTTPSConnection(host='ailibri.com', port=443): Failed to establis（连续 2 天）
-- foundr-ai: RuntimeError: http 403（连续 9 天）
-- startfa-st: RuntimeError: http 403（连续 9 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 9 天）
-- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 3 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 9 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f27dc2d79（连续 6 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 9 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 9 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 9 天）
+- canadawebdir-com: RuntimeError: http 403（连续 10 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 10 天）
+- sitelike-org: RuntimeError: http 403（连续 10 天）
+- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 5 天）
+- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 3 天）
+- bestaitools-com: RuntimeError: http 403（连续 1 天）
+- foundr-ai: RuntimeError: http 403（连续 10 天）
+- startfa-st: RuntimeError: http 403（连续 10 天）
+- startups-snapmunk-com: RuntimeError: http 403（连续 1 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 10 天）
+- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 4 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 10 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7fe44c6676（连续 7 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 10 天）
+- openfuture-ai: RuntimeError: sitemap http 403（连续 1 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 10 天）
+- saasworthy-com: RuntimeError: sitemap http 403（连续 1 天）
+- softwareworld-co: RuntimeError: sitemap http 403（连续 1 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 10 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar
