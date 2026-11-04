@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-03** · 新增 1626 · 监控 197 个目录（今日成功 178）
+**2026-11-04** · 新增 1453 · 监控 197 个目录（今日成功 183）
 
 聚焦小词 Top 15:
 
-- `group stay near` ×3（3 目录） 🆕：Private Group Stay Near Jammu with Modern Comforts；Family and Friends Group Stay Near Jammu at Stay Royal
-- `signco qld deliver` ×3（3 目录） 🆕：Reception signs Brisbane；Shop signs Brisbane
-- `github repository` ×14（3 目录）：zeroshot recorded a GitHub repository push；ContextForge (IBM MCP Context Forge) recorded a GitHub repos
-- `material science` ×5（3 目录） 🆕：Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod；9th Global Summit on Material Science and Engineering
-- `distributor oem buyer` ×2（2 目录） 🆕：Top Brass Bolts Exporter er to poland；Top Brass Bolts Exporter to poland
-- `emirati arabic text` ×2（2 目录） 🆕：Emirati Arabic Text to Speech | Ramsa Speech AI — score 45/1；Ramsa Speech
-- `freelance job board` ×2（4 目录） 🆕：chainjobs；Chainjobs Web3 And Freelance Job Board
-- `transactional email campaign` ×2（2 目录） 🆕：Unitpost；Volanea — Transactional Email & Campaigns on Amazon SES — sc
-- `packer household shifting` ×4（2 目录）：Relocation Support from Pickup to Delivery；Trusted Goods Shifting Services
-- `agency partner interactive` ×2（2 目录） 🆕：Agency Partner Interactive；Agency Partner Interactive Building Powerful Ecommerce Store
-- `ai trend club` ×2（2 目录） 🆕：AI Trend Club；AI Trend Club Turn one photo into trending AI videos. 💬 0 Co
-- `conduit fill calculator` ×2（2 目录） 🆕：WireFillChart；Wire Fill Chart And Conduit Fill Calculator
-- `durable swimming pool` ×2（2 目录） 🆕：Best Tensile Swimming Pool Structure Manufacturer in Delhi N；Tensile Swimming Pool Structure Manufacturer in Delhi NCR
-- `een meer energie` ×2（2 目录） 🆕：Authentieke Himalaya Hars met Ayurvedische Traditie；Premium Himalaya Hars voor een Bewuste Wellnessroutine
-- `isolation packer market` ×2（2 目录） 🆕：Zonal Isolation Packers Market Dynamics Shaping Well Complet；Zonal Isolation Packers Market Forecast: Emerging Technologi
+- `legal guidance` ×4（2 目录） 🆕：Child Custody Lawyers in Bengaluru – Get Family Legal Suppor；Criminal Lawyers in Bengaluru – Explore Legal Representation
+- `digital wedding invitation` ×2（2 目录） 🆕：MatriTotal - Digital Wedding Invitations；MatriTotal
+- `email security monitoring` ×2（2 目录） 🆕：InboxGuards；Email Security Monitoring For Microsoft 365
+- `ransomware victim tracker` ×2（5 目录） 🆕：Dragons Eye；Ransomware Victim Tracker And Public Feeds
+- `short form content` ×2（2 目录） 🆕：Swayno；swayno | AI Content Creation & Social Media Scheduling — sco
+- `texa electricity plan` ×2（2 目录） 🆕：Power Hopper；Power Hopper Texas Electricity Plan Comparison
+- `ajrakh bandhani saree` ×2（2 目录） 🆕：Celebrate in an Ajrakh Bandhani Saree from | Vibha；Explore Ajrakh Bandhani Sarees for Festive Style | Vibha
+- `bring launchpad back` ×2（2 目录） 🆕：LaunchHome；LaunchHome Bring Launchpad back to your Mac 💬 0 Comments
+- `color season ai` ×2（2 目录） 🆕：Color Season AI: Find your colour season from a daylight sel；Color Season AI
+- `fix everyday file` ×2（2 目录） 🆕：fixmint；Browser Tools That Fix Everyday File And Text Chores
+- `industrial wear part` ×2（2 目录） 🆕：JGN Industrial Wear Parts & Cutting Tools；Jgn Industrial Wear Parts And Cutting Tools
+- `mep inspection dubai` ×2（2 目录） 🆕：MEP Inspection Dubai: Plumbing and Drainage System Assessmen；MEP Inspection Dubai: Villa Snagging and Technical System Re
+- `short trip choose` ×2（2 目录） 🆕：Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta；Scooty on Rent in Amritsar for Comfortable and Independent T
+- `square footage calculator` ×2（2 目录） 🆕：Square Footage Calculator；Free Square Footage Calculator Online
+- `trade show booth` ×2（2 目录） 🆕：Add Energy with an Interactive Trade Show Booth for Sports L；Quality Trade Show Booth Fabrication for Sports Licensing an
 
 微赛道归纳:
 
-- AI 趋势内容生成：ai trend club —— 将单张照片转化为热门 AI 视频的内容创作工具
-- GitHub 仓库监控：github repository —— 记录和分析 GitHub 仓库推送及上下文数据的开发工具
-- 材料科学大模型：material science、chemistry material science —— 发布用于材料科学研究的开源大模型及行业峰会
-- B2B 工业品出口：distributor oem buyer、importer distributor oem、isolation packer market —— 面向波兰等市场的黄铜螺栓出口及油井隔离包装器市场分析
-- 本地化生活服务：group stay near、royal imperial jammu、packer household shifting、durable swimming pool、pool structure manufacturer —— 提供查穆克地区团体住宿、家庭搬迁及张力泳池结构制造服务
-- 区域品牌与营销：signco qld deliver、attractive shop sign、emirati arabic text、transactional email campaign、agency partner interactive、freelance job board —— 涵盖布里斯班招牌制作、阿联酋阿拉伯语语音合成、事务性邮件营销及 Web3 自由职业招聘
+- 法律信息服务：legal guidance、legal hunt —— 提供特定地区（如班加罗尔）的律师搜索与法律支持服务
+- 数字婚礼与社交内容：digital wedding invitation、short form content、fancy cafe —— 提供数字婚礼邀请函及AI驱动的短视频/社交媒体内容创作工具
+- 网络安全与威胁追踪：email security monitoring、ransomware victim tracker —— 提供邮件安全监控及勒索软件受害者数据追踪服务
+- 工业与建筑专业服务：industrial wear part、jgn industrial wear、mep inspection dubai —— 提供工业耐磨件/刀具供应及迪拜MEP系统检查服务
+- 生活工具与本地出行：fix everyday file、square footage calculator、short trip choose、traveller looking、bring launchpad back —— 提供文件修复、面积计算、本地短途租车/电动车租赁及Mac应用恢复等实用工具
+- 垂直领域查询与定制：texa electricity plan、color season ai、spotify track、ajrakh bandhani saree、bandhani ajrakh saree、trade show booth —— 涵盖德州电力计划对比、AI色彩季型分析、音乐ISRC查询、特定风格纱丽展示及展会摊位制作等细分需求
 
-完整报告: [reports/2026-11-03.md](reports/2026-11-03.md)
+完整报告: [reports/2026-11-04.md](reports/2026-11-04.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

@@ -1,27 +1,27 @@
-# 每日目录雷达 2026-11-03
+# 每日目录雷达 2026-11-04
 
-- 监控目录 197 / 筛查目录 478；今日成功 178，失败 19；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, madewithstack-com, promoteindex-com, foundr-ai, startfa-st, aiagentautomation-site, aiimagetools-io, apprater-net, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
-- 今日新增条目 **1626**（去重后 1528）；7 天基线 9178，30 天基线 18687
-- 语料 21208 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.31，30天 0.29
+- 监控目录 197 / 筛查目录 478；今日成功 183，失败 14；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, madewithstack-com, promoteindex-com, foundr-ai, aiagentautomation-site, aiimagetools-io, apprater-net, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
+- 今日新增条目 **1453**（去重后 1325）；7 天基线 9260，30 天基线 19919
+- 语料 22323 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.31，30天 0.29
 
 ## 微赛道归纳（LLM）
 
-- AI 趋势内容生成：ai trend club —— 将单张照片转化为热门 AI 视频的内容创作工具
-- GitHub 仓库监控：github repository —— 记录和分析 GitHub 仓库推送及上下文数据的开发工具
-- 材料科学大模型：material science、chemistry material science —— 发布用于材料科学研究的开源大模型及行业峰会
-- B2B 工业品出口：distributor oem buyer、importer distributor oem、isolation packer market —— 面向波兰等市场的黄铜螺栓出口及油井隔离包装器市场分析
-- 本地化生活服务：group stay near、royal imperial jammu、packer household shifting、durable swimming pool、pool structure manufacturer —— 提供查穆克地区团体住宿、家庭搬迁及张力泳池结构制造服务
-- 区域品牌与营销：signco qld deliver、attractive shop sign、emirati arabic text、transactional email campaign、agency partner interactive、freelance job board —— 涵盖布里斯班招牌制作、阿联酋阿拉伯语语音合成、事务性邮件营销及 Web3 自由职业招聘
+- 法律信息服务：legal guidance、legal hunt —— 提供特定地区（如班加罗尔）的律师搜索与法律支持服务
+- 数字婚礼与社交内容：digital wedding invitation、short form content、fancy cafe —— 提供数字婚礼邀请函及AI驱动的短视频/社交媒体内容创作工具
+- 网络安全与威胁追踪：email security monitoring、ransomware victim tracker —— 提供邮件安全监控及勒索软件受害者数据追踪服务
+- 工业与建筑专业服务：industrial wear part、jgn industrial wear、mep inspection dubai —— 提供工业耐磨件/刀具供应及迪拜MEP系统检查服务
+- 生活工具与本地出行：fix everyday file、square footage calculator、short trip choose、traveller looking、bring launchpad back —— 提供文件修复、面积计算、本地短途租车/电动车租赁及Mac应用恢复等实用工具
+- 垂直领域查询与定制：texa electricity plan、color season ai、spotify track、ajrakh bandhani saree、bandhani ajrakh saree、trade show booth —— 涵盖德州电力计划对比、AI色彩季型分析、音乐ISRC查询、特定风格纱丽展示及展会摊位制作等细分需求
 
 ## 信号 Signals
 
-- 小词「group stay near」今日 3 个产品/3 个目录：Private Group Stay Near Jammu with Modern Comforts、Family and Friends Group Stay Near Jammu at Stay Royal
-- 小词「signco qld deliver」今日 3 个产品/3 个目录：Reception signs Brisbane、Shop signs Brisbane
-- 小词「github repository」今日 14 个产品/3 个目录：zeroshot recorded a GitHub repository push、ContextForge (IBM MCP Context Forge) recorded a GitHub repos
-- 同日小簇「group stay near」3 个相似产品：Book a Spacious Group Stay Near Jammu for Your Next Trip、Family and Friends Group Stay Near Jammu at Stay Royal、Private Group Stay Near Jammu with Modern Comforts
-- 同日小簇「signco qld deliver」3 个相似产品：Reception signs Brisbane、Shop signs Brisbane、Wall graphics Brisbane
-- 跨目录同时出现：blog.google（4 个目录）
-- 跨目录同时出现：flipclock.info（4 个目录）
+- 小词「legal guidance」今日 4 个产品/2 个目录：Child Custody Lawyers in Bengaluru – Get Family Legal Suppor、Criminal Lawyers in Bengaluru – Explore Legal Representation
+- 小词「digital wedding invitation」今日 2 个产品/2 个目录：MatriTotal - Digital Wedding Invitations、MatriTotal
+- 小词「email security monitoring」今日 2 个产品/2 个目录：InboxGuards、Email Security Monitoring For Microsoft 365
+- 同日小簇「legal guidance」4 个相似产品：Child Custody Lawyers in Bengaluru – Get Family Legal Suppor、Criminal Lawyers in Bengaluru – Explore Legal Representation、Divorce Lawyers in Bengaluru – Get Family Law Guidance from 
+- 同日小簇「fancy cafe」3 个相似产品：Fancy Cafe AI、Fancy Cafe POV、First Time In A Fancy Cafe
+- 跨目录同时出现：aihealthexport.com（4 个目录）
+- 跨目录同时出现：kavel.ai（4 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -29,75 +29,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **group stay near** | 3 | 3 | 🆕 | [Private Group Stay Near Jammu with Modern Comforts](https://exampledir.com/listing/private-group-stay-near-jammu-with-modern-comforts-313924)；[Family and Friends Group Stay Near Jammu at Stay Royal](https://huludirectory.com/listing/family-and-friends-group-stay-near-jammu-at-stay-royal-2261283)；[Book a Spacious Group Stay Near Jammu for Your Next Trip](https://directory6.org/listing/book-a-spacious-group-stay-near-jammu-for-your-next-trip-721758) |
-| 2 | **signco qld deliver** | 3 | 3 | 🆕 | [Reception signs Brisbane](https://aweblist.org/listing/reception-signs-brisbane-972941)；[Shop signs Brisbane](https://exampledir.com/listing/shop-signs-brisbane-313925)；[Wall graphics Brisbane](https://huludirectory.com/listing/wall-graphics-brisbane-2261278) |
-| 3 | **github repository** | 14 | 3 | 114.2x | [zeroshot recorded a GitHub repository push](https://agentsearchengine.app/agents/zeroshot)；[ContextForge (IBM MCP Context Forge) recorded a GitHub repos](https://agentsearchengine.app/agents/contextforge)；[Kubernetes MCP Server (containers) recorded a GitHub reposit](https://agentsearchengine.app/agents/kubernetes-mcp-server) |
-| 4 | **material science** | 5 | 3 | 🆕 | [Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod](https://marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model)；[9th Global Summit on Material Science and Engineering](https://a2place.com/listing/9th-global-summit-on-material-science-and-engineering-718674)；[Deep Principle](https://deepprinciple.com/index.html) |
-| 5 | **distributor oem buyer** | 2 | 2 | 🆕 | [Top Brass Bolts Exporter er to poland](https://huludirectory.com/listing/top-brass-bolts-exporter-er-to-poland-2261250)；[Top Brass Bolts Exporter to poland](https://directory6.org/listing/top-brass-bolts-exporter-to-poland-721724) |
-| 6 | **emirati arabic text** | 2 | 2 | 🆕 | [Emirati Arabic Text to Speech | Ramsa Speech AI — score 45/1](https://nothumansearch.ai/site/ramsaspeech.ai)；[Ramsa Speech](https://ramsaspeech.ai/) |
-| 7 | **freelance job board** | 2 | 4 | 🆕 | [chainjobs](https://chainjobs.app/)；[Chainjobs Web3 And Freelance Job Board](https://develif.com/s/chainjobs-web3-and-freelance-job-board) |
-| 8 | **transactional email campaign** | 2 | 2 | 🆕 | [Unitpost](https://whatareyoubuilding.ai/product/7udRRBApLQg4ag6YBBv9)；[Volanea — Transactional Email & Campaigns on Amazon SES — sc](https://nothumansearch.ai/site/volanea.com) |
-| 9 | **packer household shifting** | 4 | 2 | 32.6x | [Relocation Support from Pickup to Delivery](https://aweblist.org/listing/relocation-support-from-pickup-to-delivery-972951)；[Trusted Goods Shifting Services](https://a2place.com/listing/trusted-goods-shifting-services-718670)；[Bike and Car Moving Solutions Across India](https://a2place.com/listing/bike-and-car-moving-solutions-across-india-718669) |
-| 10 | **agency partner interactive** | 2 | 2 | 🆕 | [Agency Partner Interactive](https://www.clapstorm.com/p/agency-partner-interactive)；[Agency Partner Interactive Building Powerful Ecommerce Store](https://thehackstack.com/s/agencypartner) |
-| 11 | **ai trend club** | 2 | 2 | 🆕 | [AI Trend Club](https://aitrendclub.com/)；[AI Trend Club Turn one photo into trending AI videos. 💬 0 Co](https://thehackstack.com/s/aitrendclub) |
-| 12 | **conduit fill calculator** | 2 | 2 | 🆕 | [WireFillChart](https://webrankdirectory.org/listing/wirefillchart)；[Wire Fill Chart And Conduit Fill Calculator](https://develif.com/s/wire-fill-chart-and-conduit-fill-calculator) |
-| 13 | **durable swimming pool** | 2 | 2 | 🆕 | [Best Tensile Swimming Pool Structure Manufacturer in Delhi N](https://aweblist.org/listing/best-tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-972933)；[Tensile Swimming Pool Structure Manufacturer in Delhi NCR](https://directory6.org/listing/tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-721739) |
-| 14 | **een meer energie** | 2 | 2 | 🆕 | [Authentieke Himalaya Hars met Ayurvedische Traditie](https://exampledir.com/listing/authentieke-himalaya-hars-met-ayurvedische-traditie-313928)；[Premium Himalaya Hars voor een Bewuste Wellnessroutine](https://huludirectory.com/listing/premium-himalaya-hars-voor-een-bewuste-wellnessroutine-2261288) |
-| 15 | **isolation packer market** | 2 | 2 | 🆕 | [Zonal Isolation Packers Market Dynamics Shaping Well Complet](https://aweblist.org/listing/zonal-isolation-packers-market-dynamics-shaping-well-completion-strategies-972931)；[Zonal Isolation Packers Market Forecast: Emerging Technologi](https://huludirectory.com/listing/zonal-isolation-packers-market-forecast-emerging-technologies-and-industry-growth-prospects-2261272) |
+| 1 | **legal guidance** | 4 | 2 | 🆕 | [Child Custody Lawyers in Bengaluru – Get Family Legal Suppor](https://aweblist.org/listing/child-custody-lawyers-in-bengaluru-–-get-family-legal-support-from-legal-hunt-973196)；[Criminal Lawyers in Bengaluru – Explore Legal Representation](https://directory6.org/listing/criminal-lawyers-in-bengaluru-–-explore-legal-representation-with-legal-hunt-721946)；[Divorce Lawyers in Bengaluru – Get Family Law Guidance from ](https://directory6.org/listing/divorce-lawyers-in-bengaluru-–-get-family-law-guidance-from-legal-hunt-721947) |
+| 2 | **digital wedding invitation** | 2 | 2 | 🆕 | [MatriTotal - Digital Wedding Invitations](https://dealmyapp.com/listings/matritotal-digital-wedding-invitations)；[MatriTotal](https://matritotal.com/) |
+| 3 | **email security monitoring** | 2 | 2 | 🆕 | [InboxGuards](https://inboxguards.com/)；[Email Security Monitoring For Microsoft 365](https://develif.com/s/email-security-monitoring-for-microsoft-365) |
+| 4 | **ransomware victim tracker** | 2 | 5 | 🆕 | [Dragons Eye](https://ransomware-tracker.com/)；[Ransomware Victim Tracker And Public Feeds](https://develif.com/s/ransomware-victim-tracker-and-public-feeds) |
+| 5 | **short form content** | 2 | 2 | 🆕 | [Swayno](https://postlaunchkit.com/directory/swayno)；[swayno | AI Content Creation & Social Media Scheduling — sco](https://nothumansearch.ai/site/swayno.com) |
+| 6 | **texa electricity plan** | 2 | 2 | 🆕 | [Power Hopper](https://powerhopper.energy/)；[Power Hopper Texas Electricity Plan Comparison](https://yo.directory/tool/power-hopper-texas-electricity-plan-comparison) |
+| 7 | **ajrakh bandhani saree** | 2 | 2 | 🆕 | [Celebrate in an Ajrakh Bandhani Saree from | Vibha](https://huludirectory.com/listing/celebrate-in-an-ajrakh-bandhani-saree-from-vibha-2261408)；[Explore Ajrakh Bandhani Sarees for Festive Style | Vibha](https://directory6.org/listing/explore-ajrakh-bandhani-sarees-for-festive-style-vibha-721950) |
+| 8 | **bring launchpad back** | 2 | 2 | 🆕 | [LaunchHome](https://launchhome.app/)；[LaunchHome Bring Launchpad back to your Mac 💬 0 Comments](https://thehackstack.com/s/launchhome) |
+| 9 | **color season ai** | 2 | 2 | 🆕 | [Color Season AI: Find your colour season from a daylight sel](https://saasolution.io/tool/color-season-ai)；[Color Season AI](https://colorseasonai.com/) |
+| 10 | **fix everyday file** | 2 | 2 | 🆕 | [fixmint](https://fixmint.cc/)；[Browser Tools That Fix Everyday File And Text Chores](https://develif.com/s/browser-tools-that-fix-everyday-file-and-text-chores) |
+| 11 | **industrial wear part** | 2 | 2 | 🆕 | [JGN Industrial Wear Parts & Cutting Tools](https://webrankdirectory.org/listing/jgn-industrial-wear-parts-cutting-tools)；[Jgn Industrial Wear Parts And Cutting Tools](https://develif.com/s/jgn-industrial-wear-parts-and-cutting-tools) |
+| 12 | **mep inspection dubai** | 2 | 2 | 🆕 | [MEP Inspection Dubai: Plumbing and Drainage System Assessmen](https://huludirectory.com/listing/mep-inspection-dubai-plumbing-and-drainage-system-assessment-2261387)；[MEP Inspection Dubai: Villa Snagging and Technical System Re](https://exampledir.com/listing/mep-inspection-dubai-villa-snagging-and-technical-system-review-314009) |
+| 13 | **short trip choose** | 2 | 2 | 🆕 | [Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta](https://exampledir.com/listing/activa-on-rent-in-ayodhya-for-comfortable-travel--dau-rental-314003)；[Scooty on Rent in Amritsar for Comfortable and Independent T](https://exampledir.com/listing/scooty-on-rent-in-amritsar-for-comfortable-and-independent-travel--dau-rental-313994) |
+| 14 | **square footage calculator** | 2 | 2 | 🆕 | [Square Footage Calculator](https://squarefootagecalculator.co/)；[Free Square Footage Calculator Online](https://develif.com/s/free-square-footage-calculator-online) |
+| 15 | **trade show booth** | 2 | 2 | 🆕 | [Add Energy with an Interactive Trade Show Booth for Sports L](https://directory6.org/listing/add-energy-with-an-interactive-trade-show-booth-for-sports-licensing-and-tailgate-show-2027-721952)；[Quality Trade Show Booth Fabrication for Sports Licensing an](https://huludirectory.com/listing/quality-trade-show-booth-fabrication-for-sports-licensing-and-tailgate-show-2027-2261404) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **royal imperial jammu** × 3（3 个目录）：[Private Group Stay Near Jammu with Modern Comforts](https://exampledir.com/listing/private-group-stay-near-jammu-with-modern-comforts-313924)；[Family and Friends Group Stay Near Jammu at Stay Royal](https://huludirectory.com/listing/family-and-friends-group-stay-near-jammu-at-stay-royal-2261283)；[Book a Spacious Group Stay Near Jammu for Your Next Trip](https://directory6.org/listing/book-a-spacious-group-stay-near-jammu-for-your-next-trip-721758)
-- **importer distributor oem** × 2（2 个目录）：[Top Brass Bolts Exporter er to poland](https://huludirectory.com/listing/top-brass-bolts-exporter-er-to-poland-2261250)；[Top Brass Bolts Exporter to poland](https://directory6.org/listing/top-brass-bolts-exporter-to-poland-721724)
-- **attractive shop sign** × 2（2 个目录）：[Reception signs Brisbane](https://aweblist.org/listing/reception-signs-brisbane-972941)；[Shop signs Brisbane](https://exampledir.com/listing/shop-signs-brisbane-313925)
-- **chemistry material science** × 2（2 个目录）：[Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod](https://marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model)；[Hydrogen-1.0](https://huggingface.co/deep-principle/Hydrogen-1.0)
-- **herbal shilajit hars** × 2（2 个目录）：[Authentieke Himalaya Hars met Ayurvedische Traditie](https://exampledir.com/listing/authentieke-himalaya-hars-met-ayurvedische-traditie-313928)；[Premium Himalaya Hars voor een Bewuste Wellnessroutine](https://huludirectory.com/listing/premium-himalaya-hars-voor-een-bewuste-wellnessroutine-2261288)
-- **pool structure manufacturer** × 2（2 个目录）：[Best Tensile Swimming Pool Structure Manufacturer in Delhi N](https://aweblist.org/listing/best-tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-972933)；[Tensile Swimming Pool Structure Manufacturer in Delhi NCR](https://directory6.org/listing/tensile-swimming-pool-structure-manufacturer-in-delhi-ncr-721739)
-- **seo friendly content** × 2（2 个目录）：[Digital Marketing Content Creation Services | VSS Digital](https://directory6.org/listing/digital-marketing-content-creation-services-vss-digital-721751)；[kholaseo: Free AI-powered SEO tool by Kholaseh Agency](https://awesomeindie.com/product/kholaseo)
-- **wire fill chart** × 2（2 个目录）：[WireFillChart](https://webrankdirectory.org/listing/wirefillchart)；[Wire Fill Chart And Conduit Fill Calculator](https://develif.com/s/wire-fill-chart-and-conduit-fill-calculator)
-- **zonal isolation packer** × 2（2 个目录）：[Zonal Isolation Packers Market Dynamics Shaping Well Complet](https://aweblist.org/listing/zonal-isolation-packers-market-dynamics-shaping-well-completion-strategies-972931)；[Zonal Isolation Packers Market Forecast: Emerging Technologi](https://huludirectory.com/listing/zonal-isolation-packers-market-forecast-emerging-technologies-and-industry-growth-prospects-2261272)
-- **ai scientist** × 3（2 个目录）：[ToolUniverse recorded a GitHub repository push](https://agentsearchengine.app/agents/tooluniverse)；[Deep Principle](https://deepprinciple.com/index.html)；[Mira](https://agentmira.io/)
+- **legal hunt** × 4（2 个目录）：[Child Custody Lawyers in Bengaluru – Get Family Legal Suppor](https://aweblist.org/listing/child-custody-lawyers-in-bengaluru-–-get-family-legal-support-from-legal-hunt-973196)；[Criminal Lawyers in Bengaluru – Explore Legal Representation](https://directory6.org/listing/criminal-lawyers-in-bengaluru-–-explore-legal-representation-with-legal-hunt-721946)；[Divorce Lawyers in Bengaluru – Get Family Law Guidance from ](https://directory6.org/listing/divorce-lawyers-in-bengaluru-–-get-family-law-guidance-from-legal-hunt-721947)
+- **bandhani ajrakh saree** × 2（2 个目录）：[Celebrate in an Ajrakh Bandhani Saree from | Vibha](https://huludirectory.com/listing/celebrate-in-an-ajrakh-bandhani-saree-from-vibha-2261408)；[Explore Ajrakh Bandhani Sarees for Festive Style | Vibha](https://directory6.org/listing/explore-ajrakh-bandhani-sarees-for-festive-style-vibha-721950)
+- **jgn industrial wear** × 2（2 个目录）：[JGN Industrial Wear Parts & Cutting Tools](https://webrankdirectory.org/listing/jgn-industrial-wear-parts-cutting-tools)；[Jgn Industrial Wear Parts And Cutting Tools](https://develif.com/s/jgn-industrial-wear-parts-and-cutting-tools)
+- **fancy cafe** × 3（4 个目录）：[Fancy Cafe POV](https://postlaunchkit.com/directory/fancy-cafe-pov)；[Fancy Cafe AI](https://firsttimeinafancycafe.net/)；[First Time In A Fancy Cafe](https://develif.com/s/first-time-in-a-fancy-cafe)
+- **spotify track** × 3（2 个目录）：[ISRC Finder: Find the ISRC code of a song from its title or ](https://saasolution.io/tool/isrc-finder)；[MusicAlc](https://musicalc.com/)；[Spotdown](https://spotdd.net/)
+- **traveller looking** × 3（2 个目录）：[Rent Bike in Chandigarh for Local Sightseeing - Dau Rental](https://exampledir.com/listing/rent-bike-in-chandigarh-for-local-sightseeing--dau-rental-313991)；[Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta](https://exampledir.com/listing/activa-on-rent-in-ayodhya-for-comfortable-travel--dau-rental-314003)；[Scooty on Rent in Amritsar for Comfortable and Independent T](https://exampledir.com/listing/scooty-on-rent-in-amritsar-for-comfortable-and-independent-travel--dau-rental-313994)
+- **50+ country** × 2（2 个目录）：[Radarkit](https://postlaunchkit.com/directory/radarkit)；[AI Search Tracking Tool: ChatGPT, Google AI Overview, Gemini](https://nothumansearch.ai/site/radarkit.ai)
+- **availability alert** × 2（2 个目录）：[60secmonitor](https://azn8.com/listing/60secmonitor)；[Frequent Website Availability Alerts](https://develif.com/s/frequent-website-availability-alerts)
+- **digital wedding** × 2（2 个目录）：[MatriTotal - Digital Wedding Invitations](https://dealmyapp.com/listings/matritotal-digital-wedding-invitations)；[MatriTotal](https://matritotal.com/)
+- **electricity plan** × 2（2 个目录）：[Power Hopper](https://powerhopper.energy/)；[Power Hopper Texas Electricity Plan Comparison](https://yo.directory/tool/power-hopper-texas-electricity-plan-comparison)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **group stay near** × 3（3 个目录）：[Book a Spacious Group Stay Near Jammu for Your Next Trip](https://directory6.org/listing/book-a-spacious-group-stay-near-jammu-for-your-next-trip-721758)；[Family and Friends Group Stay Near Jammu at Stay Royal](https://huludirectory.com/listing/family-and-friends-group-stay-near-jammu-at-stay-royal-2261283)；[Private Group Stay Near Jammu with Modern Comforts](https://exampledir.com/listing/private-group-stay-near-jammu-with-modern-comforts-313924)
-- **signco qld deliver** × 3（3 个目录）：[Reception signs Brisbane](https://aweblist.org/listing/reception-signs-brisbane-972941)；[Shop signs Brisbane](https://exampledir.com/listing/shop-signs-brisbane-313925)；[Wall graphics Brisbane](https://huludirectory.com/listing/wall-graphics-brisbane-2261278)
-- **material science** × 5（3 个目录）：[9th Global Summit on Material Science and Engineering](https://a2place.com/listing/9th-global-summit-on-material-science-and-engineering-718674)；[Deep Principle](https://deepprinciple.com/index.html)；[Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Mod](https://marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model)；[Hydrogen-1.0](https://huggingface.co/deep-principle/Hydrogen-1.0)
-- **packer household shifting** × 4（2 个目录）：[Bike and Car Moving Solutions Across India](https://a2place.com/listing/bike-and-car-moving-solutions-across-india-718669)；[Relocation Support from Pickup to Delivery](https://aweblist.org/listing/relocation-support-from-pickup-to-delivery-972951)；[Secure Furniture Packing and Household Goods Transportation](https://a2place.com/listing/secure-furniture-packing-and-household-goods-transportation-718668)；[Trusted Goods Shifting Services](https://a2place.com/listing/trusted-goods-shifting-services-718670)
-- **ai scientist** × 3（2 个目录）：[Deep Principle](https://deepprinciple.com/index.html)；[Mira](https://agentmira.io/)；[ToolUniverse recorded a GitHub repository push](https://agentsearchengine.app/agents/tooluniverse)
-- **les information** × 3（2 个目录）：[Checklist pour comparer un casino en ligne](https://betrivers-casino.us.com/fr)；[Checklist pour comparer une plateforme de jeu](https://22bet-canada.us.com/fr)；[RITUALIS.MG](https://ritualis.mg/)
-- **shop sign** × 3（3 个目录）：[Laser Engraving & Shop Signs | Northampton](https://huludirectory.com/listing/laser-engraving-and-shop-signs-northampton-2261247)；[Reception signs Brisbane](https://aweblist.org/listing/reception-signs-brisbane-972941)；[Shop signs Brisbane](https://exampledir.com/listing/shop-signs-brisbane-313925)
-- **bazi chart** × 3（3 个目录）：[BaZi Web](https://bazi-web.com/)；[Destiny Book: Get your Chinese BaZi chart calculated by fixe](https://saasolution.io/tool/destiny-book)；[Know Yourself: Read your BaZi chart or ask the I Ching one q](https://saasolution.io/tool/know-yourself)
+- **legal guidance** × 4（2 个目录）：[Child Custody Lawyers in Bengaluru – Get Family Legal Suppor](https://aweblist.org/listing/child-custody-lawyers-in-bengaluru-–-get-family-legal-support-from-legal-hunt-973196)；[Criminal Lawyers in Bengaluru – Explore Legal Representation](https://directory6.org/listing/criminal-lawyers-in-bengaluru-–-explore-legal-representation-with-legal-hunt-721946)；[Divorce Lawyers in Bengaluru – Get Family Law Guidance from ](https://directory6.org/listing/divorce-lawyers-in-bengaluru-–-get-family-law-guidance-from-legal-hunt-721947)；[Looking for an Advocate in Bengaluru? Connect with Legal Hun](https://aweblist.org/listing/looking-for-an-advocate-in-bengaluru-connect-with-legal-hunt-today-973194)
+- **fancy cafe** × 3（4 个目录）：[Fancy Cafe AI](https://firsttimeinafancycafe.net/)；[Fancy Cafe POV](https://fancycafepov.com/)；[First Time In A Fancy Cafe](https://develif.com/s/first-time-in-a-fancy-cafe)
+- **spotify track** × 3（2 个目录）：[ISRC Finder: Find the ISRC code of a song from its title or ](https://saasolution.io/tool/isrc-finder)；[MusicAlc](https://musicalc.com/)；[Spotdown](https://spotdd.net/)
+- **traveller looking** × 3（2 个目录）：[Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta](https://exampledir.com/listing/activa-on-rent-in-ayodhya-for-comfortable-travel--dau-rental-314003)；[Rent Bike in Chandigarh for Local Sightseeing - Dau Rental](https://exampledir.com/listing/rent-bike-in-chandigarh-for-local-sightseeing--dau-rental-313991)；[Scooty on Rent in Amritsar for Comfortable and Independent T](https://exampledir.com/listing/scooty-on-rent-in-amritsar-for-comfortable-and-independent-travel--dau-rental-313994)
+- **usa europe australia** × 3（2 个目录）：[Tiles Exporter from India to Canada](https://directory6.org/listing/tiles-exporter-from-india-to-canada-721964)；[Tiles Exporter from India to USA, Europe, Australia & Canada](https://exampledir.com/listing/tiles-exporter-from-india-to-usa-europe-australia-and-canada-italica-tiles-314020)；[Tiles Exporter In morbi | Italica Tiles](https://directory6.org/listing/tiles-exporter-in-morbi-italica-tiles-721972)
+- **email security** × 3（3 个目录）：[Email Security Monitoring For Microsoft 365](https://develif.com/s/email-security-monitoring-for-microsoft-365)；[Inboxguards](https://agents-launch.lovable.app/agents/inboxguards)；[Mail Security Tools](https://agents-launch.lovable.app/agents/mail-security-tools)
+- **wedding invitation** × 3（3 个目录）：[Matritotal](https://www.clapstorm.com/p/matritotal)；[MatriTotal - Digital Wedding Invitations](https://dealmyapp.com/listings/matritotal-digital-wedding-invitations)；[Matritotal Wedding Invitations](https://develif.com/s/matritotal-wedding-invitations)
+- **travel dau rental** × 4（2 个目录）：[Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta](https://exampledir.com/listing/activa-on-rent-in-ayodhya-for-comfortable-travel--dau-rental-314003)；[Bike Rent in Noida for Convenient City Travel - Dau Rental](https://exampledir.com/listing/bike-rent-in-noida-for-convenient-city-travel--dau-rental-314001)；[Scooty on Rent in Amritsar for Comfortable and Independent T](https://exampledir.com/listing/scooty-on-rent-in-amritsar-for-comfortable-and-independent-travel--dau-rental-313994)；[Scooty on Rent in Varanasi for Easy Travel - Dau Rental](https://exampledir.com/listing/scooty-on-rent-in-varanasi-for-easy-travel--dau-rental-313996)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| canopystack.dev | 122 | Other(77)、SaaS(32)、Dev tool(8) |
-| listedstartups.com | 100 | Developer Tools, Industrial, SaaS(10)、Education(2)、AI, AI Infrastructure, Machine Learning, Developer Tools(2) |
-| launchfree.io | 92 | listings(89) |
-| corpus.blog | 81 | sites(81) |
-| thataicollection.com | 79 | application(78) |
-| develif.com | 67 | s(62) |
+| canopystack.dev | 113 | Other(52)、SaaS(43)、Dev tool(3) |
+| listedstartups.com | 100 | Electric Vehicles, Mobility, Hardware(1)、Chemicals, Climate Tech, Personal Care(1)、AI, Marketing, Sales, SaaS(1) |
+| develif.com | 96 | s(91) |
+| thataicollection.com | 80 | application(80) |
+| dynamite-ai.com | 58 | tools(55) |
 | thehackstack.com | 51 |  |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
 | exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
-| planet-ai.net | 50 | ContentCategory.NEWS(35)、ContentCategory.RESEARCH(6)、ContentCategory.ENGINEERING(4) |
+| planet-ai.net | 50 | ContentCategory.RESEARCH(40)、ContentCategory.NEWS(8)、ContentCategory.TUTORIAL(2) |
+| zearches.com | 50 |  |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- blog.google（Google EmbeddingGemma 2）：aitoolly.com, bestaitools.com, planet-ai.net, thequestion.it
-- flipclock.info（FlipClock）：canopystack.dev, launch.ignlab.net, listedstartups.com, zearches.com
-- aihealthexport.com（AI Health Export）：launch.ignlab.net, listedstartups.com, zearches.com
-- bazi-web.com（BaZi Web）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- cascadology.com（Cascadology）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- ceofans.com（CEOFans）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- codexreset.co（Codex Reset）：hyzenpro.com, launch.ignlab.net, zearches.com
-- facetry.beauty（Facetry）：canopystack.dev, hyzenpro.com, worthtotry.com
-- foodallergycard.org（FoodAllergyCard）：canopystack.dev, launch.ignlab.net, zearches.com
-- hellomona.app（HelloMona）：hyzenpro.com, launch.ignlab.net, zearches.com
+- aihealthexport.com（AI Health Export）：canopystack.dev, launch.ignlab.net, listedstartups.com, zearches.com
+- kavel.ai（Kavel）：canopystack.dev, listedstartups.com, webgora.com, worthtotry.com
+- colorseasonai.com（ColorSeason AI）：canopystack.dev, hyzenpro.com, listedstartups.com
+- editableppt.com（EditablePPT）：canopystack.dev, listedstartups.com, zearches.com
+- editimagetextonline.com（Edit Image Text Online）：canopystack.dev, listedstartups.com, worthtotry.com
+- emaki.ai（Emaki）：canopystack.dev, listedstartups.com, worthtotry.com
+- overdrivelab.com（Overdrive Lab）：canopystack.dev, listedstartups.com, zearches.com
+- quicksinq.com（QuickSinq）：canopystack.dev, listedstartups.com, zearches.com
+- ransomware-tracker.com（Dragons Eye）：canopystack.dev, worthtotry.com, zearches.com
+- takedictation.com（Take Dictation）：canopystack.dev, listedstartups.com, zearches.com
 
 ## 我们的站点已被目录公开展示
 
@@ -112,24 +112,19 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 10 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 10 天）
-- sitelike-org: RuntimeError: http 403（连续 10 天）
-- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 5 天）
-- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 3 天）
-- bestaitools-com: RuntimeError: http 403（连续 1 天）
-- foundr-ai: RuntimeError: http 403（连续 10 天）
-- startfa-st: RuntimeError: http 403（连续 10 天）
-- startups-snapmunk-com: RuntimeError: http 403（连续 1 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 10 天）
-- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 4 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 10 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7fe44c6676（连续 7 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 10 天）
-- openfuture-ai: RuntimeError: sitemap http 403（连续 1 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 10 天）
-- saasworthy-com: RuntimeError: sitemap http 403（连续 1 天）
-- softwareworld-co: RuntimeError: sitemap http 403（连续 1 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 10 天）
+- canadawebdir-com: RuntimeError: http 403（连续 11 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 11 天）
+- sitelike-org: RuntimeError: http 403（连续 11 天）
+- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 6 天）
+- promoteindex-com: ConnectionError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ReadTimeoutError("HTTPSConnectionPool(host='promoteindex.com', port=（连续 4 天）
+- foundr-ai: RuntimeError: http 403（连续 11 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 11 天）
+- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 5 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 11 天）
+- discoverly-tech: RuntimeError: sitemap http 403（连续 1 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f4d145b57（连续 8 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 11 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 11 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 11 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar

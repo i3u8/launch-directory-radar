@@ -1,0 +1,665 @@
+{
+ "date": "2026-11-04",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 183,
+ "sources_failed": 14,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "promoteindex-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "promoteindex-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1453,
+ "new_today_unique": 1325,
+ "ai_share_today": 0.31,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "legal guidance",
+   "count": 4,
+   "sources": 2,
+   "ratio": 120.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Child Custody Lawyers in Bengaluru – Get Family Legal Suppor",
+     "url": "https://aweblist.org/listing/child-custody-lawyers-in-bengaluru-–-get-family-legal-support-from-legal-hunt-973196"
+    },
+    {
+     "name": "Criminal Lawyers in Bengaluru – Explore Legal Representation",
+     "url": "https://directory6.org/listing/criminal-lawyers-in-bengaluru-–-explore-legal-representation-with-legal-hunt-721946"
+    },
+    {
+     "name": "Divorce Lawyers in Bengaluru – Get Family Law Guidance from ",
+     "url": "https://directory6.org/listing/divorce-lawyers-in-bengaluru-–-get-family-law-guidance-from-legal-hunt-721947"
+    }
+   ]
+  },
+  {
+   "term": "digital wedding invitation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "MatriTotal - Digital Wedding Invitations",
+     "url": "https://dealmyapp.com/listings/matritotal-digital-wedding-invitations"
+    },
+    {
+     "name": "MatriTotal",
+     "url": "https://matritotal.com/"
+    }
+   ]
+  },
+  {
+   "term": "email security monitoring",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "InboxGuards",
+     "url": "https://inboxguards.com/"
+    },
+    {
+     "name": "Email Security Monitoring For Microsoft 365",
+     "url": "https://develif.com/s/email-security-monitoring-for-microsoft-365"
+    }
+   ]
+  },
+  {
+   "term": "ransomware victim tracker",
+   "count": 2,
+   "sources": 5,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Dragons Eye",
+     "url": "https://ransomware-tracker.com/"
+    },
+    {
+     "name": "Ransomware Victim Tracker And Public Feeds",
+     "url": "https://develif.com/s/ransomware-victim-tracker-and-public-feeds"
+    }
+   ]
+  },
+  {
+   "term": "short form content",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Swayno",
+     "url": "https://postlaunchkit.com/directory/swayno"
+    },
+    {
+     "name": "swayno | AI Content Creation & Social Media Scheduling — sco",
+     "url": "https://nothumansearch.ai/site/swayno.com"
+    }
+   ]
+  },
+  {
+   "term": "texa electricity plan",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Power Hopper",
+     "url": "https://powerhopper.energy/"
+    },
+    {
+     "name": "Power Hopper Texas Electricity Plan Comparison",
+     "url": "https://yo.directory/tool/power-hopper-texas-electricity-plan-comparison"
+    }
+   ]
+  },
+  {
+   "term": "ajrakh bandhani saree",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Celebrate in an Ajrakh Bandhani Saree from | Vibha",
+     "url": "https://huludirectory.com/listing/celebrate-in-an-ajrakh-bandhani-saree-from-vibha-2261408"
+    },
+    {
+     "name": "Explore Ajrakh Bandhani Sarees for Festive Style | Vibha",
+     "url": "https://directory6.org/listing/explore-ajrakh-bandhani-sarees-for-festive-style-vibha-721950"
+    }
+   ]
+  },
+  {
+   "term": "bring launchpad back",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "LaunchHome",
+     "url": "https://launchhome.app/"
+    },
+    {
+     "name": "LaunchHome Bring Launchpad back to your Mac 💬 0 Comments",
+     "url": "https://thehackstack.com/s/launchhome"
+    }
+   ]
+  },
+  {
+   "term": "color season ai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Color Season AI: Find your colour season from a daylight sel",
+     "url": "https://saasolution.io/tool/color-season-ai"
+    },
+    {
+     "name": "Color Season AI",
+     "url": "https://colorseasonai.com/"
+    }
+   ]
+  },
+  {
+   "term": "fix everyday file",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "fixmint",
+     "url": "https://fixmint.cc/"
+    },
+    {
+     "name": "Browser Tools That Fix Everyday File And Text Chores",
+     "url": "https://develif.com/s/browser-tools-that-fix-everyday-file-and-text-chores"
+    }
+   ]
+  },
+  {
+   "term": "industrial wear part",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "JGN Industrial Wear Parts & Cutting Tools",
+     "url": "https://webrankdirectory.org/listing/jgn-industrial-wear-parts-cutting-tools"
+    },
+    {
+     "name": "Jgn Industrial Wear Parts And Cutting Tools",
+     "url": "https://develif.com/s/jgn-industrial-wear-parts-and-cutting-tools"
+    }
+   ]
+  },
+  {
+   "term": "mep inspection dubai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "MEP Inspection Dubai: Plumbing and Drainage System Assessmen",
+     "url": "https://huludirectory.com/listing/mep-inspection-dubai-plumbing-and-drainage-system-assessment-2261387"
+    },
+    {
+     "name": "MEP Inspection Dubai: Villa Snagging and Technical System Re",
+     "url": "https://exampledir.com/listing/mep-inspection-dubai-villa-snagging-and-technical-system-review-314009"
+    }
+   ]
+  },
+  {
+   "term": "short trip choose",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta",
+     "url": "https://exampledir.com/listing/activa-on-rent-in-ayodhya-for-comfortable-travel--dau-rental-314003"
+    },
+    {
+     "name": "Scooty on Rent in Amritsar for Comfortable and Independent T",
+     "url": "https://exampledir.com/listing/scooty-on-rent-in-amritsar-for-comfortable-and-independent-travel--dau-rental-313994"
+    }
+   ]
+  },
+  {
+   "term": "square footage calculator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Square Footage Calculator",
+     "url": "https://squarefootagecalculator.co/"
+    },
+    {
+     "name": "Free Square Footage Calculator Online",
+     "url": "https://develif.com/s/free-square-footage-calculator-online"
+    }
+   ]
+  },
+  {
+   "term": "trade show booth",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Add Energy with an Interactive Trade Show Booth for Sports L",
+     "url": "https://directory6.org/listing/add-energy-with-an-interactive-trade-show-booth-for-sports-licensing-and-tailgate-show-2027-721952"
+    },
+    {
+     "name": "Quality Trade Show Booth Fabrication for Sports Licensing an",
+     "url": "https://huludirectory.com/listing/quality-trade-show-booth-fabrication-for-sports-licensing-and-tailgate-show-2027-2261404"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "legal hunt",
+   "count": 4,
+   "sources": 2,
+   "ratio": 120.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Child Custody Lawyers in Bengaluru – Get Family Legal Suppor",
+     "url": "https://aweblist.org/listing/child-custody-lawyers-in-bengaluru-–-get-family-legal-support-from-legal-hunt-973196"
+    },
+    {
+     "name": "Criminal Lawyers in Bengaluru – Explore Legal Representation",
+     "url": "https://directory6.org/listing/criminal-lawyers-in-bengaluru-–-explore-legal-representation-with-legal-hunt-721946"
+    },
+    {
+     "name": "Divorce Lawyers in Bengaluru – Get Family Law Guidance from ",
+     "url": "https://directory6.org/listing/divorce-lawyers-in-bengaluru-–-get-family-law-guidance-from-legal-hunt-721947"
+    }
+   ]
+  },
+  {
+   "term": "bandhani ajrakh saree",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Celebrate in an Ajrakh Bandhani Saree from | Vibha",
+     "url": "https://huludirectory.com/listing/celebrate-in-an-ajrakh-bandhani-saree-from-vibha-2261408"
+    },
+    {
+     "name": "Explore Ajrakh Bandhani Sarees for Festive Style | Vibha",
+     "url": "https://directory6.org/listing/explore-ajrakh-bandhani-sarees-for-festive-style-vibha-721950"
+    }
+   ]
+  },
+  {
+   "term": "jgn industrial wear",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "JGN Industrial Wear Parts & Cutting Tools",
+     "url": "https://webrankdirectory.org/listing/jgn-industrial-wear-parts-cutting-tools"
+    },
+    {
+     "name": "Jgn Industrial Wear Parts And Cutting Tools",
+     "url": "https://develif.com/s/jgn-industrial-wear-parts-and-cutting-tools"
+    }
+   ]
+  },
+  {
+   "term": "fancy cafe",
+   "count": 3,
+   "sources": 4,
+   "ratio": 90.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fancy Cafe POV",
+     "url": "https://postlaunchkit.com/directory/fancy-cafe-pov"
+    },
+    {
+     "name": "Fancy Cafe AI",
+     "url": "https://firsttimeinafancycafe.net/"
+    },
+    {
+     "name": "First Time In A Fancy Cafe",
+     "url": "https://develif.com/s/first-time-in-a-fancy-cafe"
+    }
+   ]
+  },
+  {
+   "term": "spotify track",
+   "count": 3,
+   "sources": 2,
+   "ratio": 90.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "ISRC Finder: Find the ISRC code of a song from its title or ",
+     "url": "https://saasolution.io/tool/isrc-finder"
+    },
+    {
+     "name": "MusicAlc",
+     "url": "https://musicalc.com/"
+    },
+    {
+     "name": "Spotdown",
+     "url": "https://spotdd.net/"
+    }
+   ]
+  },
+  {
+   "term": "traveller looking",
+   "count": 3,
+   "sources": 2,
+   "ratio": 90.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Rent Bike in Chandigarh for Local Sightseeing - Dau Rental",
+     "url": "https://exampledir.com/listing/rent-bike-in-chandigarh-for-local-sightseeing--dau-rental-313991"
+    },
+    {
+     "name": "Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta",
+     "url": "https://exampledir.com/listing/activa-on-rent-in-ayodhya-for-comfortable-travel--dau-rental-314003"
+    },
+    {
+     "name": "Scooty on Rent in Amritsar for Comfortable and Independent T",
+     "url": "https://exampledir.com/listing/scooty-on-rent-in-amritsar-for-comfortable-and-independent-travel--dau-rental-313994"
+    }
+   ]
+  },
+  {
+   "term": "50+ country",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Radarkit",
+     "url": "https://postlaunchkit.com/directory/radarkit"
+    },
+    {
+     "name": "AI Search Tracking Tool: ChatGPT, Google AI Overview, Gemini",
+     "url": "https://nothumansearch.ai/site/radarkit.ai"
+    }
+   ]
+  },
+  {
+   "term": "availability alert",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "60secmonitor",
+     "url": "https://azn8.com/listing/60secmonitor"
+    },
+    {
+     "name": "Frequent Website Availability Alerts",
+     "url": "https://develif.com/s/frequent-website-availability-alerts"
+    }
+   ]
+  },
+  {
+   "term": "digital wedding",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "MatriTotal - Digital Wedding Invitations",
+     "url": "https://dealmyapp.com/listings/matritotal-digital-wedding-invitations"
+    },
+    {
+     "name": "MatriTotal",
+     "url": "https://matritotal.com/"
+    }
+   ]
+  },
+  {
+   "term": "electricity plan",
+   "count": 2,
+   "sources": 2,
+   "ratio": 60.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Power Hopper",
+     "url": "https://powerhopper.energy/"
+    },
+    {
+     "name": "Power Hopper Texas Electricity Plan Comparison",
+     "url": "https://yo.directory/tool/power-hopper-texas-electricity-plan-comparison"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "legal guidance",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Child Custody Lawyers in Bengaluru – Get Family Legal Suppor",
+     "url": "https://aweblist.org/listing/child-custody-lawyers-in-bengaluru-–-get-family-legal-support-from-legal-hunt-973196"
+    },
+    {
+     "name": "Criminal Lawyers in Bengaluru – Explore Legal Representation",
+     "url": "https://directory6.org/listing/criminal-lawyers-in-bengaluru-–-explore-legal-representation-with-legal-hunt-721946"
+    },
+    {
+     "name": "Divorce Lawyers in Bengaluru – Get Family Law Guidance from ",
+     "url": "https://directory6.org/listing/divorce-lawyers-in-bengaluru-–-get-family-law-guidance-from-legal-hunt-721947"
+    },
+    {
+     "name": "Looking for an Advocate in Bengaluru? Connect with Legal Hun",
+     "url": "https://aweblist.org/listing/looking-for-an-advocate-in-bengaluru-connect-with-legal-hunt-today-973194"
+    }
+   ]
+  },
+  {
+   "term": "fancy cafe",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Fancy Cafe AI",
+     "url": "https://firsttimeinafancycafe.net/"
+    },
+    {
+     "name": "Fancy Cafe POV",
+     "url": "https://fancycafepov.com/"
+    },
+    {
+     "name": "First Time In A Fancy Cafe",
+     "url": "https://develif.com/s/first-time-in-a-fancy-cafe"
+    }
+   ]
+  },
+  {
+   "term": "spotify track",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "ISRC Finder: Find the ISRC code of a song from its title or ",
+     "url": "https://saasolution.io/tool/isrc-finder"
+    },
+    {
+     "name": "MusicAlc",
+     "url": "https://musicalc.com/"
+    },
+    {
+     "name": "Spotdown",
+     "url": "https://spotdd.net/"
+    }
+   ]
+  },
+  {
+   "term": "traveller looking",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta",
+     "url": "https://exampledir.com/listing/activa-on-rent-in-ayodhya-for-comfortable-travel--dau-rental-314003"
+    },
+    {
+     "name": "Rent Bike in Chandigarh for Local Sightseeing - Dau Rental",
+     "url": "https://exampledir.com/listing/rent-bike-in-chandigarh-for-local-sightseeing--dau-rental-313991"
+    },
+    {
+     "name": "Scooty on Rent in Amritsar for Comfortable and Independent T",
+     "url": "https://exampledir.com/listing/scooty-on-rent-in-amritsar-for-comfortable-and-independent-travel--dau-rental-313994"
+    }
+   ]
+  },
+  {
+   "term": "usa europe australia",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Tiles Exporter from India to Canada",
+     "url": "https://directory6.org/listing/tiles-exporter-from-india-to-canada-721964"
+    },
+    {
+     "name": "Tiles Exporter from India to USA, Europe, Australia & Canada",
+     "url": "https://exampledir.com/listing/tiles-exporter-from-india-to-usa-europe-australia-and-canada-italica-tiles-314020"
+    },
+    {
+     "name": "Tiles Exporter In morbi | Italica Tiles",
+     "url": "https://directory6.org/listing/tiles-exporter-in-morbi-italica-tiles-721972"
+    }
+   ]
+  },
+  {
+   "term": "email security",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Email Security Monitoring For Microsoft 365",
+     "url": "https://develif.com/s/email-security-monitoring-for-microsoft-365"
+    },
+    {
+     "name": "Inboxguards",
+     "url": "https://agents-launch.lovable.app/agents/inboxguards"
+    },
+    {
+     "name": "Mail Security Tools",
+     "url": "https://agents-launch.lovable.app/agents/mail-security-tools"
+    }
+   ]
+  },
+  {
+   "term": "wedding invitation",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Matritotal",
+     "url": "https://www.clapstorm.com/p/matritotal"
+    },
+    {
+     "name": "MatriTotal - Digital Wedding Invitations",
+     "url": "https://dealmyapp.com/listings/matritotal-digital-wedding-invitations"
+    },
+    {
+     "name": "Matritotal Wedding Invitations",
+     "url": "https://develif.com/s/matritotal-wedding-invitations"
+    }
+   ]
+  },
+  {
+   "term": "travel dau rental",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta",
+     "url": "https://exampledir.com/listing/activa-on-rent-in-ayodhya-for-comfortable-travel--dau-rental-314003"
+    },
+    {
+     "name": "Bike Rent in Noida for Convenient City Travel - Dau Rental",
+     "url": "https://exampledir.com/listing/bike-rent-in-noida-for-convenient-city-travel--dau-rental-314001"
+    },
+    {
+     "name": "Scooty on Rent in Amritsar for Comfortable and Independent T",
+     "url": "https://exampledir.com/listing/scooty-on-rent-in-amritsar-for-comfortable-and-independent-travel--dau-rental-313994"
+    },
+    {
+     "name": "Scooty on Rent in Varanasi for Easy Travel - Dau Rental",
+     "url": "https://exampledir.com/listing/scooty-on-rent-in-varanasi-for-easy-travel--dau-rental-313996"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「legal guidance」今日 4 个产品/2 个目录：Child Custody Lawyers in Bengaluru – Get Family Legal Suppor、Criminal Lawyers in Bengaluru – Explore Legal Representation",
+  "小词「digital wedding invitation」今日 2 个产品/2 个目录：MatriTotal - Digital Wedding Invitations、MatriTotal",
+  "小词「email security monitoring」今日 2 个产品/2 个目录：InboxGuards、Email Security Monitoring For Microsoft 365",
+  "同日小簇「legal guidance」4 个相似产品：Child Custody Lawyers in Bengaluru – Get Family Legal Suppor、Criminal Lawyers in Bengaluru – Explore Legal Representation、Divorce Lawyers in Bengaluru – Get Family Law Guidance from ",
+  "同日小簇「fancy cafe」3 个相似产品：Fancy Cafe AI、Fancy Cafe POV、First Time In A Fancy Cafe",
+  "跨目录同时出现：aihealthexport.com（4 个目录）",
+  "跨目录同时出现：kavel.ai（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-04.md",
+ "niche_groups": "- 法律信息服务：legal guidance、legal hunt —— 提供特定地区（如班加罗尔）的律师搜索与法律支持服务\n- 数字婚礼与社交内容：digital wedding invitation、short form content、fancy cafe —— 提供数字婚礼邀请函及AI驱动的短视频/社交媒体内容创作工具\n- 网络安全与威胁追踪：email security monitoring、ransomware victim tracker —— 提供邮件安全监控及勒索软件受害者数据追踪服务\n- 工业与建筑专业服务：industrial wear part、jgn industrial wear、mep inspection dubai —— 提供工业耐磨件/刀具供应及迪拜MEP系统检查服务\n- 生活工具与本地出行：fix everyday file、square footage calculator、short trip choose、traveller looking、bring launchpad back —— 提供文件修复、面积计算、本地短途租车/电动车租赁及Mac应用恢复等实用工具\n- 垂直领域查询与定制：texa electricity plan、color season ai、spotify track、ajrakh bandhani saree、bandhani ajrakh saree、trade show booth —— 涵盖德州电力计划对比、AI色彩季型分析、音乐ISRC查询、特定风格纱丽展示及展会摊位制作等细分需求"
+}
