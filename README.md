@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-04** · 新增 1453 · 监控 197 个目录（今日成功 183）
+**2026-11-05** · 新增 1542 · 监控 197 个目录（今日成功 183）
 
 聚焦小词 Top 15:
 
-- `legal guidance` ×4（2 目录） 🆕：Child Custody Lawyers in Bengaluru – Get Family Legal Suppor；Criminal Lawyers in Bengaluru – Explore Legal Representation
-- `digital wedding invitation` ×2（2 目录） 🆕：MatriTotal - Digital Wedding Invitations；MatriTotal
-- `email security monitoring` ×2（2 目录） 🆕：InboxGuards；Email Security Monitoring For Microsoft 365
-- `ransomware victim tracker` ×2（5 目录） 🆕：Dragons Eye；Ransomware Victim Tracker And Public Feeds
-- `short form content` ×2（2 目录） 🆕：Swayno；swayno | AI Content Creation & Social Media Scheduling — sco
-- `texa electricity plan` ×2（2 目录） 🆕：Power Hopper；Power Hopper Texas Electricity Plan Comparison
-- `ajrakh bandhani saree` ×2（2 目录） 🆕：Celebrate in an Ajrakh Bandhani Saree from | Vibha；Explore Ajrakh Bandhani Sarees for Festive Style | Vibha
-- `bring launchpad back` ×2（2 目录） 🆕：LaunchHome；LaunchHome Bring Launchpad back to your Mac 💬 0 Comments
-- `color season ai` ×2（2 目录） 🆕：Color Season AI: Find your colour season from a daylight sel；Color Season AI
-- `fix everyday file` ×2（2 目录） 🆕：fixmint；Browser Tools That Fix Everyday File And Text Chores
-- `industrial wear part` ×2（2 目录） 🆕：JGN Industrial Wear Parts & Cutting Tools；Jgn Industrial Wear Parts And Cutting Tools
-- `mep inspection dubai` ×2（2 目录） 🆕：MEP Inspection Dubai: Plumbing and Drainage System Assessmen；MEP Inspection Dubai: Villa Snagging and Technical System Re
-- `short trip choose` ×2（2 目录） 🆕：Activa on Rent in Ayodhya for Comfortable Travel - Dau Renta；Scooty on Rent in Amritsar for Comfortable and Independent T
-- `square footage calculator` ×2（2 目录） 🆕：Square Footage Calculator；Free Square Footage Calculator Online
-- `trade show booth` ×2（2 目录） 🆕：Add Energy with an Interactive Trade Show Booth for Sports L；Quality Trade Show Booth Fabrication for Sports Licensing an
+- `aged domain marketplace` ×3（2 目录） 🆕：备案域名
+- `weird greeting card` ×3（3 目录） 🆕：Make It Weird Studio；Make It Weird Studio Build Weird Greeting Cards With Charact
+- `bible study` ×4（2 目录） 🆕：Wayfold: Understand the Bible；Lampstep: Bible for Real Life
+- `orland park` ×4（2 目录） 🆕：Westside Children's Therapy Orland Park (North)；Westside Children's Therapy Orland Park (South)
+- `bulk download image` ×2（3 目录） 🆕：X Media Downloader；X Media Downloader Bulk download images and videos from X pr
+- `claude gemini perplexity` ×2（2 目录） 🆕：ShareOfAsk；AI Exporter Hub - Export AI Chats to Notion, Obsidian, PDF a
+- `display pop video` ×2（2 目录） 🆕：FroggyAds: Self-Serve DSP & Global Ad Network Platform；FroggyAds
+- `export srt vtt` ×2（2 目录） 🆕：Transcript Generator for Any Video or Audio | Scribiz — scor；TokScript
+- `never guessed valid` ×2（2 目录） 🆕：SimpleVerifier；SimpleVerifier: Unlimited email verification, $39/mo (100k/m
+- `public tiktok youtube` ×2（2 目录） 🆕：TokScript: Get editable text and subtitle files from a TikTo；TokScript
+- `ai visibility tracking` ×2（2 目录） 🆕：ShareOfAsk；Radarkit
+- `biohack longevity food` ×2（2 目录） 🆕：Biohack Longevity Food Coach；Biohack: Longevity Food Coach Your food coach for long-term 
+- `birthstone engagement ring` ×2（2 目录） 🆕：30 Persent OFF Black Friday Engagement Ring Deals；30% OFF! Black Friday Engagement Ring Deals
+- `ceramic coffee mugs` ×2（2 目录） 🆕：CoffeifyMug；Ceramic Coffee Mugs And Tea Cups
+- `driven digital marketing` ×2（2 目录） 🆕：Digital Marketing Agency in Warangal | SVAPPS；Digital Marketing & Growth Agency | Brown Panther Digital
 
 微赛道归纳:
 
-- 法律信息服务：legal guidance、legal hunt —— 提供特定地区（如班加罗尔）的律师搜索与法律支持服务
-- 数字婚礼与社交内容：digital wedding invitation、short form content、fancy cafe —— 提供数字婚礼邀请函及AI驱动的短视频/社交媒体内容创作工具
-- 网络安全与威胁追踪：email security monitoring、ransomware victim tracker —— 提供邮件安全监控及勒索软件受害者数据追踪服务
-- 工业与建筑专业服务：industrial wear part、jgn industrial wear、mep inspection dubai —— 提供工业耐磨件/刀具供应及迪拜MEP系统检查服务
-- 生活工具与本地出行：fix everyday file、square footage calculator、short trip choose、traveller looking、bring launchpad back —— 提供文件修复、面积计算、本地短途租车/电动车租赁及Mac应用恢复等实用工具
-- 垂直领域查询与定制：texa electricity plan、color season ai、spotify track、ajrakh bandhani saree、bandhani ajrakh saree、trade show booth —— 涵盖德州电力计划对比、AI色彩季型分析、音乐ISRC查询、特定风格纱丽展示及展会摊位制作等细分需求
+- AI 内容导出与可见性追踪：claude gemini perplexity、ai visibility tracking、export srt vtt、public tiktok youtube —— 将多平台 AI 对话或视频内容导出至笔记软件，并监测品牌在 AI 搜索中的曝光度
+- 垂直领域营销与广告工具：display pop video、native display pop、geo oversea ads、driven digital marketing、insight smarter planning —— 提供自助式展示广告投放、海外地理定向广告及数字化营销咨询
+- 域名与合规验证服务：aged domain marketplace、bayu icp filed、never guessed valid、risky never guessed —— 提供老域名交易、ICP 备案查询及大规模邮箱有效性验证
+- 细分兴趣与生活方式电商：weird greeting card、birthstone engagement ring、ceramic coffee mugs、biohack longevity food —— 销售特色贺卡、定制珠宝、陶瓷杯及长寿饮食指导等细分消费品
+- 本地生活与专业服务：orland park、enjoy experienced chauffeur、bible study —— 提供特定地区的儿童治疗、商务专车接送及圣经学习辅助服务
+- 媒体批量下载工具：bulk download image —— 支持从社交媒体批量下载图片和视频
 
-完整报告: [reports/2026-11-04.md](reports/2026-11-04.md)
+完整报告: [reports/2026-11-05.md](reports/2026-11-05.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

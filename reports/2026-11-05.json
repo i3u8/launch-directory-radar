@@ -1,0 +1,652 @@
+{
+ "date": "2026-11-05",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 183,
+ "sources_failed": 14,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "promoteindex-com",
+  "ailibri-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "madewithstack-com",
+  "promoteindex-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1542,
+ "new_today_unique": 1430,
+ "ai_share_today": 0.28,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "aged domain marketplace",
+   "count": 3,
+   "sources": 2,
+   "ratio": 87.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "备案域名",
+     "url": "https://a2place.com/listing/备案域名-718699"
+    }
+   ]
+  },
+  {
+   "term": "weird greeting card",
+   "count": 3,
+   "sources": 3,
+   "ratio": 87.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Make It Weird Studio",
+     "url": "https://makeitweirdstudio.com/"
+    },
+    {
+     "name": "Make It Weird Studio Build Weird Greeting Cards With Charact",
+     "url": "https://develif.com/s/make-it-weird-studio-build-weird-greeting-cards-with-characters-colour-and-your-own"
+    },
+    {
+     "name": "Make It Weird Studio Create Delightfully Weird Greeting Card",
+     "url": "https://thehackstack.com/s/makeitweirdstudio"
+    }
+   ]
+  },
+  {
+   "term": "bible study",
+   "count": 4,
+   "sources": 2,
+   "ratio": 117.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Wayfold: Understand the Bible",
+     "url": "https://wayfold.rork.app/"
+    },
+    {
+     "name": "Lampstep: Bible for Real Life",
+     "url": "https://lampstep.rork.app/"
+    },
+    {
+     "name": "Scrollway: Bible Study Game",
+     "url": "https://apps.apple.com/app/id6821770165"
+    }
+   ]
+  },
+  {
+   "term": "orland park",
+   "count": 4,
+   "sources": 2,
+   "ratio": 117.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Westside Children's Therapy Orland Park (North)",
+     "url": "https://directory6.org/listing/westside-childrens-therapy-orland-park-(north-722242"
+    },
+    {
+     "name": "Westside Children's Therapy Orland Park (South)",
+     "url": "https://directory6.org/listing/westside-childrens-therapy-orland-park-(south-722244"
+    },
+    {
+     "name": "Cosmetic Surgeons | Cosmetic Surgeons in Orland Park",
+     "url": "https://huludirectory.com/listing/cosmetic-surgeons-cosmetic-surgeons-in-orland-park-2261580"
+    }
+   ]
+  },
+  {
+   "term": "bulk download image",
+   "count": 2,
+   "sources": 3,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "X Media Downloader",
+     "url": "https://xmediadownloader.com/"
+    },
+    {
+     "name": "X Media Downloader Bulk download images and videos from X pr",
+     "url": "https://thehackstack.com/s/xmediadownloader"
+    }
+   ]
+  },
+  {
+   "term": "claude gemini perplexity",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "ShareOfAsk",
+     "url": "https://dealmyapp.com/listings/shareofask"
+    },
+    {
+     "name": "AI Exporter Hub - Export AI Chats to Notion, Obsidian, PDF a",
+     "url": "https://nothumansearch.ai/site/chatgpt2notion.com"
+    }
+   ]
+  },
+  {
+   "term": "display pop video",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "FroggyAds: Self-Serve DSP & Global Ad Network Platform",
+     "url": "https://directory6.org/listing/froggyads-self-serve-dsp-and-global-ad-network-platform-722223"
+    },
+    {
+     "name": "FroggyAds",
+     "url": "https://huludirectory.com/listing/froggyads-2261586"
+    }
+   ]
+  },
+  {
+   "term": "export srt vtt",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Transcript Generator for Any Video or Audio | Scribiz — scor",
+     "url": "https://nothumansearch.ai/site/scribiz.com"
+    },
+    {
+     "name": "TokScript",
+     "url": "https://postlaunchkit.com/directory/tokscript"
+    }
+   ]
+  },
+  {
+   "term": "never guessed valid",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "SimpleVerifier",
+     "url": "https://whatareyoubuilding.ai/product/ogaV5fOdlpBjQPUnREwT"
+    },
+    {
+     "name": "SimpleVerifier: Unlimited email verification, $39/mo (100k/m",
+     "url": "https://nothumansearch.ai/site/simpleverifier.com"
+    }
+   ]
+  },
+  {
+   "term": "public tiktok youtube",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "TokScript: Get editable text and subtitle files from a TikTo",
+     "url": "https://saasolution.io/tool/tokscript"
+    },
+    {
+     "name": "TokScript",
+     "url": "https://postlaunchkit.com/directory/tokscript"
+    }
+   ]
+  },
+  {
+   "term": "ai visibility tracking",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "ShareOfAsk",
+     "url": "https://dealmyapp.com/listings/shareofask"
+    },
+    {
+     "name": "Radarkit",
+     "url": "https://radarkit.ai/"
+    }
+   ]
+  },
+  {
+   "term": "biohack longevity food",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Biohack Longevity Food Coach",
+     "url": "https://www.clapstorm.com/p/biohack-longevity-food-coach"
+    },
+    {
+     "name": "Biohack: Longevity Food Coach Your food coach for long-term ",
+     "url": "https://thehackstack.com/s/usebiohack"
+    }
+   ]
+  },
+  {
+   "term": "birthstone engagement ring",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "30 Persent OFF Black Friday Engagement Ring Deals",
+     "url": "https://exampledir.com/listing/30-persent-off-black-friday-engagement-ring-deals-314108"
+    },
+    {
+     "name": "30% OFF! Black Friday Engagement Ring Deals",
+     "url": "https://a2place.com/listing/30%-off-black-friday-engagement-ring-deals-718698"
+    }
+   ]
+  },
+  {
+   "term": "ceramic coffee mugs",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "CoffeifyMug",
+     "url": "https://coffeifymug.com/"
+    },
+    {
+     "name": "Ceramic Coffee Mugs And Tea Cups",
+     "url": "https://develif.com/s/ceramic-coffee-mugs-and-tea-cups"
+    }
+   ]
+  },
+  {
+   "term": "driven digital marketing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Digital Marketing Agency in Warangal | SVAPPS",
+     "url": "https://huludirectory.com/listing/digital-marketing-agency-in-warangal-svapps-2261574"
+    },
+    {
+     "name": "Digital Marketing & Growth Agency | Brown Panther Digital",
+     "url": "https://directory6.org/listing/digital-marketing-and-growth-agency-brown-panther-digital-722210"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "bayu icp filed",
+   "count": 3,
+   "sources": 2,
+   "ratio": 87.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "备案域名",
+     "url": "https://a2place.com/listing/备案域名-718699"
+    }
+   ]
+  },
+  {
+   "term": "native display pop",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "FroggyAds: Self-Serve DSP & Global Ad Network Platform",
+     "url": "https://directory6.org/listing/froggyads-self-serve-dsp-and-global-ad-network-platform-722223"
+    },
+    {
+     "name": "FroggyAds",
+     "url": "https://huludirectory.com/listing/froggyads-2261586"
+    }
+   ]
+  },
+  {
+   "term": "risky never guessed",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "SimpleVerifier",
+     "url": "https://whatareyoubuilding.ai/product/ogaV5fOdlpBjQPUnREwT"
+    },
+    {
+     "name": "SimpleVerifier: Unlimited email verification, $39/mo (100k/m",
+     "url": "https://nothumansearch.ai/site/simpleverifier.com"
+    }
+   ]
+  },
+  {
+   "term": "enjoy experienced chauffeur",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Corporate Transportation Services Washington DC",
+     "url": "https://huludirectory.com/listing/corporate-transportation-services-washington-dc-2261607"
+    },
+    {
+     "name": "Professional Chauffeur Service in Washington DC",
+     "url": "https://exampledir.com/listing/professional-chauffeur-service-in-washington-dc-314142"
+    }
+   ]
+  },
+  {
+   "term": "geo oversea ads",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "PandaWM",
+     "url": "https://pandawm.com/"
+    },
+    {
+     "name": "Pandawm Geo Overseas Ads And Multilingual Sites",
+     "url": "https://develif.com/s/pandawm-geo-overseas-ads-and-multilingual-sites"
+    }
+   ]
+  },
+  {
+   "term": "insight smarter planning",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Business Consultant | consultant",
+     "url": "https://aweblist.org/listing/business-consultant-consultant-973555"
+    },
+    {
+     "name": "Business Consultant | consultants",
+     "url": "https://huludirectory.com/listing/business-consultant-consultants-2261601"
+    }
+   ]
+  },
+  {
+   "term": "longevity food coach",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Biohack Longevity Food Coach",
+     "url": "https://www.clapstorm.com/p/biohack-longevity-food-coach"
+    },
+    {
+     "name": "Biohack: Longevity Food Coach Your food coach for long-term ",
+     "url": "https://thehackstack.com/s/usebiohack"
+    }
+   ]
+  },
+  {
+   "term": "luton airport minicab",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Affordable Selsdon to Luton Airport Taxi | Great Service",
+     "url": "https://aweblist.org/listing/affordable-selsdon-to-luton-airport-taxi-great-service-973539"
+    },
+    {
+     "name": "Trusted Selsdon to Luton Airport Taxi | Book Online",
+     "url": "https://a2place.com/listing/trusted-selsdon-to-luton-airport-taxi-book-online-718706"
+    }
+   ]
+  },
+  {
+   "term": "mac disk analyzer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Headroom",
+     "url": "https://helloheadroom.com/"
+    },
+    {
+     "name": "Headroom Mac Disk Analyzer And Cleanup App",
+     "url": "https://develif.com/s/headroom-mac-disk-analyzer-and-cleanup-app"
+    }
+   ]
+  },
+  {
+   "term": "programmatic video engine",
+   "count": 2,
+   "sources": 2,
+   "ratio": 58.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Helios",
+     "url": "https://heliosrender.com/"
+    },
+    {
+     "name": "Helios Beta Programmatic Video Engine For Developers",
+     "url": "https://develif.com/s/helios-beta-programmatic-video-engine-for-developers"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "aged domain marketplace",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "备案域名",
+     "url": "https://a2place.com/listing/备案域名-718699"
+    },
+    {
+     "name": "备案域名平台",
+     "url": "https://exampledir.com/listing/备案域名平台-314102"
+    },
+    {
+     "name": "备案域名购买",
+     "url": "https://a2place.com/listing/备案域名购买-718700"
+    }
+   ]
+  },
+  {
+   "term": "weird greeting card",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Make It Weird Studio",
+     "url": "https://makeitweirdstudio.com/"
+    },
+    {
+     "name": "Make It Weird Studio Build Weird Greeting Cards With Charact",
+     "url": "https://develif.com/s/make-it-weird-studio-build-weird-greeting-cards-with-characters-colour-and-your-own"
+    },
+    {
+     "name": "Make It Weird Studio Create Delightfully Weird Greeting Card",
+     "url": "https://thehackstack.com/s/makeitweirdstudio"
+    }
+   ]
+  },
+  {
+   "term": "bible study",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "FORGED: Daily Bible for Men",
+     "url": "https://getforged.rork.app/"
+    },
+    {
+     "name": "Lampstep: Bible for Real Life",
+     "url": "https://lampstep.rork.app/"
+    },
+    {
+     "name": "Scrollway: Bible Study Game",
+     "url": "https://apps.apple.com/app/id6821770165"
+    },
+    {
+     "name": "Wayfold: Understand the Bible",
+     "url": "https://wayfold.rork.app/"
+    }
+   ]
+  },
+  {
+   "term": "orland park",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Brazilian Butt Lift | Brazilian Butt lift Surgery in Orland ",
+     "url": "https://huludirectory.com/listing/brazilian-butt-lift-brazilian-butt-lift-surgery-in-orland-park-2261593"
+    },
+    {
+     "name": "Cosmetic Surgeons | Cosmetic Surgeons in Orland Park",
+     "url": "https://huludirectory.com/listing/cosmetic-surgeons-cosmetic-surgeons-in-orland-park-2261580"
+    },
+    {
+     "name": "Westside Children's Therapy Orland Park (North)",
+     "url": "https://directory6.org/listing/westside-childrens-therapy-orland-park-(north-722242"
+    },
+    {
+     "name": "Westside Children's Therapy Orland Park (South)",
+     "url": "https://directory6.org/listing/westside-childrens-therapy-orland-park-(south-722244"
+    }
+   ]
+  },
+  {
+   "term": "featuring beautiful",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "30% OFF! Black Friday Engagement Ring Deals",
+     "url": "https://a2place.com/listing/30%-off-black-friday-engagement-ring-deals-718698"
+    },
+    {
+     "name": "30 Persent OFF Black Friday Engagement Ring Deals",
+     "url": "https://exampledir.com/listing/30-persent-off-black-friday-engagement-ring-deals-314108"
+    },
+    {
+     "name": "Find Pre Pleated Silk Saree Styles for Special Days | Vibha",
+     "url": "https://huludirectory.com/listing/find-pre-pleated-silk-saree-styles-for-special-days-vibha-2261561"
+    }
+   ]
+  },
+  {
+   "term": "rap performance",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "AI Rap Video Spot",
+     "url": "https://whatareyoubuilding.ai/product/5tSZWqGkrq5tdeLiBi6s"
+    },
+    {
+     "name": "EzAiRapVideo",
+     "url": "https://gateofai.com/community-tools/ezairapvideo"
+    },
+    {
+     "name": "RapAIVideos",
+     "url": "https://whatareyoubuilding.ai/product/o1rqkKGQM7d9pgoYHTKf"
+    }
+   ]
+  },
+  {
+   "term": "sumus ai",
+   "size": 3,
+   "sources": 5,
+   "examples": [
+    {
+     "name": "Sumus Ai",
+     "url": "https://agents-launch.lovable.app/agents/sumus-ai"
+    },
+    {
+     "name": "Sumus Ai Ai Teammates Workspace",
+     "url": "https://dang.ai/tool/sumus-ai-ai-teammates-workspace"
+    },
+    {
+     "name": "Sumus Ai Shared Workspace",
+     "url": "https://develif.com/s/sumus-ai-shared-workspace"
+    }
+   ]
+  },
+  {
+   "term": "puzzle game",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Cognilo: Brain Training Games",
+     "url": "https://cognilo.rork.app/"
+    },
+    {
+     "name": "Free Daily Word Puzzle Games List",
+     "url": "https://develif.com/s/free-daily-word-puzzle-games-list"
+    },
+    {
+     "name": "Number Puzzles: Sumbriska",
+     "url": "https://number-puzzles-sumbriska.rork.app/"
+    },
+    {
+     "name": "YesNoMystery Lateral Thinking Puzzle Game",
+     "url": "https://a2place.com/listing/yesnomystery-lateral-thinking-puzzle-game-718695"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「aged domain marketplace」今日 3 个产品/2 个目录：备案域名",
+  "小词「weird greeting card」今日 3 个产品/3 个目录：Make It Weird Studio、Make It Weird Studio Build Weird Greeting Cards With Charact",
+  "小词「bible study」今日 4 个产品/2 个目录：Wayfold: Understand the Bible、Lampstep: Bible for Real Life",
+  "同日小簇「aged domain marketplace」3 个相似产品：备案域名、备案域名平台、备案域名购买",
+  "同日小簇「weird greeting card」3 个相似产品：Make It Weird Studio、Make It Weird Studio Build Weird Greeting Cards With Charact、Make It Weird Studio Create Delightfully Weird Greeting Card",
+  "我们的站点上线：explainervideogenerator.com @ canopystack.dev",
+  "跨目录同时出现：dinesend.com（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-05.md",
+ "niche_groups": "- AI 内容导出与可见性追踪：claude gemini perplexity、ai visibility tracking、export srt vtt、public tiktok youtube —— 将多平台 AI 对话或视频内容导出至笔记软件，并监测品牌在 AI 搜索中的曝光度\n- 垂直领域营销与广告工具：display pop video、native display pop、geo oversea ads、driven digital marketing、insight smarter planning —— 提供自助式展示广告投放、海外地理定向广告及数字化营销咨询\n- 域名与合规验证服务：aged domain marketplace、bayu icp filed、never guessed valid、risky never guessed —— 提供老域名交易、ICP 备案查询及大规模邮箱有效性验证\n- 细分兴趣与生活方式电商：weird greeting card、birthstone engagement ring、ceramic coffee mugs、biohack longevity food —— 销售特色贺卡、定制珠宝、陶瓷杯及长寿饮食指导等细分消费品\n- 本地生活与专业服务：orland park、enjoy experienced chauffeur、bible study —— 提供特定地区的儿童治疗、商务专车接送及圣经学习辅助服务\n- 媒体批量下载工具：bulk download image —— 支持从社交媒体批量下载图片和视频"
+}
