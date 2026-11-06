@@ -1,0 +1,647 @@
+{
+ "date": "2026-11-06",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 184,
+ "sources_failed": 13,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "promoteindex-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1683,
+ "new_today_unique": 1589,
+ "ai_share_today": 0.27,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "kojaram ias academy",
+   "count": 3,
+   "sources": 3,
+   "ratio": 83.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "best upsc coaching in jaipur",
+     "url": "https://directory6.org/listing/best-upsc-coaching-in-jaipur-722447"
+    },
+    {
+     "name": "best clat coaching in jaipur",
+     "url": "https://exampledir.com/listing/best-clat-coaching-in-jaipur-314231"
+    },
+    {
+     "name": "best ias coaching in jaipur",
+     "url": "https://aweblist.org/listing/best-ias-coaching-in-jaipur-973887"
+    }
+   ]
+  },
+  {
+   "term": "call whatsapp telegram",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "fone.me",
+     "url": "https://dealmyapp.com/listings/foneme"
+    },
+    {
+     "name": "Fone",
+     "url": "https://postlaunchkit.com/directory/fone"
+    }
+   ]
+  },
+  {
+   "term": "exploring local market",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Bike On Rent in Amritsar for Local Travellers - Dau Rental",
+     "url": "https://aweblist.org/listing/bike-on-rent-in-amritsar-for-local-travellers--dau-rental-973863"
+    },
+    {
+     "name": "Bike Rent In Vrindavan - Dau Rental",
+     "url": "https://exampledir.com/listing/bike-rent-in-vrindavan--dau-rental-314228"
+    }
+   ]
+  },
+  {
+   "term": "2nd international conference",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "2nd International Conference on Recycling and Waste Manageme",
+     "url": "https://aweblist.org/listing/2nd-international-conference-on-recycling-and-waste-management-973870"
+    },
+    {
+     "name": "2nd International Conference on Optical Science and Engineer",
+     "url": "https://a2place.com/listing/2nd-international-conference-on-optical-science-and-engineering-718725"
+    }
+   ]
+  },
+  {
+   "term": "approval consultant chennai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Expert College Building Approval Consultants Chennai",
+     "url": "https://huludirectory.com/listing/expert-college-building-approval-consultants-chennai-2261796"
+    },
+    {
+     "name": "Professional College Plan Approval Consultants Chennai",
+     "url": "https://exampledir.com/listing/professional-college-plan-approval-consultants-chennai-314227"
+    }
+   ]
+  },
+  {
+   "term": "aspiring individual startup",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "FoSTaC Training",
+     "url": "https://exampledir.com/listing/fostac-training-314184"
+    },
+    {
+     "name": "Punam Gupta",
+     "url": "https://directory6.org/listing/punam-gupta-722445"
+    }
+   ]
+  },
+  {
+   "term": "belmont curse atla",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Belmont's Curse Atlas",
+     "url": "https://postlaunchkit.com/directory/belmonts-curse-atlas"
+    },
+    {
+     "name": "Belmonts Curse Atlas",
+     "url": "https://develif.com/s/belmonts-curse-atlas"
+    }
+   ]
+  },
+  {
+   "term": "browse available helper",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Looking for Maid Agency",
+     "url": "https://exampledir.com/listing/looking-for-maid-agency-314212"
+    },
+    {
+     "name": "Looking for Maid Agency in singapore",
+     "url": "https://huludirectory.com/listing/looking-for-maid-agency-in-singapore-2261777"
+    }
+   ]
+  },
+  {
+   "term": "difficult stroke rehabilitation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Stroke Rehabilitation for Returning to Daily Routines",
+     "url": "https://aweblist.org/listing/stroke-rehabilitation-for-returning-to-daily-routines-973899"
+    },
+    {
+     "name": "Stroke Rehabilitation for Regaining Arm and Hand Function",
+     "url": "https://a2place.com/listing/stroke-rehabilitation-for-regaining-arm-and-hand-function-718707"
+    }
+   ]
+  },
+  {
+   "term": "discount marine part",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "marine plumbing parts and supplies",
+     "url": "https://exampledir.com/listing/marine-plumbing-parts-and-supplies-314190"
+    },
+    {
+     "name": "marine rv maintenance",
+     "url": "https://a2place.com/listing/marine-rv-maintenance-718716"
+    }
+   ]
+  },
+  {
+   "term": "extremely autonomous agent",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "EXTREMELY Autonomous Agents | Build Your Paperclip Maximizer",
+     "url": "https://nothumansearch.ai/site/extremely.agency"
+    },
+    {
+     "name": "Extremely Autonomous Agents",
+     "url": "https://azn8.com/listing/extremely-autonomous-agents"
+    }
+   ]
+  },
+  {
+   "term": "golf cost calculator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mini Golf Cost Calculator",
+     "url": "https://postlaunchkit.com/directory/mini-golf-cost-calculator"
+    },
+    {
+     "name": "Mini Golf Cost Calculator Plan mini golf group costs and spl",
+     "url": "https://thehackstack.com/s/minigolfspots"
+    }
+   ]
+  },
+  {
+   "term": "hos klinik zenit",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Permanent Hårfjerning Laser",
+     "url": "https://huludirectory.com/listing/permanent-harfjerning-laser-2261798"
+    },
+    {
+     "name": "Profhilo",
+     "url": "https://exampledir.com/listing/profhilo-314229"
+    }
+   ]
+  },
+  {
+   "term": "lead paint abatement",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "How Much Does Lead Paint Removal Cost in NJ?",
+     "url": "https://aweblist.org/listing/how-much-does-lead-paint-removal-cost-in-nj-973858"
+    },
+    {
+     "name": "Affordable Lead Paint Abatement Services in NJ",
+     "url": "https://huludirectory.com/listing/affordable-lead-paint-abatement-services-in-nj-2261788"
+    }
+   ]
+  },
+  {
+   "term": "safer linkedin outreach",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Linkyfy – LinkedIn Outreach Automation with AI",
+     "url": "https://exampledir.com/listing/linkyfy-–-linkedin-outreach-automation-with-ai-314193"
+    },
+    {
+     "name": "Linkyfy – AI LinkedIn Automation Tool",
+     "url": "https://a2place.com/listing/linkyfy-–-ai-linkedin-automation-tool-718717"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "cleaning cooking childcare",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Looking for Maid Agency",
+     "url": "https://exampledir.com/listing/looking-for-maid-agency-314212"
+    },
+    {
+     "name": "Looking for Maid Agency in singapore",
+     "url": "https://huludirectory.com/listing/looking-for-maid-agency-in-singapore-2261777"
+    }
+   ]
+  },
+  {
+   "term": "dedicated youth worker",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "FoSTaC Training",
+     "url": "https://exampledir.com/listing/fostac-training-314184"
+    },
+    {
+     "name": "Punam Gupta",
+     "url": "https://directory6.org/listing/punam-gupta-722445"
+    }
+   ]
+  },
+  {
+   "term": "extremely autonomous ai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "EXTREMELY Autonomous Agents | Build Your Paperclip Maximizer",
+     "url": "https://nothumansearch.ai/site/extremely.agency"
+    },
+    {
+     "name": "Extremely Autonomous Agents",
+     "url": "https://azn8.com/listing/extremely-autonomous-agents"
+    }
+   ]
+  },
+  {
+   "term": "jaipur kojaram ias",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "best upsc coaching in jaipur",
+     "url": "https://directory6.org/listing/best-upsc-coaching-in-jaipur-722447"
+    },
+    {
+     "name": "best ias coaching in jaipur",
+     "url": "https://aweblist.org/listing/best-ias-coaching-in-jaipur-973887"
+    }
+   ]
+  },
+  {
+   "term": "mini golf cost",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mini Golf Cost Calculator",
+     "url": "https://postlaunchkit.com/directory/mini-golf-cost-calculator"
+    },
+    {
+     "name": "Mini Golf Cost Calculator Plan mini golf group costs and spl",
+     "url": "https://thehackstack.com/s/minigolfspots"
+    }
+   ]
+  },
+  {
+   "term": "animated gif",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI GIF Maker",
+     "url": "https://aigifmaker.ai/"
+    },
+    {
+     "name": "AI GIF Gen",
+     "url": "https://aigifgen.com/"
+    }
+   ]
+  },
+  {
+   "term": "layer export",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "LayerGrab: Split a flat poster or banner back into named lay",
+     "url": "https://saasolution.io/tool/layergrab"
+    },
+    {
+     "name": "LayerGrab",
+     "url": "https://webrankdirectory.org/listing/layergrab"
+    }
+   ]
+  },
+  {
+   "term": "lead singer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Uptown Funk AI Video",
+     "url": "https://whatareyoubuilding.ai/product/e7O829p1q1M12QUSb38R"
+    },
+    {
+     "name": "Tiny Desk AI",
+     "url": "https://tinydeskclip.com/"
+    }
+   ]
+  },
+  {
+   "term": "local draft",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Song Writer",
+     "url": "https://dealmyapp.com/listings/ai-song-writer"
+    },
+    {
+     "name": "ResumeInvited",
+     "url": "https://resumeinvited.com/"
+    }
+   ]
+  },
+  {
+   "term": "photo gifs",
+   "count": 2,
+   "sources": 2,
+   "ratio": 55.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "GetFaceSwap",
+     "url": "https://getfaceswap.com/"
+    },
+    {
+     "name": "Beavery Turn one video into Live Photos, GIFs and stills 💬 0",
+     "url": "https://thehackstack.com/s/beavery-savetimefor"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "kojaram ias academy",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "best clat coaching in jaipur",
+     "url": "https://exampledir.com/listing/best-clat-coaching-in-jaipur-314231"
+    },
+    {
+     "name": "best ias coaching in jaipur",
+     "url": "https://aweblist.org/listing/best-ias-coaching-in-jaipur-973887"
+    },
+    {
+     "name": "best upsc coaching in jaipur",
+     "url": "https://directory6.org/listing/best-upsc-coaching-in-jaipur-722447"
+    }
+   ]
+  },
+  {
+   "term": "chinese stroke order",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Chinese Stroke Order Ai Teacher",
+     "url": "https://aitoolseekers.com/tools/chinese-stroke-order-ai-teacher"
+    },
+    {
+     "name": "Chinese Stroke Order Ai Teacher.Md",
+     "url": "https://aitoolseekers.com/tools/chinese-stroke-order-ai-teacher.md"
+    },
+    {
+     "name": "Chinese Stroke Order: Learn to write Chinese characters stro",
+     "url": "https://saasolution.io/tool/chinese-stroke-order"
+    }
+   ]
+  },
+  {
+   "term": "contain sildenafil citrate",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Eriacta 100 Mg And Managing Stress For Better Sexual Health",
+     "url": "https://huludirectory.com/listing/eriacta-100-mg-and-managing-stress-for-better-sexual-health-2261793"
+    },
+    {
+     "name": "Silagra 50 Mg And Healthy Habits For Sexual Wellness",
+     "url": "https://exampledir.com/listing/silagra-50-mg-and-healthy-habits-for-sexual-wellness-314221"
+    },
+    {
+     "name": "Suhagra 100 mg And Heart-Healthy Habits For Men",
+     "url": "https://aweblist.org/listing/suhagra-100-mg-and-heart-healthy-habits-for-men-973878"
+    }
+   ]
+  },
+  {
+   "term": "serial number",
+   "size": 5,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Age by Serial Number Check supported water heater and HVAC d",
+     "url": "https://thehackstack.com/s/agebyserialnumber"
+    },
+    {
+     "name": "Boat Serial Number Read supported boat and outboard identifi",
+     "url": "https://thehackstack.com/s/boatserialnumber"
+    },
+    {
+     "name": "Guitar Serial Number Date supported guitars and amplifiers 💬",
+     "url": "https://thehackstack.com/s/guitarserialnumber"
+    },
+    {
+     "name": "Image Metadata Viewer",
+     "url": "https://10015.io/tools/image-metadata-viewer"
+    }
+   ]
+  },
+  {
+   "term": "lahore pakistan",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Dental Surgeons",
+     "url": "https://dentalsurgeons.pk/"
+    },
+    {
+     "name": "Reliable Air Conditioning and HVAC Services Pakistan",
+     "url": "https://directory6.org/listing/reliable-air-conditioning-and-hvac-services-pakistan-722457"
+    },
+    {
+     "name": "Workman Services HVAC and MEP Solutions",
+     "url": "https://directory6.org/listing/workman-services-hvac-and-mep-solutions-722451"
+    },
+    {
+     "name": "Workman Services HVAC Contractor Lahore Pakistan",
+     "url": "https://directory6.org/listing/workman-services-hvac-contractor-lahore-pakistan-722463"
+    }
+   ]
+  },
+  {
+   "term": "pay tracker",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Earncheck Shift Pay Tracker",
+     "url": "https://launchsignal.ai/l/earncheck-shift-pay-tracker"
+    },
+    {
+     "name": "Work Hours And Pay Tracker",
+     "url": "https://develif.com/s/work-hours-and-pay-tracker"
+    },
+    {
+     "name": "Work Hours & Pay Tracker",
+     "url": "https://valentynk.gumroad.com/l/aopxwd"
+    }
+   ]
+  },
+  {
+   "term": "whole family",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Family Dentist in Plano and Garland at Shifa Dental Book You",
+     "url": "https://huludirectory.com/listing/family-dentist-in-plano-and-garland-at-shifa-dental-book-your-visit-for-the-whole-family-2261803"
+    },
+    {
+     "name": "Fincurry: Track what the whole family spends, cash included,",
+     "url": "https://saasolution.io/tool/fincurry"
+    },
+    {
+     "name": "Nuzzle: Log your baby's feeds, sleep and diapers in one reco",
+     "url": "https://saasolution.io/tool/nuzzle"
+    }
+   ]
+  },
+  {
+   "term": "digital marketing strategy",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Best SEO Expert Agency – SEO Marketing Agency",
+     "url": "https://aweblist.org/listing/best-seo-expert-agency-–-seo-marketing-agency-973889"
+    },
+    {
+     "name": "Celebrity Marketing for iGaming: Build Brand Awareness and R",
+     "url": "https://directory6.org/listing/celebrity-marketing-for-igaming-build-brand-awareness-and-reach-more-players-722468"
+    },
+    {
+     "name": "Freelance digital marketing",
+     "url": "https://huludirectory.com/listing/freelance-digital-marketing-2261785"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「kojaram ias academy」今日 3 个产品/3 个目录：best upsc coaching in jaipur、best clat coaching in jaipur",
+  "小词「call whatsapp telegram」今日 2 个产品/2 个目录：fone.me、Fone",
+  "小词「exploring local market」今日 2 个产品/2 个目录：Bike On Rent in Amritsar for Local Travellers - Dau Rental、Bike Rent In Vrindavan - Dau Rental",
+  "同日小簇「kojaram ias academy」3 个相似产品：best clat coaching in jaipur、best ias coaching in jaipur、best upsc coaching in jaipur",
+  "同日小簇「chinese stroke order」3 个相似产品：Chinese Stroke Order Ai Teacher、Chinese Stroke Order Ai Teacher.Md、Chinese Stroke Order: Learn to write Chinese characters stro",
+  "跨目录同时出现：blog.google（4 个目录）",
+  "跨目录同时出现：veida.ai（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-06.md",
+ "niche_groups": "- 印度考公与法律培训：kojaram ias academy、jaipur kojaram ias —— 提供针对UPSC、CLAT等考试的在线或线下辅导服务\n- 本地生活与家政中介：exploring local market、browse available helper、cleaning cooking childcare —— 提供自行车租赁、家政保姆及本地生活服务的匹配平台\n- AI自动化与智能体开发：extremely autonomous agent、extremely autonomous ai、safer linkedin outreach、animated gif —— 开发高度自主的AI智能体、LinkedIn自动化营销及AI生成GIF工具\n- 医疗健康与康复护理：difficult stroke rehabilitation、hos klinik zenit、lead paint abatement —— 涵盖中风康复、激光美容诊所及铅漆清除等健康与环境安全服务\n- 垂直行业咨询与工具：approval consultant chennai、discount marine part、golf cost calculator、mini golf cost —— 提供建筑审批咨询、船用零件供应及迷你高尔夫成本计算等细分领域服务\n- 青年培训与创业支持：aspiring individual startup、dedicated youth worker、2nd international conference —— 面向青年提供创业培训、社工服务及国际学术会议组织"
+}

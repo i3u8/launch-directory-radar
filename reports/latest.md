@@ -1,28 +1,27 @@
-# 每日目录雷达 2026-11-05
+# 每日目录雷达 2026-11-06
 
-- 监控目录 197 / 筛查目录 478；今日成功 183，失败 14；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, madewithstack-com, promoteindex-com, foundr-ai, aiagentautomation-site, apprater-net, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
-- 今日新增条目 **1542**（去重后 1430）；7 天基线 9232，30 天基线 20913
-- 语料 23496 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.28，30天 0.29
+- 监控目录 197 / 筛查目录 478；今日成功 184，失败 13；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, promoteindex-com, foundr-ai, aiagentautomation-site, apprater-net, discoverly-tech, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
+- 今日新增条目 **1683**（去重后 1589）；7 天基线 9153，30 天基线 22012
+- 语料 24855 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.27，30天 0.29
 
 ## 微赛道归纳（LLM）
 
-- AI 内容导出与可见性追踪：claude gemini perplexity、ai visibility tracking、export srt vtt、public tiktok youtube —— 将多平台 AI 对话或视频内容导出至笔记软件，并监测品牌在 AI 搜索中的曝光度
-- 垂直领域营销与广告工具：display pop video、native display pop、geo oversea ads、driven digital marketing、insight smarter planning —— 提供自助式展示广告投放、海外地理定向广告及数字化营销咨询
-- 域名与合规验证服务：aged domain marketplace、bayu icp filed、never guessed valid、risky never guessed —— 提供老域名交易、ICP 备案查询及大规模邮箱有效性验证
-- 细分兴趣与生活方式电商：weird greeting card、birthstone engagement ring、ceramic coffee mugs、biohack longevity food —— 销售特色贺卡、定制珠宝、陶瓷杯及长寿饮食指导等细分消费品
-- 本地生活与专业服务：orland park、enjoy experienced chauffeur、bible study —— 提供特定地区的儿童治疗、商务专车接送及圣经学习辅助服务
-- 媒体批量下载工具：bulk download image —— 支持从社交媒体批量下载图片和视频
+- 印度考公与法律培训：kojaram ias academy、jaipur kojaram ias —— 提供针对UPSC、CLAT等考试的在线或线下辅导服务
+- 本地生活与家政中介：exploring local market、browse available helper、cleaning cooking childcare —— 提供自行车租赁、家政保姆及本地生活服务的匹配平台
+- AI自动化与智能体开发：extremely autonomous agent、extremely autonomous ai、safer linkedin outreach、animated gif —— 开发高度自主的AI智能体、LinkedIn自动化营销及AI生成GIF工具
+- 医疗健康与康复护理：difficult stroke rehabilitation、hos klinik zenit、lead paint abatement —— 涵盖中风康复、激光美容诊所及铅漆清除等健康与环境安全服务
+- 垂直行业咨询与工具：approval consultant chennai、discount marine part、golf cost calculator、mini golf cost —— 提供建筑审批咨询、船用零件供应及迷你高尔夫成本计算等细分领域服务
+- 青年培训与创业支持：aspiring individual startup、dedicated youth worker、2nd international conference —— 面向青年提供创业培训、社工服务及国际学术会议组织
 
 ## 信号 Signals
 
-- 小词「aged domain marketplace」今日 3 个产品/2 个目录：备案域名
-- 小词「weird greeting card」今日 3 个产品/3 个目录：Make It Weird Studio、Make It Weird Studio Build Weird Greeting Cards With Charact
-- 小词「bible study」今日 4 个产品/2 个目录：Wayfold: Understand the Bible、Lampstep: Bible for Real Life
-- 同日小簇「aged domain marketplace」3 个相似产品：备案域名、备案域名平台、备案域名购买
-- 同日小簇「weird greeting card」3 个相似产品：Make It Weird Studio、Make It Weird Studio Build Weird Greeting Cards With Charact、Make It Weird Studio Create Delightfully Weird Greeting Card
-- 我们的站点上线：explainervideogenerator.com @ canopystack.dev
-- 跨目录同时出现：dinesend.com（4 个目录）
-- 跨目录同时出现：excerpt.pro（4 个目录）
+- 小词「kojaram ias academy」今日 3 个产品/3 个目录：best upsc coaching in jaipur、best clat coaching in jaipur
+- 小词「call whatsapp telegram」今日 2 个产品/2 个目录：fone.me、Fone
+- 小词「exploring local market」今日 2 个产品/2 个目录：Bike On Rent in Amritsar for Local Travellers - Dau Rental、Bike Rent In Vrindavan - Dau Rental
+- 同日小簇「kojaram ias academy」3 个相似产品：best clat coaching in jaipur、best ias coaching in jaipur、best upsc coaching in jaipur
+- 同日小簇「chinese stroke order」3 个相似产品：Chinese Stroke Order Ai Teacher、Chinese Stroke Order Ai Teacher.Md、Chinese Stroke Order: Learn to write Chinese characters stro
+- 跨目录同时出现：blog.google（4 个目录）
+- 跨目录同时出现：veida.ai（4 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -30,75 +29,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **aged domain marketplace** | 3 | 2 | 🆕 | [备案域名](https://a2place.com/listing/备案域名-718699) |
-| 2 | **weird greeting card** | 3 | 3 | 🆕 | [Make It Weird Studio](https://makeitweirdstudio.com/)；[Make It Weird Studio Build Weird Greeting Cards With Charact](https://develif.com/s/make-it-weird-studio-build-weird-greeting-cards-with-characters-colour-and-your-own)；[Make It Weird Studio Create Delightfully Weird Greeting Card](https://thehackstack.com/s/makeitweirdstudio) |
-| 3 | **bible study** | 4 | 2 | 🆕 | [Wayfold: Understand the Bible](https://wayfold.rork.app/)；[Lampstep: Bible for Real Life](https://lampstep.rork.app/)；[Scrollway: Bible Study Game](https://apps.apple.com/app/id6821770165) |
-| 4 | **orland park** | 4 | 2 | 🆕 | [Westside Children's Therapy Orland Park (North)](https://directory6.org/listing/westside-childrens-therapy-orland-park-(north-722242)；[Westside Children's Therapy Orland Park (South)](https://directory6.org/listing/westside-childrens-therapy-orland-park-(south-722244)；[Cosmetic Surgeons | Cosmetic Surgeons in Orland Park](https://huludirectory.com/listing/cosmetic-surgeons-cosmetic-surgeons-in-orland-park-2261580) |
-| 5 | **bulk download image** | 2 | 3 | 🆕 | [X Media Downloader](https://xmediadownloader.com/)；[X Media Downloader Bulk download images and videos from X pr](https://thehackstack.com/s/xmediadownloader) |
-| 6 | **claude gemini perplexity** | 2 | 2 | 🆕 | [ShareOfAsk](https://dealmyapp.com/listings/shareofask)；[AI Exporter Hub - Export AI Chats to Notion, Obsidian, PDF a](https://nothumansearch.ai/site/chatgpt2notion.com) |
-| 7 | **display pop video** | 2 | 2 | 🆕 | [FroggyAds: Self-Serve DSP & Global Ad Network Platform](https://directory6.org/listing/froggyads-self-serve-dsp-and-global-ad-network-platform-722223)；[FroggyAds](https://huludirectory.com/listing/froggyads-2261586) |
-| 8 | **export srt vtt** | 2 | 2 | 🆕 | [Transcript Generator for Any Video or Audio | Scribiz — scor](https://nothumansearch.ai/site/scribiz.com)；[TokScript](https://postlaunchkit.com/directory/tokscript) |
-| 9 | **never guessed valid** | 2 | 2 | 🆕 | [SimpleVerifier](https://whatareyoubuilding.ai/product/ogaV5fOdlpBjQPUnREwT)；[SimpleVerifier: Unlimited email verification, $39/mo (100k/m](https://nothumansearch.ai/site/simpleverifier.com) |
-| 10 | **public tiktok youtube** | 2 | 2 | 🆕 | [TokScript: Get editable text and subtitle files from a TikTo](https://saasolution.io/tool/tokscript)；[TokScript](https://postlaunchkit.com/directory/tokscript) |
-| 11 | **ai visibility tracking** | 2 | 2 | 🆕 | [ShareOfAsk](https://dealmyapp.com/listings/shareofask)；[Radarkit](https://radarkit.ai/) |
-| 12 | **biohack longevity food** | 2 | 2 | 🆕 | [Biohack Longevity Food Coach](https://www.clapstorm.com/p/biohack-longevity-food-coach)；[Biohack: Longevity Food Coach Your food coach for long-term ](https://thehackstack.com/s/usebiohack) |
-| 13 | **birthstone engagement ring** | 2 | 2 | 🆕 | [30 Persent OFF Black Friday Engagement Ring Deals](https://exampledir.com/listing/30-persent-off-black-friday-engagement-ring-deals-314108)；[30% OFF! Black Friday Engagement Ring Deals](https://a2place.com/listing/30%-off-black-friday-engagement-ring-deals-718698) |
-| 14 | **ceramic coffee mugs** | 2 | 2 | 🆕 | [CoffeifyMug](https://coffeifymug.com/)；[Ceramic Coffee Mugs And Tea Cups](https://develif.com/s/ceramic-coffee-mugs-and-tea-cups) |
-| 15 | **driven digital marketing** | 2 | 2 | 🆕 | [Digital Marketing Agency in Warangal | SVAPPS](https://huludirectory.com/listing/digital-marketing-agency-in-warangal-svapps-2261574)；[Digital Marketing & Growth Agency | Brown Panther Digital](https://directory6.org/listing/digital-marketing-and-growth-agency-brown-panther-digital-722210) |
+| 1 | **kojaram ias academy** | 3 | 3 | 🆕 | [best upsc coaching in jaipur](https://directory6.org/listing/best-upsc-coaching-in-jaipur-722447)；[best clat coaching in jaipur](https://exampledir.com/listing/best-clat-coaching-in-jaipur-314231)；[best ias coaching in jaipur](https://aweblist.org/listing/best-ias-coaching-in-jaipur-973887) |
+| 2 | **call whatsapp telegram** | 2 | 2 | 🆕 | [fone.me](https://dealmyapp.com/listings/foneme)；[Fone](https://postlaunchkit.com/directory/fone) |
+| 3 | **exploring local market** | 2 | 2 | 🆕 | [Bike On Rent in Amritsar for Local Travellers - Dau Rental](https://aweblist.org/listing/bike-on-rent-in-amritsar-for-local-travellers--dau-rental-973863)；[Bike Rent In Vrindavan - Dau Rental](https://exampledir.com/listing/bike-rent-in-vrindavan--dau-rental-314228) |
+| 4 | **2nd international conference** | 2 | 2 | 🆕 | [2nd International Conference on Recycling and Waste Manageme](https://aweblist.org/listing/2nd-international-conference-on-recycling-and-waste-management-973870)；[2nd International Conference on Optical Science and Engineer](https://a2place.com/listing/2nd-international-conference-on-optical-science-and-engineering-718725) |
+| 5 | **approval consultant chennai** | 2 | 2 | 🆕 | [Expert College Building Approval Consultants Chennai](https://huludirectory.com/listing/expert-college-building-approval-consultants-chennai-2261796)；[Professional College Plan Approval Consultants Chennai](https://exampledir.com/listing/professional-college-plan-approval-consultants-chennai-314227) |
+| 6 | **aspiring individual startup** | 2 | 2 | 🆕 | [FoSTaC Training](https://exampledir.com/listing/fostac-training-314184)；[Punam Gupta](https://directory6.org/listing/punam-gupta-722445) |
+| 7 | **belmont curse atla** | 2 | 2 | 🆕 | [Belmont's Curse Atlas](https://postlaunchkit.com/directory/belmonts-curse-atlas)；[Belmonts Curse Atlas](https://develif.com/s/belmonts-curse-atlas) |
+| 8 | **browse available helper** | 2 | 2 | 🆕 | [Looking for Maid Agency](https://exampledir.com/listing/looking-for-maid-agency-314212)；[Looking for Maid Agency in singapore](https://huludirectory.com/listing/looking-for-maid-agency-in-singapore-2261777) |
+| 9 | **difficult stroke rehabilitation** | 2 | 2 | 🆕 | [Stroke Rehabilitation for Returning to Daily Routines](https://aweblist.org/listing/stroke-rehabilitation-for-returning-to-daily-routines-973899)；[Stroke Rehabilitation for Regaining Arm and Hand Function](https://a2place.com/listing/stroke-rehabilitation-for-regaining-arm-and-hand-function-718707) |
+| 10 | **discount marine part** | 2 | 2 | 🆕 | [marine plumbing parts and supplies](https://exampledir.com/listing/marine-plumbing-parts-and-supplies-314190)；[marine rv maintenance](https://a2place.com/listing/marine-rv-maintenance-718716) |
+| 11 | **extremely autonomous agent** | 2 | 2 | 🆕 | [EXTREMELY Autonomous Agents | Build Your Paperclip Maximizer](https://nothumansearch.ai/site/extremely.agency)；[Extremely Autonomous Agents](https://azn8.com/listing/extremely-autonomous-agents) |
+| 12 | **golf cost calculator** | 2 | 2 | 🆕 | [Mini Golf Cost Calculator](https://postlaunchkit.com/directory/mini-golf-cost-calculator)；[Mini Golf Cost Calculator Plan mini golf group costs and spl](https://thehackstack.com/s/minigolfspots) |
+| 13 | **hos klinik zenit** | 2 | 2 | 🆕 | [Permanent Hårfjerning Laser](https://huludirectory.com/listing/permanent-harfjerning-laser-2261798)；[Profhilo](https://exampledir.com/listing/profhilo-314229) |
+| 14 | **lead paint abatement** | 2 | 2 | 🆕 | [How Much Does Lead Paint Removal Cost in NJ?](https://aweblist.org/listing/how-much-does-lead-paint-removal-cost-in-nj-973858)；[Affordable Lead Paint Abatement Services in NJ](https://huludirectory.com/listing/affordable-lead-paint-abatement-services-in-nj-2261788) |
+| 15 | **safer linkedin outreach** | 2 | 2 | 🆕 | [Linkyfy – LinkedIn Outreach Automation with AI](https://exampledir.com/listing/linkyfy-–-linkedin-outreach-automation-with-ai-314193)；[Linkyfy – AI LinkedIn Automation Tool](https://a2place.com/listing/linkyfy-–-ai-linkedin-automation-tool-718717) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **bayu icp filed** × 3（2 个目录）：[备案域名](https://a2place.com/listing/备案域名-718699)
-- **native display pop** × 2（2 个目录）：[FroggyAds: Self-Serve DSP & Global Ad Network Platform](https://directory6.org/listing/froggyads-self-serve-dsp-and-global-ad-network-platform-722223)；[FroggyAds](https://huludirectory.com/listing/froggyads-2261586)
-- **risky never guessed** × 2（2 个目录）：[SimpleVerifier](https://whatareyoubuilding.ai/product/ogaV5fOdlpBjQPUnREwT)；[SimpleVerifier: Unlimited email verification, $39/mo (100k/m](https://nothumansearch.ai/site/simpleverifier.com)
-- **enjoy experienced chauffeur** × 2（2 个目录）：[Corporate Transportation Services Washington DC](https://huludirectory.com/listing/corporate-transportation-services-washington-dc-2261607)；[Professional Chauffeur Service in Washington DC](https://exampledir.com/listing/professional-chauffeur-service-in-washington-dc-314142)
-- **geo oversea ads** × 2（2 个目录）：[PandaWM](https://pandawm.com/)；[Pandawm Geo Overseas Ads And Multilingual Sites](https://develif.com/s/pandawm-geo-overseas-ads-and-multilingual-sites)
-- **insight smarter planning** × 2（2 个目录）：[Business Consultant | consultant](https://aweblist.org/listing/business-consultant-consultant-973555)；[Business Consultant | consultants](https://huludirectory.com/listing/business-consultant-consultants-2261601)
-- **longevity food coach** × 2（2 个目录）：[Biohack Longevity Food Coach](https://www.clapstorm.com/p/biohack-longevity-food-coach)；[Biohack: Longevity Food Coach Your food coach for long-term ](https://thehackstack.com/s/usebiohack)
-- **luton airport minicab** × 2（2 个目录）：[Affordable Selsdon to Luton Airport Taxi | Great Service](https://aweblist.org/listing/affordable-selsdon-to-luton-airport-taxi-great-service-973539)；[Trusted Selsdon to Luton Airport Taxi | Book Online](https://a2place.com/listing/trusted-selsdon-to-luton-airport-taxi-book-online-718706)
-- **mac disk analyzer** × 2（2 个目录）：[Headroom](https://helloheadroom.com/)；[Headroom Mac Disk Analyzer And Cleanup App](https://develif.com/s/headroom-mac-disk-analyzer-and-cleanup-app)
-- **programmatic video engine** × 2（2 个目录）：[Helios](https://heliosrender.com/)；[Helios Beta Programmatic Video Engine For Developers](https://develif.com/s/helios-beta-programmatic-video-engine-for-developers)
+- **cleaning cooking childcare** × 2（2 个目录）：[Looking for Maid Agency](https://exampledir.com/listing/looking-for-maid-agency-314212)；[Looking for Maid Agency in singapore](https://huludirectory.com/listing/looking-for-maid-agency-in-singapore-2261777)
+- **dedicated youth worker** × 2（2 个目录）：[FoSTaC Training](https://exampledir.com/listing/fostac-training-314184)；[Punam Gupta](https://directory6.org/listing/punam-gupta-722445)
+- **extremely autonomous ai** × 2（2 个目录）：[EXTREMELY Autonomous Agents | Build Your Paperclip Maximizer](https://nothumansearch.ai/site/extremely.agency)；[Extremely Autonomous Agents](https://azn8.com/listing/extremely-autonomous-agents)
+- **jaipur kojaram ias** × 2（2 个目录）：[best upsc coaching in jaipur](https://directory6.org/listing/best-upsc-coaching-in-jaipur-722447)；[best ias coaching in jaipur](https://aweblist.org/listing/best-ias-coaching-in-jaipur-973887)
+- **mini golf cost** × 2（2 个目录）：[Mini Golf Cost Calculator](https://postlaunchkit.com/directory/mini-golf-cost-calculator)；[Mini Golf Cost Calculator Plan mini golf group costs and spl](https://thehackstack.com/s/minigolfspots)
+- **animated gif** × 2（2 个目录）：[AI GIF Maker](https://aigifmaker.ai/)；[AI GIF Gen](https://aigifgen.com/)
+- **layer export** × 2（2 个目录）：[LayerGrab: Split a flat poster or banner back into named lay](https://saasolution.io/tool/layergrab)；[LayerGrab](https://webrankdirectory.org/listing/layergrab)
+- **lead singer** × 2（2 个目录）：[Uptown Funk AI Video](https://whatareyoubuilding.ai/product/e7O829p1q1M12QUSb38R)；[Tiny Desk AI](https://tinydeskclip.com/)
+- **local draft** × 2（2 个目录）：[AI Song Writer](https://dealmyapp.com/listings/ai-song-writer)；[ResumeInvited](https://resumeinvited.com/)
+- **photo gifs** × 2（2 个目录）：[GetFaceSwap](https://getfaceswap.com/)；[Beavery Turn one video into Live Photos, GIFs and stills 💬 0](https://thehackstack.com/s/beavery-savetimefor)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **aged domain marketplace** × 3（2 个目录）：[备案域名](https://a2place.com/listing/备案域名-718699)；[备案域名平台](https://exampledir.com/listing/备案域名平台-314102)；[备案域名购买](https://a2place.com/listing/备案域名购买-718700)
-- **weird greeting card** × 3（3 个目录）：[Make It Weird Studio](https://makeitweirdstudio.com/)；[Make It Weird Studio Build Weird Greeting Cards With Charact](https://develif.com/s/make-it-weird-studio-build-weird-greeting-cards-with-characters-colour-and-your-own)；[Make It Weird Studio Create Delightfully Weird Greeting Card](https://thehackstack.com/s/makeitweirdstudio)
-- **bible study** × 4（2 个目录）：[FORGED: Daily Bible for Men](https://getforged.rork.app/)；[Lampstep: Bible for Real Life](https://lampstep.rork.app/)；[Scrollway: Bible Study Game](https://apps.apple.com/app/id6821770165)；[Wayfold: Understand the Bible](https://wayfold.rork.app/)
-- **orland park** × 4（2 个目录）：[Brazilian Butt Lift | Brazilian Butt lift Surgery in Orland ](https://huludirectory.com/listing/brazilian-butt-lift-brazilian-butt-lift-surgery-in-orland-park-2261593)；[Cosmetic Surgeons | Cosmetic Surgeons in Orland Park](https://huludirectory.com/listing/cosmetic-surgeons-cosmetic-surgeons-in-orland-park-2261580)；[Westside Children's Therapy Orland Park (North)](https://directory6.org/listing/westside-childrens-therapy-orland-park-(north-722242)；[Westside Children's Therapy Orland Park (South)](https://directory6.org/listing/westside-childrens-therapy-orland-park-(south-722244)
-- **featuring beautiful** × 3（3 个目录）：[30% OFF! Black Friday Engagement Ring Deals](https://a2place.com/listing/30%-off-black-friday-engagement-ring-deals-718698)；[30 Persent OFF Black Friday Engagement Ring Deals](https://exampledir.com/listing/30-persent-off-black-friday-engagement-ring-deals-314108)；[Find Pre Pleated Silk Saree Styles for Special Days | Vibha](https://huludirectory.com/listing/find-pre-pleated-silk-saree-styles-for-special-days-vibha-2261561)
-- **rap performance** × 3（2 个目录）：[AI Rap Video Spot](https://whatareyoubuilding.ai/product/5tSZWqGkrq5tdeLiBi6s)；[EzAiRapVideo](https://gateofai.com/community-tools/ezairapvideo)；[RapAIVideos](https://whatareyoubuilding.ai/product/o1rqkKGQM7d9pgoYHTKf)
-- **sumus ai** × 3（5 个目录）：[Sumus Ai](https://agents-launch.lovable.app/agents/sumus-ai)；[Sumus Ai Ai Teammates Workspace](https://dang.ai/tool/sumus-ai-ai-teammates-workspace)；[Sumus Ai Shared Workspace](https://develif.com/s/sumus-ai-shared-workspace)
-- **puzzle game** × 4（3 个目录）：[Cognilo: Brain Training Games](https://cognilo.rork.app/)；[Free Daily Word Puzzle Games List](https://develif.com/s/free-daily-word-puzzle-games-list)；[Number Puzzles: Sumbriska](https://number-puzzles-sumbriska.rork.app/)；[YesNoMystery Lateral Thinking Puzzle Game](https://a2place.com/listing/yesnomystery-lateral-thinking-puzzle-game-718695)
+- **kojaram ias academy** × 3（3 个目录）：[best clat coaching in jaipur](https://exampledir.com/listing/best-clat-coaching-in-jaipur-314231)；[best ias coaching in jaipur](https://aweblist.org/listing/best-ias-coaching-in-jaipur-973887)；[best upsc coaching in jaipur](https://directory6.org/listing/best-upsc-coaching-in-jaipur-722447)
+- **chinese stroke order** × 3（2 个目录）：[Chinese Stroke Order Ai Teacher](https://aitoolseekers.com/tools/chinese-stroke-order-ai-teacher)；[Chinese Stroke Order Ai Teacher.Md](https://aitoolseekers.com/tools/chinese-stroke-order-ai-teacher.md)；[Chinese Stroke Order: Learn to write Chinese characters stro](https://saasolution.io/tool/chinese-stroke-order)
+- **contain sildenafil citrate** × 3（3 个目录）：[Eriacta 100 Mg And Managing Stress For Better Sexual Health](https://huludirectory.com/listing/eriacta-100-mg-and-managing-stress-for-better-sexual-health-2261793)；[Silagra 50 Mg And Healthy Habits For Sexual Wellness](https://exampledir.com/listing/silagra-50-mg-and-healthy-habits-for-sexual-wellness-314221)；[Suhagra 100 mg And Heart-Healthy Habits For Men](https://aweblist.org/listing/suhagra-100-mg-and-heart-healthy-habits-for-men-973878)
+- **serial number** × 5（2 个目录）：[Age by Serial Number Check supported water heater and HVAC d](https://thehackstack.com/s/agebyserialnumber)；[Boat Serial Number Read supported boat and outboard identifi](https://thehackstack.com/s/boatserialnumber)；[Guitar Serial Number Date supported guitars and amplifiers 💬](https://thehackstack.com/s/guitarserialnumber)；[Image Metadata Viewer](https://10015.io/tools/image-metadata-viewer)
+- **lahore pakistan** × 4（2 个目录）：[Dental Surgeons](https://dentalsurgeons.pk/)；[Reliable Air Conditioning and HVAC Services Pakistan](https://directory6.org/listing/reliable-air-conditioning-and-hvac-services-pakistan-722457)；[Workman Services HVAC and MEP Solutions](https://directory6.org/listing/workman-services-hvac-and-mep-solutions-722451)；[Workman Services HVAC Contractor Lahore Pakistan](https://directory6.org/listing/workman-services-hvac-contractor-lahore-pakistan-722463)
+- **pay tracker** × 3（3 个目录）：[Earncheck Shift Pay Tracker](https://launchsignal.ai/l/earncheck-shift-pay-tracker)；[Work Hours And Pay Tracker](https://develif.com/s/work-hours-and-pay-tracker)；[Work Hours & Pay Tracker](https://valentynk.gumroad.com/l/aopxwd)
+- **whole family** × 3（2 个目录）：[Family Dentist in Plano and Garland at Shifa Dental Book You](https://huludirectory.com/listing/family-dentist-in-plano-and-garland-at-shifa-dental-book-your-visit-for-the-whole-family-2261803)；[Fincurry: Track what the whole family spends, cash included,](https://saasolution.io/tool/fincurry)；[Nuzzle: Log your baby's feeds, sleep and diapers in one reco](https://saasolution.io/tool/nuzzle)
+- **digital marketing strategy** × 3（3 个目录）：[Best SEO Expert Agency – SEO Marketing Agency](https://aweblist.org/listing/best-seo-expert-agency-–-seo-marketing-agency-973889)；[Celebrity Marketing for iGaming: Build Brand Awareness and R](https://directory6.org/listing/celebrity-marketing-for-igaming-build-brand-awareness-and-reach-more-players-722468)；[Freelance digital marketing](https://huludirectory.com/listing/freelance-digital-marketing-2261785)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| canopystack.dev | 119 | Other(61)、SaaS(38)、Dev tool(11) |
-| listedstartups.com | 100 | Industrial Software, Engineering Tools, Valves(6)、AI, Machine Learning, Data(2)、Manufacturing, SaaS, AI(2) |
-| develif.com | 94 | s(92) |
-| thataicollection.com | 76 | application(75) |
-| clapstorm.com | 64 | p(62) |
-| dynamite-ai.com | 53 | tools(53) |
-| thehackstack.com | 51 |  |
+| listedstartups.com | 100 | Industrial Software, Engineering Tools, Bearings(5)、Education(2)、AI, Enterprise, SaaS, Automation(1) |
+| entireweb.com | 89 | bg(89) |
+| dynamite-ai.com | 86 | tools(86) |
+| canopystack.dev | 85 | Other(43)、SaaS(26)、Dev tool(6) |
+| aitoolseekers.com | 76 | tools(76) |
+| develif.com | 70 | s(68) |
+| corpus.blog | 67 | sites(67) |
+| thataicollection.com | 67 | application(67) |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
 | exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
-| planet-ai.net | 50 | ContentCategory.RESEARCH(31)、ContentCategory.NEWS(16)、ContentCategory.TUTORIAL(1) |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- dinesend.com（DineSend）：canopystack.dev, launch.ignlab.net, listedstartups.com, zearches.com
-- excerpt.pro（Excerpt）：canopystack.dev, launch.ignlab.net, listedstartups.com, worthtotry.com
-- awenfold.com（Awenfold）：canopystack.dev, hyzenpro.com, worthtotry.com
-- inkbyyou.com（InkByYou）：canopystack.dev, listedstartups.com, zearches.com
-- king-ai.net（King AI Video & Image Generator）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- lovimg.com（Lovimg）：canopystack.dev, hyzenpro.com, zearches.com
-- wishora.studio（Wishora）：canopystack.dev, launch.ignlab.net, worthtotry.com
-- wordsintomusic.com（Words into Music）：canopystack.dev, listedstartups.com, worthtotry.com
-- agentskillshub.dev（）：hyzenpro.com, webgora.com
-- ai-rap.org（AI Rap）：canopystack.dev, listedstartups.com
+- blog.google（Google EmbeddingGemma 2）：aitoolly.com, bestaitools.com, planet-ai.net, thequestion.it
+- veida.ai（Veida AI）：canopystack.dev, listedstartups.com, toolgrep.com, worthtotry.com
+- agenttaste.dev（AgentTaste）：hyzenpro.com, launch.ignlab.net, worthtotry.com
+- aitrendvideo.net（AI Trend Video）：canopystack.dev, worthtotry.com, zearches.com
+- dimedimebaby-ai.org（Dime Dime Baby AI）：canopystack.dev, hyzenpro.com, launch.ignlab.net
+- froging.ai（Froging AI）：canopystack.dev, worthtotry.com, zearches.com
+- lootrundown.com（LootRundown）：canopystack.dev, launch.ignlab.net, zearches.com
+- lovewatch.live（LoveWatch AI）：canopystack.dev, hyzenpro.com, listedstartups.com
+- oraclip.com（Oraclip）：canopystack.dev, hyzenpro.com, listedstartups.com
+- payhip.com（）：canopystack.dev, hyzenpro.com, zearches.com
 
 ## 我们的站点已被目录公开展示
 
@@ -114,19 +113,18 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 12 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 12 天）
-- sitelike-org: RuntimeError: http 403（连续 12 天）
-- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 7 天）
-- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 5 天）
-- ailibri-com: ConnectionError: HTTPSConnectionPool(host='ailibri.com', port=443): Max retries exceeded with url: /rss (Caused by NewConnectionError("HTTPSConnection(host='ailibri.com', port=443): Failed to establis（连续 1 天）
-- foundr-ai: RuntimeError: http 403（连续 12 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 12 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 12 天）
-- discoverly-tech: RuntimeError: sitemap http 403（连续 2 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f363425c2（连续 9 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 12 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 12 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 12 天）
+- canadawebdir-com: RuntimeError: http 403（连续 13 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 13 天）
+- sitelike-org: RuntimeError: http 403（连续 13 天）
+- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 6 天）
+- usefuturestack-com: RuntimeError: http 402（连续 1 天）
+- foundr-ai: RuntimeError: http 403（连续 13 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 13 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 13 天）
+- discoverly-tech: RuntimeError: sitemap http 403（连续 3 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f2b742c4d（连续 10 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 13 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 13 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 13 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar

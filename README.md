@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-05** · 新增 1542 · 监控 197 个目录（今日成功 183）
+**2026-11-06** · 新增 1683 · 监控 197 个目录（今日成功 184）
 
 聚焦小词 Top 15:
 
-- `aged domain marketplace` ×3（2 目录） 🆕：备案域名
-- `weird greeting card` ×3（3 目录） 🆕：Make It Weird Studio；Make It Weird Studio Build Weird Greeting Cards With Charact
-- `bible study` ×4（2 目录） 🆕：Wayfold: Understand the Bible；Lampstep: Bible for Real Life
-- `orland park` ×4（2 目录） 🆕：Westside Children's Therapy Orland Park (North)；Westside Children's Therapy Orland Park (South)
-- `bulk download image` ×2（3 目录） 🆕：X Media Downloader；X Media Downloader Bulk download images and videos from X pr
-- `claude gemini perplexity` ×2（2 目录） 🆕：ShareOfAsk；AI Exporter Hub - Export AI Chats to Notion, Obsidian, PDF a
-- `display pop video` ×2（2 目录） 🆕：FroggyAds: Self-Serve DSP & Global Ad Network Platform；FroggyAds
-- `export srt vtt` ×2（2 目录） 🆕：Transcript Generator for Any Video or Audio | Scribiz — scor；TokScript
-- `never guessed valid` ×2（2 目录） 🆕：SimpleVerifier；SimpleVerifier: Unlimited email verification, $39/mo (100k/m
-- `public tiktok youtube` ×2（2 目录） 🆕：TokScript: Get editable text and subtitle files from a TikTo；TokScript
-- `ai visibility tracking` ×2（2 目录） 🆕：ShareOfAsk；Radarkit
-- `biohack longevity food` ×2（2 目录） 🆕：Biohack Longevity Food Coach；Biohack: Longevity Food Coach Your food coach for long-term 
-- `birthstone engagement ring` ×2（2 目录） 🆕：30 Persent OFF Black Friday Engagement Ring Deals；30% OFF! Black Friday Engagement Ring Deals
-- `ceramic coffee mugs` ×2（2 目录） 🆕：CoffeifyMug；Ceramic Coffee Mugs And Tea Cups
-- `driven digital marketing` ×2（2 目录） 🆕：Digital Marketing Agency in Warangal | SVAPPS；Digital Marketing & Growth Agency | Brown Panther Digital
+- `kojaram ias academy` ×3（3 目录） 🆕：best upsc coaching in jaipur；best clat coaching in jaipur
+- `call whatsapp telegram` ×2（2 目录） 🆕：fone.me；Fone
+- `exploring local market` ×2（2 目录） 🆕：Bike On Rent in Amritsar for Local Travellers - Dau Rental；Bike Rent In Vrindavan - Dau Rental
+- `2nd international conference` ×2（2 目录） 🆕：2nd International Conference on Recycling and Waste Manageme；2nd International Conference on Optical Science and Engineer
+- `approval consultant chennai` ×2（2 目录） 🆕：Expert College Building Approval Consultants Chennai；Professional College Plan Approval Consultants Chennai
+- `aspiring individual startup` ×2（2 目录） 🆕：FoSTaC Training；Punam Gupta
+- `belmont curse atla` ×2（2 目录） 🆕：Belmont's Curse Atlas；Belmonts Curse Atlas
+- `browse available helper` ×2（2 目录） 🆕：Looking for Maid Agency；Looking for Maid Agency in singapore
+- `difficult stroke rehabilitation` ×2（2 目录） 🆕：Stroke Rehabilitation for Returning to Daily Routines；Stroke Rehabilitation for Regaining Arm and Hand Function
+- `discount marine part` ×2（2 目录） 🆕：marine plumbing parts and supplies；marine rv maintenance
+- `extremely autonomous agent` ×2（2 目录） 🆕：EXTREMELY Autonomous Agents | Build Your Paperclip Maximizer；Extremely Autonomous Agents
+- `golf cost calculator` ×2（2 目录） 🆕：Mini Golf Cost Calculator；Mini Golf Cost Calculator Plan mini golf group costs and spl
+- `hos klinik zenit` ×2（2 目录） 🆕：Permanent Hårfjerning Laser；Profhilo
+- `lead paint abatement` ×2（2 目录） 🆕：How Much Does Lead Paint Removal Cost in NJ?；Affordable Lead Paint Abatement Services in NJ
+- `safer linkedin outreach` ×2（2 目录） 🆕：Linkyfy – LinkedIn Outreach Automation with AI；Linkyfy – AI LinkedIn Automation Tool
 
 微赛道归纳:
 
-- AI 内容导出与可见性追踪：claude gemini perplexity、ai visibility tracking、export srt vtt、public tiktok youtube —— 将多平台 AI 对话或视频内容导出至笔记软件，并监测品牌在 AI 搜索中的曝光度
-- 垂直领域营销与广告工具：display pop video、native display pop、geo oversea ads、driven digital marketing、insight smarter planning —— 提供自助式展示广告投放、海外地理定向广告及数字化营销咨询
-- 域名与合规验证服务：aged domain marketplace、bayu icp filed、never guessed valid、risky never guessed —— 提供老域名交易、ICP 备案查询及大规模邮箱有效性验证
-- 细分兴趣与生活方式电商：weird greeting card、birthstone engagement ring、ceramic coffee mugs、biohack longevity food —— 销售特色贺卡、定制珠宝、陶瓷杯及长寿饮食指导等细分消费品
-- 本地生活与专业服务：orland park、enjoy experienced chauffeur、bible study —— 提供特定地区的儿童治疗、商务专车接送及圣经学习辅助服务
-- 媒体批量下载工具：bulk download image —— 支持从社交媒体批量下载图片和视频
+- 印度考公与法律培训：kojaram ias academy、jaipur kojaram ias —— 提供针对UPSC、CLAT等考试的在线或线下辅导服务
+- 本地生活与家政中介：exploring local market、browse available helper、cleaning cooking childcare —— 提供自行车租赁、家政保姆及本地生活服务的匹配平台
+- AI自动化与智能体开发：extremely autonomous agent、extremely autonomous ai、safer linkedin outreach、animated gif —— 开发高度自主的AI智能体、LinkedIn自动化营销及AI生成GIF工具
+- 医疗健康与康复护理：difficult stroke rehabilitation、hos klinik zenit、lead paint abatement —— 涵盖中风康复、激光美容诊所及铅漆清除等健康与环境安全服务
+- 垂直行业咨询与工具：approval consultant chennai、discount marine part、golf cost calculator、mini golf cost —— 提供建筑审批咨询、船用零件供应及迷你高尔夫成本计算等细分领域服务
+- 青年培训与创业支持：aspiring individual startup、dedicated youth worker、2nd international conference —— 面向青年提供创业培训、社工服务及国际学术会议组织
 
-完整报告: [reports/2026-11-05.md](reports/2026-11-05.md)
+完整报告: [reports/2026-11-06.md](reports/2026-11-06.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
