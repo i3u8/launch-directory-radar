@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-06** · 新增 1683 · 监控 197 个目录（今日成功 184）
+**2026-11-07** · 新增 1465 · 监控 197 个目录（今日成功 181）
 
 聚焦小词 Top 15:
 
-- `kojaram ias academy` ×3（3 目录） 🆕：best upsc coaching in jaipur；best clat coaching in jaipur
-- `call whatsapp telegram` ×2（2 目录） 🆕：fone.me；Fone
-- `exploring local market` ×2（2 目录） 🆕：Bike On Rent in Amritsar for Local Travellers - Dau Rental；Bike Rent In Vrindavan - Dau Rental
-- `2nd international conference` ×2（2 目录） 🆕：2nd International Conference on Recycling and Waste Manageme；2nd International Conference on Optical Science and Engineer
-- `approval consultant chennai` ×2（2 目录） 🆕：Expert College Building Approval Consultants Chennai；Professional College Plan Approval Consultants Chennai
-- `aspiring individual startup` ×2（2 目录） 🆕：FoSTaC Training；Punam Gupta
-- `belmont curse atla` ×2（2 目录） 🆕：Belmont's Curse Atlas；Belmonts Curse Atlas
-- `browse available helper` ×2（2 目录） 🆕：Looking for Maid Agency；Looking for Maid Agency in singapore
-- `difficult stroke rehabilitation` ×2（2 目录） 🆕：Stroke Rehabilitation for Returning to Daily Routines；Stroke Rehabilitation for Regaining Arm and Hand Function
-- `discount marine part` ×2（2 目录） 🆕：marine plumbing parts and supplies；marine rv maintenance
-- `extremely autonomous agent` ×2（2 目录） 🆕：EXTREMELY Autonomous Agents | Build Your Paperclip Maximizer；Extremely Autonomous Agents
-- `golf cost calculator` ×2（2 目录） 🆕：Mini Golf Cost Calculator；Mini Golf Cost Calculator Plan mini golf group costs and spl
-- `hos klinik zenit` ×2（2 目录） 🆕：Permanent Hårfjerning Laser；Profhilo
-- `lead paint abatement` ×2（2 目录） 🆕：How Much Does Lead Paint Removal Cost in NJ?；Affordable Lead Paint Abatement Services in NJ
-- `safer linkedin outreach` ×2（2 目录） 🆕：Linkyfy – LinkedIn Outreach Automation with AI；Linkyfy – AI LinkedIn Automation Tool
+- `surrey home` ×6（2 目录） 🆕：Real Estate Agents in Surrey BC | surrey homes；Condos for Sale in Surrey BC | surrey homes
+- `image26 gpt image` ×3（2 目录） 🆕：Image26 — GPT Image 2.6 AI Image Generator；Image26 Gpt Images 26
+- `long term living` ×3（2 目录） 🆕：Sharath Nalamothu Forest Nation；Sharath Nalamothu Forest Nation-f
+- `nature inspired lifestyle` ×3（2 目录） 🆕：Sharath Nalamothu Forest Nation；Sharath Nalamothu Forest Nation-f
+- `convert pdfs image` ×2（2 目录） 🆕：styleLatex；prepare editable math documents
+- `fps sensitivity converter` ×2（2 目录） 🆕：Sensitivity Converter；Sensitivity Converter Free FPS sensitivity converter — cm/36
+- `trading bot builder` ×2（2 目录） 🆕：Poly Research & Robotics；PositionAlpha
+- `tandoori trail` ×8（2 目录）：Butter Chicken Restaurant | best chicken bc；Butter Chicken Restaurant Near Me | best chicken
+- `acidity stomach pain` ×2（2 目录） 🆕：Best Gastroenterologist In Hyderabad - Dr Rahul；Gastroenterologist in Pragathi Nagar, Hyderabad
+- `amazon kdp print` ×2（3 目录） 🆕：Libreus - AI Book Design & Formatting Platform；Libreus - AI Typesetting & Book Formatting Tool
+- `grow ppfd dli` ×2（2 目录） 🆕：THE GROW PPFD-, DLI- und Stromkosten-Rechner；The Grow Ppfd Dli And Electricity Cost Calculator
+- `improve workflow efficiency` ×2（2 目录） 🆕：AI Jewellery ERP Software – Intelligent Business Management ；AI Software for Jewellery Wholesalers – Smart Wholesale Mana
+- `iphone ipad android` ×2（2 目录） 🆕：YouTube Whitelist App for Kids | WhitelistVideo — score 55/1；BuildWire Calc: Size wires and check voltage drop on a job s
+- `linkedin pinpoint answer` ×2（2 目录） 🆕：Pinpoint Today；Pinpoint Today Today's LinkedIn Pinpoint answer, hint and cl
+- `luxury car showroom` ×2（2 目录） 🆕：luxury car showroom in nagpur；luxury car showroom in surat
 
 微赛道归纳:
 
-- 印度考公与法律培训：kojaram ias academy、jaipur kojaram ias —— 提供针对UPSC、CLAT等考试的在线或线下辅导服务
-- 本地生活与家政中介：exploring local market、browse available helper、cleaning cooking childcare —— 提供自行车租赁、家政保姆及本地生活服务的匹配平台
-- AI自动化与智能体开发：extremely autonomous agent、extremely autonomous ai、safer linkedin outreach、animated gif —— 开发高度自主的AI智能体、LinkedIn自动化营销及AI生成GIF工具
-- 医疗健康与康复护理：difficult stroke rehabilitation、hos klinik zenit、lead paint abatement —— 涵盖中风康复、激光美容诊所及铅漆清除等健康与环境安全服务
-- 垂直行业咨询与工具：approval consultant chennai、discount marine part、golf cost calculator、mini golf cost —— 提供建筑审批咨询、船用零件供应及迷你高尔夫成本计算等细分领域服务
-- 青年培训与创业支持：aspiring individual startup、dedicated youth worker、2nd international conference —— 面向青年提供创业培训、社工服务及国际学术会议组织
+- 印度风味餐饮：tandoori trail、authentic indian cuisine、butter chicken creamy、indian inspired chicken —— 提供黄油鸡、坦都里烤鸡等正宗印度风味餐食的餐厅服务
+- AI图像生成与文档处理：image26 gpt image、convert pdfs image、image handwritten note —— 利用GPT等AI技术生成图像或将PDF、手写笔记转换为可编辑文档
+- 本地生活与房产服务：surrey home、luxury car showroom —— 提供特定地区（如Surrey、Nagpur）的房产中介及豪华汽车展厅服务
+- 垂直行业效率工具：trading bot builder、improve workflow efficiency、linkedin pinpoint answer、grow ppfd dli、fps sensitivity converter、iphone ipad android —— 涵盖交易机器人、珠宝ERP、LinkedIn答题、种植光照计算、FPS灵敏度转换及跨平台应用等细分领域的效率工
+- 健康与生活方式：long term living、nature inspired lifestyle、bring together greenery、acidity stomach pain、advanced diagnosis personalized —— 聚焦森林自然生活理念及胃肠疾病（如胃酸过多）的个性化诊断与医生服务
+- KDP出版辅助：amazon kdp print —— 提供AI驱动的书籍设计、排版及格式化服务以支持亚马逊KDP出版
 
-完整报告: [reports/2026-11-06.md](reports/2026-11-06.md)
+完整报告: [reports/2026-11-07.md](reports/2026-11-07.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

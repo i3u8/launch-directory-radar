@@ -1,0 +1,666 @@
+{
+ "date": "2026-11-07",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 181,
+ "sources_failed": 16,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "listedstartups-com",
+  "my2077-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "rajaharimau-xyz",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "promoteindex-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1465,
+ "new_today_unique": 1344,
+ "ai_share_today": 0.25,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "surrey home",
+   "count": 6,
+   "sources": 2,
+   "ratio": 207.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Real Estate Agents in Surrey BC | surrey homes",
+     "url": "https://exampledir.com/listing/real-estate-agents-in-surrey-bc-surrey-homes-314276"
+    },
+    {
+     "name": "Condos for Sale in Surrey BC | surrey homes",
+     "url": "https://exampledir.com/listing/condos-for-sale-in-surrey-bc-surrey-homes-314280"
+    },
+    {
+     "name": "Real Estate Agents Near Me | surrey homes",
+     "url": "https://exampledir.com/listing/real-estate-agents-near-me-surrey-homes-314279"
+    }
+   ]
+  },
+  {
+   "term": "image26 gpt image",
+   "count": 3,
+   "sources": 2,
+   "ratio": 103.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Image26 — GPT Image 2.6 AI Image Generator",
+     "url": "https://image26.org/"
+    },
+    {
+     "name": "Image26 Gpt Images 26",
+     "url": "https://aitoolseekers.com/tools/image26-gpt-images-26"
+    },
+    {
+     "name": "Image26 Gpt Images 26.Md",
+     "url": "https://aitoolseekers.com/tools/image26-gpt-images-26.md"
+    }
+   ]
+  },
+  {
+   "term": "long term living",
+   "count": 3,
+   "sources": 2,
+   "ratio": 103.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Sharath Nalamothu Forest Nation",
+     "url": "https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297"
+    },
+    {
+     "name": "Sharath Nalamothu Forest Nation-f",
+     "url": "https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576"
+    },
+    {
+     "name": "Buy plots in Hyderabad-f",
+     "url": "https://directory6.org/listing/buy-plots-in-hyderabad-f-722572"
+    }
+   ]
+  },
+  {
+   "term": "nature inspired lifestyle",
+   "count": 3,
+   "sources": 2,
+   "ratio": 103.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Sharath Nalamothu Forest Nation",
+     "url": "https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297"
+    },
+    {
+     "name": "Sharath Nalamothu Forest Nation-f",
+     "url": "https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576"
+    },
+    {
+     "name": "HMDA open plots in Hyderabad-f",
+     "url": "https://directory6.org/listing/hmda-open-plots-in-hyderabad-f-722571"
+    }
+   ]
+  },
+  {
+   "term": "convert pdfs image",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "styleLatex",
+     "url": "https://stylelatex.com/"
+    },
+    {
+     "name": "prepare editable math documents",
+     "url": "https://directory6.org/listing/prepare-editable-math-documents-722557"
+    }
+   ]
+  },
+  {
+   "term": "fps sensitivity converter",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Sensitivity Converter",
+     "url": "https://azn8.com/listing/sensitivity-converter"
+    },
+    {
+     "name": "Sensitivity Converter Free FPS sensitivity converter — cm/36",
+     "url": "https://thehackstack.com/s/sensitivityconverter"
+    }
+   ]
+  },
+  {
+   "term": "trading bot builder",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Poly Research & Robotics",
+     "url": "https://polyresearchrobotics.com/"
+    },
+    {
+     "name": "PositionAlpha",
+     "url": "https://positionalpha.io/"
+    }
+   ]
+  },
+  {
+   "term": "tandoori trail",
+   "count": 8,
+   "sources": 2,
+   "ratio": 55.3,
+   "new": false,
+   "examples": [
+    {
+     "name": "Butter Chicken Restaurant | best chicken bc",
+     "url": "https://exampledir.com/listing/butter-chicken-restaurant-best-chicken-bc-314303"
+    },
+    {
+     "name": "Butter Chicken Restaurant Near Me | best chicken",
+     "url": "https://huludirectory.com/listing/butter-chicken-restaurant-near-me-best-chicken-2261908"
+    },
+    {
+     "name": "Butter Chicken Restaurant Near Me | best chicken bc",
+     "url": "https://exampledir.com/listing/butter-chicken-restaurant-near-me-best-chicken-bc-314301"
+    }
+   ]
+  },
+  {
+   "term": "acidity stomach pain",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Gastroenterologist In Hyderabad - Dr Rahul",
+     "url": "https://huludirectory.com/listing/best-gastroenterologist-in-hyderabad--dr-rahul-2261924"
+    },
+    {
+     "name": "Gastroenterologist in Pragathi Nagar, Hyderabad",
+     "url": "https://directory6.org/listing/gastroenterologist-in-pragathi-nagar-hyderabad-722600"
+    }
+   ]
+  },
+  {
+   "term": "amazon kdp print",
+   "count": 2,
+   "sources": 3,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Libreus - AI Book Design & Formatting Platform",
+     "url": "https://a2place.com/listing/libreus--ai-book-design-and-formatting-platform-718731"
+    },
+    {
+     "name": "Libreus - AI Typesetting & Book Formatting Tool",
+     "url": "https://exampledir.com/listing/libreus--ai-typesetting-and-book-formatting-tool-314283"
+    }
+   ]
+  },
+  {
+   "term": "grow ppfd dli",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "THE GROW PPFD-, DLI- und Stromkosten-Rechner",
+     "url": "https://postlaunchkit.com/directory/the-grow-ppfd-dli-und-stromkosten-rechner"
+    },
+    {
+     "name": "The Grow Ppfd Dli And Electricity Cost Calculator",
+     "url": "https://develif.com/s/the-grow-ppfd-dli-and-electricity-cost-calculator"
+    }
+   ]
+  },
+  {
+   "term": "improve workflow efficiency",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Jewellery ERP Software – Intelligent Business Management ",
+     "url": "https://directory6.org/listing/ai-jewellery-erp-software-–-intelligent-business-management-solutions-by-jwelly-ai-722602"
+    },
+    {
+     "name": "AI Software for Jewellery Wholesalers – Smart Wholesale Mana",
+     "url": "https://aweblist.org/listing/ai-software-for-jewellery-wholesalers-–-smart-wholesale-management-by-jwelly-ai-974119"
+    }
+   ]
+  },
+  {
+   "term": "iphone ipad android",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "YouTube Whitelist App for Kids | WhitelistVideo — score 55/1",
+     "url": "https://nothumansearch.ai/site/whitelist.video"
+    },
+    {
+     "name": "BuildWire Calc: Size wires and check voltage drop on a job s",
+     "url": "https://saasolution.io/tool/buildwire-calc"
+    }
+   ]
+  },
+  {
+   "term": "linkedin pinpoint answer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Pinpoint Today",
+     "url": "https://pinpointanswertoday.today/"
+    },
+    {
+     "name": "Pinpoint Today Today's LinkedIn Pinpoint answer, hint and cl",
+     "url": "https://thehackstack.com/s/pinpointanswertoday-3"
+    }
+   ]
+  },
+  {
+   "term": "luxury car showroom",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "luxury car showroom in nagpur",
+     "url": "https://huludirectory.com/listing/luxury-car-showroom-in-nagpur-2261900"
+    },
+    {
+     "name": "luxury car showroom in surat",
+     "url": "https://exampledir.com/listing/luxury-car-showroom-in-surat-314288"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "image handwritten note",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "styleLatex",
+     "url": "https://stylelatex.com/"
+    },
+    {
+     "name": "prepare editable math documents",
+     "url": "https://directory6.org/listing/prepare-editable-math-documents-722557"
+    }
+   ]
+  },
+  {
+   "term": "advanced diagnosis personalized",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Gastroenterologist In Hyderabad - Dr Rahul",
+     "url": "https://huludirectory.com/listing/best-gastroenterologist-in-hyderabad--dr-rahul-2261924"
+    },
+    {
+     "name": "Gastroenterologist in Pragathi Nagar, Hyderabad",
+     "url": "https://directory6.org/listing/gastroenterologist-in-pragathi-nagar-hyderabad-722600"
+    }
+   ]
+  },
+  {
+   "term": "authentic indian cuisine",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Butter Chicken Restaurant Near Me | best chicken",
+     "url": "https://huludirectory.com/listing/butter-chicken-restaurant-near-me-best-chicken-2261908"
+    },
+    {
+     "name": "Butter Chicken Restaurant Near Me | best chicken bc",
+     "url": "https://exampledir.com/listing/butter-chicken-restaurant-near-me-best-chicken-bc-314301"
+    }
+   ]
+  },
+  {
+   "term": "bring together greenery",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Sharath Nalamothu Forest Nation",
+     "url": "https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297"
+    },
+    {
+     "name": "Sharath Nalamothu Forest Nation-f",
+     "url": "https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576"
+    }
+   ]
+  },
+  {
+   "term": "butter chicken creamy",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Butter Chicken Near Me | best chicken",
+     "url": "https://huludirectory.com/listing/best-butter-chicken-near-me-best-chicken-2261909"
+    },
+    {
+     "name": "Best Butter Chicken Near Me | best chicken bc",
+     "url": "https://exampledir.com/listing/best-butter-chicken-near-me-best-chicken-bc-314302"
+    }
+   ]
+  },
+  {
+   "term": "indian inspired chicken",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Indian Grilled Chicken | best rest",
+     "url": "https://exampledir.com/listing/indian-grilled-chicken-best-rest-314305"
+    },
+    {
+     "name": "Best Tandoori Chicken Near Me | best rest",
+     "url": "https://exampledir.com/listing/best-tandoori-chicken-near-me-best-rest-314306"
+    }
+   ]
+  },
+  {
+   "term": "kdp print layout",
+   "count": 2,
+   "sources": 3,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Libreus - AI Book Design & Formatting Platform",
+     "url": "https://a2place.com/listing/libreus--ai-book-design-and-formatting-platform-718731"
+    },
+    {
+     "name": "Libreus - AI Typesetting & Book Formatting Tool",
+     "url": "https://exampledir.com/listing/libreus--ai-typesetting-and-book-formatting-tool-314283"
+    }
+   ]
+  },
+  {
+   "term": "nature inspired planning",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "best villa communities in hyderabad-f",
+     "url": "https://directory6.org/listing/best-villa-communities-in-hyderabad-f-722574"
+    },
+    {
+     "name": "Residential plots in Hyderabad-f",
+     "url": "https://directory6.org/listing/residential-plots-in-hyderabad-f-722570"
+    }
+   ]
+  },
+  {
+   "term": "openmontage drama studio",
+   "count": 2,
+   "sources": 5,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "OpenMontage Drama Studio",
+     "url": "https://postlaunchkit.com/directory/openmontage-drama-studio"
+    },
+    {
+     "name": "OpenMontage Drama Studio — score 65/100 (other)",
+     "url": "https://nothumansearch.ai/site/openmontage.dtok.io"
+    }
+   ]
+  },
+  {
+   "term": "operation improve workflow",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Jewellery ERP Software – Intelligent Business Management ",
+     "url": "https://directory6.org/listing/ai-jewellery-erp-software-–-intelligent-business-management-solutions-by-jwelly-ai-722602"
+    },
+    {
+     "name": "AI Software for Jewellery Wholesalers – Smart Wholesale Mana",
+     "url": "https://aweblist.org/listing/ai-software-for-jewellery-wholesalers-–-smart-wholesale-management-by-jwelly-ai-974119"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "surrey home",
+   "size": 6,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Condos for Sale in Surrey BC | surrey homes",
+     "url": "https://exampledir.com/listing/condos-for-sale-in-surrey-bc-surrey-homes-314280"
+    },
+    {
+     "name": "Homes for Sale North Surrey | homes",
+     "url": "https://exampledir.com/listing/homes-for-sale-north-surrey-homes-314275"
+    },
+    {
+     "name": "House for Sale in North Surrey | BC",
+     "url": "https://exampledir.com/listing/house-for-sale-in-north-surrey-bc-314273"
+    },
+    {
+     "name": "North Surrey Homes for Sale | bc",
+     "url": "https://exampledir.com/listing/north-surrey-homes-for-sale-bc-314274"
+    }
+   ]
+  },
+  {
+   "term": "image26 gpt image",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Image26 — GPT Image 2.6 AI Image Generator",
+     "url": "https://image26.org/"
+    },
+    {
+     "name": "Image26 Gpt Images 26",
+     "url": "https://aitoolseekers.com/tools/image26-gpt-images-26"
+    },
+    {
+     "name": "Image26 Gpt Images 26.Md",
+     "url": "https://aitoolseekers.com/tools/image26-gpt-images-26.md"
+    }
+   ]
+  },
+  {
+   "term": "long term living",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Buy plots in Hyderabad-f",
+     "url": "https://directory6.org/listing/buy-plots-in-hyderabad-f-722572"
+    },
+    {
+     "name": "Sharath Nalamothu Forest Nation",
+     "url": "https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297"
+    },
+    {
+     "name": "Sharath Nalamothu Forest Nation-f",
+     "url": "https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576"
+    }
+   ]
+  },
+  {
+   "term": "nature inspired lifestyle",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "HMDA open plots in Hyderabad-f",
+     "url": "https://directory6.org/listing/hmda-open-plots-in-hyderabad-f-722571"
+    },
+    {
+     "name": "Sharath Nalamothu Forest Nation",
+     "url": "https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297"
+    },
+    {
+     "name": "Sharath Nalamothu Forest Nation-f",
+     "url": "https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576"
+    }
+   ]
+  },
+  {
+   "term": "tandoori trail",
+   "size": 8,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best Butter Chicken Near Me | best chicken",
+     "url": "https://huludirectory.com/listing/best-butter-chicken-near-me-best-chicken-2261909"
+    },
+    {
+     "name": "Best Butter Chicken Near Me | best chicken bc",
+     "url": "https://exampledir.com/listing/best-butter-chicken-near-me-best-chicken-bc-314302"
+    },
+    {
+     "name": "Best Tandoori Chicken Near Me | best rest",
+     "url": "https://exampledir.com/listing/best-tandoori-chicken-near-me-best-rest-314306"
+    },
+    {
+     "name": "Butter Chicken Restaurant | best chicken bc",
+     "url": "https://exampledir.com/listing/butter-chicken-restaurant-best-chicken-bc-314303"
+    }
+   ]
+  },
+  {
+   "term": "ballot measure",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "After the midterms, is the AI industry in for a rough two ye",
+     "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years"
+    },
+    {
+     "name": "After the midterms, the AI industry has a data center proble",
+     "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years"
+    },
+    {
+     "name": "How a Blue Wave midterm might reshape the AI industry",
+     "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry"
+    }
+   ]
+  },
+  {
+   "term": "mp4 gif",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "boomerang.video",
+     "url": "https://azn8.com/listing/boomerang-video"
+    },
+    {
+     "name": "chart.video",
+     "url": "https://chart.video/"
+    },
+    {
+     "name": "quote.video",
+     "url": "https://postlaunchkit.com/directory/quotevideo"
+    }
+   ]
+  },
+  {
+   "term": "peaceful surrounding",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "best villa communities in hyderabad-f",
+     "url": "https://directory6.org/listing/best-villa-communities-in-hyderabad-f-722574"
+    },
+    {
+     "name": "HMDA open plots in Hyderabad-f",
+     "url": "https://directory6.org/listing/hmda-open-plots-in-hyderabad-f-722571"
+    },
+    {
+     "name": "villas in hyderabad India-f",
+     "url": "https://directory6.org/listing/villas-in-hyderabad-india-f-722575"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「surrey home」今日 6 个产品/2 个目录：Real Estate Agents in Surrey BC | surrey homes、Condos for Sale in Surrey BC | surrey homes",
+  "小词「image26 gpt image」今日 3 个产品/2 个目录：Image26 — GPT Image 2.6 AI Image Generator、Image26 Gpt Images 26",
+  "小词「long term living」今日 3 个产品/2 个目录：Sharath Nalamothu Forest Nation、Sharath Nalamothu Forest Nation-f",
+  "同日小簇「surrey home」6 个相似产品：Condos for Sale in Surrey BC | surrey homes、Homes for Sale North Surrey | homes、House for Sale in North Surrey | BC",
+  "同日小簇「image26 gpt image」3 个相似产品：Image26 — GPT Image 2.6 AI Image Generator、Image26 Gpt Images 26、Image26 Gpt Images 26.Md",
+  "跨目录同时出现：excerpt.pro（5 个目录）",
+  "跨目录同时出现：kavel.ai（5 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-07.md",
+ "niche_groups": "- 印度风味餐饮：tandoori trail、authentic indian cuisine、butter chicken creamy、indian inspired chicken —— 提供黄油鸡、坦都里烤鸡等正宗印度风味餐食的餐厅服务\n- AI图像生成与文档处理：image26 gpt image、convert pdfs image、image handwritten note —— 利用GPT等AI技术生成图像或将PDF、手写笔记转换为可编辑文档\n- 本地生活与房产服务：surrey home、luxury car showroom —— 提供特定地区（如Surrey、Nagpur）的房产中介及豪华汽车展厅服务\n- 垂直行业效率工具：trading bot builder、improve workflow efficiency、linkedin pinpoint answer、grow ppfd dli、fps sensitivity converter、iphone ipad android —— 涵盖交易机器人、珠宝ERP、LinkedIn答题、种植光照计算、FPS灵敏度转换及跨平台应用等细分领域的效率工\n- 健康与生活方式：long term living、nature inspired lifestyle、bring together greenery、acidity stomach pain、advanced diagnosis personalized —— 聚焦森林自然生活理念及胃肠疾病（如胃酸过多）的个性化诊断与医生服务\n- KDP出版辅助：amazon kdp print —— 提供AI驱动的书籍设计、排版及格式化服务以支持亚马逊KDP出版"
+}

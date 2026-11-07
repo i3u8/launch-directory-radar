@@ -1,27 +1,27 @@
-# 每日目录雷达 2026-11-06
+# 每日目录雷达 2026-11-07
 
-- 监控目录 197 / 筛查目录 478；今日成功 184，失败 13；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, promoteindex-com, foundr-ai, aiagentautomation-site, apprater-net, discoverly-tech, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
-- 今日新增条目 **1683**（去重后 1589）；7 天基线 9153，30 天基线 22012
-- 语料 24855 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.27，30天 0.29
+- 监控目录 197 / 筛查目录 478；今日成功 181，失败 16；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, promoteindex-com, foundr-ai, aiagentautomation-site, apprater-net, discoverly-tech, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com
+- 今日新增条目 **1465**（去重后 1344）；7 天基线 9260，30 天基线 23243
+- 语料 25983 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.25，30天 0.29
 
 ## 微赛道归纳（LLM）
 
-- 印度考公与法律培训：kojaram ias academy、jaipur kojaram ias —— 提供针对UPSC、CLAT等考试的在线或线下辅导服务
-- 本地生活与家政中介：exploring local market、browse available helper、cleaning cooking childcare —— 提供自行车租赁、家政保姆及本地生活服务的匹配平台
-- AI自动化与智能体开发：extremely autonomous agent、extremely autonomous ai、safer linkedin outreach、animated gif —— 开发高度自主的AI智能体、LinkedIn自动化营销及AI生成GIF工具
-- 医疗健康与康复护理：difficult stroke rehabilitation、hos klinik zenit、lead paint abatement —— 涵盖中风康复、激光美容诊所及铅漆清除等健康与环境安全服务
-- 垂直行业咨询与工具：approval consultant chennai、discount marine part、golf cost calculator、mini golf cost —— 提供建筑审批咨询、船用零件供应及迷你高尔夫成本计算等细分领域服务
-- 青年培训与创业支持：aspiring individual startup、dedicated youth worker、2nd international conference —— 面向青年提供创业培训、社工服务及国际学术会议组织
+- 印度风味餐饮：tandoori trail、authentic indian cuisine、butter chicken creamy、indian inspired chicken —— 提供黄油鸡、坦都里烤鸡等正宗印度风味餐食的餐厅服务
+- AI图像生成与文档处理：image26 gpt image、convert pdfs image、image handwritten note —— 利用GPT等AI技术生成图像或将PDF、手写笔记转换为可编辑文档
+- 本地生活与房产服务：surrey home、luxury car showroom —— 提供特定地区（如Surrey、Nagpur）的房产中介及豪华汽车展厅服务
+- 垂直行业效率工具：trading bot builder、improve workflow efficiency、linkedin pinpoint answer、grow ppfd dli、fps sensitivity converter、iphone ipad android —— 涵盖交易机器人、珠宝ERP、LinkedIn答题、种植光照计算、FPS灵敏度转换及跨平台应用等细分领域的效率工
+- 健康与生活方式：long term living、nature inspired lifestyle、bring together greenery、acidity stomach pain、advanced diagnosis personalized —— 聚焦森林自然生活理念及胃肠疾病（如胃酸过多）的个性化诊断与医生服务
+- KDP出版辅助：amazon kdp print —— 提供AI驱动的书籍设计、排版及格式化服务以支持亚马逊KDP出版
 
 ## 信号 Signals
 
-- 小词「kojaram ias academy」今日 3 个产品/3 个目录：best upsc coaching in jaipur、best clat coaching in jaipur
-- 小词「call whatsapp telegram」今日 2 个产品/2 个目录：fone.me、Fone
-- 小词「exploring local market」今日 2 个产品/2 个目录：Bike On Rent in Amritsar for Local Travellers - Dau Rental、Bike Rent In Vrindavan - Dau Rental
-- 同日小簇「kojaram ias academy」3 个相似产品：best clat coaching in jaipur、best ias coaching in jaipur、best upsc coaching in jaipur
-- 同日小簇「chinese stroke order」3 个相似产品：Chinese Stroke Order Ai Teacher、Chinese Stroke Order Ai Teacher.Md、Chinese Stroke Order: Learn to write Chinese characters stro
-- 跨目录同时出现：blog.google（4 个目录）
-- 跨目录同时出现：veida.ai（4 个目录）
+- 小词「surrey home」今日 6 个产品/2 个目录：Real Estate Agents in Surrey BC | surrey homes、Condos for Sale in Surrey BC | surrey homes
+- 小词「image26 gpt image」今日 3 个产品/2 个目录：Image26 — GPT Image 2.6 AI Image Generator、Image26 Gpt Images 26
+- 小词「long term living」今日 3 个产品/2 个目录：Sharath Nalamothu Forest Nation、Sharath Nalamothu Forest Nation-f
+- 同日小簇「surrey home」6 个相似产品：Condos for Sale in Surrey BC | surrey homes、Homes for Sale North Surrey | homes、House for Sale in North Surrey | BC
+- 同日小簇「image26 gpt image」3 个相似产品：Image26 — GPT Image 2.6 AI Image Generator、Image26 Gpt Images 26、Image26 Gpt Images 26.Md
+- 跨目录同时出现：excerpt.pro（5 个目录）
+- 跨目录同时出现：kavel.ai（5 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -29,75 +29,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **kojaram ias academy** | 3 | 3 | 🆕 | [best upsc coaching in jaipur](https://directory6.org/listing/best-upsc-coaching-in-jaipur-722447)；[best clat coaching in jaipur](https://exampledir.com/listing/best-clat-coaching-in-jaipur-314231)；[best ias coaching in jaipur](https://aweblist.org/listing/best-ias-coaching-in-jaipur-973887) |
-| 2 | **call whatsapp telegram** | 2 | 2 | 🆕 | [fone.me](https://dealmyapp.com/listings/foneme)；[Fone](https://postlaunchkit.com/directory/fone) |
-| 3 | **exploring local market** | 2 | 2 | 🆕 | [Bike On Rent in Amritsar for Local Travellers - Dau Rental](https://aweblist.org/listing/bike-on-rent-in-amritsar-for-local-travellers--dau-rental-973863)；[Bike Rent In Vrindavan - Dau Rental](https://exampledir.com/listing/bike-rent-in-vrindavan--dau-rental-314228) |
-| 4 | **2nd international conference** | 2 | 2 | 🆕 | [2nd International Conference on Recycling and Waste Manageme](https://aweblist.org/listing/2nd-international-conference-on-recycling-and-waste-management-973870)；[2nd International Conference on Optical Science and Engineer](https://a2place.com/listing/2nd-international-conference-on-optical-science-and-engineering-718725) |
-| 5 | **approval consultant chennai** | 2 | 2 | 🆕 | [Expert College Building Approval Consultants Chennai](https://huludirectory.com/listing/expert-college-building-approval-consultants-chennai-2261796)；[Professional College Plan Approval Consultants Chennai](https://exampledir.com/listing/professional-college-plan-approval-consultants-chennai-314227) |
-| 6 | **aspiring individual startup** | 2 | 2 | 🆕 | [FoSTaC Training](https://exampledir.com/listing/fostac-training-314184)；[Punam Gupta](https://directory6.org/listing/punam-gupta-722445) |
-| 7 | **belmont curse atla** | 2 | 2 | 🆕 | [Belmont's Curse Atlas](https://postlaunchkit.com/directory/belmonts-curse-atlas)；[Belmonts Curse Atlas](https://develif.com/s/belmonts-curse-atlas) |
-| 8 | **browse available helper** | 2 | 2 | 🆕 | [Looking for Maid Agency](https://exampledir.com/listing/looking-for-maid-agency-314212)；[Looking for Maid Agency in singapore](https://huludirectory.com/listing/looking-for-maid-agency-in-singapore-2261777) |
-| 9 | **difficult stroke rehabilitation** | 2 | 2 | 🆕 | [Stroke Rehabilitation for Returning to Daily Routines](https://aweblist.org/listing/stroke-rehabilitation-for-returning-to-daily-routines-973899)；[Stroke Rehabilitation for Regaining Arm and Hand Function](https://a2place.com/listing/stroke-rehabilitation-for-regaining-arm-and-hand-function-718707) |
-| 10 | **discount marine part** | 2 | 2 | 🆕 | [marine plumbing parts and supplies](https://exampledir.com/listing/marine-plumbing-parts-and-supplies-314190)；[marine rv maintenance](https://a2place.com/listing/marine-rv-maintenance-718716) |
-| 11 | **extremely autonomous agent** | 2 | 2 | 🆕 | [EXTREMELY Autonomous Agents | Build Your Paperclip Maximizer](https://nothumansearch.ai/site/extremely.agency)；[Extremely Autonomous Agents](https://azn8.com/listing/extremely-autonomous-agents) |
-| 12 | **golf cost calculator** | 2 | 2 | 🆕 | [Mini Golf Cost Calculator](https://postlaunchkit.com/directory/mini-golf-cost-calculator)；[Mini Golf Cost Calculator Plan mini golf group costs and spl](https://thehackstack.com/s/minigolfspots) |
-| 13 | **hos klinik zenit** | 2 | 2 | 🆕 | [Permanent Hårfjerning Laser](https://huludirectory.com/listing/permanent-harfjerning-laser-2261798)；[Profhilo](https://exampledir.com/listing/profhilo-314229) |
-| 14 | **lead paint abatement** | 2 | 2 | 🆕 | [How Much Does Lead Paint Removal Cost in NJ?](https://aweblist.org/listing/how-much-does-lead-paint-removal-cost-in-nj-973858)；[Affordable Lead Paint Abatement Services in NJ](https://huludirectory.com/listing/affordable-lead-paint-abatement-services-in-nj-2261788) |
-| 15 | **safer linkedin outreach** | 2 | 2 | 🆕 | [Linkyfy – LinkedIn Outreach Automation with AI](https://exampledir.com/listing/linkyfy-–-linkedin-outreach-automation-with-ai-314193)；[Linkyfy – AI LinkedIn Automation Tool](https://a2place.com/listing/linkyfy-–-ai-linkedin-automation-tool-718717) |
+| 1 | **surrey home** | 6 | 2 | 🆕 | [Real Estate Agents in Surrey BC | surrey homes](https://exampledir.com/listing/real-estate-agents-in-surrey-bc-surrey-homes-314276)；[Condos for Sale in Surrey BC | surrey homes](https://exampledir.com/listing/condos-for-sale-in-surrey-bc-surrey-homes-314280)；[Real Estate Agents Near Me | surrey homes](https://exampledir.com/listing/real-estate-agents-near-me-surrey-homes-314279) |
+| 2 | **image26 gpt image** | 3 | 2 | 🆕 | [Image26 — GPT Image 2.6 AI Image Generator](https://image26.org/)；[Image26 Gpt Images 26](https://aitoolseekers.com/tools/image26-gpt-images-26)；[Image26 Gpt Images 26.Md](https://aitoolseekers.com/tools/image26-gpt-images-26.md) |
+| 3 | **long term living** | 3 | 2 | 🆕 | [Sharath Nalamothu Forest Nation](https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297)；[Sharath Nalamothu Forest Nation-f](https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576)；[Buy plots in Hyderabad-f](https://directory6.org/listing/buy-plots-in-hyderabad-f-722572) |
+| 4 | **nature inspired lifestyle** | 3 | 2 | 🆕 | [Sharath Nalamothu Forest Nation](https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297)；[Sharath Nalamothu Forest Nation-f](https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576)；[HMDA open plots in Hyderabad-f](https://directory6.org/listing/hmda-open-plots-in-hyderabad-f-722571) |
+| 5 | **convert pdfs image** | 2 | 2 | 🆕 | [styleLatex](https://stylelatex.com/)；[prepare editable math documents](https://directory6.org/listing/prepare-editable-math-documents-722557) |
+| 6 | **fps sensitivity converter** | 2 | 2 | 🆕 | [Sensitivity Converter](https://azn8.com/listing/sensitivity-converter)；[Sensitivity Converter Free FPS sensitivity converter — cm/36](https://thehackstack.com/s/sensitivityconverter) |
+| 7 | **trading bot builder** | 2 | 2 | 🆕 | [Poly Research & Robotics](https://polyresearchrobotics.com/)；[PositionAlpha](https://positionalpha.io/) |
+| 8 | **tandoori trail** | 8 | 2 | 55.3x | [Butter Chicken Restaurant | best chicken bc](https://exampledir.com/listing/butter-chicken-restaurant-best-chicken-bc-314303)；[Butter Chicken Restaurant Near Me | best chicken](https://huludirectory.com/listing/butter-chicken-restaurant-near-me-best-chicken-2261908)；[Butter Chicken Restaurant Near Me | best chicken bc](https://exampledir.com/listing/butter-chicken-restaurant-near-me-best-chicken-bc-314301) |
+| 9 | **acidity stomach pain** | 2 | 2 | 🆕 | [Best Gastroenterologist In Hyderabad - Dr Rahul](https://huludirectory.com/listing/best-gastroenterologist-in-hyderabad--dr-rahul-2261924)；[Gastroenterologist in Pragathi Nagar, Hyderabad](https://directory6.org/listing/gastroenterologist-in-pragathi-nagar-hyderabad-722600) |
+| 10 | **amazon kdp print** | 2 | 3 | 🆕 | [Libreus - AI Book Design & Formatting Platform](https://a2place.com/listing/libreus--ai-book-design-and-formatting-platform-718731)；[Libreus - AI Typesetting & Book Formatting Tool](https://exampledir.com/listing/libreus--ai-typesetting-and-book-formatting-tool-314283) |
+| 11 | **grow ppfd dli** | 2 | 2 | 🆕 | [THE GROW PPFD-, DLI- und Stromkosten-Rechner](https://postlaunchkit.com/directory/the-grow-ppfd-dli-und-stromkosten-rechner)；[The Grow Ppfd Dli And Electricity Cost Calculator](https://develif.com/s/the-grow-ppfd-dli-and-electricity-cost-calculator) |
+| 12 | **improve workflow efficiency** | 2 | 2 | 🆕 | [AI Jewellery ERP Software – Intelligent Business Management ](https://directory6.org/listing/ai-jewellery-erp-software-–-intelligent-business-management-solutions-by-jwelly-ai-722602)；[AI Software for Jewellery Wholesalers – Smart Wholesale Mana](https://aweblist.org/listing/ai-software-for-jewellery-wholesalers-–-smart-wholesale-management-by-jwelly-ai-974119) |
+| 13 | **iphone ipad android** | 2 | 2 | 🆕 | [YouTube Whitelist App for Kids | WhitelistVideo — score 55/1](https://nothumansearch.ai/site/whitelist.video)；[BuildWire Calc: Size wires and check voltage drop on a job s](https://saasolution.io/tool/buildwire-calc) |
+| 14 | **linkedin pinpoint answer** | 2 | 2 | 🆕 | [Pinpoint Today](https://pinpointanswertoday.today/)；[Pinpoint Today Today's LinkedIn Pinpoint answer, hint and cl](https://thehackstack.com/s/pinpointanswertoday-3) |
+| 15 | **luxury car showroom** | 2 | 2 | 🆕 | [luxury car showroom in nagpur](https://huludirectory.com/listing/luxury-car-showroom-in-nagpur-2261900)；[luxury car showroom in surat](https://exampledir.com/listing/luxury-car-showroom-in-surat-314288) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **cleaning cooking childcare** × 2（2 个目录）：[Looking for Maid Agency](https://exampledir.com/listing/looking-for-maid-agency-314212)；[Looking for Maid Agency in singapore](https://huludirectory.com/listing/looking-for-maid-agency-in-singapore-2261777)
-- **dedicated youth worker** × 2（2 个目录）：[FoSTaC Training](https://exampledir.com/listing/fostac-training-314184)；[Punam Gupta](https://directory6.org/listing/punam-gupta-722445)
-- **extremely autonomous ai** × 2（2 个目录）：[EXTREMELY Autonomous Agents | Build Your Paperclip Maximizer](https://nothumansearch.ai/site/extremely.agency)；[Extremely Autonomous Agents](https://azn8.com/listing/extremely-autonomous-agents)
-- **jaipur kojaram ias** × 2（2 个目录）：[best upsc coaching in jaipur](https://directory6.org/listing/best-upsc-coaching-in-jaipur-722447)；[best ias coaching in jaipur](https://aweblist.org/listing/best-ias-coaching-in-jaipur-973887)
-- **mini golf cost** × 2（2 个目录）：[Mini Golf Cost Calculator](https://postlaunchkit.com/directory/mini-golf-cost-calculator)；[Mini Golf Cost Calculator Plan mini golf group costs and spl](https://thehackstack.com/s/minigolfspots)
-- **animated gif** × 2（2 个目录）：[AI GIF Maker](https://aigifmaker.ai/)；[AI GIF Gen](https://aigifgen.com/)
-- **layer export** × 2（2 个目录）：[LayerGrab: Split a flat poster or banner back into named lay](https://saasolution.io/tool/layergrab)；[LayerGrab](https://webrankdirectory.org/listing/layergrab)
-- **lead singer** × 2（2 个目录）：[Uptown Funk AI Video](https://whatareyoubuilding.ai/product/e7O829p1q1M12QUSb38R)；[Tiny Desk AI](https://tinydeskclip.com/)
-- **local draft** × 2（2 个目录）：[AI Song Writer](https://dealmyapp.com/listings/ai-song-writer)；[ResumeInvited](https://resumeinvited.com/)
-- **photo gifs** × 2（2 个目录）：[GetFaceSwap](https://getfaceswap.com/)；[Beavery Turn one video into Live Photos, GIFs and stills 💬 0](https://thehackstack.com/s/beavery-savetimefor)
+- **image handwritten note** × 2（2 个目录）：[styleLatex](https://stylelatex.com/)；[prepare editable math documents](https://directory6.org/listing/prepare-editable-math-documents-722557)
+- **advanced diagnosis personalized** × 2（2 个目录）：[Best Gastroenterologist In Hyderabad - Dr Rahul](https://huludirectory.com/listing/best-gastroenterologist-in-hyderabad--dr-rahul-2261924)；[Gastroenterologist in Pragathi Nagar, Hyderabad](https://directory6.org/listing/gastroenterologist-in-pragathi-nagar-hyderabad-722600)
+- **authentic indian cuisine** × 2（2 个目录）：[Butter Chicken Restaurant Near Me | best chicken](https://huludirectory.com/listing/butter-chicken-restaurant-near-me-best-chicken-2261908)；[Butter Chicken Restaurant Near Me | best chicken bc](https://exampledir.com/listing/butter-chicken-restaurant-near-me-best-chicken-bc-314301)
+- **bring together greenery** × 2（2 个目录）：[Sharath Nalamothu Forest Nation](https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297)；[Sharath Nalamothu Forest Nation-f](https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576)
+- **butter chicken creamy** × 2（2 个目录）：[Best Butter Chicken Near Me | best chicken](https://huludirectory.com/listing/best-butter-chicken-near-me-best-chicken-2261909)；[Best Butter Chicken Near Me | best chicken bc](https://exampledir.com/listing/best-butter-chicken-near-me-best-chicken-bc-314302)
+- **indian inspired chicken** × 2（2 个目录）：[Indian Grilled Chicken | best rest](https://exampledir.com/listing/indian-grilled-chicken-best-rest-314305)；[Best Tandoori Chicken Near Me | best rest](https://exampledir.com/listing/best-tandoori-chicken-near-me-best-rest-314306)
+- **kdp print layout** × 2（3 个目录）：[Libreus - AI Book Design & Formatting Platform](https://a2place.com/listing/libreus--ai-book-design-and-formatting-platform-718731)；[Libreus - AI Typesetting & Book Formatting Tool](https://exampledir.com/listing/libreus--ai-typesetting-and-book-formatting-tool-314283)
+- **nature inspired planning** × 2（2 个目录）：[best villa communities in hyderabad-f](https://directory6.org/listing/best-villa-communities-in-hyderabad-f-722574)；[Residential plots in Hyderabad-f](https://directory6.org/listing/residential-plots-in-hyderabad-f-722570)
+- **openmontage drama studio** × 2（5 个目录）：[OpenMontage Drama Studio](https://postlaunchkit.com/directory/openmontage-drama-studio)；[OpenMontage Drama Studio — score 65/100 (other)](https://nothumansearch.ai/site/openmontage.dtok.io)
+- **operation improve workflow** × 2（2 个目录）：[AI Jewellery ERP Software – Intelligent Business Management ](https://directory6.org/listing/ai-jewellery-erp-software-–-intelligent-business-management-solutions-by-jwelly-ai-722602)；[AI Software for Jewellery Wholesalers – Smart Wholesale Mana](https://aweblist.org/listing/ai-software-for-jewellery-wholesalers-–-smart-wholesale-management-by-jwelly-ai-974119)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **kojaram ias academy** × 3（3 个目录）：[best clat coaching in jaipur](https://exampledir.com/listing/best-clat-coaching-in-jaipur-314231)；[best ias coaching in jaipur](https://aweblist.org/listing/best-ias-coaching-in-jaipur-973887)；[best upsc coaching in jaipur](https://directory6.org/listing/best-upsc-coaching-in-jaipur-722447)
-- **chinese stroke order** × 3（2 个目录）：[Chinese Stroke Order Ai Teacher](https://aitoolseekers.com/tools/chinese-stroke-order-ai-teacher)；[Chinese Stroke Order Ai Teacher.Md](https://aitoolseekers.com/tools/chinese-stroke-order-ai-teacher.md)；[Chinese Stroke Order: Learn to write Chinese characters stro](https://saasolution.io/tool/chinese-stroke-order)
-- **contain sildenafil citrate** × 3（3 个目录）：[Eriacta 100 Mg And Managing Stress For Better Sexual Health](https://huludirectory.com/listing/eriacta-100-mg-and-managing-stress-for-better-sexual-health-2261793)；[Silagra 50 Mg And Healthy Habits For Sexual Wellness](https://exampledir.com/listing/silagra-50-mg-and-healthy-habits-for-sexual-wellness-314221)；[Suhagra 100 mg And Heart-Healthy Habits For Men](https://aweblist.org/listing/suhagra-100-mg-and-heart-healthy-habits-for-men-973878)
-- **serial number** × 5（2 个目录）：[Age by Serial Number Check supported water heater and HVAC d](https://thehackstack.com/s/agebyserialnumber)；[Boat Serial Number Read supported boat and outboard identifi](https://thehackstack.com/s/boatserialnumber)；[Guitar Serial Number Date supported guitars and amplifiers 💬](https://thehackstack.com/s/guitarserialnumber)；[Image Metadata Viewer](https://10015.io/tools/image-metadata-viewer)
-- **lahore pakistan** × 4（2 个目录）：[Dental Surgeons](https://dentalsurgeons.pk/)；[Reliable Air Conditioning and HVAC Services Pakistan](https://directory6.org/listing/reliable-air-conditioning-and-hvac-services-pakistan-722457)；[Workman Services HVAC and MEP Solutions](https://directory6.org/listing/workman-services-hvac-and-mep-solutions-722451)；[Workman Services HVAC Contractor Lahore Pakistan](https://directory6.org/listing/workman-services-hvac-contractor-lahore-pakistan-722463)
-- **pay tracker** × 3（3 个目录）：[Earncheck Shift Pay Tracker](https://launchsignal.ai/l/earncheck-shift-pay-tracker)；[Work Hours And Pay Tracker](https://develif.com/s/work-hours-and-pay-tracker)；[Work Hours & Pay Tracker](https://valentynk.gumroad.com/l/aopxwd)
-- **whole family** × 3（2 个目录）：[Family Dentist in Plano and Garland at Shifa Dental Book You](https://huludirectory.com/listing/family-dentist-in-plano-and-garland-at-shifa-dental-book-your-visit-for-the-whole-family-2261803)；[Fincurry: Track what the whole family spends, cash included,](https://saasolution.io/tool/fincurry)；[Nuzzle: Log your baby's feeds, sleep and diapers in one reco](https://saasolution.io/tool/nuzzle)
-- **digital marketing strategy** × 3（3 个目录）：[Best SEO Expert Agency – SEO Marketing Agency](https://aweblist.org/listing/best-seo-expert-agency-–-seo-marketing-agency-973889)；[Celebrity Marketing for iGaming: Build Brand Awareness and R](https://directory6.org/listing/celebrity-marketing-for-igaming-build-brand-awareness-and-reach-more-players-722468)；[Freelance digital marketing](https://huludirectory.com/listing/freelance-digital-marketing-2261785)
+- **surrey home** × 6（2 个目录）：[Condos for Sale in Surrey BC | surrey homes](https://exampledir.com/listing/condos-for-sale-in-surrey-bc-surrey-homes-314280)；[Homes for Sale North Surrey | homes](https://exampledir.com/listing/homes-for-sale-north-surrey-homes-314275)；[House for Sale in North Surrey | BC](https://exampledir.com/listing/house-for-sale-in-north-surrey-bc-314273)；[North Surrey Homes for Sale | bc](https://exampledir.com/listing/north-surrey-homes-for-sale-bc-314274)
+- **image26 gpt image** × 3（2 个目录）：[Image26 — GPT Image 2.6 AI Image Generator](https://image26.org/)；[Image26 Gpt Images 26](https://aitoolseekers.com/tools/image26-gpt-images-26)；[Image26 Gpt Images 26.Md](https://aitoolseekers.com/tools/image26-gpt-images-26.md)
+- **long term living** × 3（2 个目录）：[Buy plots in Hyderabad-f](https://directory6.org/listing/buy-plots-in-hyderabad-f-722572)；[Sharath Nalamothu Forest Nation](https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297)；[Sharath Nalamothu Forest Nation-f](https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576)
+- **nature inspired lifestyle** × 3（2 个目录）：[HMDA open plots in Hyderabad-f](https://directory6.org/listing/hmda-open-plots-in-hyderabad-f-722571)；[Sharath Nalamothu Forest Nation](https://exampledir.com/listing/sharath-nalamothu-forest-nation-314297)；[Sharath Nalamothu Forest Nation-f](https://directory6.org/listing/sharath-nalamothu-forest-nation-f-722576)
+- **tandoori trail** × 8（2 个目录）：[Best Butter Chicken Near Me | best chicken](https://huludirectory.com/listing/best-butter-chicken-near-me-best-chicken-2261909)；[Best Butter Chicken Near Me | best chicken bc](https://exampledir.com/listing/best-butter-chicken-near-me-best-chicken-bc-314302)；[Best Tandoori Chicken Near Me | best rest](https://exampledir.com/listing/best-tandoori-chicken-near-me-best-rest-314306)；[Butter Chicken Restaurant | best chicken bc](https://exampledir.com/listing/butter-chicken-restaurant-best-chicken-bc-314303)
+- **ballot measure** × 3（2 个目录）：[After the midterms, is the AI industry in for a rough two ye](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years)；[After the midterms, the AI industry has a data center proble](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years)；[How a Blue Wave midterm might reshape the AI industry](https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry)
+- **mp4 gif** × 3（3 个目录）：[boomerang.video](https://azn8.com/listing/boomerang-video)；[chart.video](https://chart.video/)；[quote.video](https://postlaunchkit.com/directory/quotevideo)
+- **peaceful surrounding** × 3（2 个目录）：[best villa communities in hyderabad-f](https://directory6.org/listing/best-villa-communities-in-hyderabad-f-722574)；[HMDA open plots in Hyderabad-f](https://directory6.org/listing/hmda-open-plots-in-hyderabad-f-722571)；[villas in hyderabad India-f](https://directory6.org/listing/villas-in-hyderabad-india-f-722575)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| listedstartups.com | 100 | Industrial Software, Engineering Tools, Bearings(5)、Education(2)、AI, Enterprise, SaaS, Automation(1) |
-| entireweb.com | 89 | bg(89) |
-| dynamite-ai.com | 86 | tools(86) |
-| canopystack.dev | 85 | Other(43)、SaaS(26)、Dev tool(6) |
-| aitoolseekers.com | 76 | tools(76) |
-| develif.com | 70 | s(68) |
-| corpus.blog | 67 | sites(67) |
-| thataicollection.com | 67 | application(67) |
+| canopystack.dev | 128 | Other(62)、SaaS(42)、Dev tool(9) |
+| aitoolseekers.com | 86 | tools(86) |
+| entireweb.com | 82 | bg(82) |
+| corpus.blog | 63 | sites(63) |
+| develif.com | 61 | s(58) |
+| dynamite-ai.com | 59 | tools(58) |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
 | exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
+| planet-ai.net | 50 | ContentCategory.NEWS(37)、ContentCategory.TUTORIAL(5)、ContentCategory.ENGINEERING(4) |
+| postlaunchkit.com | 50 | design-media(9)、developer(3)、ai-agents(3) |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- blog.google（Google EmbeddingGemma 2）：aitoolly.com, bestaitools.com, planet-ai.net, thequestion.it
-- veida.ai（Veida AI）：canopystack.dev, listedstartups.com, toolgrep.com, worthtotry.com
-- agenttaste.dev（AgentTaste）：hyzenpro.com, launch.ignlab.net, worthtotry.com
-- aitrendvideo.net（AI Trend Video）：canopystack.dev, worthtotry.com, zearches.com
-- dimedimebaby-ai.org（Dime Dime Baby AI）：canopystack.dev, hyzenpro.com, launch.ignlab.net
-- froging.ai（Froging AI）：canopystack.dev, worthtotry.com, zearches.com
-- lootrundown.com（LootRundown）：canopystack.dev, launch.ignlab.net, zearches.com
-- lovewatch.live（LoveWatch AI）：canopystack.dev, hyzenpro.com, listedstartups.com
-- oraclip.com（Oraclip）：canopystack.dev, hyzenpro.com, listedstartups.com
+- excerpt.pro（Excerpt）：canopystack.dev, hyzenpro.com, launch.ignlab.net, listedstartups.com, worthtotry.com
+- kavel.ai（Kavel）：canopystack.dev, hyzenpro.com, listedstartups.com, webgora.com, worthtotry.com
+- indiarestros.com（IndiaRestros）：canopystack.dev, hyzenpro.com, listedstartups.com, zearches.com
+- aigifmaker.ai（AI GIF Maker）：canopystack.dev, toolgrep.com, worthtotry.com
+- akii.com（Akii: SEO & AI Search Optimizer）：canopystack.dev, listedstartups.com, zearches.com
+- helocinterestcalculator.com（HELOC Interest Calculator）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- igusernamechecker.com（Instagram Username Checker）：canopystack.dev, launch.ignlab.net, zearches.com
 - payhip.com（）：canopystack.dev, hyzenpro.com, zearches.com
+- perplexity.ai（Automations in Perplexity Computer）：aitoolly.com, bestaitools.com, zoipi.com
+- revenuescout.ai（Revenue Scout）：canopystack.dev, listedstartups.com, zearches.com
 
 ## 我们的站点已被目录公开展示
 
@@ -113,18 +113,21 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 13 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 13 天）
-- sitelike-org: RuntimeError: http 403（连续 13 天）
-- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 6 天）
-- usefuturestack-com: RuntimeError: http 402（连续 1 天）
-- foundr-ai: RuntimeError: http 403（连续 13 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 13 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 13 天）
-- discoverly-tech: RuntimeError: sitemap http 403（连续 3 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f2b742c4d（连续 10 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 13 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 13 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 13 天）
+- canadawebdir-com: RuntimeError: http 403（连续 14 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 14 天）
+- sitelike-org: RuntimeError: http 403（连续 14 天）
+- listedstartups-com: RetryError: HTTPSConnectionPool(host='listedstartups.com', port=443): Max retries exceeded with url: /api/listings (Caused by ResponseError('too many 500 error responses'))（连续 1 天）
+- my2077-com: ConnectionError: HTTPSConnectionPool(host='my2077.com', port=443): Max retries exceeded with url: /api/site (Caused by ReadTimeoutError("HTTPSConnectionPool(host='my2077.com', port=443): Read timed ou（连续 1 天）
+- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 7 天）
+- usefuturestack-com: RuntimeError: http 402（连续 2 天）
+- foundr-ai: RuntimeError: http 403（连续 14 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 14 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 14 天）
+- discoverly-tech: RuntimeError: sitemap http 403（连续 4 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f0009652d（连续 11 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 14 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 14 天）
+- rajaharimau-xyz: RuntimeError: sitemap http 521（连续 1 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 14 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar
