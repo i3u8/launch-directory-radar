@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-07** · 新增 1465 · 监控 197 个目录（今日成功 181）
+**2026-11-08** · 新增 1366 · 监控 197 个目录（今日成功 181）
 
 聚焦小词 Top 15:
 
-- `surrey home` ×6（2 目录） 🆕：Real Estate Agents in Surrey BC | surrey homes；Condos for Sale in Surrey BC | surrey homes
-- `image26 gpt image` ×3（2 目录） 🆕：Image26 — GPT Image 2.6 AI Image Generator；Image26 Gpt Images 26
-- `long term living` ×3（2 目录） 🆕：Sharath Nalamothu Forest Nation；Sharath Nalamothu Forest Nation-f
-- `nature inspired lifestyle` ×3（2 目录） 🆕：Sharath Nalamothu Forest Nation；Sharath Nalamothu Forest Nation-f
-- `convert pdfs image` ×2（2 目录） 🆕：styleLatex；prepare editable math documents
-- `fps sensitivity converter` ×2（2 目录） 🆕：Sensitivity Converter；Sensitivity Converter Free FPS sensitivity converter — cm/36
-- `trading bot builder` ×2（2 目录） 🆕：Poly Research & Robotics；PositionAlpha
-- `tandoori trail` ×8（2 目录）：Butter Chicken Restaurant | best chicken bc；Butter Chicken Restaurant Near Me | best chicken
-- `acidity stomach pain` ×2（2 目录） 🆕：Best Gastroenterologist In Hyderabad - Dr Rahul；Gastroenterologist in Pragathi Nagar, Hyderabad
-- `amazon kdp print` ×2（3 目录） 🆕：Libreus - AI Book Design & Formatting Platform；Libreus - AI Typesetting & Book Formatting Tool
-- `grow ppfd dli` ×2（2 目录） 🆕：THE GROW PPFD-, DLI- und Stromkosten-Rechner；The Grow Ppfd Dli And Electricity Cost Calculator
-- `improve workflow efficiency` ×2（2 目录） 🆕：AI Jewellery ERP Software – Intelligent Business Management ；AI Software for Jewellery Wholesalers – Smart Wholesale Mana
-- `iphone ipad android` ×2（2 目录） 🆕：YouTube Whitelist App for Kids | WhitelistVideo — score 55/1；BuildWire Calc: Size wires and check voltage drop on a job s
-- `linkedin pinpoint answer` ×2（2 目录） 🆕：Pinpoint Today；Pinpoint Today Today's LinkedIn Pinpoint answer, hint and cl
-- `luxury car showroom` ×2（2 目录） 🆕：luxury car showroom in nagpur；luxury car showroom in surat
+- `acquisition conversion retention` ×3（2 目录） 🆕：Ecom Agent OS；Ecom Agent OS - 16 Ecommerce AI Agents
+- `competitor keep running` ×3（4 目录） 🆕：Winning Statics - Weekly Competitor Ads；Winning Statics
+- `television setup guide` ×3（2 目录） 🆕：Abonnement IPTV Luxe；Internet Television Setup Guides For France
+- `weekly competitor report` ×3（3 目录） 🆕：Winning Statics - Weekly Competitor Ads；Winning Statics
+- `residential static` ×5（2 目录） 🆕：ProxyLite；FlyProxy
+- `estate agent associated` ×2（2 目录） 🆕：Kimmel Collective Real Estate Team；Ranjani Ravi Realty
+- `generative engine optimization` ×2（2 目录） 🆕：Digital Marketing Agency | SEO, PPC, Social Media & Website ；Akii SEO & AI Search Optimizer
+- `brand brain ledger` ×2（2 目录） 🆕：Ecom Agent OS；Ecom Agent OS: 16 Ecommerce AI Agents & Workflows
+- `formation spacing pencil` ×2（2 目录） 🆕：Handwriting learning resources；Best handwriting books for kids
+- `lifestyle secret health` ×2（2 目录） 🆕：Daily Lifestyle Secrets – Health and Wellness Tips；Daily Lifestyle Secrets – Health Tips and Healthy Living
+- `proxy plus` ×3（2 目录） 🆕：ProxyShare；LumiProxy
+- `automated book` ×3（2 目录） 🆕：Metranpage: Automated Book Typesetting & 3D Staging；Metranpage - AI Book Design
+- `comfortable singing` ×3（2 目录） 🆕：VocalRangeCalculator.com；VocalRangeTest.com
+- `metranpage ai` ×3（2 目录） 🆕：Metranpage AI Publishing & 3D Staging；Metranpage - AI Book Design
+- `care guide` ×2（2 目录） 🆕：16m；FishCare AI
 
 微赛道归纳:
 
-- 印度风味餐饮：tandoori trail、authentic indian cuisine、butter chicken creamy、indian inspired chicken —— 提供黄油鸡、坦都里烤鸡等正宗印度风味餐食的餐厅服务
-- AI图像生成与文档处理：image26 gpt image、convert pdfs image、image handwritten note —— 利用GPT等AI技术生成图像或将PDF、手写笔记转换为可编辑文档
-- 本地生活与房产服务：surrey home、luxury car showroom —— 提供特定地区（如Surrey、Nagpur）的房产中介及豪华汽车展厅服务
-- 垂直行业效率工具：trading bot builder、improve workflow efficiency、linkedin pinpoint answer、grow ppfd dli、fps sensitivity converter、iphone ipad android —— 涵盖交易机器人、珠宝ERP、LinkedIn答题、种植光照计算、FPS灵敏度转换及跨平台应用等细分领域的效率工
-- 健康与生活方式：long term living、nature inspired lifestyle、bring together greenery、acidity stomach pain、advanced diagnosis personalized —— 聚焦森林自然生活理念及胃肠疾病（如胃酸过多）的个性化诊断与医生服务
-- KDP出版辅助：amazon kdp print —— 提供AI驱动的书籍设计、排版及格式化服务以支持亚马逊KDP出版
+- 电商AI智能体与工作流：acquisition conversion retention、brand brain ledger、instruction prompt workflow、shared brand brain —— 构建具备共享品牌记忆和自动化指令工作流的电商AI代理系统
+- 竞品广告情报监测：competitor keep running、weekly competitor report、winning static —— 提供竞品广告素材追踪、周度报告及持续投放监测服务
+- 住宅与ISP代理服务：residential static、proxy plus、isp proxy plus —— 提供住宅静态IP及ISP级代理资源用于网络请求
+- AI出版与书籍排版：automated book、metranpage ai —— 利用AI技术实现书籍自动排版、3D封面生成及出版设计
+- SEO与生成式引擎优化：generative engine optimization、seo answer engine —— 针对AI搜索引擎和传统SEO进行内容优化以提升可见性
+- 儿童书写与发声训练：formation spacing pencil、improve letter formation、comfortable singing —— 提供儿童笔迹间距练习资源及人声音域测试工具
 
-完整报告: [reports/2026-11-07.md](reports/2026-11-07.md)
+完整报告: [reports/2026-11-08.md](reports/2026-11-08.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

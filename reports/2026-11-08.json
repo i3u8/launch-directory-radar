@@ -1,0 +1,695 @@
+{
+ "date": "2026-11-08",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 181,
+ "sources_failed": 16,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "rajaharimau-xyz",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1366,
+ "new_today_unique": 1250,
+ "ai_share_today": 0.27,
+ "ai_share_30d": 0.29,
+ "niche_terms": [
+  {
+   "term": "acquisition conversion retention",
+   "count": 3,
+   "sources": 2,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Ecom Agent OS",
+     "url": "https://whatareyoubuilding.ai/product/LdVlpBPI13bSEUXflqWt"
+    },
+    {
+     "name": "Ecom Agent OS - 16 Ecommerce AI Agents",
+     "url": "https://huludirectory.com/listing/ecom-agent-os--16-ecommerce-ai-agents-2261975"
+    },
+    {
+     "name": "Ecom Agent OS - Ecommerce AI Agents",
+     "url": "https://huludirectory.com/listing/ecom-agent-os--ecommerce-ai-agents-2261986"
+    }
+   ]
+  },
+  {
+   "term": "competitor keep running",
+   "count": 3,
+   "sources": 4,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Winning Statics - Weekly Competitor Ads",
+     "url": "https://aweblist.org/listing/winning-statics--weekly-competitor-ads-974172"
+    },
+    {
+     "name": "Winning Statics",
+     "url": "https://aweblist.org/listing/winning-statics-974171"
+    },
+    {
+     "name": "Winning Statics Build ads from what competitors keep running",
+     "url": "https://thehackstack.com/s/winningstatics"
+    }
+   ]
+  },
+  {
+   "term": "television setup guide",
+   "count": 3,
+   "sources": 2,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Abonnement IPTV Luxe",
+     "url": "https://abonnementiptvluxe.com/"
+    },
+    {
+     "name": "Internet Television Setup Guides For France",
+     "url": "https://develif.com/s/internet-television-setup-guides-for-france"
+    },
+    {
+     "name": "Internet Television Setup Guides For Spain",
+     "url": "https://develif.com/s/internet-television-setup-guides-for-spain"
+    }
+   ]
+  },
+  {
+   "term": "weekly competitor report",
+   "count": 3,
+   "sources": 3,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Winning Statics - Weekly Competitor Ads",
+     "url": "https://aweblist.org/listing/winning-statics--weekly-competitor-ads-974172"
+    },
+    {
+     "name": "Winning Statics",
+     "url": "https://aweblist.org/listing/winning-statics-974171"
+    },
+    {
+     "name": "Winning Statics - Weekly Competitor-Informed Ads",
+     "url": "https://huludirectory.com/listing/winning-statics--weekly-competitor-informed-ads-2261983"
+    }
+   ]
+  },
+  {
+   "term": "residential static",
+   "count": 5,
+   "sources": 2,
+   "ratio": 194.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "ProxyLite",
+     "url": "https://proxylite.com/"
+    },
+    {
+     "name": "FlyProxy",
+     "url": "https://flyproxy.com/"
+    },
+    {
+     "name": "LumiProxy",
+     "url": "https://lumiproxy.com/"
+    }
+   ]
+  },
+  {
+   "term": "estate agent associated",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Kimmel Collective Real Estate Team",
+     "url": "https://huludirectory.com/listing/kimmel-collective-real-estate-team-2262002"
+    },
+    {
+     "name": "Ranjani Ravi Realty",
+     "url": "https://huludirectory.com/listing/ranjani-ravi-realty-2262003"
+    }
+   ]
+  },
+  {
+   "term": "generative engine optimization",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Digital Marketing Agency | SEO, PPC, Social Media & Website ",
+     "url": "https://directory6.org/listing/digital-marketing-agency-seo-ppc-social-media-and-website-audit-services-722642"
+    },
+    {
+     "name": "Akii SEO & AI Search Optimizer",
+     "url": "https://agentic.ai/t/akii-seo-ai-search-optimizer"
+    }
+   ]
+  },
+  {
+   "term": "brand brain ledger",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Ecom Agent OS",
+     "url": "https://aweblist.org/listing/ecom-agent-os-974196"
+    },
+    {
+     "name": "Ecom Agent OS: 16 Ecommerce AI Agents & Workflows",
+     "url": "https://huludirectory.com/listing/ecom-agent-os-16-ecommerce-ai-agents-and-workflows-2261987"
+    }
+   ]
+  },
+  {
+   "term": "formation spacing pencil",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Handwriting learning resources",
+     "url": "https://directory6.org/listing/handwriting-learning-resources-722644"
+    },
+    {
+     "name": "Best handwriting books for kids",
+     "url": "https://huludirectory.com/listing/best-handwriting-books-for-kids-2261990"
+    }
+   ]
+  },
+  {
+   "term": "lifestyle secret health",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Daily Lifestyle Secrets – Health and Wellness Tips",
+     "url": "https://exampledir.com/listing/daily-lifestyle-secrets-–-health-and-wellness-tips-314336"
+    },
+    {
+     "name": "Daily Lifestyle Secrets – Health Tips and Healthy Living",
+     "url": "https://directory6.org/listing/daily-lifestyle-secrets-–-health-tips-and-healthy-living-722647"
+    }
+   ]
+  },
+  {
+   "term": "proxy plus",
+   "count": 3,
+   "sources": 2,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "ProxyShare",
+     "url": "https://proxyshare.com/"
+    },
+    {
+     "name": "LumiProxy",
+     "url": "https://lumiproxy.com/"
+    },
+    {
+     "name": "BestProxy",
+     "url": "https://bestproxy.com/"
+    }
+   ]
+  },
+  {
+   "term": "automated book",
+   "count": 3,
+   "sources": 2,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Metranpage: Automated Book Typesetting & 3D Staging",
+     "url": "https://exampledir.com/listing/metranpage-automated-book-typesetting-and-3d-staging-314340"
+    },
+    {
+     "name": "Metranpage - AI Book Design",
+     "url": "https://aweblist.org/listing/metranpage--ai-book-design-974192"
+    },
+    {
+     "name": "Metranpage AI Book Formatting & Cover Design",
+     "url": "https://aweblist.org/listing/metranpage-ai-book-formatting-and-cover-design-974193"
+    }
+   ]
+  },
+  {
+   "term": "comfortable singing",
+   "count": 3,
+   "sources": 2,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "VocalRangeCalculator.com",
+     "url": "https://vocalrangecalculator.com/"
+    },
+    {
+     "name": "VocalRangeTest.com",
+     "url": "https://vocalrangetest.com/"
+    },
+    {
+     "name": "Vocal Range Test",
+     "url": "https://vocalrangetest.com/"
+    }
+   ]
+  },
+  {
+   "term": "metranpage ai",
+   "count": 3,
+   "sources": 2,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Metranpage AI Publishing & 3D Staging",
+     "url": "https://exampledir.com/listing/metranpage-ai-publishing-and-3d-staging-314341"
+    },
+    {
+     "name": "Metranpage - AI Book Design",
+     "url": "https://aweblist.org/listing/metranpage--ai-book-design-974192"
+    },
+    {
+     "name": "Metranpage AI Book Formatting & Cover Design",
+     "url": "https://aweblist.org/listing/metranpage-ai-book-formatting-and-cover-design-974193"
+    }
+   ]
+  },
+  {
+   "term": "care guide",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "16m",
+     "url": "https://16m.net/"
+    },
+    {
+     "name": "FishCare AI",
+     "url": "https://fishcareai.com/"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "instruction prompt workflow",
+   "count": 3,
+   "sources": 2,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Ecom Agent OS",
+     "url": "https://whatareyoubuilding.ai/product/LdVlpBPI13bSEUXflqWt"
+    },
+    {
+     "name": "Ecom Agent OS - 16 Ecommerce AI Agents",
+     "url": "https://huludirectory.com/listing/ecom-agent-os--16-ecommerce-ai-agents-2261975"
+    },
+    {
+     "name": "Ecom Agent OS - Ecommerce AI Agents",
+     "url": "https://huludirectory.com/listing/ecom-agent-os--ecommerce-ai-agents-2261986"
+    }
+   ]
+  },
+  {
+   "term": "winning static",
+   "count": 4,
+   "sources": 4,
+   "ratio": 155.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Winning Statics - Weekly Competitor Ads",
+     "url": "https://aweblist.org/listing/winning-statics--weekly-competitor-ads-974172"
+    },
+    {
+     "name": "Winning Statics",
+     "url": "https://aweblist.org/listing/winning-statics-974171"
+    },
+    {
+     "name": "Winning Statics - Weekly Competitor-Informed Ads",
+     "url": "https://huludirectory.com/listing/winning-statics--weekly-competitor-informed-ads-2261983"
+    }
+   ]
+  },
+  {
+   "term": "isp proxy plus",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "LumiProxy",
+     "url": "https://lumiproxy.com/"
+    },
+    {
+     "name": "BestProxy",
+     "url": "https://bestproxy.com/"
+    }
+   ]
+  },
+  {
+   "term": "seo answer engine",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Digital Marketing Agency | SEO, PPC, Social Media & Website ",
+     "url": "https://directory6.org/listing/digital-marketing-agency-seo-ppc-social-media-and-website-audit-services-722642"
+    },
+    {
+     "name": "Akii SEO & AI Search Optimizer",
+     "url": "https://agentic.ai/t/akii-seo-ai-search-optimizer"
+    }
+   ]
+  },
+  {
+   "term": "improve letter formation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Handwriting learning resources",
+     "url": "https://directory6.org/listing/handwriting-learning-resources-722644"
+    },
+    {
+     "name": "Best handwriting books for kids",
+     "url": "https://huludirectory.com/listing/best-handwriting-books-for-kids-2261990"
+    }
+   ]
+  },
+  {
+   "term": "shared brand brain",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Ecom Agent OS",
+     "url": "https://aweblist.org/listing/ecom-agent-os-974196"
+    },
+    {
+     "name": "Ecom Agent OS: 16 Ecommerce AI Agents & Workflows",
+     "url": "https://huludirectory.com/listing/ecom-agent-os-16-ecommerce-ai-agents-and-workflows-2261987"
+    }
+   ]
+  },
+  {
+   "term": "lifestyle secret",
+   "count": 3,
+   "sources": 3,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Daily Lifestyle Secrets – Health and Wellness Tips",
+     "url": "https://exampledir.com/listing/daily-lifestyle-secrets-–-health-and-wellness-tips-314336"
+    },
+    {
+     "name": "Daily Lifestyle Secrets – Health Tips and Healthy Living",
+     "url": "https://directory6.org/listing/daily-lifestyle-secrets-–-health-tips-and-healthy-living-722647"
+    },
+    {
+     "name": "Daily Lifestyle Secrets – Nutrition and Healthy Eating Tips",
+     "url": "https://aweblist.org/listing/daily-lifestyle-secrets-–-nutrition-and-healthy-eating-tips-974189"
+    }
+   ]
+  },
+  {
+   "term": "television setup",
+   "count": 3,
+   "sources": 2,
+   "ratio": 116.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Abonnement IPTV Luxe",
+     "url": "https://abonnementiptvluxe.com/"
+    },
+    {
+     "name": "Internet Television Setup Guides For France",
+     "url": "https://develif.com/s/internet-television-setup-guides-for-france"
+    },
+    {
+     "name": "Internet Television Setup Guides For Spain",
+     "url": "https://develif.com/s/internet-television-setup-guides-for-spain"
+    }
+   ]
+  },
+  {
+   "term": "agent associated",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Kimmel Collective Real Estate Team",
+     "url": "https://huludirectory.com/listing/kimmel-collective-real-estate-team-2262002"
+    },
+    {
+     "name": "Ranjani Ravi Realty",
+     "url": "https://huludirectory.com/listing/ranjani-ravi-realty-2262003"
+    }
+   ]
+  },
+  {
+   "term": "configuration guide",
+   "count": 2,
+   "sources": 2,
+   "ratio": 77.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI in IDE | Affordable Claude, GPT & Gemini for IDEs — score",
+     "url": "https://nothumansearch.ai/site/aiinide.com"
+    },
+    {
+     "name": "AI in IDE",
+     "url": "https://postlaunchkit.com/directory/ai-in-ide"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "acquisition conversion retention",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Ecom Agent OS",
+     "url": "https://aweblist.org/listing/ecom-agent-os-974196"
+    },
+    {
+     "name": "Ecom Agent OS - 16 Ecommerce AI Agents",
+     "url": "https://huludirectory.com/listing/ecom-agent-os--16-ecommerce-ai-agents-2261975"
+    },
+    {
+     "name": "Ecom Agent OS - Ecommerce AI Agents",
+     "url": "https://huludirectory.com/listing/ecom-agent-os--ecommerce-ai-agents-2261986"
+    }
+   ]
+  },
+  {
+   "term": "competitor keep running",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Winning Statics",
+     "url": "https://aweblist.org/listing/winning-statics-974171"
+    },
+    {
+     "name": "Winning Statics Build ads from what competitors keep running",
+     "url": "https://thehackstack.com/s/winningstatics"
+    },
+    {
+     "name": "Winning Statics - Weekly Competitor Ads",
+     "url": "https://aweblist.org/listing/winning-statics--weekly-competitor-ads-974172"
+    }
+   ]
+  },
+  {
+   "term": "television setup guide",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Abonnement IPTV Luxe",
+     "url": "https://abonnementiptvluxe.com/"
+    },
+    {
+     "name": "Internet Television Setup Guides For France",
+     "url": "https://develif.com/s/internet-television-setup-guides-for-france"
+    },
+    {
+     "name": "Internet Television Setup Guides For Spain",
+     "url": "https://develif.com/s/internet-television-setup-guides-for-spain"
+    }
+   ]
+  },
+  {
+   "term": "weekly competitor report",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Winning Statics",
+     "url": "https://aweblist.org/listing/winning-statics-974171"
+    },
+    {
+     "name": "Winning Statics - Weekly Competitor Ads",
+     "url": "https://aweblist.org/listing/winning-statics--weekly-competitor-ads-974172"
+    },
+    {
+     "name": "Winning Statics - Weekly Competitor-Informed Ads",
+     "url": "https://huludirectory.com/listing/winning-statics--weekly-competitor-informed-ads-2261983"
+    }
+   ]
+  },
+  {
+   "term": "residential static",
+   "size": 5,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "BestProxy",
+     "url": "https://bestproxy.com/"
+    },
+    {
+     "name": "Croxy",
+     "url": "https://croxy.com/"
+    },
+    {
+     "name": "FlyProxy",
+     "url": "https://flyproxy.com/"
+    },
+    {
+     "name": "LumiProxy",
+     "url": "https://lumiproxy.com/"
+    }
+   ]
+  },
+  {
+   "term": "proxy plus",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "BestProxy",
+     "url": "https://bestproxy.com/"
+    },
+    {
+     "name": "LumiProxy",
+     "url": "https://lumiproxy.com/"
+    },
+    {
+     "name": "ProxyShare",
+     "url": "https://proxyshare.com/"
+    }
+   ]
+  },
+  {
+   "term": "automated book",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Metranpage - AI Book Design",
+     "url": "https://aweblist.org/listing/metranpage--ai-book-design-974192"
+    },
+    {
+     "name": "Metranpage AI Book Formatting & Cover Design",
+     "url": "https://aweblist.org/listing/metranpage-ai-book-formatting-and-cover-design-974193"
+    },
+    {
+     "name": "Metranpage: Automated Book Typesetting & 3D Staging",
+     "url": "https://exampledir.com/listing/metranpage-automated-book-typesetting-and-3d-staging-314340"
+    }
+   ]
+  },
+  {
+   "term": "comfortable singing",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Vocal Range Test",
+     "url": "https://vocalrangetest.com/"
+    },
+    {
+     "name": "VocalRangeCalculator.com",
+     "url": "https://vocalrangecalculator.com/"
+    },
+    {
+     "name": "VocalRangeTest.com",
+     "url": "https://vocalrangetest.com/"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「acquisition conversion retention」今日 3 个产品/2 个目录：Ecom Agent OS、Ecom Agent OS - 16 Ecommerce AI Agents",
+  "小词「competitor keep running」今日 3 个产品/4 个目录：Winning Statics - Weekly Competitor Ads、Winning Statics",
+  "小词「television setup guide」今日 3 个产品/2 个目录：Abonnement IPTV Luxe、Internet Television Setup Guides For France",
+  "同日小簇「acquisition conversion retention」3 个相似产品：Ecom Agent OS、Ecom Agent OS - 16 Ecommerce AI Agents、Ecom Agent OS - Ecommerce AI Agents",
+  "同日小簇「competitor keep running」3 个相似产品：Winning Statics、Winning Statics Build ads from what competitors keep running、Winning Statics - Weekly Competitor Ads",
+  "我们的站点上线：deepseek-agent.com @ worthtotry.com",
+  "我们的站点上线：youlooklonely.com @ worthtotry.com"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-08.md",
+ "niche_groups": "- 电商AI智能体与工作流：acquisition conversion retention、brand brain ledger、instruction prompt workflow、shared brand brain —— 构建具备共享品牌记忆和自动化指令工作流的电商AI代理系统\n- 竞品广告情报监测：competitor keep running、weekly competitor report、winning static —— 提供竞品广告素材追踪、周度报告及持续投放监测服务\n- 住宅与ISP代理服务：residential static、proxy plus、isp proxy plus —— 提供住宅静态IP及ISP级代理资源用于网络请求\n- AI出版与书籍排版：automated book、metranpage ai —— 利用AI技术实现书籍自动排版、3D封面生成及出版设计\n- SEO与生成式引擎优化：generative engine optimization、seo answer engine —— 针对AI搜索引擎和传统SEO进行内容优化以提升可见性\n- 儿童书写与发声训练：formation spacing pencil、improve letter formation、comfortable singing —— 提供儿童笔迹间距练习资源及人声音域测试工具"
+}
