@@ -1,0 +1,687 @@
+{
+ "date": "2026-11-09",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 178,
+ "sources_failed": 19,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "linkwith-us",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "rajaharimau-xyz",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "rajaharimau-xyz",
+  "trillionagent-com"
+ ],
+ "new_today": 1602,
+ "new_today_unique": 1494,
+ "ai_share_today": 0.24,
+ "ai_share_30d": 0.28,
+ "niche_terms": [
+  {
+   "term": "rarest correct answer",
+   "count": 7,
+   "sources": 5,
+   "ratio": 235.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Krillion Game - Daily Trivia Dive directory6",
+     "url": "https://directory6.org/listing/krillion-game--daily-trivia-dive-directory6-722729"
+    },
+    {
+     "name": "Krillion Game - Daily Trivia Dive exampledir",
+     "url": "https://exampledir.com/listing/krillion-game--daily-trivia-dive-exampledir-314386"
+    },
+    {
+     "name": "Krillion Game - Daily Trivia Dive huludirectory",
+     "url": "https://huludirectory.com/listing/krillion-game--daily-trivia-dive-huludirectory-2262031"
+    }
+   ]
+  },
+  {
+   "term": "seo content writing",
+   "count": 3,
+   "sources": 3,
+   "ratio": 101.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "That Brand Thing - SEO Content & Copywriting Services",
+     "url": "https://directory6.org/listing/that-brand-thing--seo-content-and-copywriting-services-722765"
+    },
+    {
+     "name": "Content Writing Services Agency | That Brand Thing",
+     "url": "https://directory6.org/listing/content-writing-services-agency-that-brand-thing-722760"
+    },
+    {
+     "name": "SEO Content Writing & Copywriting Services | That Brand Thin",
+     "url": "https://exampledir.com/listing/seo-content-writing-and-copywriting-services-that-brand-thing-314398"
+    }
+   ]
+  },
+  {
+   "term": "developing travel portal",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Travel Portal Development 6",
+     "url": "https://huludirectory.com/listing/travel-portal-development-6-2262033"
+    },
+    {
+     "name": "Travel Portal Development 7",
+     "url": "https://a2place.com/listing/travel-portal-development-7-718753"
+    }
+   ]
+  },
+  {
+   "term": "rap duet video",
+   "count": 2,
+   "sources": 3,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Hotel Lobby AI",
+     "url": "https://aihotellobby.art/"
+    },
+    {
+     "name": "YourRapVideo",
+     "url": "https://yourrapvideo.com/"
+    }
+   ]
+  },
+  {
+   "term": "beginner friendly cheese",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Boss Cheese Guide",
+     "url": "https://a2place.com/listing/boss-cheese-guide-718754"
+    },
+    {
+     "name": "PBZero Guide - Phantom Blade Zero Boss Strategies",
+     "url": "https://a2place.com/listing/pbzero-guide--phantom-blade-zero-boss-strategies-718755"
+    }
+   ]
+  },
+  {
+   "term": "boss cheese guide",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Boss Cheese Guide",
+     "url": "https://a2place.com/listing/boss-cheese-guide-718754"
+    },
+    {
+     "name": "Boss Cheese Guide - Phantom Blade Zero Boss Guides",
+     "url": "https://a2place.com/listing/boss-cheese-guide--phantom-blade-zero-boss-guides-718756"
+    }
+   ]
+  },
+  {
+   "term": "boxer brief style",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "brief underwear for men",
+     "url": "https://directory6.org/listing/brief-underwear-for-men-722724"
+    },
+    {
+     "name": "printed men brief",
+     "url": "https://huludirectory.com/listing/printed-men-brief-2262028"
+    }
+   ]
+  },
+  {
+   "term": "competitive exam preparation",
+   "count": 2,
+   "sources": 3,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Junior College in Hyderabad for MPC, BiPC & MEC",
+     "url": "https://directory6.org/listing/best-junior-college-in-hyderabad-for-mpc-bipc-and-mec-722757"
+    },
+    {
+     "name": "gharmeshiksha.com",
+     "url": "https://gharmeshiksha.com/tutor-register.php"
+    }
+   ]
+  },
+  {
+   "term": "complex data migration",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Data Intelligence and Transformation Solutions",
+     "url": "https://exampledir.com/listing/data-intelligence-and-transformation-solutions-314392"
+    },
+    {
+     "name": "Data Structuring and Transformation Solutions",
+     "url": "https://huludirectory.com/listing/data-structuring-and-transformation-solutions-2262038"
+    }
+   ]
+  },
+  {
+   "term": "comprehensive digital inclusion",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Accessibility services company in USA",
+     "url": "https://huludirectory.com/listing/accessibility-services-company-in-usa   -2262035"
+    },
+    {
+     "name": "Accessibility solutions in Europe",
+     "url": "https://exampledir.com/listing/accessibility-solutions-in-europe-314389"
+    }
+   ]
+  },
+  {
+   "term": "hybrid solar water",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Aquasolar",
+     "url": "https://huludirectory.com/listing/aquasolar-2262025"
+    },
+    {
+     "name": "Aquasolar - Professional Solar Water Pump Provider",
+     "url": "https://directory6.org/listing/aquasolar--professional-solar-water-pump-provider-722740"
+    }
+   ]
+  },
+  {
+   "term": "voice type test",
+   "count": 2,
+   "sources": 3,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Voice Type Test",
+     "url": "https://voicetypetest.com/"
+    },
+    {
+     "name": "Voice Type Test Online Tool For Singers",
+     "url": "https://develif.com/s/voice-type-test-online-tool-for-singers"
+    }
+   ]
+  },
+  {
+   "term": "browser flag",
+   "count": 3,
+   "sources": 3,
+   "ratio": 101.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Guess Flag Quiz",
+     "url": "https://guessflagquiz.com/"
+    },
+    {
+     "name": "Flag Maker Free Browser Flag Design Tool Svg Png",
+     "url": "https://develif.com/s/flag-maker-free-browser-flag-design-tool-svg-png"
+    },
+    {
+     "name": "Flag Maker Free browser flag maker: 28 layouts, 197 template",
+     "url": "https://thehackstack.com/s/flag-maker"
+    }
+   ]
+  },
+  {
+   "term": "topic quizze",
+   "count": 3,
+   "sources": 3,
+   "ratio": 101.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "ServSafe Practice Exam",
+     "url": "https://servsafepracticeexam.com/"
+    },
+    {
+     "name": "SIE Exam Practice Test",
+     "url": "https://postlaunchkit.com/directory/sie-exam-practice-test"
+    },
+    {
+     "name": "PTCB Quiz Prep",
+     "url": "https://ptcbquizprep.com/"
+    }
+   ]
+  },
+  {
+   "term": "check ins",
+   "count": 3,
+   "sources": 3,
+   "ratio": 101.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Event GPS Attendance Tracking Software Singapore",
+     "url": "https://exampledir.com/listing/event-gps-attendance-tracking-software-singapore-314360"
+    },
+    {
+     "name": "Roverd",
+     "url": "https://auth.pitchwall.co/product/roverd-booking-and-reservation-software"
+    },
+    {
+     "name": "Cozy Check Ins",
+     "url": "https://www.uneed.best/tool/cozy-check-ins"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "common answer keep",
+   "count": 5,
+   "sources": 4,
+   "ratio": 168.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Krillion Game - Daily Trivia Dive directory6",
+     "url": "https://directory6.org/listing/krillion-game--daily-trivia-dive-directory6-722729"
+    },
+    {
+     "name": "Krillion Game - Daily Trivia Dive exampledir",
+     "url": "https://exampledir.com/listing/krillion-game--daily-trivia-dive-exampledir-314386"
+    },
+    {
+     "name": "Krillion Game - Daily Trivia Dive huludirectory",
+     "url": "https://huludirectory.com/listing/krillion-game--daily-trivia-dive-huludirectory-2262031"
+    }
+   ]
+  },
+  {
+   "term": "bosse missable item",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Boss Cheese Guide",
+     "url": "https://a2place.com/listing/boss-cheese-guide-718754"
+    },
+    {
+     "name": "PBZero Guide - Phantom Blade Zero Boss Strategies",
+     "url": "https://a2place.com/listing/pbzero-guide--phantom-blade-zero-boss-strategies-718755"
+    }
+   ]
+  },
+  {
+   "term": "brief style designed",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "brief underwear for men",
+     "url": "https://directory6.org/listing/brief-underwear-for-men-722724"
+    },
+    {
+     "name": "printed men brief",
+     "url": "https://huludirectory.com/listing/printed-men-brief-2262028"
+    }
+   ]
+  },
+  {
+   "term": "convert unstructured publishing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Data Intelligence and Transformation Solutions",
+     "url": "https://exampledir.com/listing/data-intelligence-and-transformation-solutions-314392"
+    },
+    {
+     "name": "Data Structuring and Transformation Solutions",
+     "url": "https://huludirectory.com/listing/data-structuring-and-transformation-solutions-2262038"
+    }
+   ]
+  },
+  {
+   "term": "pump manufacturer founded",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Aquasolar",
+     "url": "https://huludirectory.com/listing/aquasolar-2262025"
+    },
+    {
+     "name": "Aquasolar - Professional Solar Water Pump Provider",
+     "url": "https://directory6.org/listing/aquasolar--professional-solar-water-pump-provider-722740"
+    }
+   ]
+  },
+  {
+   "term": "copy blog",
+   "count": 3,
+   "sources": 3,
+   "ratio": 101.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "That Brand Thing - SEO Content & Copywriting Services",
+     "url": "https://directory6.org/listing/that-brand-thing--seo-content-and-copywriting-services-722765"
+    },
+    {
+     "name": "Content Writing Services Agency | That Brand Thing",
+     "url": "https://directory6.org/listing/content-writing-services-agency-that-brand-thing-722760"
+    },
+    {
+     "name": "SEO Content Writing & Copywriting Services | That Brand Thin",
+     "url": "https://exampledir.com/listing/seo-content-writing-and-copywriting-services-that-brand-thing-314398"
+    }
+   ]
+  },
+  {
+   "term": "jensen huang",
+   "count": 3,
+   "sources": 2,
+   "ratio": 101.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld",
+     "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50"
+    },
+    {
+     "name": "Nvidia Board Investigates Huang: The Email and Statement",
+     "url": "https://cellcog.ai/blog/nvidia-board-investigation-jensen-huang"
+    },
+    {
+     "name": "Nvidia will investigate CEO Jensen Huang’s relationship with",
+     "url": "https://aisuqp.xyz/news/nvidia-will-investigate-ceo-jensen-huang-s-relationship-with-nbhy"
+    }
+   ]
+  },
+  {
+   "term": "player aged",
+   "count": 3,
+   "sources": 2,
+   "ratio": 101.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Superior Chess Academy",
+     "url": "https://directory6.org/listing/superior-chess-academy-722739"
+    },
+    {
+     "name": "Australia Casino Site",
+     "url": "https://exampledir.com/listing/australia-casino-site-314352"
+    },
+    {
+     "name": "Casino med Trustly",
+     "url": "https://exampledir.com/listing/casino-med-trustly-314371"
+    }
+   ]
+  },
+  {
+   "term": "approval inbox",
+   "count": 2,
+   "sources": 4,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "handup",
+     "url": "https://gateofai.com/community-tools/handup"
+    },
+    {
+     "name": "Handup One Approval Inbox For All Your Ai Agents",
+     "url": "https://develif.com/s/handup-one-approval-inbox-for-all-your-ai-agents"
+    }
+   ]
+  },
+  {
+   "term": "chrome edge",
+   "count": 2,
+   "sources": 2,
+   "ratio": 67.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Blur Private Data Before Sharing Your Computer Screen: PageV",
+     "url": "https://pageveil.net/"
+    },
+    {
+     "name": "Excerpt",
+     "url": "https://whatareyoubuilding.ai/product/nfixeTV2iM80HCJpUZKY"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "rarest correct answer",
+   "size": 7,
+   "sources": 5,
+   "examples": [
+    {
+     "name": "Krillion Game - Daily Trivia Dive a2place",
+     "url": "https://a2place.com/listing/krillion-game--daily-trivia-dive-a2place-718751"
+    },
+    {
+     "name": "Krillion Game - Daily Trivia Dive directory6",
+     "url": "https://directory6.org/listing/krillion-game--daily-trivia-dive-directory6-722729"
+    },
+    {
+     "name": "Krillion Game - Daily Trivia Dive exampledir",
+     "url": "https://exampledir.com/listing/krillion-game--daily-trivia-dive-exampledir-314386"
+    },
+    {
+     "name": "Krillion Game - Daily Trivia Dive huludirectory",
+     "url": "https://huludirectory.com/listing/krillion-game--daily-trivia-dive-huludirectory-2262031"
+    }
+   ]
+  },
+  {
+   "term": "seo content writing",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Content Writing Services Agency | That Brand Thing",
+     "url": "https://directory6.org/listing/content-writing-services-agency-that-brand-thing-722760"
+    },
+    {
+     "name": "SEO Content Writing & Copywriting Services | That Brand Thin",
+     "url": "https://exampledir.com/listing/seo-content-writing-and-copywriting-services-that-brand-thing-314398"
+    },
+    {
+     "name": "That Brand Thing - SEO Content & Copywriting Services",
+     "url": "https://directory6.org/listing/that-brand-thing--seo-content-and-copywriting-services-722765"
+    }
+   ]
+  },
+  {
+   "term": "browser flag",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Flag Maker Free Browser Flag Design Tool Svg Png",
+     "url": "https://develif.com/s/flag-maker-free-browser-flag-design-tool-svg-png"
+    },
+    {
+     "name": "Flag Maker Free browser flag maker: 28 layouts, 197 template",
+     "url": "https://thehackstack.com/s/flag-maker"
+    },
+    {
+     "name": "Guess Flag Quiz",
+     "url": "https://guessflagquiz.com/"
+    }
+   ]
+  },
+  {
+   "term": "topic quizze",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "PTCB Quiz Prep",
+     "url": "https://ptcbquizprep.com/"
+    },
+    {
+     "name": "ServSafe Practice Exam",
+     "url": "https://postlaunchkit.com/directory/servsafe-practice-exam"
+    },
+    {
+     "name": "SIE Exam Practice Test",
+     "url": "https://postlaunchkit.com/directory/sie-exam-practice-test"
+    }
+   ]
+  },
+  {
+   "term": "check ins",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Cozy Check Ins",
+     "url": "https://www.uneed.best/tool/cozy-check-ins"
+    },
+    {
+     "name": "Event GPS Attendance Tracking Software Singapore",
+     "url": "https://exampledir.com/listing/event-gps-attendance-tracking-software-singapore-314360"
+    },
+    {
+     "name": "Roverd",
+     "url": "https://auth.pitchwall.co/product/roverd-booking-and-reservation-software"
+    }
+   ]
+  },
+  {
+   "term": "jensen huang",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld",
+     "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50"
+    },
+    {
+     "name": "Nvidia Board Investigates Huang: The Email and Statement",
+     "url": "https://cellcog.ai/blog/nvidia-board-investigation-jensen-huang"
+    },
+    {
+     "name": "Nvidia will investigate CEO Jensen Huang’s relationship with",
+     "url": "https://aisuqp.xyz/news/nvidia-will-investigate-ceo-jensen-huang-s-relationship-with-nbhy"
+    }
+   ]
+  },
+  {
+   "term": "player aged",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Australia Casino Site",
+     "url": "https://exampledir.com/listing/australia-casino-site-314352"
+    },
+    {
+     "name": "Casino med Trustly",
+     "url": "https://exampledir.com/listing/casino-med-trustly-314371"
+    },
+    {
+     "name": "Superior Chess Academy",
+     "url": "https://directory6.org/listing/superior-chess-academy-722739"
+    }
+   ]
+  },
+  {
+   "term": "timed mock",
+   "size": 5,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "CITB Practice Test",
+     "url": "https://postlaunchkit.com/directory/citb-practice-test"
+    },
+    {
+     "name": "CSCS Practice Test",
+     "url": "https://postlaunchkit.com/directory/cscs-practice-test"
+    },
+    {
+     "name": "GAMSAT Practice Test",
+     "url": "https://postlaunchkit.com/directory/gamsat-practice-test"
+    },
+    {
+     "name": "PTCB Quiz Prep",
+     "url": "https://ptcbquizprep.com/"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「rarest correct answer」今日 7 个产品/5 个目录：Krillion Game - Daily Trivia Dive directory6、Krillion Game - Daily Trivia Dive exampledir",
+  "小词「seo content writing」今日 3 个产品/3 个目录：That Brand Thing - SEO Content & Copywriting Services、Content Writing Services Agency | That Brand Thing",
+  "小词「developing travel portal」今日 2 个产品/2 个目录：Travel Portal Development 6、Travel Portal Development 7",
+  "同日小簇「rarest correct answer」7 个相似产品：Krillion Game - Daily Trivia Dive a2place、Krillion Game - Daily Trivia Dive directory6、Krillion Game - Daily Trivia Dive exampledir",
+  "同日小簇「seo content writing」3 个相似产品：Content Writing Services Agency | That Brand Thing、SEO Content Writing & Copywriting Services | That Brand Thin、That Brand Thing - SEO Content & Copywriting Services",
+  "我们的站点上线：explainervideogenerator.com @ launch.ignlab.net",
+  "跨目录同时出现：agentsspot.com（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-09.md",
+ "niche_groups": "- 游戏辅助与攻略：boss cheese guide、bosse missable item、beginner friendly cheese —— 提供游戏Boss打法、隐藏物品收集及新手入门的攻略指南\n- SEO与内容营销：seo content writing、copy blog —— 提供SEO优化文章撰写及品牌文案创作服务\n- 在线考试与知识测验：topic quizze、rarest correct answer、common answer keep、voice type test —— 提供各类职业认证、日常知识问答及特定技能（如声部）的在线测试工具\n- 数据迁移与结构化：complex data migration、convert unstructured publishing —— 提供非结构化数据清洗、转换及智能化迁移解决方案\n- 垂直行业SaaS开发：developing travel portal、check ins、comprehensive digital inclusion —— 提供旅游门户搭建、活动考勤追踪及无障碍合规等特定场景的软件服务\n- 细分硬件与消费品：hybrid solar water、pump manufacturer founded、boxer brief style、brief style designed、rap duet video —— 涵盖太阳能水泵制造、男士内裤款式及AI生成说唱视频等小众垂直产品"
+}

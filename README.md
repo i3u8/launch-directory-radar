@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-08** · 新增 1366 · 监控 197 个目录（今日成功 181）
+**2026-11-09** · 新增 1602 · 监控 197 个目录（今日成功 178）
 
 聚焦小词 Top 15:
 
-- `acquisition conversion retention` ×3（2 目录） 🆕：Ecom Agent OS；Ecom Agent OS - 16 Ecommerce AI Agents
-- `competitor keep running` ×3（4 目录） 🆕：Winning Statics - Weekly Competitor Ads；Winning Statics
-- `television setup guide` ×3（2 目录） 🆕：Abonnement IPTV Luxe；Internet Television Setup Guides For France
-- `weekly competitor report` ×3（3 目录） 🆕：Winning Statics - Weekly Competitor Ads；Winning Statics
-- `residential static` ×5（2 目录） 🆕：ProxyLite；FlyProxy
-- `estate agent associated` ×2（2 目录） 🆕：Kimmel Collective Real Estate Team；Ranjani Ravi Realty
-- `generative engine optimization` ×2（2 目录） 🆕：Digital Marketing Agency | SEO, PPC, Social Media & Website ；Akii SEO & AI Search Optimizer
-- `brand brain ledger` ×2（2 目录） 🆕：Ecom Agent OS；Ecom Agent OS: 16 Ecommerce AI Agents & Workflows
-- `formation spacing pencil` ×2（2 目录） 🆕：Handwriting learning resources；Best handwriting books for kids
-- `lifestyle secret health` ×2（2 目录） 🆕：Daily Lifestyle Secrets – Health and Wellness Tips；Daily Lifestyle Secrets – Health Tips and Healthy Living
-- `proxy plus` ×3（2 目录） 🆕：ProxyShare；LumiProxy
-- `automated book` ×3（2 目录） 🆕：Metranpage: Automated Book Typesetting & 3D Staging；Metranpage - AI Book Design
-- `comfortable singing` ×3（2 目录） 🆕：VocalRangeCalculator.com；VocalRangeTest.com
-- `metranpage ai` ×3（2 目录） 🆕：Metranpage AI Publishing & 3D Staging；Metranpage - AI Book Design
-- `care guide` ×2（2 目录） 🆕：16m；FishCare AI
+- `rarest correct answer` ×7（5 目录） 🆕：Krillion Game - Daily Trivia Dive directory6；Krillion Game - Daily Trivia Dive exampledir
+- `seo content writing` ×3（3 目录） 🆕：That Brand Thing - SEO Content & Copywriting Services；Content Writing Services Agency | That Brand Thing
+- `developing travel portal` ×2（2 目录） 🆕：Travel Portal Development 6；Travel Portal Development 7
+- `rap duet video` ×2（3 目录） 🆕：Hotel Lobby AI；YourRapVideo
+- `beginner friendly cheese` ×2（2 目录） 🆕：Boss Cheese Guide；PBZero Guide - Phantom Blade Zero Boss Strategies
+- `boss cheese guide` ×2（2 目录） 🆕：Boss Cheese Guide；Boss Cheese Guide - Phantom Blade Zero Boss Guides
+- `boxer brief style` ×2（2 目录） 🆕：brief underwear for men；printed men brief
+- `competitive exam preparation` ×2（3 目录） 🆕：Best Junior College in Hyderabad for MPC, BiPC & MEC；gharmeshiksha.com
+- `complex data migration` ×2（2 目录） 🆕：Data Intelligence and Transformation Solutions；Data Structuring and Transformation Solutions
+- `comprehensive digital inclusion` ×2（2 目录） 🆕：Accessibility services company in USA；Accessibility solutions in Europe
+- `hybrid solar water` ×2（2 目录） 🆕：Aquasolar；Aquasolar - Professional Solar Water Pump Provider
+- `voice type test` ×2（3 目录） 🆕：Voice Type Test；Voice Type Test Online Tool For Singers
+- `browser flag` ×3（3 目录） 🆕：Guess Flag Quiz；Flag Maker Free Browser Flag Design Tool Svg Png
+- `topic quizze` ×3（3 目录） 🆕：ServSafe Practice Exam；SIE Exam Practice Test
+- `check ins` ×3（3 目录） 🆕：Event GPS Attendance Tracking Software Singapore；Roverd
 
 微赛道归纳:
 
-- 电商AI智能体与工作流：acquisition conversion retention、brand brain ledger、instruction prompt workflow、shared brand brain —— 构建具备共享品牌记忆和自动化指令工作流的电商AI代理系统
-- 竞品广告情报监测：competitor keep running、weekly competitor report、winning static —— 提供竞品广告素材追踪、周度报告及持续投放监测服务
-- 住宅与ISP代理服务：residential static、proxy plus、isp proxy plus —— 提供住宅静态IP及ISP级代理资源用于网络请求
-- AI出版与书籍排版：automated book、metranpage ai —— 利用AI技术实现书籍自动排版、3D封面生成及出版设计
-- SEO与生成式引擎优化：generative engine optimization、seo answer engine —— 针对AI搜索引擎和传统SEO进行内容优化以提升可见性
-- 儿童书写与发声训练：formation spacing pencil、improve letter formation、comfortable singing —— 提供儿童笔迹间距练习资源及人声音域测试工具
+- 游戏辅助与攻略：boss cheese guide、bosse missable item、beginner friendly cheese —— 提供游戏Boss打法、隐藏物品收集及新手入门的攻略指南
+- SEO与内容营销：seo content writing、copy blog —— 提供SEO优化文章撰写及品牌文案创作服务
+- 在线考试与知识测验：topic quizze、rarest correct answer、common answer keep、voice type test —— 提供各类职业认证、日常知识问答及特定技能（如声部）的在线测试工具
+- 数据迁移与结构化：complex data migration、convert unstructured publishing —— 提供非结构化数据清洗、转换及智能化迁移解决方案
+- 垂直行业SaaS开发：developing travel portal、check ins、comprehensive digital inclusion —— 提供旅游门户搭建、活动考勤追踪及无障碍合规等特定场景的软件服务
+- 细分硬件与消费品：hybrid solar water、pump manufacturer founded、boxer brief style、brief style designed、rap duet video —— 涵盖太阳能水泵制造、男士内裤款式及AI生成说唱视频等小众垂直产品
 
-完整报告: [reports/2026-11-08.md](reports/2026-11-08.md)
+完整报告: [reports/2026-11-09.md](reports/2026-11-09.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
