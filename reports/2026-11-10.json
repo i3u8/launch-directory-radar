@@ -1,0 +1,706 @@
+{
+ "date": "2026-11-10",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 180,
+ "sources_failed": 17,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com"
+ ],
+ "new_today": 1778,
+ "new_today_unique": 1657,
+ "ai_share_today": 0.26,
+ "ai_share_30d": 0.28,
+ "niche_terms": [
+  {
+   "term": "krillion unl see",
+   "count": 4,
+   "sources": 4,
+   "ratio": 126.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Krillion Game - Safe vs Rare Answers",
+     "url": "https://huludirectory.com/listing/krillion-game--safe-vs-rare-answers-2262175"
+    },
+    {
+     "name": "Krillion Game - Krillion Unlimited",
+     "url": "https://aweblist.org/listing/krillion-game--krillion-unlimited-974520"
+    },
+    {
+     "name": "Krillion Game - What Is Krillion",
+     "url": "https://directory6.org/listing/krillion-game--what-is-krillion-722922"
+    }
+   ]
+  },
+  {
+   "term": "wallpaper library",
+   "count": 5,
+   "sources": 4,
+   "ratio": 158.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Wallpaper Sets That Show Their Own Crop Before You Download",
+     "url": "https://exampledir.com/listing/wallpaper-sets-that-show-their-own-crop-before-you-download-314415"
+    },
+    {
+     "name": "A Wallpaper Library Ordered By the Screen It Lands On",
+     "url": "https://a2place.com/listing/a-wallpaper-library-ordered-by-the-screen-it-lands-on-718766"
+    },
+    {
+     "name": "A Wallpaper Library That Starts With Your Screen, Not a Them",
+     "url": "https://a2place.com/listing/a-wallpaper-library-that-starts-with-your-screen-not-a-theme-718763"
+    }
+   ]
+  },
+  {
+   "term": "canada agency",
+   "count": 4,
+   "sources": 2,
+   "ratio": 126.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Seo Services In Canada | Agency",
+     "url": "https://exampledir.com/listing/seo-services-in-canada-agency-314448"
+    },
+    {
+     "name": "Best Seo Company Canada | Agency",
+     "url": "https://exampledir.com/listing/best-seo-company-canada-agency-314447"
+    },
+    {
+     "name": "Seo Company In Canada | Agency",
+     "url": "https://exampledir.com/listing/seo-company-in-canada-agency-314446"
+    }
+   ]
+  },
+  {
+   "term": "villa stay",
+   "count": 4,
+   "sources": 4,
+   "ratio": 126.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Family Friendly Villa Stay in Chandigarh",
+     "url": "https://exampledir.com/listing/family-friendly-villa-stay-in-chandigarh-314453"
+    },
+    {
+     "name": "Reserve Your Luxury Villa Stay in Chandigarh",
+     "url": "https://aweblist.org/listing/reserve-your-luxury-villa-stay-in-chandigarh-974529"
+    },
+    {
+     "name": "Comfortable Villa Stay in Chandigarh for Every Trip",
+     "url": "https://huludirectory.com/listing/comfortable-villa-stay-in-chandigarh-for-every-trip-2262180"
+    }
+   ]
+  },
+  {
+   "term": "claude fable",
+   "count": 8,
+   "sources": 3,
+   "ratio": 84.6,
+   "new": false,
+   "examples": [
+    {
+     "name": "Quoting Prompting Claude Fable 5.2",
+     "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52"
+    },
+    {
+     "name": "Yonkers Rises",
+     "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises"
+    },
+    {
+     "name": "llm-anthropic 0.31",
+     "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic"
+    }
+   ]
+  },
+  {
+   "term": "anvil enchantment order",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "AnvilPilot",
+     "url": "https://postlaunchkit.com/directory/anvilpilot"
+    },
+    {
+     "name": "AnvilPilot Plan cheaper Minecraft anvil enchantment orders 💬",
+     "url": "https://thehackstack.com/s/enchantmentcalculator"
+    }
+   ]
+  },
+  {
+   "term": "code virtual queue",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "ScanQueue: Virtual Queue & Waitlist System",
+     "url": "https://dealmyapp.com/listings/scanqueue-virtual-queue-waitlist-system"
+    },
+    {
+     "name": "ScanQueue",
+     "url": "https://scanqueue.com/"
+    }
+   ]
+  },
+  {
+   "term": "connection answer hint",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Connections Solved",
+     "url": "https://postlaunchkit.com/directory/connections-solved"
+    },
+    {
+     "name": "Connections Solved Daily Connections answers, hints & explan",
+     "url": "https://thehackstack.com/s/connectionssolved"
+    }
+   ]
+  },
+  {
+   "term": "five second vertical",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Paws at You",
+     "url": "https://pawsatyouvideo.com/"
+    },
+    {
+     "name": "AI Genjutsu: Turn one photo of yourself or your pet into a f",
+     "url": "https://saasolution.io/tool/ai-genjutsu"
+    }
+   ]
+  },
+  {
+   "term": "minecraft blueprint import",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Minecraft Blueprints",
+     "url": "https://webrankdirectory.org/listing/minecraft-blueprints"
+    },
+    {
+     "name": "Minecraft Blueprints Import world buildings into 3D Minecraf",
+     "url": "https://thehackstack.com/s/minecraftblueprints"
+    }
+   ]
+  },
+  {
+   "term": "delhi gurugram noida",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Luxury Tiles Showroom in Delhi | Valueline",
+     "url": "https://exampledir.com/listing/luxury-tiles-showroom-in-delhi-valueline-314441"
+    },
+    {
+     "name": "Villa Windows and Doors Delhi | Valueline Alumil & Keller",
+     "url": "https://huludirectory.com/listing/villa-windows-and-doors-delhi-valueline-alumil-and-keller-2262140"
+    }
+   ]
+  },
+  {
+   "term": "enjoy sharp text",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "HP Laser Printers for Fast and Professional Printing",
+     "url": "https://directory6.org/listing/hp-laser-printers-for-fast-and-professional-printing-722911"
+    },
+    {
+     "name": "HP Envy Printers for Smart and Convenient Printing",
+     "url": "https://aweblist.org/listing/hp-envy-printers-for-smart-and-convenient-printing-974503"
+    }
+   ]
+  },
+  {
+   "term": "facility refinery shipyard",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Stainless Cable Ties Manufacturer for Industrial Application",
+     "url": "https://exampledir.com/listing/stainless-cable-ties-manufacturer-for-industrial-applications-novoflex-314443"
+    },
+    {
+     "name": "Stainless Steel Cable Tie Manufacturer for Industrial Applic",
+     "url": "https://huludirectory.com/listing/stainless-steel-cable-tie-manufacturer-for-industrial-applications-novoflex-2262147"
+    }
+   ]
+  },
+  {
+   "term": "meta muse ember",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume",
+     "url": "https://marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model"
+    },
+    {
+     "name": "Meta’s Muse Ember is built for the boring work agents do all",
+     "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution"
+    }
+   ]
+  },
+  {
+   "term": "checked preview",
+   "count": 3,
+   "sources": 3,
+   "ratio": 95.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Rowmoss",
+     "url": "https://rowmoss.pivlu.com/"
+    },
+    {
+     "name": "CSVQBO CSV or Excel to QBO, QFX and OFX with a checked previ",
+     "url": "https://thehackstack.com/s/csvqbo-pivlu"
+    },
+    {
+     "name": "Rowmoss Supplier CSV to Shopify drafts, with a checked previ",
+     "url": "https://thehackstack.com/s/rowmoss-pivlu"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "krillion unl",
+   "count": 4,
+   "sources": 4,
+   "ratio": 126.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Krillion Game - Safe vs Rare Answers",
+     "url": "https://huludirectory.com/listing/krillion-game--safe-vs-rare-answers-2262175"
+    },
+    {
+     "name": "Krillion Game - Krillion Unlimited",
+     "url": "https://aweblist.org/listing/krillion-game--krillion-unlimited-974520"
+    },
+    {
+     "name": "Krillion Game - What Is Krillion",
+     "url": "https://directory6.org/listing/krillion-game--what-is-krillion-722922"
+    }
+   ]
+  },
+  {
+   "term": "cheaper minecraft anvil",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "AnvilPilot",
+     "url": "https://postlaunchkit.com/directory/anvilpilot"
+    },
+    {
+     "name": "AnvilPilot Plan cheaper Minecraft anvil enchantment orders 💬",
+     "url": "https://thehackstack.com/s/enchantmentcalculator"
+    }
+   ]
+  },
+  {
+   "term": "qr code virtual",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "ScanQueue: Virtual Queue & Waitlist System",
+     "url": "https://dealmyapp.com/listings/scanqueue-virtual-queue-waitlist-system"
+    },
+    {
+     "name": "ScanQueue",
+     "url": "https://scanqueue.com/"
+    }
+   ]
+  },
+  {
+   "term": "chandigarh stay royal",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Family Friendly Villa Stay in Chandigarh",
+     "url": "https://exampledir.com/listing/family-friendly-villa-stay-in-chandigarh-314453"
+    },
+    {
+     "name": "Find Your Ideal Villa Stay in Chandigarh",
+     "url": "https://directory6.org/listing/find-your-ideal-villa-stay-in-chandigarh-722929"
+    }
+   ]
+  },
+  {
+   "term": "gurugram noida greater",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Luxury Tiles Showroom in Delhi | Valueline",
+     "url": "https://exampledir.com/listing/luxury-tiles-showroom-in-delhi-valueline-314441"
+    },
+    {
+     "name": "Villa Windows and Doors Delhi | Valueline Alumil & Keller",
+     "url": "https://huludirectory.com/listing/villa-windows-and-doors-delhi-valueline-alumil-and-keller-2262140"
+    }
+   ]
+  },
+  {
+   "term": "industrial cable bundling",
+   "count": 2,
+   "sources": 2,
+   "ratio": 63.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Stainless Cable Ties Manufacturer for Industrial Application",
+     "url": "https://exampledir.com/listing/stainless-cable-ties-manufacturer-for-industrial-applications-novoflex-314443"
+    },
+    {
+     "name": "Stainless Steel Cable Tie Manufacturer for Industrial Applic",
+     "url": "https://huludirectory.com/listing/stainless-steel-cable-tie-manufacturer-for-industrial-applications-novoflex-2262147"
+    }
+   ]
+  },
+  {
+   "term": "crop preview",
+   "count": 3,
+   "sources": 2,
+   "ratio": 95.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Wallpaper Sets That Show Their Own Crop Before You Download",
+     "url": "https://exampledir.com/listing/wallpaper-sets-that-show-their-own-crop-before-you-download-314415"
+    },
+    {
+     "name": "A Wallpaper Library That Starts With Your Screen, Not a Them",
+     "url": "https://a2place.com/listing/a-wallpaper-library-that-starts-with-your-screen-not-a-theme-718763"
+    },
+    {
+     "name": "Wallpapers Previewed Against the Screen You Own",
+     "url": "https://a2place.com/listing/wallpapers-previewed-against-the-screen-you-own-718764"
+    }
+   ]
+  },
+  {
+   "term": "muse ember",
+   "count": 3,
+   "sources": 2,
+   "ratio": 95.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "url": "https://simonwillison.net/2026/Nov/10/muse-ember"
+    },
+    {
+     "name": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume",
+     "url": "https://marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model"
+    },
+    {
+     "name": "Meta’s Muse Ember is built for the boring work agents do all",
+     "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution"
+    }
+   ]
+  },
+  {
+   "term": "printer designed",
+   "count": 3,
+   "sources": 3,
+   "ratio": 95.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "HP DeskJet Printers for Easy and Reliable Printing",
+     "url": "https://exampledir.com/listing/hp-deskjet-printers-for-easy-and-reliable-printing-314451"
+    },
+    {
+     "name": "HP Laser Printers for Fast and Professional Printing",
+     "url": "https://directory6.org/listing/hp-laser-printers-for-fast-and-professional-printing-722911"
+    },
+    {
+     "name": "HP Envy Printers for Smart and Convenient Printing",
+     "url": "https://aweblist.org/listing/hp-envy-printers-for-smart-and-convenient-printing-974503"
+    }
+   ]
+  },
+  {
+   "term": "substack explorer",
+   "count": 3,
+   "sources": 3,
+   "ratio": 95.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Substack Explorer",
+     "url": "https://whatareyoubuilding.ai/product/YVAqyUZq5XnO197CmpQ1"
+    },
+    {
+     "name": "Substack Explorer - Find and Track the Best Newsletters — sc",
+     "url": "https://nothumansearch.ai/site/substackexplorer.com"
+    },
+    {
+     "name": "Substack Explorer Substack Newsletter Analytics",
+     "url": "https://yo.directory/tool/substack-explorer-substack-newsletter-analytics"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "krillion unl see",
+   "size": 4,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Krillion Game - Krillion Unlimited",
+     "url": "https://aweblist.org/listing/krillion-game--krillion-unlimited-974520"
+    },
+    {
+     "name": "Krillion Game - Safe vs Rare Answers",
+     "url": "https://huludirectory.com/listing/krillion-game--safe-vs-rare-answers-2262175"
+    },
+    {
+     "name": "Krillion Game - Today's Answers",
+     "url": "https://exampledir.com/listing/krillion-game--todays-answers-314452"
+    },
+    {
+     "name": "Krillion Game - What Is Krillion",
+     "url": "https://directory6.org/listing/krillion-game--what-is-krillion-722922"
+    }
+   ]
+  },
+  {
+   "term": "wallpaper library",
+   "size": 5,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "A Wallpaper Library Ordered By the Screen It Lands On",
+     "url": "https://a2place.com/listing/a-wallpaper-library-ordered-by-the-screen-it-lands-on-718766"
+    },
+    {
+     "name": "A Wallpaper Library That Starts With Your Screen, Not a Them",
+     "url": "https://a2place.com/listing/a-wallpaper-library-that-starts-with-your-screen-not-a-theme-718763"
+    },
+    {
+     "name": "VITCOX Wallpaper Library",
+     "url": "https://azn8.com/listing/vitcox-wallpaper-library"
+    },
+    {
+     "name": "Wallpaper Sets That Show Their Own Crop Before You Download",
+     "url": "https://exampledir.com/listing/wallpaper-sets-that-show-their-own-crop-before-you-download-314415"
+    }
+   ]
+  },
+  {
+   "term": "canada agency",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best Seo Company Canada | Agency",
+     "url": "https://exampledir.com/listing/best-seo-company-canada-agency-314447"
+    },
+    {
+     "name": "Best Seo Company In Canada | Agency",
+     "url": "https://exampledir.com/listing/best-seo-company-in-canada-agency-314445"
+    },
+    {
+     "name": "Seo Company In Canada | Agency",
+     "url": "https://exampledir.com/listing/seo-company-in-canada-agency-314446"
+    },
+    {
+     "name": "Seo Services In Canada | Agency",
+     "url": "https://exampledir.com/listing/seo-services-in-canada-agency-314448"
+    }
+   ]
+  },
+  {
+   "term": "villa stay",
+   "size": 4,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Comfortable Villa Stay in Chandigarh for Every Trip",
+     "url": "https://huludirectory.com/listing/comfortable-villa-stay-in-chandigarh-for-every-trip-2262180"
+    },
+    {
+     "name": "Family Friendly Villa Stay in Chandigarh",
+     "url": "https://exampledir.com/listing/family-friendly-villa-stay-in-chandigarh-314453"
+    },
+    {
+     "name": "Find Your Ideal Villa Stay in Chandigarh",
+     "url": "https://directory6.org/listing/find-your-ideal-villa-stay-in-chandigarh-722929"
+    },
+    {
+     "name": "Reserve Your Luxury Villa Stay in Chandigarh",
+     "url": "https://aweblist.org/listing/reserve-your-luxury-villa-stay-in-chandigarh-974529"
+    }
+   ]
+  },
+  {
+   "term": "claude fable",
+   "size": 8,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roa",
+     "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins"
+    },
+    {
+     "name": "Anthropic 正式发布 Claude Fable 5.2 与 Mythos 5.2：编码推理视觉全面超越 Opus",
+     "url": "https://aoyii.com/zh/claude-fable-5-2-mythos-5-2"
+    },
+    {
+     "name": "Claude Fable 5.2 and Mythos 5.2 push Anthropic’s top tier fu",
+     "url": "https://anthropic.com/claude-fable-and-mythos-5-2"
+    },
+    {
+     "name": "Fable 5.2 Made a Game From One Prompt: $550, 8 Hours",
+     "url": "https://cellcog.ai/blog/fable-5-2-one-shot-game-cost"
+    }
+   ]
+  },
+  {
+   "term": "checked preview",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "CSVQBO CSV or Excel to QBO, QFX and OFX with a checked previ",
+     "url": "https://thehackstack.com/s/csvqbo-pivlu"
+    },
+    {
+     "name": "Rowmoss",
+     "url": "https://rowmoss.pivlu.com/"
+    },
+    {
+     "name": "Rowmoss Supplier CSV to Shopify drafts, with a checked previ",
+     "url": "https://thehackstack.com/s/rowmoss-pivlu"
+    }
+   ]
+  },
+  {
+   "term": "muse ember",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+     "url": "https://simonwillison.net/2026/Nov/10/muse-ember"
+    },
+    {
+     "name": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume",
+     "url": "https://marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model"
+    },
+    {
+     "name": "Meta’s Muse Ember is built for the boring work agents do all",
+     "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution"
+    }
+   ]
+  },
+  {
+   "term": "printer designed",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "HP DeskJet Printers for Easy and Reliable Printing",
+     "url": "https://exampledir.com/listing/hp-deskjet-printers-for-easy-and-reliable-printing-314451"
+    },
+    {
+     "name": "HP Envy Printers for Smart and Convenient Printing",
+     "url": "https://aweblist.org/listing/hp-envy-printers-for-smart-and-convenient-printing-974503"
+    },
+    {
+     "name": "HP Laser Printers for Fast and Professional Printing",
+     "url": "https://directory6.org/listing/hp-laser-printers-for-fast-and-professional-printing-722911"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「krillion unl see」今日 4 个产品/4 个目录：Krillion Game - Safe vs Rare Answers、Krillion Game - Krillion Unlimited",
+  "小词「wallpaper library」今日 5 个产品/4 个目录：Wallpaper Sets That Show Their Own Crop Before You Download、A Wallpaper Library Ordered By the Screen It Lands On",
+  "小词「canada agency」今日 4 个产品/2 个目录：Seo Services In Canada | Agency、Best Seo Company Canada | Agency",
+  "同日小簇「krillion unl see」4 个相似产品：Krillion Game - Krillion Unlimited、Krillion Game - Safe vs Rare Answers、Krillion Game - Today's Answers",
+  "同日小簇「wallpaper library」5 个相似产品：A Wallpaper Library Ordered By the Screen It Lands On、A Wallpaper Library That Starts With Your Screen, Not a Them、VITCOX Wallpaper Library",
+  "跨目录同时出现：docucraftbox.com（4 个目录）",
+  "跨目录同时出现：flow-music.org（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-10.md",
+ "niche_groups": "- 游戏辅助与攻略工具：krillion unl see、krillion unl、connection answer hint —— 提供Krillion游戏稀有答案及Connections每日谜题的解答与提示。\n- 壁纸与素材管理：wallpaper library —— 提供按屏幕适配排序或下载前预览裁剪效果的壁纸库服务。\n- 本地生活与房产服务：canada agency、delhi gurugram noida、gurugram noida greater、villa stay、chandigarh stay royal —— 涵盖加拿大SEO代理及印度德里/古尔冈地区的别墅住宿与建材门窗销售。\n- Minecraft 辅助工具：anvil enchantment order、cheaper minecraft anvil、minecraft blueprint import —— 提供Minecraft铁砧附魔订单优化及蓝图建筑导入3D地图的功能。\n- AI 模型与生成应用：claude fable、meta muse ember、five second vertical —— 涉及Claude/Meta新模型的提示词技巧及基于照片的AI视频生成。\n- 工业制造与办公效率：facility refinery shipyard、industrial cable bundling、enjoy sharp text、code virtual queue、qr code virtual、checked preview —— 包括工业不锈钢扎带制造、HP打印机销售、虚拟排队系统以及带预览功能的CSV数据转换工具。"
+}

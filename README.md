@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-09** · 新增 1602 · 监控 197 个目录（今日成功 178）
+**2026-11-10** · 新增 1778 · 监控 197 个目录（今日成功 180）
 
 聚焦小词 Top 15:
 
-- `rarest correct answer` ×7（5 目录） 🆕：Krillion Game - Daily Trivia Dive directory6；Krillion Game - Daily Trivia Dive exampledir
-- `seo content writing` ×3（3 目录） 🆕：That Brand Thing - SEO Content & Copywriting Services；Content Writing Services Agency | That Brand Thing
-- `developing travel portal` ×2（2 目录） 🆕：Travel Portal Development 6；Travel Portal Development 7
-- `rap duet video` ×2（3 目录） 🆕：Hotel Lobby AI；YourRapVideo
-- `beginner friendly cheese` ×2（2 目录） 🆕：Boss Cheese Guide；PBZero Guide - Phantom Blade Zero Boss Strategies
-- `boss cheese guide` ×2（2 目录） 🆕：Boss Cheese Guide；Boss Cheese Guide - Phantom Blade Zero Boss Guides
-- `boxer brief style` ×2（2 目录） 🆕：brief underwear for men；printed men brief
-- `competitive exam preparation` ×2（3 目录） 🆕：Best Junior College in Hyderabad for MPC, BiPC & MEC；gharmeshiksha.com
-- `complex data migration` ×2（2 目录） 🆕：Data Intelligence and Transformation Solutions；Data Structuring and Transformation Solutions
-- `comprehensive digital inclusion` ×2（2 目录） 🆕：Accessibility services company in USA；Accessibility solutions in Europe
-- `hybrid solar water` ×2（2 目录） 🆕：Aquasolar；Aquasolar - Professional Solar Water Pump Provider
-- `voice type test` ×2（3 目录） 🆕：Voice Type Test；Voice Type Test Online Tool For Singers
-- `browser flag` ×3（3 目录） 🆕：Guess Flag Quiz；Flag Maker Free Browser Flag Design Tool Svg Png
-- `topic quizze` ×3（3 目录） 🆕：ServSafe Practice Exam；SIE Exam Practice Test
-- `check ins` ×3（3 目录） 🆕：Event GPS Attendance Tracking Software Singapore；Roverd
+- `krillion unl see` ×4（4 目录） 🆕：Krillion Game - Safe vs Rare Answers；Krillion Game - Krillion Unlimited
+- `wallpaper library` ×5（4 目录） 🆕：Wallpaper Sets That Show Their Own Crop Before You Download；A Wallpaper Library Ordered By the Screen It Lands On
+- `canada agency` ×4（2 目录） 🆕：Seo Services In Canada | Agency；Best Seo Company Canada | Agency
+- `villa stay` ×4（4 目录） 🆕：Family Friendly Villa Stay in Chandigarh；Reserve Your Luxury Villa Stay in Chandigarh
+- `claude fable` ×8（3 目录）：Quoting Prompting Claude Fable 5.2；Yonkers Rises
+- `anvil enchantment order` ×2（2 目录） 🆕：AnvilPilot；AnvilPilot Plan cheaper Minecraft anvil enchantment orders 💬
+- `code virtual queue` ×2（2 目录） 🆕：ScanQueue: Virtual Queue & Waitlist System；ScanQueue
+- `connection answer hint` ×2（2 目录） 🆕：Connections Solved；Connections Solved Daily Connections answers, hints & explan
+- `five second vertical` ×2（2 目录） 🆕：Paws at You；AI Genjutsu: Turn one photo of yourself or your pet into a f
+- `minecraft blueprint import` ×2（2 目录） 🆕：Minecraft Blueprints；Minecraft Blueprints Import world buildings into 3D Minecraf
+- `delhi gurugram noida` ×2（2 目录） 🆕：Luxury Tiles Showroom in Delhi | Valueline；Villa Windows and Doors Delhi | Valueline Alumil & Keller
+- `enjoy sharp text` ×2（2 目录） 🆕：HP Laser Printers for Fast and Professional Printing；HP Envy Printers for Smart and Convenient Printing
+- `facility refinery shipyard` ×2（2 目录） 🆕：Stainless Cable Ties Manufacturer for Industrial Application；Stainless Steel Cable Tie Manufacturer for Industrial Applic
+- `meta muse ember` ×2（2 目录） 🆕：Meta Releases Muse Ember, a 1M-Context Model for High-Volume；Meta’s Muse Ember is built for the boring work agents do all
+- `checked preview` ×3（3 目录） 🆕：Rowmoss；CSVQBO CSV or Excel to QBO, QFX and OFX with a checked previ
 
 微赛道归纳:
 
-- 游戏辅助与攻略：boss cheese guide、bosse missable item、beginner friendly cheese —— 提供游戏Boss打法、隐藏物品收集及新手入门的攻略指南
-- SEO与内容营销：seo content writing、copy blog —— 提供SEO优化文章撰写及品牌文案创作服务
-- 在线考试与知识测验：topic quizze、rarest correct answer、common answer keep、voice type test —— 提供各类职业认证、日常知识问答及特定技能（如声部）的在线测试工具
-- 数据迁移与结构化：complex data migration、convert unstructured publishing —— 提供非结构化数据清洗、转换及智能化迁移解决方案
-- 垂直行业SaaS开发：developing travel portal、check ins、comprehensive digital inclusion —— 提供旅游门户搭建、活动考勤追踪及无障碍合规等特定场景的软件服务
-- 细分硬件与消费品：hybrid solar water、pump manufacturer founded、boxer brief style、brief style designed、rap duet video —— 涵盖太阳能水泵制造、男士内裤款式及AI生成说唱视频等小众垂直产品
+- 游戏辅助与攻略工具：krillion unl see、krillion unl、connection answer hint —— 提供Krillion游戏稀有答案及Connections每日谜题的解答与提示。
+- 壁纸与素材管理：wallpaper library —— 提供按屏幕适配排序或下载前预览裁剪效果的壁纸库服务。
+- 本地生活与房产服务：canada agency、delhi gurugram noida、gurugram noida greater、villa stay、chandigarh stay royal —— 涵盖加拿大SEO代理及印度德里/古尔冈地区的别墅住宿与建材门窗销售。
+- Minecraft 辅助工具：anvil enchantment order、cheaper minecraft anvil、minecraft blueprint import —— 提供Minecraft铁砧附魔订单优化及蓝图建筑导入3D地图的功能。
+- AI 模型与生成应用：claude fable、meta muse ember、five second vertical —— 涉及Claude/Meta新模型的提示词技巧及基于照片的AI视频生成。
+- 工业制造与办公效率：facility refinery shipyard、industrial cable bundling、enjoy sharp text、code virtual queue、qr code virtual、checked preview —— 包括工业不锈钢扎带制造、HP打印机销售、虚拟排队系统以及带预览功能的CSV数据转换工具。
 
-完整报告: [reports/2026-11-09.md](reports/2026-11-09.md)
+完整报告: [reports/2026-11-10.md](reports/2026-11-10.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
