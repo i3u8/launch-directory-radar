@@ -1,0 +1,685 @@
+{
+ "date": "2026-11-11",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 179,
+ "sources_failed": 18,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "curlship-com",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1692,
+ "new_today_unique": 1569,
+ "ai_share_today": 0.26,
+ "ai_share_30d": 0.28,
+ "niche_terms": [
+  {
+   "term": "bravia oled qled",
+   "count": 6,
+   "sources": 3,
+   "ratio": 209.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S",
+     "url": "https://huludirectory.com/listing/samsung-tv-repair-in-as-rao-nagar-–-doorstep-led-smart-tv-service-2262287"
+    },
+    {
+     "name": "Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service",
+     "url": "https://aweblist.org/listing/samsung-tv-repair-in-ecil-–-doorstep-led-smart-tv-service-974711"
+    },
+    {
+     "name": "Samsung TV Repair in Hi -Tech City – Doorstep LED, Smart TV ",
+     "url": "https://exampledir.com/listing/samsung-tv-repair-in-hi-tech-city-–-doorstep-led-smart-tv-service-314519"
+    }
+   ]
+  },
+  {
+   "term": "manufacturing industrial",
+   "count": 13,
+   "sources": 2,
+   "ratio": 151.2,
+   "new": false,
+   "examples": [
+    {
+     "name": "I-Tech FPC & Rigid-Flex PCB",
+     "url": "https://dealmyapp.com/listings/i-tech-fpc-rigid-flex-pcb"
+    },
+    {
+     "name": "Chaocai Wire Mesh",
+     "url": "https://hbccof.com/"
+    },
+    {
+     "name": "Chenlai Plastics",
+     "url": "https://china-tarp.com/"
+    }
+   ]
+  },
+  {
+   "term": "instaprint uae",
+   "count": 5,
+   "sources": 2,
+   "ratio": 174.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Custom Mug Printing Dubai",
+     "url": "https://aweblist.org/listing/custom-mug-printing-dubai-974747"
+    },
+    {
+     "name": "Cake Box Printing Dubai",
+     "url": "https://aweblist.org/listing/cake-box-printing-dubai-974748"
+    },
+    {
+     "name": "Hard Case Box Printing Dubai",
+     "url": "https://aweblist.org/listing/hard-case-box-printing-dubai-974750"
+    }
+   ]
+  },
+  {
+   "term": "battery energy storage",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Banatton",
+     "url": "https://banatton.com/"
+    },
+    {
+     "name": "Shandong Ruisite Intelligent Technology",
+     "url": "https://ruistelectric.com/"
+    }
+   ]
+  },
+  {
+   "term": "custom silicone rubber",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Datumold",
+     "url": "https://azn8.com/listing/datumold"
+    },
+    {
+     "name": "Datumold Custom silicone, rubber and plastic molding for OEM",
+     "url": "https://thehackstack.com/s/datumold"
+    }
+   ]
+  },
+  {
+   "term": "720p mp4 video",
+   "count": 2,
+   "sources": 3,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Zombie Hug",
+     "url": "https://exampledir.com/listing/zombie-hug-314498"
+    },
+    {
+     "name": "AI Viral Trend",
+     "url": "https://postlaunchkit.com/directory/ai-viral-trend"
+    }
+   ]
+  },
+  {
+   "term": "beijing shougang gitane",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Shougang Gitane",
+     "url": "https://spark-heating.com/"
+    },
+    {
+     "name": "Beijing Shougang Gitane New Materials",
+     "url": "https://spark-heating.com/"
+    }
+   ]
+  },
+  {
+   "term": "dola ai hub",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Dola AI Hub Multi-model AI video & image workspace 💬 0 Comme",
+     "url": "https://thehackstack.com/s/dolaaihub"
+    },
+    {
+     "name": "Dola Ai Hub",
+     "url": "https://navs.site/website/dola-ai-hub"
+    }
+   ]
+  },
+  {
+   "term": "expert hearing test",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Bluetooth Hearing Aids | Welfast Hearing",
+     "url": "https://huludirectory.com/listing/bluetooth-hearing-aids-welfast-hearing-2262281"
+    },
+    {
+     "name": "Best Hearing Aid Center in Tilak Nagar",
+     "url": "https://aweblist.org/listing/best-hearing-aid-center-in-tilak-nagar-974714"
+    }
+   ]
+  },
+  {
+   "term": "resume claim guard",
+   "count": 2,
+   "sources": 5,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Resume Claim Guard",
+     "url": "https://postlaunchkit.com/directory/resume-claim-guard"
+    },
+    {
+     "name": "KOREY WANG TIANRU｜产品经理作品集 — score 60/100 (other)",
+     "url": "https://nothumansearch.ai/site/korey2028.tech"
+    }
+   ]
+  },
+  {
+   "term": "senior ai leadership",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "caio.pro: Find Chief AI Officer and Head of AI jobs, with ea",
+     "url": "https://saasolution.io/tool/caio-pro"
+    },
+    {
+     "name": "CAIO Pro Senior AI leadership jobs, in one board. 💬 0 Commen",
+     "url": "https://thehackstack.com/s/caio"
+    }
+   ]
+  },
+  {
+   "term": "shop flux riot",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Flux Riot: Bold Streetwear Clothing and Urban Fashion",
+     "url": "https://fluxriot.com/"
+    },
+    {
+     "name": "Flux Riot: Artistic Streetwear Clothing and Urban Fashion",
+     "url": "https://siteswebdirectory.com/detail/flux-riot-artistic-streetwear-clothing-and-urban-fashion-2249184.php"
+    }
+   ]
+  },
+  {
+   "term": "text image reference",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Video Generator for Text, Images & References | ClipmivoA",
+     "url": "https://nothumansearch.ai/site/clipmivoai.com"
+    },
+    {
+     "name": "AI Video Generator for Text, Image & Reference Videos",
+     "url": "https://vidu.studio/"
+    }
+   ]
+  },
+  {
+   "term": "romantic classic",
+   "count": 3,
+   "sources": 2,
+   "ratio": 104.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Urdu Novels PDF",
+     "url": "https://exampledir.com/listing/urdu-novels-pdf-314502"
+    },
+    {
+     "name": "Urdu Book PDF",
+     "url": "https://exampledir.com/listing/urdu-book-pdf-314500"
+    },
+    {
+     "name": "NovelBazar",
+     "url": "https://exampledir.com/listing/novelbazar-314499"
+    }
+   ]
+  },
+  {
+   "term": "budget planning",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "CPM.calc",
+     "url": "https://cpm-calculator.xyz/"
+    },
+    {
+     "name": "CPM.calc Free CPM calculator for ad cost, reach, and budget ",
+     "url": "https://thehackstack.com/s/cpm-calculator"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "convenient doorstep television",
+   "count": 6,
+   "sources": 3,
+   "ratio": 209.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S",
+     "url": "https://huludirectory.com/listing/samsung-tv-repair-in-as-rao-nagar-–-doorstep-led-smart-tv-service-2262287"
+    },
+    {
+     "name": "Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service",
+     "url": "https://aweblist.org/listing/samsung-tv-repair-in-ecil-–-doorstep-led-smart-tv-service-974711"
+    },
+    {
+     "name": "Samsung TV Repair in Hi -Tech City – Doorstep LED, Smart TV ",
+     "url": "https://exampledir.com/listing/samsung-tv-repair-in-hi-tech-city-–-doorstep-led-smart-tv-service-314519"
+    }
+   ]
+  },
+  {
+   "term": "printing dubai",
+   "count": 5,
+   "sources": 2,
+   "ratio": 174.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Custom Mug Printing Dubai",
+     "url": "https://aweblist.org/listing/custom-mug-printing-dubai-974747"
+    },
+    {
+     "name": "Cake Box Printing Dubai",
+     "url": "https://aweblist.org/listing/cake-box-printing-dubai-974748"
+    },
+    {
+     "name": "Hard Case Box Printing Dubai",
+     "url": "https://aweblist.org/listing/hard-case-box-printing-dubai-974750"
+    }
+   ]
+  },
+  {
+   "term": "cost reach",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "CPM.calc",
+     "url": "https://cpm-calculator.xyz/"
+    },
+    {
+     "name": "CPM.calc Free CPM calculator for ad cost, reach, and budget ",
+     "url": "https://thehackstack.com/s/cpm-calculator"
+    }
+   ]
+  },
+  {
+   "term": "digital address",
+   "count": 2,
+   "sources": 3,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "b2b business ecosystem kochi",
+     "url": "https://exampledir.com/listing/b2b-business-ecosystem-kochi-314533"
+    },
+    {
+     "name": "b2b business in kerala",
+     "url": "https://aweblist.org/listing/b2b-business-in-kerala-974717"
+    }
+   ]
+  },
+  {
+   "term": "divine grace",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Sashti Murugan Idol – Lord Murugan Bronze Statue for Divine ",
+     "url": "https://directory6.org/listing/sashti-murugan-idol-–-lord-murugan-bronze-statue-for-divine-worship-and-home-pooja-723230"
+    },
+    {
+     "name": "Youtube",
+     "url": "https://youtube.com/shorts/T8abHznTF2w?si=EVs-ekMITIS4mdNs"
+    }
+   ]
+  },
+  {
+   "term": "embed code",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "247619 Image Hosting",
+     "url": "https://whatareyoubuilding.ai/product/wIRcxbCf7crnNQ5MDHWn"
+    },
+    {
+     "name": "Remit.ee",
+     "url": "https://img.remit.ee/"
+    }
+   ]
+  },
+  {
+   "term": "life scenario",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Reinforcement Learning based control of Cancer Chemotherapy ",
+     "url": "https://arxiv.org/abs/2611.12940"
+    },
+    {
+     "name": "Caffeine Half-Life Tracker",
+     "url": "https://postlaunchkit.com/directory/caffeine-half-life-tracker"
+    }
+   ]
+  },
+  {
+   "term": "plastic molding",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Datumold",
+     "url": "https://azn8.com/listing/datumold"
+    },
+    {
+     "name": "Datumold Custom silicone, rubber and plastic molding for OEM",
+     "url": "https://thehackstack.com/s/datumold"
+    }
+   ]
+  },
+  {
+   "term": "post reply",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "DeleteThreads",
+     "url": "https://whatareyoubuilding.ai/product/MC3ovvyIqz0xKfGYXSfz"
+    },
+    {
+     "name": "Orbit Cards",
+     "url": "https://dealmyapp.com/listings/orbit-cards"
+    }
+   ]
+  },
+  {
+   "term": "power distribution",
+   "count": 2,
+   "sources": 2,
+   "ratio": 69.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Banatton",
+     "url": "https://banatton.com/"
+    },
+    {
+     "name": "Shandong Electric",
+     "url": "https://eiliteelectric.com/"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "bravia oled qled",
+   "size": 6,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S",
+     "url": "https://huludirectory.com/listing/samsung-tv-repair-in-as-rao-nagar-–-doorstep-led-smart-tv-service-2262287"
+    },
+    {
+     "name": "Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service",
+     "url": "https://aweblist.org/listing/samsung-tv-repair-in-ecil-–-doorstep-led-smart-tv-service-974711"
+    },
+    {
+     "name": "Samsung TV Repair in Hi -Tech City – Doorstep LED, Smart TV ",
+     "url": "https://exampledir.com/listing/samsung-tv-repair-in-hi-tech-city-–-doorstep-led-smart-tv-service-314519"
+    },
+    {
+     "name": "Samsung TV Repair in KPHB – Doorstep LED, Smart TV Service",
+     "url": "https://huludirectory.com/listing/samsung-tv-repair-in-kphb-–-doorstep-led-smart-tv-service-2262288"
+    }
+   ]
+  },
+  {
+   "term": "instaprint uae",
+   "size": 5,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Cake Box Printing Dubai",
+     "url": "https://aweblist.org/listing/cake-box-printing-dubai-974748"
+    },
+    {
+     "name": "Custom Mug Printing Dubai",
+     "url": "https://aweblist.org/listing/custom-mug-printing-dubai-974747"
+    },
+    {
+     "name": "Food Box Sleeve Printing Dubai",
+     "url": "https://aweblist.org/listing/food-box-sleeve-printing-dubai-974749"
+    },
+    {
+     "name": "Hard Case Box Printing Dubai",
+     "url": "https://aweblist.org/listing/hard-case-box-printing-dubai-974750"
+    }
+   ]
+  },
+  {
+   "term": "romantic classic",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "NovelBazar",
+     "url": "https://exampledir.com/listing/novelbazar-314499"
+    },
+    {
+     "name": "Urdu Book PDF",
+     "url": "https://exampledir.com/listing/urdu-book-pdf-314500"
+    },
+    {
+     "name": "Urdu Novels PDF",
+     "url": "https://exampledir.com/listing/urdu-novels-pdf-314502"
+    }
+   ]
+  },
+  {
+   "term": "shop now",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "gold flatback earring",
+     "url": "https://exampledir.com/listing/gold-flatback-earring-314487"
+    },
+    {
+     "name": "Rook piercing jewelry",
+     "url": "https://exampledir.com/listing/rook-piercing-jewelry-314513"
+    },
+    {
+     "name": "Shop the Latest Collection of Flat Back Cartilage Earrings -",
+     "url": "https://exampledir.com/listing/shop-the-latest-collection-of-flat-back-cartilage-earrings--estella-collection-314489"
+    },
+    {
+     "name": "Western Jackets For Men",
+     "url": "https://huludirectory.com/listing/western-jackets-for-men-2262251"
+    }
+   ]
+  },
+  {
+   "term": "worth tracker",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Net Worth Tracker & Personal Financial Planning Software | W",
+     "url": "https://nothumansearch.ai/site/wealthscout.app"
+    },
+    {
+     "name": "WealthScout",
+     "url": "https://wealthscout.app/"
+    },
+    {
+     "name": "WealthScout: Net Worth Tracker & Financial Planning",
+     "url": "https://dealmyapp.com/listings/wealthscout-net-worth-tracker-financial-planning"
+    }
+   ]
+  },
+  {
+   "term": "720p mp4",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "AI Viral Trend",
+     "url": "https://postlaunchkit.com/directory/ai-viral-trend"
+    },
+    {
+     "name": "ReelTada",
+     "url": "https://postlaunchkit.com/directory/reeltada"
+    },
+    {
+     "name": "Zombie Hug",
+     "url": "https://a2place.com/listing/zombie-hug-718794"
+    }
+   ]
+  },
+  {
+   "term": "specialized ai",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "AimLive AI: AimLive is an AI-powe",
+     "url": "https://awesomeindie.com/product/aim-live-ai"
+    },
+    {
+     "name": "Professional LLM Marketing Agency in New York City",
+     "url": "https://aweblist.org/listing/professional-llm-marketing-agency-in-new-york-city-974725"
+    },
+    {
+     "name": "Verdikt: Artificial Intelligence, SaaS, Technology",
+     "url": "https://awesomeindie.com/product/verdikt"
+    }
+   ]
+  },
+  {
+   "term": "credit cost",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Flow AI Video",
+     "url": "https://postlaunchkit.com/directory/flow-ai-video"
+    },
+    {
+     "name": "Grok Imagine App",
+     "url": "https://grokimagineapp.com/"
+    },
+    {
+     "name": "Kyeo AI",
+     "url": "https://kyeo.ai/"
+    },
+    {
+     "name": "ReelTada",
+     "url": "https://postlaunchkit.com/directory/reeltada"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「bravia oled qled」今日 6 个产品/3 个目录：Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S、Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service",
+  "小词「manufacturing industrial」今日 13 个产品/2 个目录：I-Tech FPC & Rigid-Flex PCB、Chaocai Wire Mesh",
+  "小词「instaprint uae」今日 5 个产品/2 个目录：Custom Mug Printing Dubai、Cake Box Printing Dubai",
+  "同日小簇「bravia oled qled」6 个相似产品：Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S、Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service、Samsung TV Repair in Hi -Tech City – Doorstep LED, Smart TV ",
+  "同日小簇「instaprint uae」5 个相似产品：Cake Box Printing Dubai、Custom Mug Printing Dubai、Food Box Sleeve Printing Dubai",
+  "跨目录同时出现：aireiter.com（4 个目录）",
+  "跨目录同时出现：textgifmaker.com（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-11.md",
+ "niche_groups": "- 电视维修与上门服务：bravia oled qled、convenient doorstep television —— 提供三星等品牌电视的上门维修、保养及智能电视服务\n- 工业制造与定制模具：manufacturing industrial、custom silicone rubber、beijing shougang gitane —— 涵盖PCB制造、丝网、硅胶橡胶塑料模具定制及新材料供应\n- 本地化印刷与包装：instaprint uae、printing dubai —— 提供迪拜地区的定制马克杯、蛋糕盒等快速印刷与包装服务\n- AI视频生成与多模态工作流：dola ai hub、text image reference、720p mp4 video —— 基于文本、图像参考生成AI视频及多模型视频图像工作空间\n- 垂直领域招聘与职业工具：senior ai leadership、resume claim guard、expert hearing test —— 聚焦AI高管招聘、简历保护及助听器听力测试等垂直专业服务\n- 数字营销计算与B2B生态：budget planning、cost reach、digital address —— 提供广告CPM成本预算计算器及科钦等地B2B商业生态系统服务"
+}

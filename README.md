@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-10** · 新增 1778 · 监控 197 个目录（今日成功 180）
+**2026-11-11** · 新增 1692 · 监控 197 个目录（今日成功 179）
 
 聚焦小词 Top 15:
 
-- `krillion unl see` ×4（4 目录） 🆕：Krillion Game - Safe vs Rare Answers；Krillion Game - Krillion Unlimited
-- `wallpaper library` ×5（4 目录） 🆕：Wallpaper Sets That Show Their Own Crop Before You Download；A Wallpaper Library Ordered By the Screen It Lands On
-- `canada agency` ×4（2 目录） 🆕：Seo Services In Canada | Agency；Best Seo Company Canada | Agency
-- `villa stay` ×4（4 目录） 🆕：Family Friendly Villa Stay in Chandigarh；Reserve Your Luxury Villa Stay in Chandigarh
-- `claude fable` ×8（3 目录）：Quoting Prompting Claude Fable 5.2；Yonkers Rises
-- `anvil enchantment order` ×2（2 目录） 🆕：AnvilPilot；AnvilPilot Plan cheaper Minecraft anvil enchantment orders 💬
-- `code virtual queue` ×2（2 目录） 🆕：ScanQueue: Virtual Queue & Waitlist System；ScanQueue
-- `connection answer hint` ×2（2 目录） 🆕：Connections Solved；Connections Solved Daily Connections answers, hints & explan
-- `five second vertical` ×2（2 目录） 🆕：Paws at You；AI Genjutsu: Turn one photo of yourself or your pet into a f
-- `minecraft blueprint import` ×2（2 目录） 🆕：Minecraft Blueprints；Minecraft Blueprints Import world buildings into 3D Minecraf
-- `delhi gurugram noida` ×2（2 目录） 🆕：Luxury Tiles Showroom in Delhi | Valueline；Villa Windows and Doors Delhi | Valueline Alumil & Keller
-- `enjoy sharp text` ×2（2 目录） 🆕：HP Laser Printers for Fast and Professional Printing；HP Envy Printers for Smart and Convenient Printing
-- `facility refinery shipyard` ×2（2 目录） 🆕：Stainless Cable Ties Manufacturer for Industrial Application；Stainless Steel Cable Tie Manufacturer for Industrial Applic
-- `meta muse ember` ×2（2 目录） 🆕：Meta Releases Muse Ember, a 1M-Context Model for High-Volume；Meta’s Muse Ember is built for the boring work agents do all
-- `checked preview` ×3（3 目录） 🆕：Rowmoss；CSVQBO CSV or Excel to QBO, QFX and OFX with a checked previ
+- `bravia oled qled` ×6（3 目录） 🆕：Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S；Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service
+- `manufacturing industrial` ×13（2 目录）：I-Tech FPC & Rigid-Flex PCB；Chaocai Wire Mesh
+- `instaprint uae` ×5（2 目录） 🆕：Custom Mug Printing Dubai；Cake Box Printing Dubai
+- `battery energy storage` ×2（2 目录） 🆕：Banatton；Shandong Ruisite Intelligent Technology
+- `custom silicone rubber` ×2（2 目录） 🆕：Datumold；Datumold Custom silicone, rubber and plastic molding for OEM
+- `720p mp4 video` ×2（3 目录） 🆕：Zombie Hug；AI Viral Trend
+- `beijing shougang gitane` ×2（2 目录） 🆕：Shougang Gitane；Beijing Shougang Gitane New Materials
+- `dola ai hub` ×2（2 目录） 🆕：Dola AI Hub Multi-model AI video & image workspace 💬 0 Comme；Dola Ai Hub
+- `expert hearing test` ×2（2 目录） 🆕：Bluetooth Hearing Aids | Welfast Hearing；Best Hearing Aid Center in Tilak Nagar
+- `resume claim guard` ×2（5 目录） 🆕：Resume Claim Guard；KOREY WANG TIANRU｜产品经理作品集 — score 60/100 (other)
+- `senior ai leadership` ×2（2 目录） 🆕：caio.pro: Find Chief AI Officer and Head of AI jobs, with ea；CAIO Pro Senior AI leadership jobs, in one board. 💬 0 Commen
+- `shop flux riot` ×2（2 目录） 🆕：Flux Riot: Bold Streetwear Clothing and Urban Fashion；Flux Riot: Artistic Streetwear Clothing and Urban Fashion
+- `text image reference` ×2（2 目录） 🆕：AI Video Generator for Text, Images & References | ClipmivoA；AI Video Generator for Text, Image & Reference Videos
+- `romantic classic` ×3（2 目录） 🆕：Urdu Novels PDF；Urdu Book PDF
+- `budget planning` ×2（2 目录） 🆕：CPM.calc；CPM.calc Free CPM calculator for ad cost, reach, and budget 
 
 微赛道归纳:
 
-- 游戏辅助与攻略工具：krillion unl see、krillion unl、connection answer hint —— 提供Krillion游戏稀有答案及Connections每日谜题的解答与提示。
-- 壁纸与素材管理：wallpaper library —— 提供按屏幕适配排序或下载前预览裁剪效果的壁纸库服务。
-- 本地生活与房产服务：canada agency、delhi gurugram noida、gurugram noida greater、villa stay、chandigarh stay royal —— 涵盖加拿大SEO代理及印度德里/古尔冈地区的别墅住宿与建材门窗销售。
-- Minecraft 辅助工具：anvil enchantment order、cheaper minecraft anvil、minecraft blueprint import —— 提供Minecraft铁砧附魔订单优化及蓝图建筑导入3D地图的功能。
-- AI 模型与生成应用：claude fable、meta muse ember、five second vertical —— 涉及Claude/Meta新模型的提示词技巧及基于照片的AI视频生成。
-- 工业制造与办公效率：facility refinery shipyard、industrial cable bundling、enjoy sharp text、code virtual queue、qr code virtual、checked preview —— 包括工业不锈钢扎带制造、HP打印机销售、虚拟排队系统以及带预览功能的CSV数据转换工具。
+- 电视维修与上门服务：bravia oled qled、convenient doorstep television —— 提供三星等品牌电视的上门维修、保养及智能电视服务
+- 工业制造与定制模具：manufacturing industrial、custom silicone rubber、beijing shougang gitane —— 涵盖PCB制造、丝网、硅胶橡胶塑料模具定制及新材料供应
+- 本地化印刷与包装：instaprint uae、printing dubai —— 提供迪拜地区的定制马克杯、蛋糕盒等快速印刷与包装服务
+- AI视频生成与多模态工作流：dola ai hub、text image reference、720p mp4 video —— 基于文本、图像参考生成AI视频及多模型视频图像工作空间
+- 垂直领域招聘与职业工具：senior ai leadership、resume claim guard、expert hearing test —— 聚焦AI高管招聘、简历保护及助听器听力测试等垂直专业服务
+- 数字营销计算与B2B生态：budget planning、cost reach、digital address —— 提供广告CPM成本预算计算器及科钦等地B2B商业生态系统服务
 
-完整报告: [reports/2026-11-10.md](reports/2026-11-10.md)
+完整报告: [reports/2026-11-11.md](reports/2026-11-11.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
