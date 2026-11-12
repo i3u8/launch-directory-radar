@@ -1,27 +1,27 @@
-# 每日目录雷达 2026-11-11
+# 每日目录雷达 2026-11-12
 
-- 监控目录 197 / 筛查目录 478；今日成功 179，失败 18；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, hyzenpro-com, promoteindex-com, usefuturestack-com, foundr-ai, nextool-ai, aiagentautomation-site, aiimagetools-io, apprater-net, discoverly-tech, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com, webinhalt-de
-- 今日新增条目 **1692**（去重后 1569）；7 天基线 9406，30 天基线 27368
-- 语料 30717 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.26，30天 0.28
+- 监控目录 197 / 筛查目录 478；今日成功 178，失败 19；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, hyzenpro-com, promoteindex-com, usefuturestack-com, foundr-ai, nextool-ai, aiagentautomation-site, aiimagetools-io, apprater-net, discoverly-tech, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com, webinhalt-de
+- 今日新增条目 **1631**（去重后 1522）；7 天基线 9600，30 天基线 28452
+- 语料 31913 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.26，30天 0.28
 
 ## 微赛道归纳（LLM）
 
-- 电视维修与上门服务：bravia oled qled、convenient doorstep television —— 提供三星等品牌电视的上门维修、保养及智能电视服务
-- 工业制造与定制模具：manufacturing industrial、custom silicone rubber、beijing shougang gitane —— 涵盖PCB制造、丝网、硅胶橡胶塑料模具定制及新材料供应
-- 本地化印刷与包装：instaprint uae、printing dubai —— 提供迪拜地区的定制马克杯、蛋糕盒等快速印刷与包装服务
-- AI视频生成与多模态工作流：dola ai hub、text image reference、720p mp4 video —— 基于文本、图像参考生成AI视频及多模型视频图像工作空间
-- 垂直领域招聘与职业工具：senior ai leadership、resume claim guard、expert hearing test —— 聚焦AI高管招聘、简历保护及助听器听力测试等垂直专业服务
-- 数字营销计算与B2B生态：budget planning、cost reach、digital address —— 提供广告CPM成本预算计算器及科钦等地B2B商业生态系统服务
+- 桌面端隐私工具：desktop email client、iphone even offline —— 提供本地运行、支持离线或隐私优先的邮件客户端与AI助手。
+- AI音频与图像处理：stem split ai、photo describe —— 利用AI技术实现音频分轨提取及基于自然语言描述的图像编辑。
+- 健康与医疗信息：heart rhythm、addiction treatment、independent treatment、cytidine diphosphate choline、naturally occurring compound —— 涵盖心脏健康检测、成瘾治疗资源及特定生物化合物（如胞磷胆碱）的市场分析。
+- 阿育吠陀草本产品：ayurvedic herbal powder、jamun neem ayurvedic —— 销售苦瓜、贾姆布、尼姆等传统阿育吠陀草本粉末产品。
+- 工业与建筑组件：fire door ethiopia、door ethiopia、brown green black、ring color coding、reliable solar panel —— 涉及埃塞俄比亚防火门指南、O型圈颜色编码标准及太阳能板经销商信息。
+- 商业运营与租赁：bedroom holiday villa、holiday villa rental、qualify lead book、sale payment membership、leading corporate gift —— 包含度假别墅租赁、销售线索管理、场馆票务会员系统及企业礼品方案。
 
 ## 信号 Signals
 
-- 小词「bravia oled qled」今日 6 个产品/3 个目录：Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S、Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service
-- 小词「manufacturing industrial」今日 13 个产品/2 个目录：I-Tech FPC & Rigid-Flex PCB、Chaocai Wire Mesh
-- 小词「instaprint uae」今日 5 个产品/2 个目录：Custom Mug Printing Dubai、Cake Box Printing Dubai
-- 同日小簇「bravia oled qled」6 个相似产品：Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S、Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service、Samsung TV Repair in Hi -Tech City – Doorstep LED, Smart TV 
-- 同日小簇「instaprint uae」5 个相似产品：Cake Box Printing Dubai、Custom Mug Printing Dubai、Food Box Sleeve Printing Dubai
-- 跨目录同时出现：aireiter.com（4 个目录）
-- 跨目录同时出现：textgifmaker.com（4 个目录）
+- 小词「fire door ethiopia」今日 3 个产品/3 个目录：Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme、Fire Door Ethiopia – Installation, Inspection and Maintenanc
+- 小词「bedroom holiday villa」今日 2 个产品/2 个目录：Casa del Castillo、Casa del Castillo A 4-bedroom holiday villa rental in Marbel
+- 小词「desktop email client」今日 2 个产品/2 个目录：Scape、EasyMail Pro Free, private desktop email client with powerfu
+- 同日小簇「fire door ethiopia」3 个相似产品：Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme、Fire Door Ethiopia — Fire Doors for Hospitals, Hotels and In、Fire Door Ethiopia – Installation, Inspection and Maintenanc
+- 同日小簇「addiction treatment」3 个相似产品：Bluff & Bridge Recovery、Refinery Point Recovery、USA Addiction Hotline
+- 跨目录同时出现：humanizeink.com（4 个目录）
+- 跨目录同时出现：payhip.com（4 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -29,75 +29,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **bravia oled qled** | 6 | 3 | 🆕 | [Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S](https://huludirectory.com/listing/samsung-tv-repair-in-as-rao-nagar-–-doorstep-led-smart-tv-service-2262287)；[Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service](https://aweblist.org/listing/samsung-tv-repair-in-ecil-–-doorstep-led-smart-tv-service-974711)；[Samsung TV Repair in Hi -Tech City – Doorstep LED, Smart TV ](https://exampledir.com/listing/samsung-tv-repair-in-hi-tech-city-–-doorstep-led-smart-tv-service-314519) |
-| 2 | **manufacturing industrial** | 13 | 2 | 151.2x | [I-Tech FPC & Rigid-Flex PCB](https://dealmyapp.com/listings/i-tech-fpc-rigid-flex-pcb)；[Chaocai Wire Mesh](https://hbccof.com/)；[Chenlai Plastics](https://china-tarp.com/) |
-| 3 | **instaprint uae** | 5 | 2 | 🆕 | [Custom Mug Printing Dubai](https://aweblist.org/listing/custom-mug-printing-dubai-974747)；[Cake Box Printing Dubai](https://aweblist.org/listing/cake-box-printing-dubai-974748)；[Hard Case Box Printing Dubai](https://aweblist.org/listing/hard-case-box-printing-dubai-974750) |
-| 4 | **battery energy storage** | 2 | 2 | 🆕 | [Banatton](https://banatton.com/)；[Shandong Ruisite Intelligent Technology](https://ruistelectric.com/) |
-| 5 | **custom silicone rubber** | 2 | 2 | 🆕 | [Datumold](https://azn8.com/listing/datumold)；[Datumold Custom silicone, rubber and plastic molding for OEM](https://thehackstack.com/s/datumold) |
-| 6 | **720p mp4 video** | 2 | 3 | 🆕 | [Zombie Hug](https://exampledir.com/listing/zombie-hug-314498)；[AI Viral Trend](https://postlaunchkit.com/directory/ai-viral-trend) |
-| 7 | **beijing shougang gitane** | 2 | 2 | 🆕 | [Shougang Gitane](https://spark-heating.com/)；[Beijing Shougang Gitane New Materials](https://spark-heating.com/) |
-| 8 | **dola ai hub** | 2 | 2 | 🆕 | [Dola AI Hub Multi-model AI video & image workspace 💬 0 Comme](https://thehackstack.com/s/dolaaihub)；[Dola Ai Hub](https://navs.site/website/dola-ai-hub) |
-| 9 | **expert hearing test** | 2 | 2 | 🆕 | [Bluetooth Hearing Aids | Welfast Hearing](https://huludirectory.com/listing/bluetooth-hearing-aids-welfast-hearing-2262281)；[Best Hearing Aid Center in Tilak Nagar](https://aweblist.org/listing/best-hearing-aid-center-in-tilak-nagar-974714) |
-| 10 | **resume claim guard** | 2 | 5 | 🆕 | [Resume Claim Guard](https://postlaunchkit.com/directory/resume-claim-guard)；[KOREY WANG TIANRU｜产品经理作品集 — score 60/100 (other)](https://nothumansearch.ai/site/korey2028.tech) |
-| 11 | **senior ai leadership** | 2 | 2 | 🆕 | [caio.pro: Find Chief AI Officer and Head of AI jobs, with ea](https://saasolution.io/tool/caio-pro)；[CAIO Pro Senior AI leadership jobs, in one board. 💬 0 Commen](https://thehackstack.com/s/caio) |
-| 12 | **shop flux riot** | 2 | 2 | 🆕 | [Flux Riot: Bold Streetwear Clothing and Urban Fashion](https://fluxriot.com/)；[Flux Riot: Artistic Streetwear Clothing and Urban Fashion](https://siteswebdirectory.com/detail/flux-riot-artistic-streetwear-clothing-and-urban-fashion-2249184.php) |
-| 13 | **text image reference** | 2 | 2 | 🆕 | [AI Video Generator for Text, Images & References | ClipmivoA](https://nothumansearch.ai/site/clipmivoai.com)；[AI Video Generator for Text, Image & Reference Videos](https://vidu.studio/) |
-| 14 | **romantic classic** | 3 | 2 | 🆕 | [Urdu Novels PDF](https://exampledir.com/listing/urdu-novels-pdf-314502)；[Urdu Book PDF](https://exampledir.com/listing/urdu-book-pdf-314500)；[NovelBazar](https://exampledir.com/listing/novelbazar-314499) |
-| 15 | **budget planning** | 2 | 2 | 🆕 | [CPM.calc](https://cpm-calculator.xyz/)；[CPM.calc Free CPM calculator for ad cost, reach, and budget ](https://thehackstack.com/s/cpm-calculator) |
+| 1 | **fire door ethiopia** | 3 | 3 | 🆕 | [Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme](https://directory6.org/listing/fire-door-ethiopia-–-a-practical-buyer’s-checklist-for-commercial-and-industrial-projects-723482)；[Fire Door Ethiopia – Installation, Inspection and Maintenanc](https://aweblist.org/listing/fire-door-ethiopia-–-installation-inspection-and-maintenance-essentials-975018)；[Fire Door Ethiopia — Fire Doors for Hospitals, Hotels and In](https://a2place.com/listing/fire-door-ethiopia-—-fire-doors-for-hospitals-hotels-and-industrial-facilities-718818) |
+| 2 | **bedroom holiday villa** | 2 | 2 | 🆕 | [Casa del Castillo](https://casadelcastillo.eu/)；[Casa del Castillo A 4-bedroom holiday villa rental in Marbel](https://thehackstack.com/s/casadelcastillo) |
+| 3 | **desktop email client** | 2 | 2 | 🆕 | [Scape](https://scape.app/)；[EasyMail Pro Free, private desktop email client with powerfu](https://thehackstack.com/s/easymailpro) |
+| 4 | **iphone even offline** | 2 | 2 | 🆕 | [Anvil](https://anvilai.com/ios?src=canopy)；[Anvil Private AI that runs on your iPhone, even offline 💬 0 ](https://thehackstack.com/s/anvilai) |
+| 5 | **qualify lead book** | 2 | 2 | 🆕 | [InfiVoice](https://agentic.ai/t/infivoice)；[Tobira Site Agent](https://tobira.ai/) |
+| 6 | **sale payment membership** | 2 | 2 | 🆕 | [Tiquo](https://dealmyapp.com/listings/tiquo)；[Tiquo: Run a venue's bookings, till, memberships and guest r](https://saasolution.io/tool/tiquo) |
+| 7 | **ayurvedic herbal powder** | 2 | 2 | 🆕 | [Buy Karela Jamun Neem Ayurvedic Powder Online – Svarnsakti](https://directory6.org/listing/buy-karela-jamun-neem-ayurvedic-powder-online-–-svarnsakti-723493)；[Karela Jamun Neem Powder: Traditional Ayurvedic Herbs for Ev](https://aweblist.org/listing/karela-jamun-neem-powder-traditional-ayurvedic-herbs-for-everyday-wellness-975033) |
+| 8 | **brown green black** | 2 | 2 | 🆕 | [O-Ring Color Coding Explained: Brown, Green and Black Compou](https://huludirectory.com/listing/o-ring-color-coding-explained-brown-green-and-black-compounds-o-ring-supply-co-2262427)；[O-Ring Color Coding: What Brown, Green and Black O-Rings Mea](https://exampledir.com/listing/o-ring-color-coding-what-brown-green-and-black-o-rings-mean-314579) |
+| 9 | **cytidine diphosphate choline** | 2 | 2 | 🆕 | [Citicoline Market Dynamics: Growth Drivers, Emerging Trends,](https://huludirectory.com/listing/citicoline-market-dynamics-growth-drivers-emerging-trends-competitive-landscape-and-future-oppor-2262422)；[Citicoline Market Scenario: Emerging Opportunities, Innovati](https://aweblist.org/listing/citicoline-market-scenario-emerging-opportunities-innovation-demand-drivers-and-future-growth-975021) |
+| 10 | **leading corporate gift** | 2 | 2 | 🆕 | [Eco-Friendly Corporate Gifts](https://directory6.org/listing/eco-friendly-corporate-gifts-723511)；[Employee Welcome Kits](https://aweblist.org/listing/employee-welcome-kits-975040) |
+| 11 | **reliable solar panel** | 2 | 2 | 🆕 | [Solar Panel Company in Kerala | Neal Solar](https://directory6.org/listing/solar-panel-company-in-kerala-neal-solar-723520)；[Solar Panel Dealers & Price in Agra | Sooryoday](https://exampledir.com/listing/solar-panel-dealers-and-price-in-agra-sooryoday-314615) |
+| 12 | **stem split ai** | 2 | 3 | 🆕 | [isolate drums from a recording you already have](https://exampledir.com/listing/isolate-drums-from-a-recording-you-already-have-314576)；[Stem Split Ai](https://launchsignal.ai/l/stem-split-ai) |
+| 13 | **addiction treatment** | 3 | 2 | 🆕 | [Refinery Point Recovery](https://exampledir.com/listing/refinery-point-recovery-314596)；[USA Addiction Hotline](https://aweblist.org/listing/usa-addiction-hotline-975011)；[Bluff & Bridge Recovery](https://exampledir.com/listing/bluff-and-bridge-recovery-314584) |
+| 14 | **heart rhythm** | 3 | 3 | 🆕 | [Can a Normal ECG Still Need Further Heart Testing?](https://aweblist.org/listing/can-a-normal-ecg-still-need-further-heart-testing-975039)；[Kardi Ai Beatwell](https://en.kardi.ai/beatwell)；[Kardi Ai](https://kardi.ai/) |
+| 15 | **photo describe** | 2 | 2 | 🆕 | [ImageToImageAI](https://gateofai.com/community-tools/imagetoimageai)；[Scenedo Upload a photo, describe the edit, get a clean image](https://thehackstack.com/s/scenedo) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **convenient doorstep television** × 6（3 个目录）：[Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S](https://huludirectory.com/listing/samsung-tv-repair-in-as-rao-nagar-–-doorstep-led-smart-tv-service-2262287)；[Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service](https://aweblist.org/listing/samsung-tv-repair-in-ecil-–-doorstep-led-smart-tv-service-974711)；[Samsung TV Repair in Hi -Tech City – Doorstep LED, Smart TV ](https://exampledir.com/listing/samsung-tv-repair-in-hi-tech-city-–-doorstep-led-smart-tv-service-314519)
-- **printing dubai** × 5（2 个目录）：[Custom Mug Printing Dubai](https://aweblist.org/listing/custom-mug-printing-dubai-974747)；[Cake Box Printing Dubai](https://aweblist.org/listing/cake-box-printing-dubai-974748)；[Hard Case Box Printing Dubai](https://aweblist.org/listing/hard-case-box-printing-dubai-974750)
-- **cost reach** × 2（2 个目录）：[CPM.calc](https://cpm-calculator.xyz/)；[CPM.calc Free CPM calculator for ad cost, reach, and budget ](https://thehackstack.com/s/cpm-calculator)
-- **digital address** × 2（3 个目录）：[b2b business ecosystem kochi](https://exampledir.com/listing/b2b-business-ecosystem-kochi-314533)；[b2b business in kerala](https://aweblist.org/listing/b2b-business-in-kerala-974717)
-- **divine grace** × 2（2 个目录）：[Sashti Murugan Idol – Lord Murugan Bronze Statue for Divine ](https://directory6.org/listing/sashti-murugan-idol-–-lord-murugan-bronze-statue-for-divine-worship-and-home-pooja-723230)；[Youtube](https://youtube.com/shorts/T8abHznTF2w?si=EVs-ekMITIS4mdNs)
-- **embed code** × 2（2 个目录）：[247619 Image Hosting](https://whatareyoubuilding.ai/product/wIRcxbCf7crnNQ5MDHWn)；[Remit.ee](https://img.remit.ee/)
-- **life scenario** × 2（2 个目录）：[Reinforcement Learning based control of Cancer Chemotherapy ](https://arxiv.org/abs/2611.12940)；[Caffeine Half-Life Tracker](https://postlaunchkit.com/directory/caffeine-half-life-tracker)
-- **plastic molding** × 2（2 个目录）：[Datumold](https://azn8.com/listing/datumold)；[Datumold Custom silicone, rubber and plastic molding for OEM](https://thehackstack.com/s/datumold)
-- **post reply** × 2（2 个目录）：[DeleteThreads](https://whatareyoubuilding.ai/product/MC3ovvyIqz0xKfGYXSfz)；[Orbit Cards](https://dealmyapp.com/listings/orbit-cards)
-- **power distribution** × 2（2 个目录）：[Banatton](https://banatton.com/)；[Shandong Electric](https://eiliteelectric.com/)
+- **holiday villa rental** × 2（2 个目录）：[Casa del Castillo](https://casadelcastillo.eu/)；[Casa del Castillo A 4-bedroom holiday villa rental in Marbel](https://thehackstack.com/s/casadelcastillo)
+- **jamun neem ayurvedic** × 2（2 个目录）：[Buy Karela Jamun Neem Ayurvedic Powder Online – Svarnsakti](https://directory6.org/listing/buy-karela-jamun-neem-ayurvedic-powder-online-–-svarnsakti-723493)；[Karela Jamun Neem Powder: Traditional Ayurvedic Herbs for Ev](https://aweblist.org/listing/karela-jamun-neem-powder-traditional-ayurvedic-herbs-for-everyday-wellness-975033)
+- **naturally occurring compound** × 2（2 个目录）：[Citicoline Market Dynamics: Growth Drivers, Emerging Trends,](https://huludirectory.com/listing/citicoline-market-dynamics-growth-drivers-emerging-trends-competitive-landscape-and-future-oppor-2262422)；[Citicoline Market Scenario: Emerging Opportunities, Innovati](https://aweblist.org/listing/citicoline-market-scenario-emerging-opportunities-innovation-demand-drivers-and-future-growth-975021)
+- **ring color coding** × 2（2 个目录）：[O-Ring Color Coding Explained: Brown, Green and Black Compou](https://huludirectory.com/listing/o-ring-color-coding-explained-brown-green-and-black-compounds-o-ring-supply-co-2262427)；[O-Ring Color Coding: What Brown, Green and Black O-Rings Mea](https://exampledir.com/listing/o-ring-color-coding-what-brown-green-and-black-o-rings-mean-314579)
+- **door ethiopia** × 3（3 个目录）：[Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme](https://directory6.org/listing/fire-door-ethiopia-–-a-practical-buyer’s-checklist-for-commercial-and-industrial-projects-723482)；[Fire Door Ethiopia – Installation, Inspection and Maintenanc](https://aweblist.org/listing/fire-door-ethiopia-–-installation-inspection-and-maintenance-essentials-975018)；[Fire Door Ethiopia — Fire Doors for Hospitals, Hotels and In](https://a2place.com/listing/fire-door-ethiopia-—-fire-doors-for-hospitals-hotels-and-industrial-facilities-718818)
+- **independent treatment** × 3（2 个目录）：[Refinery Point Recovery](https://exampledir.com/listing/refinery-point-recovery-314596)；[USA Addiction Hotline](https://aweblist.org/listing/usa-addiction-hotline-975011)；[Bluff & Bridge Recovery](https://exampledir.com/listing/bluff-and-bridge-recovery-314584)
+- **booking point** × 2（2 个目录）：[Tiquo](https://dealmyapp.com/listings/tiquo)；[Tiquo: Run a venue's bookings, till, memberships and guest r](https://saasolution.io/tool/tiquo)
+- **desktop email** × 2（2 个目录）：[Scape](https://scape.app/)；[EasyMail Pro Free, private desktop email client with powerfu](https://thehackstack.com/s/easymailpro)
+- **iphone even** × 2（2 个目录）：[Anvil](https://anvilai.com/ios?src=canopy)；[Anvil Private AI that runs on your iPhone, even offline 💬 0 ](https://thehackstack.com/s/anvilai)
+- **lead book** × 2（2 个目录）：[InfiVoice](https://agentic.ai/t/infivoice)；[Tobira Site Agent](https://tobira.ai/)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **bravia oled qled** × 6（3 个目录）：[Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S](https://huludirectory.com/listing/samsung-tv-repair-in-as-rao-nagar-–-doorstep-led-smart-tv-service-2262287)；[Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service](https://aweblist.org/listing/samsung-tv-repair-in-ecil-–-doorstep-led-smart-tv-service-974711)；[Samsung TV Repair in Hi -Tech City – Doorstep LED, Smart TV ](https://exampledir.com/listing/samsung-tv-repair-in-hi-tech-city-–-doorstep-led-smart-tv-service-314519)；[Samsung TV Repair in KPHB – Doorstep LED, Smart TV Service](https://huludirectory.com/listing/samsung-tv-repair-in-kphb-–-doorstep-led-smart-tv-service-2262288)
-- **instaprint uae** × 5（2 个目录）：[Cake Box Printing Dubai](https://aweblist.org/listing/cake-box-printing-dubai-974748)；[Custom Mug Printing Dubai](https://aweblist.org/listing/custom-mug-printing-dubai-974747)；[Food Box Sleeve Printing Dubai](https://aweblist.org/listing/food-box-sleeve-printing-dubai-974749)；[Hard Case Box Printing Dubai](https://aweblist.org/listing/hard-case-box-printing-dubai-974750)
-- **romantic classic** × 3（2 个目录）：[NovelBazar](https://exampledir.com/listing/novelbazar-314499)；[Urdu Book PDF](https://exampledir.com/listing/urdu-book-pdf-314500)；[Urdu Novels PDF](https://exampledir.com/listing/urdu-novels-pdf-314502)
-- **shop now** × 4（2 个目录）：[gold flatback earring](https://exampledir.com/listing/gold-flatback-earring-314487)；[Rook piercing jewelry](https://exampledir.com/listing/rook-piercing-jewelry-314513)；[Shop the Latest Collection of Flat Back Cartilage Earrings -](https://exampledir.com/listing/shop-the-latest-collection-of-flat-back-cartilage-earrings--estella-collection-314489)；[Western Jackets For Men](https://huludirectory.com/listing/western-jackets-for-men-2262251)
-- **worth tracker** × 3（4 个目录）：[Net Worth Tracker & Personal Financial Planning Software | W](https://nothumansearch.ai/site/wealthscout.app)；[WealthScout](https://wealthscout.app/)；[WealthScout: Net Worth Tracker & Financial Planning](https://dealmyapp.com/listings/wealthscout-net-worth-tracker-financial-planning)
-- **720p mp4** × 3（3 个目录）：[AI Viral Trend](https://postlaunchkit.com/directory/ai-viral-trend)；[ReelTada](https://postlaunchkit.com/directory/reeltada)；[Zombie Hug](https://a2place.com/listing/zombie-hug-718794)
-- **specialized ai** × 3（4 个目录）：[AimLive AI: AimLive is an AI-powe](https://awesomeindie.com/product/aim-live-ai)；[Professional LLM Marketing Agency in New York City](https://aweblist.org/listing/professional-llm-marketing-agency-in-new-york-city-974725)；[Verdikt: Artificial Intelligence, SaaS, Technology](https://awesomeindie.com/product/verdikt)
-- **credit cost** × 4（3 个目录）：[Flow AI Video](https://postlaunchkit.com/directory/flow-ai-video)；[Grok Imagine App](https://grokimagineapp.com/)；[Kyeo AI](https://kyeo.ai/)；[ReelTada](https://postlaunchkit.com/directory/reeltada)
+- **fire door ethiopia** × 3（3 个目录）：[Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme](https://directory6.org/listing/fire-door-ethiopia-–-a-practical-buyer’s-checklist-for-commercial-and-industrial-projects-723482)；[Fire Door Ethiopia — Fire Doors for Hospitals, Hotels and In](https://a2place.com/listing/fire-door-ethiopia-—-fire-doors-for-hospitals-hotels-and-industrial-facilities-718818)；[Fire Door Ethiopia – Installation, Inspection and Maintenanc](https://aweblist.org/listing/fire-door-ethiopia-–-installation-inspection-and-maintenance-essentials-975018)
+- **addiction treatment** × 3（2 个目录）：[Bluff & Bridge Recovery](https://exampledir.com/listing/bluff-and-bridge-recovery-314584)；[Refinery Point Recovery](https://exampledir.com/listing/refinery-point-recovery-314596)；[USA Addiction Hotline](https://aweblist.org/listing/usa-addiction-hotline-975011)
+- **heart rhythm** × 3（3 个目录）：[Can a Normal ECG Still Need Further Heart Testing?](https://aweblist.org/listing/can-a-normal-ecg-still-need-further-heart-testing-975039)；[Kardi Ai](https://kardi.ai/)；[Kardi Ai Beatwell](https://en.kardi.ai/beatwell)
+- **rubber seal supplier** × 3（3 个目录）：[HNBR O-Ring Temperature Range and Service Life Guide | O-Rin](https://aweblist.org/listing/hnbr-o-ring-temperature-range-and-service-life-guide-o-ring-supply-co-975029)；[O-Ring Color Coding Explained: Brown, Green and Black Compou](https://huludirectory.com/listing/o-ring-color-coding-explained-brown-green-and-black-compounds-o-ring-supply-co-2262427)；[O-Ring Color Coding: What Brown, Green and Black O-Rings Mea](https://exampledir.com/listing/o-ring-color-coding-what-brown-green-and-black-o-rings-mean-314579)
+- **still image** × 5（3 个目录）：[Animate Image AI](https://gateofai.com/community-tools/animate-image-ai)；[HackAIGC](https://whatareyoubuilding.ai/product/XMulP5sCcXQbwWs3UWjq)；[MiniMax H3 Studio](https://postlaunchkit.com/directory/minimax-h3-studio)；[Pixform](https://postlaunchkit.com/directory/pixform)
+- **jobs career** × 3（2 个目录）：[Events Jobs](https://webrankdirectory.org/listing/events-jobs)；[GetCanadianJob](https://webrankdirectory.org/listing/getcanadianjob)；[IT Jobs Careers: internship, summer internship, entry level ](https://awesomeindie.com/product/it-jobs-careers)
+- **run locally** × 3（2 个目录）：[Animated GIF Generator](https://azn8.com/listing/animated-gif-generator)；[FreeGen](https://freegen.ai/)；[Staypic](https://staypic.dev/)
+- **construction cost** × 3（2 个目录）：[DuplexCost](https://azn8.com/listing/duplexcost)；[GrannyFlatCost](https://azn8.com/listing/grannyflatcost)；[HowMuchToConstruct](https://azn8.com/listing/howmuchtoconstruct)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| canopystack.dev | 127 | Other(61)、SaaS(48)、Dev tool(13) |
-| listedstartups.com | 100 | Manufacturing, Industrial Materials(8)、Manufacturing, Industrial Equipment(4)、Manufacturing(4) |
-| dynamite-ai.com | 72 | tools(70) |
-| webapps.directory | 71 | directory(65) |
-| corpus.blog | 66 | sites(66) |
-| thataicollection.com | 58 | application(58) |
+| canopystack.dev | 124 | Other(58)、SaaS(53)、Dev tool(5) |
+| listedstartups.com | 100 | Industrial Software, Engineering Tools, Industrial Sensors(4)、Fintech, Payments(3)、Industrial Software, Engineering Tools, Machine Safety(3) |
+| dynamite-ai.com | 92 | tools(92) |
+| webapps.directory | 85 | directory(78) |
+| clapstorm.com | 60 | p(55) |
+| entireweb.com | 58 | bg(58) |
+| thataicollection.com | 56 | application(55) |
 | thehackstack.com | 51 |  |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
-| entireweb.com | 50 | bg(50) |
 | exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- aireiter.com（AIReiter）：canopystack.dev, hyzenpro.com, launch.ignlab.net, listedstartups.com
-- textgifmaker.com（Text GIF Maker）：canopystack.dev, launch.ignlab.net, listedstartups.com, zearches.com
-- 2hanzi.com（爱汉字网 2hanzi）：canopystack.dev, worthtotry.com, zearches.com
-- aigptzero.com（AIGPTZero）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- avaguru.com（AvaGuru）：canopystack.dev, listedstartups.com, zearches.com
-- buyornah.app（BuyOrNah）：canopystack.dev, launch.ignlab.net, zearches.com
-- carioapp.com（CarioApp）：canopystack.dev, listedstartups.com, worthtotry.com
-- codex-router.com（Codex Router Community Docs）：canopystack.dev, listedstartups.com, zearches.com
-- enchantmentcalculator.com（AnvilPilot）：canopystack.dev, worthtotry.com, zearches.com
-- ezairapvideo.com（EzAiRapVideo）：canopystack.dev, listedstartups.com, worthtotry.com
+- humanizeink.com（Humanize Ink）：canopystack.dev, hyzenpro.com, listedstartups.com, worthtotry.com
+- payhip.com（）：canopystack.dev, hyzenpro.com, listedstartups.com, zearches.com
+- reelboop.com（ReelBoop）：canopystack.dev, hyzenpro.com, listedstartups.com, worthtotry.com
+- stylmorph.com（StylMorph）：canopystack.dev, hyzenpro.com, listedstartups.com, worthtotry.com
+- aiclotheschange.org（AI Clothes Change）：canopystack.dev, listedstartups.com, worthtotry.com
+- aniccaai.com（Daily Affirmations - Anicca）：canopystack.dev, listedstartups.com, zearches.com
+- anyimageai.com（Nano Image）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- anywellshop.com（Anywell）：canopystack.dev, listedstartups.com, zearches.com
+- gameuv.com（Gameuv）：canopystack.dev, launch.ignlab.net, zearches.com
+- genflowai.io（GenflowAI）：canopystack.dev, launch.ignlab.net, listedstartups.com
 
 ## 我们的站点已被目录公开展示
 
@@ -113,23 +113,24 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 18 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 18 天）
-- sitelike-org: RuntimeError: http 403（连续 18 天）
-- hyzenpro-com: JSONDecodeError: Unterminated string starting at: line 1 column 6012348 (char 6012347)（连续 4 天）
-- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 11 天）
-- usefuturestack-com: RuntimeError: http 402（连续 6 天）
-- foundr-ai: RuntimeError: http 403（连续 18 天）
-- nextool-ai: RuntimeError: http 402（连续 3 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 18 天）
-- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 4 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 18 天）
-- curlship-com: RuntimeError: sitemap http 530（连续 1 天）
-- discoverly-tech: RuntimeError: sitemap http 403（连续 8 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f7074bafd（连续 15 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 18 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 18 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 18 天）
-- webinhalt-de: RuntimeError: 0 entries parsed（连续 3 天）
+- canadawebdir-com: RuntimeError: http 403（连续 19 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 19 天）
+- sitelike-org: RuntimeError: http 403（连续 19 天）
+- hyzenpro-com: RuntimeError: http 403（连续 5 天）
+- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 1 天）
+- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 12 天）
+- usefuturestack-com: RuntimeError: http 402（连续 7 天）
+- foundr-ai: RuntimeError: http 403（连续 19 天）
+- nextool-ai: RuntimeError: http 402（连续 4 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 19 天）
+- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 5 天）
+- aitoolboard-com: ConnectionError: HTTPSConnectionPool(host='aitoolboard.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aitoolboard.com', port=443): （连续 1 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 19 天）
+- discoverly-tech: RuntimeError: sitemap http 403（连续 9 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7facf4859c（连续 16 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 19 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 19 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 19 天）
+- webinhalt-de: RuntimeError: 0 entries parsed（连续 4 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar

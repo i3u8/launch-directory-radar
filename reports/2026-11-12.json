@@ -1,0 +1,670 @@
+{
+ "date": "2026-11-12",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 178,
+ "sources_failed": 19,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "aitoolboard-com",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1631,
+ "new_today_unique": 1522,
+ "ai_share_today": 0.26,
+ "ai_share_30d": 0.28,
+ "niche_terms": [
+  {
+   "term": "fire door ethiopia",
+   "count": 3,
+   "sources": 3,
+   "ratio": 112.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme",
+     "url": "https://directory6.org/listing/fire-door-ethiopia-–-a-practical-buyer’s-checklist-for-commercial-and-industrial-projects-723482"
+    },
+    {
+     "name": "Fire Door Ethiopia – Installation, Inspection and Maintenanc",
+     "url": "https://aweblist.org/listing/fire-door-ethiopia-–-installation-inspection-and-maintenance-essentials-975018"
+    },
+    {
+     "name": "Fire Door Ethiopia — Fire Doors for Hospitals, Hotels and In",
+     "url": "https://a2place.com/listing/fire-door-ethiopia-—-fire-doors-for-hospitals-hotels-and-industrial-facilities-718818"
+    }
+   ]
+  },
+  {
+   "term": "bedroom holiday villa",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Casa del Castillo",
+     "url": "https://casadelcastillo.eu/"
+    },
+    {
+     "name": "Casa del Castillo A 4-bedroom holiday villa rental in Marbel",
+     "url": "https://thehackstack.com/s/casadelcastillo"
+    }
+   ]
+  },
+  {
+   "term": "desktop email client",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Scape",
+     "url": "https://scape.app/"
+    },
+    {
+     "name": "EasyMail Pro Free, private desktop email client with powerfu",
+     "url": "https://thehackstack.com/s/easymailpro"
+    }
+   ]
+  },
+  {
+   "term": "iphone even offline",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Anvil",
+     "url": "https://anvilai.com/ios?src=canopy"
+    },
+    {
+     "name": "Anvil Private AI that runs on your iPhone, even offline 💬 0 ",
+     "url": "https://thehackstack.com/s/anvilai"
+    }
+   ]
+  },
+  {
+   "term": "qualify lead book",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "InfiVoice",
+     "url": "https://agentic.ai/t/infivoice"
+    },
+    {
+     "name": "Tobira Site Agent",
+     "url": "https://tobira.ai/"
+    }
+   ]
+  },
+  {
+   "term": "sale payment membership",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Tiquo",
+     "url": "https://dealmyapp.com/listings/tiquo"
+    },
+    {
+     "name": "Tiquo: Run a venue's bookings, till, memberships and guest r",
+     "url": "https://saasolution.io/tool/tiquo"
+    }
+   ]
+  },
+  {
+   "term": "ayurvedic herbal powder",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Karela Jamun Neem Ayurvedic Powder Online – Svarnsakti",
+     "url": "https://directory6.org/listing/buy-karela-jamun-neem-ayurvedic-powder-online-–-svarnsakti-723493"
+    },
+    {
+     "name": "Karela Jamun Neem Powder: Traditional Ayurvedic Herbs for Ev",
+     "url": "https://aweblist.org/listing/karela-jamun-neem-powder-traditional-ayurvedic-herbs-for-everyday-wellness-975033"
+    }
+   ]
+  },
+  {
+   "term": "brown green black",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "O-Ring Color Coding Explained: Brown, Green and Black Compou",
+     "url": "https://huludirectory.com/listing/o-ring-color-coding-explained-brown-green-and-black-compounds-o-ring-supply-co-2262427"
+    },
+    {
+     "name": "O-Ring Color Coding: What Brown, Green and Black O-Rings Mea",
+     "url": "https://exampledir.com/listing/o-ring-color-coding-what-brown-green-and-black-o-rings-mean-314579"
+    }
+   ]
+  },
+  {
+   "term": "cytidine diphosphate choline",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Citicoline Market Dynamics: Growth Drivers, Emerging Trends,",
+     "url": "https://huludirectory.com/listing/citicoline-market-dynamics-growth-drivers-emerging-trends-competitive-landscape-and-future-oppor-2262422"
+    },
+    {
+     "name": "Citicoline Market Scenario: Emerging Opportunities, Innovati",
+     "url": "https://aweblist.org/listing/citicoline-market-scenario-emerging-opportunities-innovation-demand-drivers-and-future-growth-975021"
+    }
+   ]
+  },
+  {
+   "term": "leading corporate gift",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Eco-Friendly Corporate Gifts",
+     "url": "https://directory6.org/listing/eco-friendly-corporate-gifts-723511"
+    },
+    {
+     "name": "Employee Welcome Kits",
+     "url": "https://aweblist.org/listing/employee-welcome-kits-975040"
+    }
+   ]
+  },
+  {
+   "term": "reliable solar panel",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Solar Panel Company in Kerala | Neal Solar",
+     "url": "https://directory6.org/listing/solar-panel-company-in-kerala-neal-solar-723520"
+    },
+    {
+     "name": "Solar Panel Dealers & Price in Agra | Sooryoday",
+     "url": "https://exampledir.com/listing/solar-panel-dealers-and-price-in-agra-sooryoday-314615"
+    }
+   ]
+  },
+  {
+   "term": "stem split ai",
+   "count": 2,
+   "sources": 3,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "isolate drums from a recording you already have",
+     "url": "https://exampledir.com/listing/isolate-drums-from-a-recording-you-already-have-314576"
+    },
+    {
+     "name": "Stem Split Ai",
+     "url": "https://launchsignal.ai/l/stem-split-ai"
+    }
+   ]
+  },
+  {
+   "term": "addiction treatment",
+   "count": 3,
+   "sources": 2,
+   "ratio": 112.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Refinery Point Recovery",
+     "url": "https://exampledir.com/listing/refinery-point-recovery-314596"
+    },
+    {
+     "name": "USA Addiction Hotline",
+     "url": "https://aweblist.org/listing/usa-addiction-hotline-975011"
+    },
+    {
+     "name": "Bluff & Bridge Recovery",
+     "url": "https://exampledir.com/listing/bluff-and-bridge-recovery-314584"
+    }
+   ]
+  },
+  {
+   "term": "heart rhythm",
+   "count": 3,
+   "sources": 3,
+   "ratio": 112.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Can a Normal ECG Still Need Further Heart Testing?",
+     "url": "https://aweblist.org/listing/can-a-normal-ecg-still-need-further-heart-testing-975039"
+    },
+    {
+     "name": "Kardi Ai Beatwell",
+     "url": "https://en.kardi.ai/beatwell"
+    },
+    {
+     "name": "Kardi Ai",
+     "url": "https://kardi.ai/"
+    }
+   ]
+  },
+  {
+   "term": "photo describe",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "ImageToImageAI",
+     "url": "https://gateofai.com/community-tools/imagetoimageai"
+    },
+    {
+     "name": "Scenedo Upload a photo, describe the edit, get a clean image",
+     "url": "https://thehackstack.com/s/scenedo"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "holiday villa rental",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Casa del Castillo",
+     "url": "https://casadelcastillo.eu/"
+    },
+    {
+     "name": "Casa del Castillo A 4-bedroom holiday villa rental in Marbel",
+     "url": "https://thehackstack.com/s/casadelcastillo"
+    }
+   ]
+  },
+  {
+   "term": "jamun neem ayurvedic",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Karela Jamun Neem Ayurvedic Powder Online – Svarnsakti",
+     "url": "https://directory6.org/listing/buy-karela-jamun-neem-ayurvedic-powder-online-–-svarnsakti-723493"
+    },
+    {
+     "name": "Karela Jamun Neem Powder: Traditional Ayurvedic Herbs for Ev",
+     "url": "https://aweblist.org/listing/karela-jamun-neem-powder-traditional-ayurvedic-herbs-for-everyday-wellness-975033"
+    }
+   ]
+  },
+  {
+   "term": "naturally occurring compound",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Citicoline Market Dynamics: Growth Drivers, Emerging Trends,",
+     "url": "https://huludirectory.com/listing/citicoline-market-dynamics-growth-drivers-emerging-trends-competitive-landscape-and-future-oppor-2262422"
+    },
+    {
+     "name": "Citicoline Market Scenario: Emerging Opportunities, Innovati",
+     "url": "https://aweblist.org/listing/citicoline-market-scenario-emerging-opportunities-innovation-demand-drivers-and-future-growth-975021"
+    }
+   ]
+  },
+  {
+   "term": "ring color coding",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "O-Ring Color Coding Explained: Brown, Green and Black Compou",
+     "url": "https://huludirectory.com/listing/o-ring-color-coding-explained-brown-green-and-black-compounds-o-ring-supply-co-2262427"
+    },
+    {
+     "name": "O-Ring Color Coding: What Brown, Green and Black O-Rings Mea",
+     "url": "https://exampledir.com/listing/o-ring-color-coding-what-brown-green-and-black-o-rings-mean-314579"
+    }
+   ]
+  },
+  {
+   "term": "door ethiopia",
+   "count": 3,
+   "sources": 3,
+   "ratio": 112.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme",
+     "url": "https://directory6.org/listing/fire-door-ethiopia-–-a-practical-buyer’s-checklist-for-commercial-and-industrial-projects-723482"
+    },
+    {
+     "name": "Fire Door Ethiopia – Installation, Inspection and Maintenanc",
+     "url": "https://aweblist.org/listing/fire-door-ethiopia-–-installation-inspection-and-maintenance-essentials-975018"
+    },
+    {
+     "name": "Fire Door Ethiopia — Fire Doors for Hospitals, Hotels and In",
+     "url": "https://a2place.com/listing/fire-door-ethiopia-—-fire-doors-for-hospitals-hotels-and-industrial-facilities-718818"
+    }
+   ]
+  },
+  {
+   "term": "independent treatment",
+   "count": 3,
+   "sources": 2,
+   "ratio": 112.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Refinery Point Recovery",
+     "url": "https://exampledir.com/listing/refinery-point-recovery-314596"
+    },
+    {
+     "name": "USA Addiction Hotline",
+     "url": "https://aweblist.org/listing/usa-addiction-hotline-975011"
+    },
+    {
+     "name": "Bluff & Bridge Recovery",
+     "url": "https://exampledir.com/listing/bluff-and-bridge-recovery-314584"
+    }
+   ]
+  },
+  {
+   "term": "booking point",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Tiquo",
+     "url": "https://dealmyapp.com/listings/tiquo"
+    },
+    {
+     "name": "Tiquo: Run a venue's bookings, till, memberships and guest r",
+     "url": "https://saasolution.io/tool/tiquo"
+    }
+   ]
+  },
+  {
+   "term": "desktop email",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Scape",
+     "url": "https://scape.app/"
+    },
+    {
+     "name": "EasyMail Pro Free, private desktop email client with powerfu",
+     "url": "https://thehackstack.com/s/easymailpro"
+    }
+   ]
+  },
+  {
+   "term": "iphone even",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Anvil",
+     "url": "https://anvilai.com/ios?src=canopy"
+    },
+    {
+     "name": "Anvil Private AI that runs on your iPhone, even offline 💬 0 ",
+     "url": "https://thehackstack.com/s/anvilai"
+    }
+   ]
+  },
+  {
+   "term": "lead book",
+   "count": 2,
+   "sources": 2,
+   "ratio": 74.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "InfiVoice",
+     "url": "https://agentic.ai/t/infivoice"
+    },
+    {
+     "name": "Tobira Site Agent",
+     "url": "https://tobira.ai/"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "fire door ethiopia",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme",
+     "url": "https://directory6.org/listing/fire-door-ethiopia-–-a-practical-buyer’s-checklist-for-commercial-and-industrial-projects-723482"
+    },
+    {
+     "name": "Fire Door Ethiopia — Fire Doors for Hospitals, Hotels and In",
+     "url": "https://a2place.com/listing/fire-door-ethiopia-—-fire-doors-for-hospitals-hotels-and-industrial-facilities-718818"
+    },
+    {
+     "name": "Fire Door Ethiopia – Installation, Inspection and Maintenanc",
+     "url": "https://aweblist.org/listing/fire-door-ethiopia-–-installation-inspection-and-maintenance-essentials-975018"
+    }
+   ]
+  },
+  {
+   "term": "addiction treatment",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Bluff & Bridge Recovery",
+     "url": "https://exampledir.com/listing/bluff-and-bridge-recovery-314584"
+    },
+    {
+     "name": "Refinery Point Recovery",
+     "url": "https://exampledir.com/listing/refinery-point-recovery-314596"
+    },
+    {
+     "name": "USA Addiction Hotline",
+     "url": "https://aweblist.org/listing/usa-addiction-hotline-975011"
+    }
+   ]
+  },
+  {
+   "term": "heart rhythm",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Can a Normal ECG Still Need Further Heart Testing?",
+     "url": "https://aweblist.org/listing/can-a-normal-ecg-still-need-further-heart-testing-975039"
+    },
+    {
+     "name": "Kardi Ai",
+     "url": "https://kardi.ai/"
+    },
+    {
+     "name": "Kardi Ai Beatwell",
+     "url": "https://en.kardi.ai/beatwell"
+    }
+   ]
+  },
+  {
+   "term": "rubber seal supplier",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "HNBR O-Ring Temperature Range and Service Life Guide | O-Rin",
+     "url": "https://aweblist.org/listing/hnbr-o-ring-temperature-range-and-service-life-guide-o-ring-supply-co-975029"
+    },
+    {
+     "name": "O-Ring Color Coding Explained: Brown, Green and Black Compou",
+     "url": "https://huludirectory.com/listing/o-ring-color-coding-explained-brown-green-and-black-compounds-o-ring-supply-co-2262427"
+    },
+    {
+     "name": "O-Ring Color Coding: What Brown, Green and Black O-Rings Mea",
+     "url": "https://exampledir.com/listing/o-ring-color-coding-what-brown-green-and-black-o-rings-mean-314579"
+    }
+   ]
+  },
+  {
+   "term": "still image",
+   "size": 5,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Animate Image AI",
+     "url": "https://gateofai.com/community-tools/animate-image-ai"
+    },
+    {
+     "name": "HackAIGC",
+     "url": "https://whatareyoubuilding.ai/product/XMulP5sCcXQbwWs3UWjq"
+    },
+    {
+     "name": "MiniMax H3 Studio",
+     "url": "https://postlaunchkit.com/directory/minimax-h3-studio"
+    },
+    {
+     "name": "Pixform",
+     "url": "https://postlaunchkit.com/directory/pixform"
+    }
+   ]
+  },
+  {
+   "term": "jobs career",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Events Jobs",
+     "url": "https://webrankdirectory.org/listing/events-jobs"
+    },
+    {
+     "name": "GetCanadianJob",
+     "url": "https://webrankdirectory.org/listing/getcanadianjob"
+    },
+    {
+     "name": "IT Jobs Careers: internship, summer internship, entry level ",
+     "url": "https://awesomeindie.com/product/it-jobs-careers"
+    }
+   ]
+  },
+  {
+   "term": "run locally",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Animated GIF Generator",
+     "url": "https://azn8.com/listing/animated-gif-generator"
+    },
+    {
+     "name": "FreeGen",
+     "url": "https://freegen.ai/"
+    },
+    {
+     "name": "Staypic",
+     "url": "https://staypic.dev/"
+    }
+   ]
+  },
+  {
+   "term": "construction cost",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "DuplexCost",
+     "url": "https://azn8.com/listing/duplexcost"
+    },
+    {
+     "name": "GrannyFlatCost",
+     "url": "https://azn8.com/listing/grannyflatcost"
+    },
+    {
+     "name": "HowMuchToConstruct",
+     "url": "https://azn8.com/listing/howmuchtoconstruct"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「fire door ethiopia」今日 3 个产品/3 个目录：Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme、Fire Door Ethiopia – Installation, Inspection and Maintenanc",
+  "小词「bedroom holiday villa」今日 2 个产品/2 个目录：Casa del Castillo、Casa del Castillo A 4-bedroom holiday villa rental in Marbel",
+  "小词「desktop email client」今日 2 个产品/2 个目录：Scape、EasyMail Pro Free, private desktop email client with powerfu",
+  "同日小簇「fire door ethiopia」3 个相似产品：Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme、Fire Door Ethiopia — Fire Doors for Hospitals, Hotels and In、Fire Door Ethiopia – Installation, Inspection and Maintenanc",
+  "同日小簇「addiction treatment」3 个相似产品：Bluff & Bridge Recovery、Refinery Point Recovery、USA Addiction Hotline",
+  "跨目录同时出现：humanizeink.com（4 个目录）",
+  "跨目录同时出现：payhip.com（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-12.md",
+ "niche_groups": "- 桌面端隐私工具：desktop email client、iphone even offline —— 提供本地运行、支持离线或隐私优先的邮件客户端与AI助手。\n- AI音频与图像处理：stem split ai、photo describe —— 利用AI技术实现音频分轨提取及基于自然语言描述的图像编辑。\n- 健康与医疗信息：heart rhythm、addiction treatment、independent treatment、cytidine diphosphate choline、naturally occurring compound —— 涵盖心脏健康检测、成瘾治疗资源及特定生物化合物（如胞磷胆碱）的市场分析。\n- 阿育吠陀草本产品：ayurvedic herbal powder、jamun neem ayurvedic —— 销售苦瓜、贾姆布、尼姆等传统阿育吠陀草本粉末产品。\n- 工业与建筑组件：fire door ethiopia、door ethiopia、brown green black、ring color coding、reliable solar panel —— 涉及埃塞俄比亚防火门指南、O型圈颜色编码标准及太阳能板经销商信息。\n- 商业运营与租赁：bedroom holiday villa、holiday villa rental、qualify lead book、sale payment membership、leading corporate gift —— 包含度假别墅租赁、销售线索管理、场馆票务会员系统及企业礼品方案。"
+}

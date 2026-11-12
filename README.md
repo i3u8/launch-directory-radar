@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-11** · 新增 1692 · 监控 197 个目录（今日成功 179）
+**2026-11-12** · 新增 1631 · 监控 197 个目录（今日成功 178）
 
 聚焦小词 Top 15:
 
-- `bravia oled qled` ×6（3 目录） 🆕：Samsung TV Repair in AS Rao Nagar – Doorstep LED, Smart TV S；Samsung TV Repair in ECIL – Doorstep LED, Smart TV Service
-- `manufacturing industrial` ×13（2 目录）：I-Tech FPC & Rigid-Flex PCB；Chaocai Wire Mesh
-- `instaprint uae` ×5（2 目录） 🆕：Custom Mug Printing Dubai；Cake Box Printing Dubai
-- `battery energy storage` ×2（2 目录） 🆕：Banatton；Shandong Ruisite Intelligent Technology
-- `custom silicone rubber` ×2（2 目录） 🆕：Datumold；Datumold Custom silicone, rubber and plastic molding for OEM
-- `720p mp4 video` ×2（3 目录） 🆕：Zombie Hug；AI Viral Trend
-- `beijing shougang gitane` ×2（2 目录） 🆕：Shougang Gitane；Beijing Shougang Gitane New Materials
-- `dola ai hub` ×2（2 目录） 🆕：Dola AI Hub Multi-model AI video & image workspace 💬 0 Comme；Dola Ai Hub
-- `expert hearing test` ×2（2 目录） 🆕：Bluetooth Hearing Aids | Welfast Hearing；Best Hearing Aid Center in Tilak Nagar
-- `resume claim guard` ×2（5 目录） 🆕：Resume Claim Guard；KOREY WANG TIANRU｜产品经理作品集 — score 60/100 (other)
-- `senior ai leadership` ×2（2 目录） 🆕：caio.pro: Find Chief AI Officer and Head of AI jobs, with ea；CAIO Pro Senior AI leadership jobs, in one board. 💬 0 Commen
-- `shop flux riot` ×2（2 目录） 🆕：Flux Riot: Bold Streetwear Clothing and Urban Fashion；Flux Riot: Artistic Streetwear Clothing and Urban Fashion
-- `text image reference` ×2（2 目录） 🆕：AI Video Generator for Text, Images & References | ClipmivoA；AI Video Generator for Text, Image & Reference Videos
-- `romantic classic` ×3（2 目录） 🆕：Urdu Novels PDF；Urdu Book PDF
-- `budget planning` ×2（2 目录） 🆕：CPM.calc；CPM.calc Free CPM calculator for ad cost, reach, and budget 
+- `fire door ethiopia` ×3（3 目录） 🆕：Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme；Fire Door Ethiopia – Installation, Inspection and Maintenanc
+- `bedroom holiday villa` ×2（2 目录） 🆕：Casa del Castillo；Casa del Castillo A 4-bedroom holiday villa rental in Marbel
+- `desktop email client` ×2（2 目录） 🆕：Scape；EasyMail Pro Free, private desktop email client with powerfu
+- `iphone even offline` ×2（2 目录） 🆕：Anvil；Anvil Private AI that runs on your iPhone, even offline 💬 0 
+- `qualify lead book` ×2（2 目录） 🆕：InfiVoice；Tobira Site Agent
+- `sale payment membership` ×2（2 目录） 🆕：Tiquo；Tiquo: Run a venue's bookings, till, memberships and guest r
+- `ayurvedic herbal powder` ×2（2 目录） 🆕：Buy Karela Jamun Neem Ayurvedic Powder Online – Svarnsakti；Karela Jamun Neem Powder: Traditional Ayurvedic Herbs for Ev
+- `brown green black` ×2（2 目录） 🆕：O-Ring Color Coding Explained: Brown, Green and Black Compou；O-Ring Color Coding: What Brown, Green and Black O-Rings Mea
+- `cytidine diphosphate choline` ×2（2 目录） 🆕：Citicoline Market Dynamics: Growth Drivers, Emerging Trends,；Citicoline Market Scenario: Emerging Opportunities, Innovati
+- `leading corporate gift` ×2（2 目录） 🆕：Eco-Friendly Corporate Gifts；Employee Welcome Kits
+- `reliable solar panel` ×2（2 目录） 🆕：Solar Panel Company in Kerala | Neal Solar；Solar Panel Dealers & Price in Agra | Sooryoday
+- `stem split ai` ×2（3 目录） 🆕：isolate drums from a recording you already have；Stem Split Ai
+- `addiction treatment` ×3（2 目录） 🆕：Refinery Point Recovery；USA Addiction Hotline
+- `heart rhythm` ×3（3 目录） 🆕：Can a Normal ECG Still Need Further Heart Testing?；Kardi Ai Beatwell
+- `photo describe` ×2（2 目录） 🆕：ImageToImageAI；Scenedo Upload a photo, describe the edit, get a clean image
 
 微赛道归纳:
 
-- 电视维修与上门服务：bravia oled qled、convenient doorstep television —— 提供三星等品牌电视的上门维修、保养及智能电视服务
-- 工业制造与定制模具：manufacturing industrial、custom silicone rubber、beijing shougang gitane —— 涵盖PCB制造、丝网、硅胶橡胶塑料模具定制及新材料供应
-- 本地化印刷与包装：instaprint uae、printing dubai —— 提供迪拜地区的定制马克杯、蛋糕盒等快速印刷与包装服务
-- AI视频生成与多模态工作流：dola ai hub、text image reference、720p mp4 video —— 基于文本、图像参考生成AI视频及多模型视频图像工作空间
-- 垂直领域招聘与职业工具：senior ai leadership、resume claim guard、expert hearing test —— 聚焦AI高管招聘、简历保护及助听器听力测试等垂直专业服务
-- 数字营销计算与B2B生态：budget planning、cost reach、digital address —— 提供广告CPM成本预算计算器及科钦等地B2B商业生态系统服务
+- 桌面端隐私工具：desktop email client、iphone even offline —— 提供本地运行、支持离线或隐私优先的邮件客户端与AI助手。
+- AI音频与图像处理：stem split ai、photo describe —— 利用AI技术实现音频分轨提取及基于自然语言描述的图像编辑。
+- 健康与医疗信息：heart rhythm、addiction treatment、independent treatment、cytidine diphosphate choline、naturally occurring compound —— 涵盖心脏健康检测、成瘾治疗资源及特定生物化合物（如胞磷胆碱）的市场分析。
+- 阿育吠陀草本产品：ayurvedic herbal powder、jamun neem ayurvedic —— 销售苦瓜、贾姆布、尼姆等传统阿育吠陀草本粉末产品。
+- 工业与建筑组件：fire door ethiopia、door ethiopia、brown green black、ring color coding、reliable solar panel —— 涉及埃塞俄比亚防火门指南、O型圈颜色编码标准及太阳能板经销商信息。
+- 商业运营与租赁：bedroom holiday villa、holiday villa rental、qualify lead book、sale payment membership、leading corporate gift —— 包含度假别墅租赁、销售线索管理、场馆票务会员系统及企业礼品方案。
 
-完整报告: [reports/2026-11-11.md](reports/2026-11-11.md)
+完整报告: [reports/2026-11-12.md](reports/2026-11-12.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
