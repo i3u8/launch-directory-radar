@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-12** · 新增 1631 · 监控 197 个目录（今日成功 178）
+**2026-11-13** · 新增 1635 · 监控 197 个目录（今日成功 179）
 
 聚焦小词 Top 15:
 
-- `fire door ethiopia` ×3（3 目录） 🆕：Fire Door Ethiopia – A Practical Buyer’s Checklist for Comme；Fire Door Ethiopia – Installation, Inspection and Maintenanc
-- `bedroom holiday villa` ×2（2 目录） 🆕：Casa del Castillo；Casa del Castillo A 4-bedroom holiday villa rental in Marbel
-- `desktop email client` ×2（2 目录） 🆕：Scape；EasyMail Pro Free, private desktop email client with powerfu
-- `iphone even offline` ×2（2 目录） 🆕：Anvil；Anvil Private AI that runs on your iPhone, even offline 💬 0 
-- `qualify lead book` ×2（2 目录） 🆕：InfiVoice；Tobira Site Agent
-- `sale payment membership` ×2（2 目录） 🆕：Tiquo；Tiquo: Run a venue's bookings, till, memberships and guest r
-- `ayurvedic herbal powder` ×2（2 目录） 🆕：Buy Karela Jamun Neem Ayurvedic Powder Online – Svarnsakti；Karela Jamun Neem Powder: Traditional Ayurvedic Herbs for Ev
-- `brown green black` ×2（2 目录） 🆕：O-Ring Color Coding Explained: Brown, Green and Black Compou；O-Ring Color Coding: What Brown, Green and Black O-Rings Mea
-- `cytidine diphosphate choline` ×2（2 目录） 🆕：Citicoline Market Dynamics: Growth Drivers, Emerging Trends,；Citicoline Market Scenario: Emerging Opportunities, Innovati
-- `leading corporate gift` ×2（2 目录） 🆕：Eco-Friendly Corporate Gifts；Employee Welcome Kits
-- `reliable solar panel` ×2（2 目录） 🆕：Solar Panel Company in Kerala | Neal Solar；Solar Panel Dealers & Price in Agra | Sooryoday
-- `stem split ai` ×2（3 目录） 🆕：isolate drums from a recording you already have；Stem Split Ai
-- `addiction treatment` ×3（2 目录） 🆕：Refinery Point Recovery；USA Addiction Hotline
-- `heart rhythm` ×3（3 目录） 🆕：Can a Normal ECG Still Need Further Heart Testing?；Kardi Ai Beatwell
-- `photo describe` ×2（2 目录） 🆕：ImageToImageAI；Scenedo Upload a photo, describe the edit, get a clean image
+- `hyderabad serve` ×4（2 目录） 🆕：LG TV Repair in ECIL – Doorstep LED, Smart TV Service；LG TV Repair in Kothapet – Doorstep LED, Smart TV Service
+- `chain wallet data` ×2（2 目录） 🆕：Wallet Master Tools；Wallet Master Tools On-chain wallet data and analytics for S
+- `cloud phone mobile` ×2（2 目录） 🆕：DuoPlus；DuoPlus Cloud Phone - Anti-Detection Cloud Phone | Mobile Mu
+- `fancy text style` ×2（2 目录） 🆕：FontzGenerator；FontGenies
+- `actually trust fair` ×2（2 目录） 🆕：Creative Cartel - Creative Digital Advertising Agency；Creative Digital Advertising Agency
+- `back pain neck` ×2（2 目录） 🆕：Looking for the Best Spine Specialist in Pune? Consult Dr. R；Spine Specialist in Pune – Dr. Rajesh Parasnis | Advanced Sp
+- `birthday celebration venue` ×2（2 目录） 🆕：Dhawan Celebration- Nagpur wedding venues；Nagpur wedding venues
+- `cake fresh flower` ×2（2 目录） 🆕：SammyGift - Send cakes, flowers and gifts to China, Hong Kon；SammyGift - Send gifts to China.
+- `duoplus cloud phone` ×2（2 目录） 🆕：DuoPlus Cloud Phone - Anti-Detection Cloud Phone | Mobile Mu；Duoplus Cloud Phone
+- `experienced faculty member` ×2（2 目录） 🆕：100% job guarantee course in Bhopal；IT Campus Guru Bhopal - 100% job guarantee course in Bhopal
+- `lawn seed planner` ×2（2 目录） 🆕：Lawn Seed Planner；Lawn Seed Planner Grass seed calculator for Minnesota lawns 
+- `sanjivini super speciality` ×2（2 目录） 🆕：Best Gynecologist in Gomti Nagar | Best Maternity Hospital i；Best Hospital in Lucknow
+- `simply maid cleaning` ×2（2 目录） 🆕：Simply Maid Cedar Park；Simply Maid Cleaning Services Cedar Park
+- `expert evaluation` ×3（2 目录） 🆕：Best Hospital in Lucknow；Spine Specialist in Pune – Dr. Rajesh Parasnis | Advanced Sp
+- `national park` ×3（3 目录） 🆕：Tasmania Tour Packages | Explore Australia's Natural Beauty ；Night Gaze Camp: Pick tonight's campground by the sky above 
 
 微赛道归纳:
 
-- 桌面端隐私工具：desktop email client、iphone even offline —— 提供本地运行、支持离线或隐私优先的邮件客户端与AI助手。
-- AI音频与图像处理：stem split ai、photo describe —— 利用AI技术实现音频分轨提取及基于自然语言描述的图像编辑。
-- 健康与医疗信息：heart rhythm、addiction treatment、independent treatment、cytidine diphosphate choline、naturally occurring compound —— 涵盖心脏健康检测、成瘾治疗资源及特定生物化合物（如胞磷胆碱）的市场分析。
-- 阿育吠陀草本产品：ayurvedic herbal powder、jamun neem ayurvedic —— 销售苦瓜、贾姆布、尼姆等传统阿育吠陀草本粉末产品。
-- 工业与建筑组件：fire door ethiopia、door ethiopia、brown green black、ring color coding、reliable solar panel —— 涉及埃塞俄比亚防火门指南、O型圈颜色编码标准及太阳能板经销商信息。
-- 商业运营与租赁：bedroom holiday villa、holiday villa rental、qualify lead book、sale payment membership、leading corporate gift —— 包含度假别墅租赁、销售线索管理、场馆票务会员系统及企业礼品方案。
+- 云手机与反检测工具：cloud phone mobile、duoplus cloud phone —— 提供具备反检测功能的云端移动设备环境
+- 链上钱包数据工具：chain wallet data —— 提供链上钱包数据的分析与监控工具
+- 脊柱专科医疗服务：back pain neck、spinal stenosis scoliosis、expert evaluation —— 针对背痛、脊柱狭窄等提供专科医生咨询与诊疗
+- 综合专科医院服务：sanjivini super speciality、super speciality hospital、expert evaluation —— 提供妇科、产科等超专科领域的医院与专家推荐
+- 本地化家政与维修服务：hyderabad serve、simply maid cleaning —— 提供上门电视维修、家政清洁等本地生活服务
+- 数字创意与营销工具：fancy text style、actually trust fair、copy paste strategy —— 提供花式文本生成及数字广告创意代理服务
 
-完整报告: [reports/2026-11-12.md](reports/2026-11-12.md)
+完整报告: [reports/2026-11-13.md](reports/2026-11-13.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

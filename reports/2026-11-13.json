@@ -1,0 +1,669 @@
+{
+ "date": "2026-11-13",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 179,
+ "sources_failed": 18,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1635,
+ "new_today_unique": 1495,
+ "ai_share_today": 0.26,
+ "ai_share_30d": 0.27,
+ "niche_terms": [
+  {
+   "term": "hyderabad serve",
+   "count": 4,
+   "sources": 2,
+   "ratio": 158.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "LG TV Repair in ECIL – Doorstep LED, Smart TV Service",
+     "url": "https://huludirectory.com/listing/lg-tv-repair-in-ecil-–-doorstep-led-smart-tv-service-2262534"
+    },
+    {
+     "name": "LG TV Repair in Kothapet – Doorstep LED, Smart TV Service",
+     "url": "https://exampledir.com/listing/lg-tv-repair-in-kothapet-–-doorstep-led-smart-tv-service-314705"
+    },
+    {
+     "name": "LG TV Repair in Manikonda – Doorstep LED, Smart TV Service",
+     "url": "https://huludirectory.com/listing/lg-tv-repair-in-manikonda-–-doorstep-led-smart-tv-service-2262535"
+    }
+   ]
+  },
+  {
+   "term": "chain wallet data",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Wallet Master Tools",
+     "url": "https://walletmaster.tools/"
+    },
+    {
+     "name": "Wallet Master Tools On-chain wallet data and analytics for S",
+     "url": "https://thehackstack.com/s/walletmaster"
+    }
+   ]
+  },
+  {
+   "term": "cloud phone mobile",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "DuoPlus",
+     "url": "https://duoplus.net/"
+    },
+    {
+     "name": "DuoPlus Cloud Phone - Anti-Detection Cloud Phone | Mobile Mu",
+     "url": "https://nothumansearch.ai/site/duoplus.net"
+    }
+   ]
+  },
+  {
+   "term": "fancy text style",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "FontzGenerator",
+     "url": "https://zearches.com/site/software-saas/fontzgenerator-com-ec6964ffe1"
+    },
+    {
+     "name": "FontGenies",
+     "url": "https://fontgenies.com/"
+    }
+   ]
+  },
+  {
+   "term": "actually trust fair",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Creative Cartel - Creative Digital Advertising Agency",
+     "url": "https://directory6.org/listing/creative-cartel--creative-digital-advertising-agency-723757"
+    },
+    {
+     "name": "Creative Digital Advertising Agency",
+     "url": "https://aweblist.org/listing/creative-digital-advertising-agency-975305"
+    }
+   ]
+  },
+  {
+   "term": "back pain neck",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Looking for the Best Spine Specialist in Pune? Consult Dr. R",
+     "url": "https://directory6.org/listing/looking-for-the-best-spine-specialist-in-pune-consult-dr-rajesh-parasnis-723772"
+    },
+    {
+     "name": "Spine Specialist in Pune – Dr. Rajesh Parasnis | Advanced Sp",
+     "url": "https://aweblist.org/listing/spine-specialist-in-pune-–-dr-rajesh-parasnis-advanced-spine-care-975301"
+    }
+   ]
+  },
+  {
+   "term": "birthday celebration venue",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Dhawan Celebration- Nagpur wedding venues",
+     "url": "https://directory6.org/listing/dhawan-celebration-nagpur-wedding-venues-723755"
+    },
+    {
+     "name": "Nagpur wedding venues",
+     "url": "https://aweblist.org/listing/nagpur-wedding-venues-975304"
+    }
+   ]
+  },
+  {
+   "term": "cake fresh flower",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "SammyGift - Send cakes, flowers and gifts to China, Hong Kon",
+     "url": "https://exampledir.com/listing/sammygift--send-cakes-flowers-and-gifts-to-china-hong-kong-and-macau-314688"
+    },
+    {
+     "name": "SammyGift - Send gifts to China.",
+     "url": "https://a2place.com/listing/sammygift--send-gifts-to-china-718835"
+    }
+   ]
+  },
+  {
+   "term": "duoplus cloud phone",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "DuoPlus Cloud Phone - Anti-Detection Cloud Phone | Mobile Mu",
+     "url": "https://nothumansearch.ai/site/duoplus.net"
+    },
+    {
+     "name": "Duoplus Cloud Phone",
+     "url": "https://agents-launch.lovable.app/agents/duoplus-cloud-phone"
+    }
+   ]
+  },
+  {
+   "term": "experienced faculty member",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "100% job guarantee course in Bhopal",
+     "url": "https://aweblist.org/listing/100%-job-guarantee-course-in-bhopal-975306"
+    },
+    {
+     "name": "IT Campus Guru Bhopal - 100% job guarantee course in Bhopal",
+     "url": "https://directory6.org/listing/it-campus-guru-bhopal--100%-job-guarantee-course-in-bhopal-723760"
+    }
+   ]
+  },
+  {
+   "term": "lawn seed planner",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Lawn Seed Planner",
+     "url": "https://azn8.com/listing/lawn-seed-planner"
+    },
+    {
+     "name": "Lawn Seed Planner Grass seed calculator for Minnesota lawns ",
+     "url": "https://thehackstack.com/s/lawnseedplanner"
+    }
+   ]
+  },
+  {
+   "term": "sanjivini super speciality",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Gynecologist in Gomti Nagar | Best Maternity Hospital i",
+     "url": "https://huludirectory.com/listing/best-gynecologist-in-gomti-nagar-best-maternity-hospital-in-lucknow-2262539"
+    },
+    {
+     "name": "Best Hospital in Lucknow",
+     "url": "https://directory6.org/listing/best-hospital-in-lucknow-723758"
+    }
+   ]
+  },
+  {
+   "term": "simply maid cleaning",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Simply Maid Cedar Park",
+     "url": "https://zearches.com/site/local-services/simplymaidcedarpark-com-8b75d42745"
+    },
+    {
+     "name": "Simply Maid Cleaning Services Cedar Park",
+     "url": "https://azn8.com/listing/simply-maid-cleaning-services-cedar-park"
+    }
+   ]
+  },
+  {
+   "term": "expert evaluation",
+   "count": 3,
+   "sources": 2,
+   "ratio": 118.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Hospital in Lucknow",
+     "url": "https://directory6.org/listing/best-hospital-in-lucknow-723758"
+    },
+    {
+     "name": "Spine Specialist in Pune – Dr. Rajesh Parasnis | Advanced Sp",
+     "url": "https://aweblist.org/listing/spine-specialist-in-pune-–-dr-rajesh-parasnis-advanced-spine-care-975301"
+    },
+    {
+     "name": "Orthopedic Doctor In Secunderabad | KIMS Sunshine Hospitals",
+     "url": "https://aweblist.org/listing/orthopedic-doctor-in-secunderabad-kims-sunshine-hospitals-975274"
+    }
+   ]
+  },
+  {
+   "term": "national park",
+   "count": 3,
+   "sources": 3,
+   "ratio": 118.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Tasmania Tour Packages | Explore Australia's Natural Beauty ",
+     "url": "https://directory6.org/listing/tasmania-tour-packages-explore-australias-natural-beauty-anderson-vacations-723777"
+    },
+    {
+     "name": "Night Gaze Camp: Pick tonight's campground by the sky above ",
+     "url": "https://saasolution.io/tool/night-gaze-camp"
+    },
+    {
+     "name": "Which Park Pass Compare US national park fees and annual pas",
+     "url": "https://thehackstack.com/s/whichparkpass"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "china hong kong",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "SammyGift - Send cakes, flowers and gifts to China, Hong Kon",
+     "url": "https://exampledir.com/listing/sammygift--send-cakes-flowers-and-gifts-to-china-hong-kong-and-macau-314688"
+    },
+    {
+     "name": "SammyGift - Send gifts to China.",
+     "url": "https://a2place.com/listing/sammygift--send-gifts-to-china-718835"
+    }
+   ]
+  },
+  {
+   "term": "copy paste strategy",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Creative Cartel - Creative Digital Advertising Agency",
+     "url": "https://directory6.org/listing/creative-cartel--creative-digital-advertising-agency-723757"
+    },
+    {
+     "name": "Creative Digital Advertising Agency",
+     "url": "https://aweblist.org/listing/creative-digital-advertising-agency-975305"
+    }
+   ]
+  },
+  {
+   "term": "host birthday celebration",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Dhawan Celebration- Nagpur wedding venues",
+     "url": "https://directory6.org/listing/dhawan-celebration-nagpur-wedding-venues-723755"
+    },
+    {
+     "name": "Nagpur wedding venues",
+     "url": "https://aweblist.org/listing/nagpur-wedding-venues-975304"
+    }
+   ]
+  },
+  {
+   "term": "job guarantee course",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "100% job guarantee course in Bhopal",
+     "url": "https://aweblist.org/listing/100%-job-guarantee-course-in-bhopal-975306"
+    },
+    {
+     "name": "IT Campus Guru Bhopal - 100% job guarantee course in Bhopal",
+     "url": "https://directory6.org/listing/it-campus-guru-bhopal--100%-job-guarantee-course-in-bhopal-723760"
+    }
+   ]
+  },
+  {
+   "term": "spinal stenosis scoliosis",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Looking for the Best Spine Specialist in Pune? Consult Dr. R",
+     "url": "https://directory6.org/listing/looking-for-the-best-spine-specialist-in-pune-consult-dr-rajesh-parasnis-723772"
+    },
+    {
+     "name": "Spine Specialist in Pune – Dr. Rajesh Parasnis | Advanced Sp",
+     "url": "https://aweblist.org/listing/spine-specialist-in-pune-–-dr-rajesh-parasnis-advanced-spine-care-975301"
+    }
+   ]
+  },
+  {
+   "term": "super speciality hospital",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Gynecologist in Gomti Nagar | Best Maternity Hospital i",
+     "url": "https://huludirectory.com/listing/best-gynecologist-in-gomti-nagar-best-maternity-hospital-in-lucknow-2262539"
+    },
+    {
+     "name": "Best Hospital in Lucknow",
+     "url": "https://directory6.org/listing/best-hospital-in-lucknow-723758"
+    }
+   ]
+  },
+  {
+   "term": "chain wallet",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Wallet Master Tools",
+     "url": "https://walletmaster.tools/"
+    },
+    {
+     "name": "Wallet Master Tools On-chain wallet data and analytics for S",
+     "url": "https://thehackstack.com/s/walletmaster"
+    }
+   ]
+  },
+  {
+   "term": "phone mobile",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "DuoPlus",
+     "url": "https://duoplus.net/"
+    },
+    {
+     "name": "DuoPlus Cloud Phone - Anti-Detection Cloud Phone | Mobile Mu",
+     "url": "https://nothumansearch.ai/site/duoplus.net"
+    }
+   ]
+  },
+  {
+   "term": "plus prompt",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "C Dance AI",
+     "url": "https://cdance.net/"
+    },
+    {
+     "name": "Animated GIF Generator",
+     "url": "https://animatedgifgenerator.com/"
+    }
+   ]
+  },
+  {
+   "term": "reference database",
+   "count": 2,
+   "sources": 2,
+   "ratio": 79.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "SuppVerify: Check how much a supplement delivers per day and",
+     "url": "https://saasolution.io/tool/suppverify"
+    },
+    {
+     "name": "PokéSurvivor",
+     "url": "https://pokesurvivor.si/"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "hyderabad serve",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "LG TV Repair in ECIL – Doorstep LED, Smart TV Service",
+     "url": "https://huludirectory.com/listing/lg-tv-repair-in-ecil-–-doorstep-led-smart-tv-service-2262534"
+    },
+    {
+     "name": "LG TV Repair in Kothapet – Doorstep LED, Smart TV Service",
+     "url": "https://exampledir.com/listing/lg-tv-repair-in-kothapet-–-doorstep-led-smart-tv-service-314705"
+    },
+    {
+     "name": "LG TV Repair in Manikonda – Doorstep LED, Smart TV Service",
+     "url": "https://huludirectory.com/listing/lg-tv-repair-in-manikonda-–-doorstep-led-smart-tv-service-2262535"
+    },
+    {
+     "name": "LG TV Repair in Sanathnagar – Doorstep LED, Smart TV Service",
+     "url": "https://exampledir.com/listing/lg-tv-repair-in-sanathnagar-–-doorstep-led-smart-tv-service-314706"
+    }
+   ]
+  },
+  {
+   "term": "expert evaluation",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best Hospital in Lucknow",
+     "url": "https://directory6.org/listing/best-hospital-in-lucknow-723758"
+    },
+    {
+     "name": "Orthopedic Doctor In Secunderabad | KIMS Sunshine Hospitals",
+     "url": "https://aweblist.org/listing/orthopedic-doctor-in-secunderabad-kims-sunshine-hospitals-975274"
+    },
+    {
+     "name": "Spine Specialist in Pune – Dr. Rajesh Parasnis | Advanced Sp",
+     "url": "https://aweblist.org/listing/spine-specialist-in-pune-–-dr-rajesh-parasnis-advanced-spine-care-975301"
+    }
+   ]
+  },
+  {
+   "term": "national park",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Night Gaze Camp: Pick tonight's campground by the sky above ",
+     "url": "https://saasolution.io/tool/night-gaze-camp"
+    },
+    {
+     "name": "Tasmania Tour Packages | Explore Australia's Natural Beauty ",
+     "url": "https://directory6.org/listing/tasmania-tour-packages-explore-australias-natural-beauty-anderson-vacations-723777"
+    },
+    {
+     "name": "Which Park Pass Compare US national park fees and annual pas",
+     "url": "https://thehackstack.com/s/whichparkpass"
+    }
+   ]
+  },
+  {
+   "term": "cloud phone",
+   "size": 4,
+   "sources": 5,
+   "examples": [
+    {
+     "name": "DuoPlus",
+     "url": "https://duoplus.net/"
+    },
+    {
+     "name": "Duoplus Cloud Phone",
+     "url": "https://agents-launch.lovable.app/agents/duoplus-cloud-phone"
+    },
+    {
+     "name": "DuoPlus Cloud Phone - Anti-Detection Cloud Phone | Mobile Mu",
+     "url": "https://nothumansearch.ai/site/duoplus.net"
+    },
+    {
+     "name": "Nextiva",
+     "url": "https://agentsindex.ai/nextiva-ai"
+    }
+   ]
+  },
+  {
+   "term": "door repair",
+   "size": 6,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Ethan's Garage Doors",
+     "url": "https://webrankdirectory.org/listing/ethans-garage-doors"
+    },
+    {
+     "name": "Henry's Garage Doors",
+     "url": "https://webrankdirectory.org/listing/henrys-garage-doors"
+    },
+    {
+     "name": "Jack's Garage Door",
+     "url": "https://webrankdirectory.org/listing/jacks-garage-door"
+    },
+    {
+     "name": "Luke's Garage Doors Houston",
+     "url": "https://webrankdirectory.org/listing/lukes-garage-doors-houston"
+    }
+   ]
+  },
+  {
+   "term": "text style",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "FontGenies",
+     "url": "https://fontgenies.com/"
+    },
+    {
+     "name": "Fontkite",
+     "url": "https://launchfree.io/listings/fontkite.html"
+    },
+    {
+     "name": "FontzGenerator",
+     "url": "https://zearches.com/site/software-saas/fontzgenerator-com-ec6964ffe1"
+    }
+   ]
+  },
+  {
+   "term": "english practice",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "English Rove",
+     "url": "https://englishrove.com/"
+    },
+    {
+     "name": "HowToLearnEnglishFast - Learn English Online",
+     "url": "https://huludirectory.com/listing/howtolearnenglishfast--learn-english-online-2262521"
+    },
+    {
+     "name": "HowToLearnEnglishFast - Practical English Practice",
+     "url": "https://exampledir.com/listing/howtolearnenglishfast--practical-english-practice-314691"
+    }
+   ]
+  },
+  {
+   "term": "photo background",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "RemoveBackground.si",
+     "url": "https://postlaunchkit.com/directory/removebackgroundsi"
+    },
+    {
+     "name": "WaveMira Product Photo Background Changer",
+     "url": "https://postlaunchkit.com/directory/wavemira-product-photo-background-changer"
+    },
+    {
+     "name": "ZeroBG",
+     "url": "https://zerobg.ai/"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「hyderabad serve」今日 4 个产品/2 个目录：LG TV Repair in ECIL – Doorstep LED, Smart TV Service、LG TV Repair in Kothapet – Doorstep LED, Smart TV Service",
+  "小词「chain wallet data」今日 2 个产品/2 个目录：Wallet Master Tools、Wallet Master Tools On-chain wallet data and analytics for S",
+  "小词「cloud phone mobile」今日 2 个产品/2 个目录：DuoPlus、DuoPlus Cloud Phone - Anti-Detection Cloud Phone | Mobile Mu",
+  "同日小簇「hyderabad serve」4 个相似产品：LG TV Repair in ECIL – Doorstep LED, Smart TV Service、LG TV Repair in Kothapet – Doorstep LED, Smart TV Service、LG TV Repair in Manikonda – Doorstep LED, Smart TV Service",
+  "同日小簇「expert evaluation」3 个相似产品：Best Hospital in Lucknow、Orthopedic Doctor In Secunderabad | KIMS Sunshine Hospitals、Spine Specialist in Pune – Dr. Rajesh Parasnis | Advanced Sp",
+  "跨目录同时出现：bazi-pan.com（4 个目录）",
+  "跨目录同时出现：china-travel-tips.com（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-13.md",
+ "niche_groups": "- 云手机与反检测工具：cloud phone mobile、duoplus cloud phone —— 提供具备反检测功能的云端移动设备环境\n- 链上钱包数据工具：chain wallet data —— 提供链上钱包数据的分析与监控工具\n- 脊柱专科医疗服务：back pain neck、spinal stenosis scoliosis、expert evaluation —— 针对背痛、脊柱狭窄等提供专科医生咨询与诊疗\n- 综合专科医院服务：sanjivini super speciality、super speciality hospital、expert evaluation —— 提供妇科、产科等超专科领域的医院与专家推荐\n- 本地化家政与维修服务：hyderabad serve、simply maid cleaning —— 提供上门电视维修、家政清洁等本地生活服务\n- 数字创意与营销工具：fancy text style、actually trust fair、copy paste strategy —— 提供花式文本生成及数字广告创意代理服务"
+}
