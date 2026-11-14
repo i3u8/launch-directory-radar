@@ -1,0 +1,657 @@
+{
+ "date": "2026-11-14",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 179,
+ "sources_failed": 18,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "nextool-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1624,
+ "new_today_unique": 1499,
+ "ai_share_today": 0.22,
+ "ai_share_30d": 0.27,
+ "niche_terms": [
+  {
+   "term": "facing photo become",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Hotel Lobby AI Trend",
+     "url": "https://hotellobbyaitrend.com/"
+    },
+    {
+     "name": "Bulin 47 Video (bulin47videoai.app)",
+     "url": "https://bulin47videoai.app/"
+    }
+   ]
+  },
+  {
+   "term": "volume url indexing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "IndexToast",
+     "url": "https://indextoast.com/"
+    },
+    {
+     "name": "IndexToast IndexToast — Fast, High-Volume URL Indexing 💬 0 C",
+     "url": "https://thehackstack.com/s/indextoast"
+    }
+   ]
+  },
+  {
+   "term": "3mf stl step",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "STL Kit",
+     "url": "https://azn8.com/listing/stl-kit"
+    },
+    {
+     "name": "STL Kit Free browser 3MF, STL, STEP & OBJ converter for 3D p",
+     "url": "https://thehackstack.com/s/stlkit"
+    }
+   ]
+  },
+  {
+   "term": "arm discomfort stiffness",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Elbow & Arm Treatment in PCMC | Dr. S. Prashanth",
+     "url": "https://directory6.org/listing/elbow-and-arm-treatment-in-pcmc-dr-s-prashanth-723998"
+    },
+    {
+     "name": "Expert Elbow and Arm Care in PCMC – Dr. S. Prashanth",
+     "url": "https://aweblist.org/listing/expert-elbow-and-arm-care-in-pcmc-–-dr-s-prashanth-975578"
+    }
+   ]
+  },
+  {
+   "term": "compare excel record",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "RowKite",
+     "url": "https://zearches.com/site/software-saas/rowkite-com-a5d90b6ea0"
+    },
+    {
+     "name": "RowKite Compare Excel records locally and export XLSX report",
+     "url": "https://thehackstack.com/s/rowkite"
+    }
+   ]
+  },
+  {
+   "term": "handcrafted silk cotton",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Silk, Cotton & Woolen Stoles for Women | Karivani",
+     "url": "https://aweblist.org/listing/buy-silk-cotton-and-woolen-stoles-for-women-karivani-975562"
+    },
+    {
+     "name": "Karivani | Handcrafted Silk Stoles, Dupattas & Shawls Online",
+     "url": "https://directory6.org/listing/karivani-handcrafted-silk-stoles-dupattas-and-shawls-online-723982"
+    }
+   ]
+  },
+  {
+   "term": "hombro freestyle clip",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Bulin 47 AI Video (bulin47videoai.app)",
+     "url": "https://bulin47videoai.app/"
+    },
+    {
+     "name": "Bulin 47 Video (bulin47videoai.app)",
+     "url": "https://bulin47videoai.app/"
+    }
+   ]
+  },
+  {
+   "term": "jordan sandor sery",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Jeffrey Stephens Books – Jeffrey Stephens Books in Order and",
+     "url": "https://huludirectory.com/listing/jeffrey-stephens-books-–-jeffrey-stephens-books-in-order-and-reading-guide-2262620"
+    },
+    {
+     "name": "Jordan Sandor Series, Russell Palmer Books and Jeffrey Steph",
+     "url": "https://a2place.com/listing/jordan-sandor-series-russell-palmer-books-and-jeffrey-stephens-novels-718847"
+    }
+   ]
+  },
+  {
+   "term": "safe driver dubai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Safe Driver Dubai for Stress-Free Office Commuting",
+     "url": "https://exampledir.com/listing/safe-driver-dubai-for-stress-free-office-commuting-314740"
+    },
+    {
+     "name": "Safe Driver Dubai for Late-Night Transportation",
+     "url": "https://a2place.com/listing/safe-driver-dubai-for-late-night-transportation-718843"
+    }
+   ]
+  },
+  {
+   "term": "tradingview indicator finder",
+   "count": 2,
+   "sources": 3,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "TradingView Indicator Finder",
+     "url": "https://dealmyapp.com/listings/tradingview-indicator-finder"
+    },
+    {
+     "name": "TradingView Indicator Finder Find the best TradingView indic",
+     "url": "https://thehackstack.com/s/tradeedgealpha"
+    }
+   ]
+  },
+  {
+   "term": "小知 知区 区块",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "链小知区块链 (Lianxiaozhi)",
+     "url": "https://postlaunchkit.com/directory/lianxiaozhi"
+    },
+    {
+     "name": "链小知区块链",
+     "url": "https://lianxiaozhi.com/"
+    }
+   ]
+  },
+  {
+   "term": "chatgpt wallet",
+   "count": 3,
+   "sources": 2,
+   "ratio": 122.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Introducing ChatGPT Wallet",
+     "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+     "name": "ChatGPT’s new Wallet lets AI agents shop and check out for y",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you"
+    },
+    {
+     "name": "ChatGPT Wallet 详解：AI 代理代付的安全新标准",
+     "url": "https://aisuqp.xyz/learn/chatgpt-wallet-xiangjie-ai-dailidaifudeanquanxinbiaozhun-x6um"
+    }
+   ]
+  },
+  {
+   "term": "calendar file",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "PDF Fan: Split and merge PDFs in the browser, or turn a shif",
+     "url": "https://saasolution.io/tool/pdf-fan"
+    },
+    {
+     "name": "Magic Dock",
+     "url": "https://postlaunchkit.com/directory/magic-dock"
+    }
+   ]
+  },
+  {
+   "term": "coding harness",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Reason Machines' Reason Harness: 20x Cheaper, or 22%?",
+     "url": "https://cellcog.ai/blog/reason-machines-reason-harness"
+    },
+    {
+     "name": "SKI",
+     "url": "https://justski.it/"
+    }
+   ]
+  },
+  {
+   "term": "game covering",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Stage Tour Guide",
+     "url": "https://postlaunchkit.com/directory/stage-tour-guide"
+    },
+    {
+     "name": "NoodleClub",
+     "url": "https://zearches.com/site/gaming-esports/noodleclub-io-3259529cf3"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "compression sport activity",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Elbow & Arm Treatment in PCMC | Dr. S. Prashanth",
+     "url": "https://directory6.org/listing/elbow-and-arm-treatment-in-pcmc-dr-s-prashanth-723998"
+    },
+    {
+     "name": "Expert Elbow and Arm Care in PCMC – Dr. S. Prashanth",
+     "url": "https://aweblist.org/listing/expert-elbow-and-arm-care-in-pcmc-–-dr-s-prashanth-975578"
+    }
+   ]
+  },
+  {
+   "term": "export xlsx report",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "RowKite",
+     "url": "https://zearches.com/site/software-saas/rowkite-com-a5d90b6ea0"
+    },
+    {
+     "name": "RowKite Compare Excel records locally and export XLSX report",
+     "url": "https://thehackstack.com/s/rowkite"
+    }
+   ]
+  },
+  {
+   "term": "karivani handcrafted silk",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Silk, Cotton & Woolen Stoles for Women | Karivani",
+     "url": "https://aweblist.org/listing/buy-silk-cotton-and-woolen-stoles-for-women-karivani-975562"
+    },
+    {
+     "name": "Karivani | Handcrafted Silk Stoles, Dupattas & Shawls Online",
+     "url": "https://directory6.org/listing/karivani-handcrafted-silk-stoles-dupattas-and-shawls-online-723982"
+    }
+   ]
+  },
+  {
+   "term": "nichola reagan sery",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Jeffrey Stephens Books – Jeffrey Stephens Books in Order and",
+     "url": "https://huludirectory.com/listing/jeffrey-stephens-books-–-jeffrey-stephens-books-in-order-and-reading-guide-2262620"
+    },
+    {
+     "name": "Jordan Sandor Series, Russell Palmer Books and Jeffrey Steph",
+     "url": "https://a2place.com/listing/jordan-sandor-series-russell-palmer-books-and-jeffrey-stephens-novels-718847"
+    }
+   ]
+  },
+  {
+   "term": "知区 区块 块链",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "链小知区块链 (Lianxiaozhi)",
+     "url": "https://postlaunchkit.com/directory/lianxiaozhi"
+    },
+    {
+     "name": "链小知区块链",
+     "url": "https://lianxiaozhi.com/"
+    }
+   ]
+  },
+  {
+   "term": "ios simulator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Macswarm: cloud Mac for Claude Code and Codex agents — score",
+     "url": "https://nothumansearch.ai/site/macswarm.com"
+    },
+    {
+     "name": "Macswarm",
+     "url": "https://macswarm.com/"
+    }
+   ]
+  },
+  {
+   "term": "prompt reference",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Masterpiece X",
+     "url": "https://masterpiecex.com/"
+    },
+    {
+     "name": "OpenMaker",
+     "url": "https://whatareyoubuilding.ai/product/IYzCy03XltMvHJsCjvfw"
+    }
+   ]
+  },
+  {
+   "term": "public beta",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "BetaNeon",
+     "url": "https://zearches.com/site/resources-directories/betaneon-com-25433a4c3f"
+    },
+    {
+     "name": "BetaNeon Discover new apps and public betas before everyone ",
+     "url": "https://thehackstack.com/s/betaneon-2"
+    }
+   ]
+  },
+  {
+   "term": "url indexing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "IndexToast",
+     "url": "https://indextoast.com/"
+    },
+    {
+     "name": "IndexToast IndexToast — Fast, High-Volume URL Indexing 💬 0 C",
+     "url": "https://thehackstack.com/s/indextoast"
+    }
+   ]
+  },
+  {
+   "term": "3mf stl",
+   "count": 2,
+   "sources": 2,
+   "ratio": 81.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "STL Kit",
+     "url": "https://azn8.com/listing/stl-kit"
+    },
+    {
+     "name": "STL Kit Free browser 3MF, STL, STEP & OBJ converter for 3D p",
+     "url": "https://thehackstack.com/s/stlkit"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "chatgpt wallet",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "ChatGPT’s new Wallet lets AI agents shop and check out for y",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you"
+    },
+    {
+     "name": "ChatGPT Wallet 详解：AI 代理代付的安全新标准",
+     "url": "https://aisuqp.xyz/learn/chatgpt-wallet-xiangjie-ai-dailidaifudeanquanxinbiaozhun-x6um"
+    },
+    {
+     "name": "Introducing ChatGPT Wallet",
+     "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    }
+   ]
+  },
+  {
+   "term": "sport academy",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Cricket Turf Installation for High-Performance Sports Ground",
+     "url": "https://directory6.org/listing/cricket-turf-installation-for-high-performance-sports-grounds-altius-sports-723980"
+    },
+    {
+     "name": "FitFaat: Run gym memberships, GST billing and check-ins that",
+     "url": "https://saasolution.io/tool/fitfaat"
+    },
+    {
+     "name": "Open Football Turf Installation | Artificial Football Turf G",
+     "url": "https://directory6.org/listing/open-football-turf-installation-artificial-football-turf-ground-723999"
+    },
+    {
+     "name": "Sports Academies in Financial District Hyderabad | Football ",
+     "url": "https://aweblist.org/listing/sports-academies-in-financial-district-hyderabad-football-academy-in-hyderabad-975556"
+    }
+   ]
+  },
+  {
+   "term": "front facing photo",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Bulin 47 AI Video (bulin47videoai.app)",
+     "url": "https://bulin47videoai.app/"
+    },
+    {
+     "name": "Bulin 47 Video (bulin47videoai.app)",
+     "url": "https://bulin47videoai.app/"
+    },
+    {
+     "name": "Hotel Lobby AI Trend",
+     "url": "https://hotellobbyaitrend.com/"
+    }
+   ]
+  },
+  {
+   "term": "college essay",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "College Essay Checker: Get a score and concrete fixes for yo",
+     "url": "https://saasolution.io/tool/college-essay-checker"
+    },
+    {
+     "name": "College Essay Grader Ai College Essay Grader",
+     "url": "https://dang.ai/tool/college-essay-grader-ai-college-essay-grader"
+    },
+    {
+     "name": "Writivia",
+     "url": "https://postlaunchkit.com/directory/writivia"
+    }
+   ]
+  },
+  {
+   "term": "personal development",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "30+ Sleep Affirmations for Wealth, Abundance & Financial Con",
+     "url": "https://cero.gumroad.com/l/moneyaffirm"
+    },
+    {
+     "name": "International School in Gorai",
+     "url": "https://zearches.com/site/education-learning/svischool-com-5c324bb4c1"
+    },
+    {
+     "name": "The Wisdom Theory",
+     "url": "https://cero.gumroad.com/l/wisdompro"
+    }
+   ]
+  },
+  {
+   "term": "ai teammate",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Brigade",
+     "url": "https://aiagentsdirectory.com/agent/brigade"
+    },
+    {
+     "name": "Cedric",
+     "url": "https://azn8.com/listing/cedric"
+    },
+    {
+     "name": "Cedric AI for Meetings",
+     "url": "https://meet-cedric.com/use-cases/ai-solution-for-startups"
+    }
+   ]
+  },
+  {
+   "term": "international school",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Green Campus School in Hyderabad | Sustainable Education",
+     "url": "https://aweblist.org/listing/green-campus-school-in-hyderabad-sustainable-education-975554"
+    },
+    {
+     "name": "Green Campus School in Hyderabad | Sustainable Schools in Hy",
+     "url": "https://aweblist.org/listing/green-campus-school-in-hyderabad-sustainable-schools-in-hyderabad-975555"
+    },
+    {
+     "name": "IB Curriculum in Hyderabad | Cambridge Schools in Hyderabad",
+     "url": "https://aweblist.org/listing/ib-curriculum-in-hyderabad-cambridge-schools-in-hyderabad-975553"
+    },
+    {
+     "name": "International School in Gorai",
+     "url": "https://zearches.com/site/education-learning/svischool-com-5c324bb4c1"
+    }
+   ]
+  },
+  {
+   "term": "still photo",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "EveryGen AI",
+     "url": "https://every-genai.com/"
+    },
+    {
+     "name": "OpenMaker",
+     "url": "https://whatareyoubuilding.ai/product/IYzCy03XltMvHJsCjvfw"
+    },
+    {
+     "name": "Photo to GIF: Make one still photo wave or wag its tail as a",
+     "url": "https://saasolution.io/tool/photo-to-gif"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「facing photo become」今日 2 个产品/2 个目录：Hotel Lobby AI Trend、Bulin 47 Video (bulin47videoai.app)",
+  "小词「volume url indexing」今日 2 个产品/2 个目录：IndexToast、IndexToast IndexToast — Fast, High-Volume URL Indexing 💬 0 C",
+  "小词「3mf stl step」今日 2 个产品/2 个目录：STL Kit、STL Kit Free browser 3MF, STL, STEP & OBJ converter for 3D p",
+  "同日小簇「chatgpt wallet」3 个相似产品：ChatGPT’s new Wallet lets AI agents shop and check out for y、ChatGPT Wallet 详解：AI 代理代付的安全新标准、Introducing ChatGPT Wallet",
+  "同日小簇「sport academy」4 个相似产品：Cricket Turf Installation for High-Performance Sports Ground、FitFaat: Run gym memberships, GST billing and check-ins that、Open Football Turf Installation | Artificial Football Turf G",
+  "跨目录同时出现：blog.google（4 个目录）",
+  "跨目录同时出现：raydo.ai（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-14.md",
+ "niche_groups": "- AI视频生成与特效：facing photo become、hombro freestyle clip —— 利用AI技术将静态照片转化为动态视频或生成特定风格的短视频内容\n- 开发者工具与自动化：volume url indexing、tradingview indicator finder、coding harness、ios simulator、calendar file —— 提供URL批量收录、交易指标查找、代码执行环境、iOS模拟及文件处理等开发辅助功能\n- 3D建模与数据对比：3mf stl step、compare excel record、export xlsx report —— 提供3D模型格式转换及本地Excel数据对比与报告导出服务\n- 健康医疗与运动防护：arm discomfort stiffness、compression sport activity、safe driver dubai —— 聚焦手臂肘部疼痛治疗、运动压缩装备及特定场景下的安全出行服务\n- 垂直电商与内容聚合：handcrafted silk cotton、karivani handcrafted silk、jordan sandor sery、nichola reagan sery、game covering、小知 知区 区块、chatgpt wallet —— 涵盖手工丝织品销售、特定作者书籍系列聚合、游戏攻略、区块链资讯及AI支付钱包等垂直领域服务"
+}

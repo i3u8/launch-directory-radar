@@ -7,36 +7,35 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-13** · 新增 1635 · 监控 197 个目录（今日成功 179）
+**2026-11-14** · 新增 1624 · 监控 197 个目录（今日成功 179）
 
 聚焦小词 Top 15:
 
-- `hyderabad serve` ×4（2 目录） 🆕：LG TV Repair in ECIL – Doorstep LED, Smart TV Service；LG TV Repair in Kothapet – Doorstep LED, Smart TV Service
-- `chain wallet data` ×2（2 目录） 🆕：Wallet Master Tools；Wallet Master Tools On-chain wallet data and analytics for S
-- `cloud phone mobile` ×2（2 目录） 🆕：DuoPlus；DuoPlus Cloud Phone - Anti-Detection Cloud Phone | Mobile Mu
-- `fancy text style` ×2（2 目录） 🆕：FontzGenerator；FontGenies
-- `actually trust fair` ×2（2 目录） 🆕：Creative Cartel - Creative Digital Advertising Agency；Creative Digital Advertising Agency
-- `back pain neck` ×2（2 目录） 🆕：Looking for the Best Spine Specialist in Pune? Consult Dr. R；Spine Specialist in Pune – Dr. Rajesh Parasnis | Advanced Sp
-- `birthday celebration venue` ×2（2 目录） 🆕：Dhawan Celebration- Nagpur wedding venues；Nagpur wedding venues
-- `cake fresh flower` ×2（2 目录） 🆕：SammyGift - Send cakes, flowers and gifts to China, Hong Kon；SammyGift - Send gifts to China.
-- `duoplus cloud phone` ×2（2 目录） 🆕：DuoPlus Cloud Phone - Anti-Detection Cloud Phone | Mobile Mu；Duoplus Cloud Phone
-- `experienced faculty member` ×2（2 目录） 🆕：100% job guarantee course in Bhopal；IT Campus Guru Bhopal - 100% job guarantee course in Bhopal
-- `lawn seed planner` ×2（2 目录） 🆕：Lawn Seed Planner；Lawn Seed Planner Grass seed calculator for Minnesota lawns 
-- `sanjivini super speciality` ×2（2 目录） 🆕：Best Gynecologist in Gomti Nagar | Best Maternity Hospital i；Best Hospital in Lucknow
-- `simply maid cleaning` ×2（2 目录） 🆕：Simply Maid Cedar Park；Simply Maid Cleaning Services Cedar Park
-- `expert evaluation` ×3（2 目录） 🆕：Best Hospital in Lucknow；Spine Specialist in Pune – Dr. Rajesh Parasnis | Advanced Sp
-- `national park` ×3（3 目录） 🆕：Tasmania Tour Packages | Explore Australia's Natural Beauty ；Night Gaze Camp: Pick tonight's campground by the sky above 
+- `facing photo become` ×2（2 目录） 🆕：Hotel Lobby AI Trend；Bulin 47 Video (bulin47videoai.app)
+- `volume url indexing` ×2（2 目录） 🆕：IndexToast；IndexToast IndexToast — Fast, High-Volume URL Indexing 💬 0 C
+- `3mf stl step` ×2（2 目录） 🆕：STL Kit；STL Kit Free browser 3MF, STL, STEP & OBJ converter for 3D p
+- `arm discomfort stiffness` ×2（2 目录） 🆕：Elbow & Arm Treatment in PCMC | Dr. S. Prashanth；Expert Elbow and Arm Care in PCMC – Dr. S. Prashanth
+- `compare excel record` ×2（2 目录） 🆕：RowKite；RowKite Compare Excel records locally and export XLSX report
+- `handcrafted silk cotton` ×2（2 目录） 🆕：Buy Silk, Cotton & Woolen Stoles for Women | Karivani；Karivani | Handcrafted Silk Stoles, Dupattas & Shawls Online
+- `hombro freestyle clip` ×2（2 目录） 🆕：Bulin 47 AI Video (bulin47videoai.app)；Bulin 47 Video (bulin47videoai.app)
+- `jordan sandor sery` ×2（2 目录） 🆕：Jeffrey Stephens Books – Jeffrey Stephens Books in Order and；Jordan Sandor Series, Russell Palmer Books and Jeffrey Steph
+- `safe driver dubai` ×2（2 目录） 🆕：Safe Driver Dubai for Stress-Free Office Commuting；Safe Driver Dubai for Late-Night Transportation
+- `tradingview indicator finder` ×2（3 目录） 🆕：TradingView Indicator Finder；TradingView Indicator Finder Find the best TradingView indic
+- `小知 知区 区块` ×2（2 目录） 🆕：链小知区块链 (Lianxiaozhi)；链小知区块链
+- `chatgpt wallet` ×3（2 目录） 🆕：Introducing ChatGPT Wallet；ChatGPT’s new Wallet lets AI agents shop and check out for y
+- `calendar file` ×2（2 目录） 🆕：PDF Fan: Split and merge PDFs in the browser, or turn a shif；Magic Dock
+- `coding harness` ×2（2 目录） 🆕：Reason Machines' Reason Harness: 20x Cheaper, or 22%?；SKI
+- `game covering` ×2（2 目录） 🆕：Stage Tour Guide；NoodleClub
 
 微赛道归纳:
 
-- 云手机与反检测工具：cloud phone mobile、duoplus cloud phone —— 提供具备反检测功能的云端移动设备环境
-- 链上钱包数据工具：chain wallet data —— 提供链上钱包数据的分析与监控工具
-- 脊柱专科医疗服务：back pain neck、spinal stenosis scoliosis、expert evaluation —— 针对背痛、脊柱狭窄等提供专科医生咨询与诊疗
-- 综合专科医院服务：sanjivini super speciality、super speciality hospital、expert evaluation —— 提供妇科、产科等超专科领域的医院与专家推荐
-- 本地化家政与维修服务：hyderabad serve、simply maid cleaning —— 提供上门电视维修、家政清洁等本地生活服务
-- 数字创意与营销工具：fancy text style、actually trust fair、copy paste strategy —— 提供花式文本生成及数字广告创意代理服务
+- AI视频生成与特效：facing photo become、hombro freestyle clip —— 利用AI技术将静态照片转化为动态视频或生成特定风格的短视频内容
+- 开发者工具与自动化：volume url indexing、tradingview indicator finder、coding harness、ios simulator、calendar file —— 提供URL批量收录、交易指标查找、代码执行环境、iOS模拟及文件处理等开发辅助功能
+- 3D建模与数据对比：3mf stl step、compare excel record、export xlsx report —— 提供3D模型格式转换及本地Excel数据对比与报告导出服务
+- 健康医疗与运动防护：arm discomfort stiffness、compression sport activity、safe driver dubai —— 聚焦手臂肘部疼痛治疗、运动压缩装备及特定场景下的安全出行服务
+- 垂直电商与内容聚合：handcrafted silk cotton、karivani handcrafted silk、jordan sandor sery、nichola reagan sery、game covering、小知 知区 区块、chatgpt wallet —— 涵盖手工丝织品销售、特定作者书籍系列聚合、游戏攻略、区块链资讯及AI支付钱包等垂直领域服务
 
-完整报告: [reports/2026-11-13.md](reports/2026-11-13.md)
+完整报告: [reports/2026-11-14.md](reports/2026-11-14.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
