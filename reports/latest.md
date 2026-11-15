@@ -1,26 +1,27 @@
-# 每日目录雷达 2026-11-14
+# 每日目录雷达 2026-11-15
 
-- 监控目录 197 / 筛查目录 478；今日成功 179，失败 18；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, hyzenpro-com, madewithstack-com, promoteindex-com, usefuturestack-com, foundr-ai, nextool-ai, aiagentautomation-site, apprater-net, discoverly-tech, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com, webinhalt-de
-- 今日新增条目 **1624**（去重后 1499）；7 天基线 9568，30 天基线 30592
-- 语料 34340 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.22，30天 0.27
+- 监控目录 197 / 筛查目录 478；今日成功 167，失败 30；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, hyzenpro-com, madewithstack-com, promoteindex-com, usefuturestack-com, foundr-ai, aiagentautomation-site, apprater-net, discoverly-tech, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com, webinhalt-de
+- 今日新增条目 **1288**（去重后 1191）；7 天基线 9761，30 天基线 31681
+- 语料 35271 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.29，30天 0.27
 
 ## 微赛道归纳（LLM）
 
-- AI视频生成与特效：facing photo become、hombro freestyle clip —— 利用AI技术将静态照片转化为动态视频或生成特定风格的短视频内容
-- 开发者工具与自动化：volume url indexing、tradingview indicator finder、coding harness、ios simulator、calendar file —— 提供URL批量收录、交易指标查找、代码执行环境、iOS模拟及文件处理等开发辅助功能
-- 3D建模与数据对比：3mf stl step、compare excel record、export xlsx report —— 提供3D模型格式转换及本地Excel数据对比与报告导出服务
-- 健康医疗与运动防护：arm discomfort stiffness、compression sport activity、safe driver dubai —— 聚焦手臂肘部疼痛治疗、运动压缩装备及特定场景下的安全出行服务
-- 垂直电商与内容聚合：handcrafted silk cotton、karivani handcrafted silk、jordan sandor sery、nichola reagan sery、game covering、小知 知区 区块、chatgpt wallet —— 涵盖手工丝织品销售、特定作者书籍系列聚合、游戏攻略、区块链资讯及AI支付钱包等垂直领域服务
+- 德文建材安装指南：installation guide、german guide、fence installation guide、front door replacement、german terrace roof、facade cladding planner、german facade cladding —— 为德国市场提供围栏、门窗、外墙等建材的安装教程与材料规划工具
+- 印度传统服饰批发：ethnic wear manufacturer、minu fashion —— 面向加尔各答等地的纱丽及传统服饰制造商与批发商
+- AI辅助内容创作：assisted content、export powerpoint pdf —— 利用AI代理辅助视频录制或生成带研究功能的演示文稿
+- 游戏数据追踪：chest tracker counter、fortnite chest tracker —— 为《堡垒之夜》等游戏提供宝箱计数与概率统计工具
+- 数字营销教育：digital marketing institute、ads performance marketing —— 提供数据科学、数字营销及广告绩效分析的职业培训课程
+- 多通道客服支持：chat email whatsapp、live chat email —— 整合聊天、邮件及WhatsApp的AI客服与支持软件
 
 ## 信号 Signals
 
-- 小词「facing photo become」今日 2 个产品/2 个目录：Hotel Lobby AI Trend、Bulin 47 Video (bulin47videoai.app)
-- 小词「volume url indexing」今日 2 个产品/2 个目录：IndexToast、IndexToast IndexToast — Fast, High-Volume URL Indexing 💬 0 C
-- 小词「3mf stl step」今日 2 个产品/2 个目录：STL Kit、STL Kit Free browser 3MF, STL, STEP & OBJ converter for 3D p
-- 同日小簇「chatgpt wallet」3 个相似产品：ChatGPT’s new Wallet lets AI agents shop and check out for y、ChatGPT Wallet 详解：AI 代理代付的安全新标准、Introducing ChatGPT Wallet
-- 同日小簇「sport academy」4 个相似产品：Cricket Turf Installation for High-Performance Sports Ground、FitFaat: Run gym memberships, GST billing and check-ins that、Open Football Turf Installation | Artificial Football Turf G
-- 跨目录同时出现：blog.google（4 个目录）
-- 跨目录同时出现：raydo.ai（4 个目录）
+- 小词「ethnic wear manufacturer」今日 3 个产品/2 个目录：Saree Wholesalers in Kolkata – Minu Fashions、Top Saree Manufacturers in Kolkata – Minu Fashions
+- 小词「installation guide」今日 5 个产品/2 个目录：Maschendrahtzaun.SHOP Montageanleitung、Kunststoffprofile.SHOP Installation Guide
+- 小词「german guide」今日 4 个产品/2 个目录：Mehrfachverriegelung.SHOP Montage-Ratgeber、Kunststoffprofile.SHOP Installation Guide
+- 同日小簇「ethnic wear manufacturer」3 个相似产品：Saree Wholesalers in Kolkata – Minu Fashions、Top Saree Manufacturers in Kolkata – Minu Fashions、Wholesale Cotton Kurtis for Retailers – Minu Fashions
+- 同日小簇「installation guide」5 个相似产品：Haustuer.SHOP Door Installation Guide、Kunststoffprofile.SHOP Installation Guide、Maschendrahtzaun.SHOP Installation Guide
+- 跨目录同时出现：vibelisting.ai（4 个目录）
+- 跨目录同时出现：airapsong.com（3 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -28,75 +29,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **facing photo become** | 2 | 2 | 🆕 | [Hotel Lobby AI Trend](https://hotellobbyaitrend.com/)；[Bulin 47 Video (bulin47videoai.app)](https://bulin47videoai.app/) |
-| 2 | **volume url indexing** | 2 | 2 | 🆕 | [IndexToast](https://indextoast.com/)；[IndexToast IndexToast — Fast, High-Volume URL Indexing 💬 0 C](https://thehackstack.com/s/indextoast) |
-| 3 | **3mf stl step** | 2 | 2 | 🆕 | [STL Kit](https://azn8.com/listing/stl-kit)；[STL Kit Free browser 3MF, STL, STEP & OBJ converter for 3D p](https://thehackstack.com/s/stlkit) |
-| 4 | **arm discomfort stiffness** | 2 | 2 | 🆕 | [Elbow & Arm Treatment in PCMC | Dr. S. Prashanth](https://directory6.org/listing/elbow-and-arm-treatment-in-pcmc-dr-s-prashanth-723998)；[Expert Elbow and Arm Care in PCMC – Dr. S. Prashanth](https://aweblist.org/listing/expert-elbow-and-arm-care-in-pcmc-–-dr-s-prashanth-975578) |
-| 5 | **compare excel record** | 2 | 2 | 🆕 | [RowKite](https://zearches.com/site/software-saas/rowkite-com-a5d90b6ea0)；[RowKite Compare Excel records locally and export XLSX report](https://thehackstack.com/s/rowkite) |
-| 6 | **handcrafted silk cotton** | 2 | 2 | 🆕 | [Buy Silk, Cotton & Woolen Stoles for Women | Karivani](https://aweblist.org/listing/buy-silk-cotton-and-woolen-stoles-for-women-karivani-975562)；[Karivani | Handcrafted Silk Stoles, Dupattas & Shawls Online](https://directory6.org/listing/karivani-handcrafted-silk-stoles-dupattas-and-shawls-online-723982) |
-| 7 | **hombro freestyle clip** | 2 | 2 | 🆕 | [Bulin 47 AI Video (bulin47videoai.app)](https://bulin47videoai.app/)；[Bulin 47 Video (bulin47videoai.app)](https://bulin47videoai.app/) |
-| 8 | **jordan sandor sery** | 2 | 2 | 🆕 | [Jeffrey Stephens Books – Jeffrey Stephens Books in Order and](https://huludirectory.com/listing/jeffrey-stephens-books-–-jeffrey-stephens-books-in-order-and-reading-guide-2262620)；[Jordan Sandor Series, Russell Palmer Books and Jeffrey Steph](https://a2place.com/listing/jordan-sandor-series-russell-palmer-books-and-jeffrey-stephens-novels-718847) |
-| 9 | **safe driver dubai** | 2 | 2 | 🆕 | [Safe Driver Dubai for Stress-Free Office Commuting](https://exampledir.com/listing/safe-driver-dubai-for-stress-free-office-commuting-314740)；[Safe Driver Dubai for Late-Night Transportation](https://a2place.com/listing/safe-driver-dubai-for-late-night-transportation-718843) |
-| 10 | **tradingview indicator finder** | 2 | 3 | 🆕 | [TradingView Indicator Finder](https://dealmyapp.com/listings/tradingview-indicator-finder)；[TradingView Indicator Finder Find the best TradingView indic](https://thehackstack.com/s/tradeedgealpha) |
-| 11 | **小知 知区 区块** | 2 | 2 | 🆕 | [链小知区块链 (Lianxiaozhi)](https://postlaunchkit.com/directory/lianxiaozhi)；[链小知区块链](https://lianxiaozhi.com/) |
-| 12 | **chatgpt wallet** | 3 | 2 | 🆕 | [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)；[ChatGPT’s new Wallet lets AI agents shop and check out for y](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you)；[ChatGPT Wallet 详解：AI 代理代付的安全新标准](https://aisuqp.xyz/learn/chatgpt-wallet-xiangjie-ai-dailidaifudeanquanxinbiaozhun-x6um) |
-| 13 | **calendar file** | 2 | 2 | 🆕 | [PDF Fan: Split and merge PDFs in the browser, or turn a shif](https://saasolution.io/tool/pdf-fan)；[Magic Dock](https://postlaunchkit.com/directory/magic-dock) |
-| 14 | **coding harness** | 2 | 2 | 🆕 | [Reason Machines' Reason Harness: 20x Cheaper, or 22%?](https://cellcog.ai/blog/reason-machines-reason-harness)；[SKI](https://justski.it/) |
-| 15 | **game covering** | 2 | 2 | 🆕 | [Stage Tour Guide](https://postlaunchkit.com/directory/stage-tour-guide)；[NoodleClub](https://zearches.com/site/gaming-esports/noodleclub-io-3259529cf3) |
+| 1 | **ethnic wear manufacturer** | 3 | 2 | 🆕 | [Saree Wholesalers in Kolkata – Minu Fashions](https://exampledir.com/listing/saree-wholesalers-in-kolkata-–-minu-fashions-314792)；[Top Saree Manufacturers in Kolkata – Minu Fashions](https://huludirectory.com/listing/top-saree-manufacturers-in-kolkata-–-minu-fashions-2262673)；[Wholesale Cotton Kurtis for Retailers – Minu Fashions](https://exampledir.com/listing/wholesale-cotton-kurtis-for-retailers-–-minu-fashions-314790) |
+| 2 | **installation guide** | 5 | 2 | 🆕 | [Maschendrahtzaun.SHOP Montageanleitung](https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage)；[Kunststoffprofile.SHOP Installation Guide](https://kunststoffprofile.shop/pages/montageanleitung-kunststoffprofile)；[Haustuer.SHOP Door Installation Guide](https://xn--haustr-7ya.shop/pages/haustuer-einbauen) |
+| 3 | **german guide** | 4 | 2 | 🆕 | [Mehrfachverriegelung.SHOP Montage-Ratgeber](https://mehrfachverriegelung.shop/pages/montageanleitung-mehrfachverriegelung)；[Kunststoffprofile.SHOP Installation Guide](https://kunststoffprofile.shop/pages/montageanleitung-kunststoffprofile)；[Haustuer.SHOP Door Installation Guide](https://xn--haustr-7ya.shop/pages/haustuer-einbauen) |
+| 4 | **chat email whatsapp** | 2 | 3 | 🆕 | [Deskwoot](https://whatareyoubuilding.ai/product/jlnWxjmQ2pdHVv8bjwKz)；[Customer Support Software: AI Help Desk & Chat — score 70/10](https://nothumansearch.ai/site/deskwoot.com) |
+| 5 | **export powerpoint pdf** | 2 | 2 | 🆕 | [Syaxis](https://postlaunchkit.com/directory/syaxis)；[AI Presentation Maker with Built-in Research | Syaxis — scor](https://nothumansearch.ai/site/syaxis.ai) |
+| 6 | **digital marketing institute** | 4 | 2 | 30.4x | [Certificate Course in Digital Marketing for Beginners](https://exampledir.com/listing/certificate-course-in-digital-marketing-for-beginners-314797)；[Digital Marketing Institute with Career Assistance in Kolkat](https://exampledir.com/listing/digital-marketing-institute-with-career-assistance-in-kolkata-314806)；[NDMIT – Best Data Analytics, Data Science & Digital Marketin](https://exampledir.com/listing/ndmit-–-best-data-analytics-data-science-and-digital-marketing-courses-in-prayagraj-314798) |
+| 7 | **air drone shoot** | 2 | 2 | 🆕 | [Groooss Air Drone Shoot Checklist](https://postlaunchkit.com/directory/groooss-air-drone-shoot-checklist)；[Groooss Air — Drone Shoot Planning Checklist](https://groooss.com/tools/projekt-checkliste) |
+| 8 | **chest tracker counter** | 2 | 2 | 🆕 | [Fortnite Chest Tracker & Counter – Count Your Chests & Odds ](https://nothumansearch.ai/site/cheststats.com)；[ChestStats](https://cheststats.com/) |
+| 9 | **facade cladding planner** | 2 | 2 | 🆕 | [Fassaden-Verkleidung.SHOP Materialplaner](https://fassaden-verkleidung.shop/pages/fassadenverkleidung-konfigurator)；[Fassaden-Verkleidung.SHOP Material Planner](https://fassaden-verkleidung.shop/pages/fassadenverkleidung-konfigurator) |
+| 10 | **front door replacement** | 2 | 2 | 🆕 | [Haustür.SHOP Einbau-Ratgeber](https://xn--haustr-7ya.shop/pages/haustuer-einbauen)；[Haustuer.SHOP Door Installation Guide](https://xn--haustr-7ya.shop/pages/haustuer-einbauen) |
+| 11 | **german terrace roof** | 2 | 2 | 🆕 | [Terrassen-Ueberdachung.SHOP Ratgeber](https://terrassen-ueberdachung.shop/)；[Terrassen-Ueberdachung.SHOP Planning Guides](https://terrassen-ueberdachung.shop/) |
+| 12 | **japanese text face** | 2 | 2 | 🆕 | [KaomojiBox: Find a Japanese text face for the mood and copy ](https://saasolution.io/tool/kaomojibox)；[Kaomoji Kit](https://zearches.com/site/resources-directories/kaomojikit-com-641a1e34da) |
+| 13 | **laundry kitchen bathroom** | 2 | 2 | 🆕 | [Environ Dishwashing Liquid – Plant-Based Grease Cleaning for](https://aweblist.org/listing/environ-dishwashing-liquid-–-plant-based-grease-cleaning-for-everyday-kitchen-use-975682)；[Environ Fabric Softner – Hypoallergenic Plant-Based Fabric C](https://exampledir.com/listing/environ-fabric-softner-–-hypoallergenic-plant-based-fabric-care-for-everyday-laundry-314808) |
+| 14 | **接入 入搜 搜索** | 2 | 2 | 🆕 | [早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时](https://aisuqp.xyz/news/zaobao-yingweidayuangongqingyuanhuangrenxunhuigui-yuchengdon-02zz)；[AI 早报 11月14日](https://aoyii.com/zh/ai-daily-20261114) |
+| 15 | **assisted content** | 2 | 2 | 🆕 | [Reeling](https://gateofai.com/community-tools/reeling)；[Riverside Agents](https://riverside.com/) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **compression sport activity** × 2（2 个目录）：[Elbow & Arm Treatment in PCMC | Dr. S. Prashanth](https://directory6.org/listing/elbow-and-arm-treatment-in-pcmc-dr-s-prashanth-723998)；[Expert Elbow and Arm Care in PCMC – Dr. S. Prashanth](https://aweblist.org/listing/expert-elbow-and-arm-care-in-pcmc-–-dr-s-prashanth-975578)
-- **export xlsx report** × 2（2 个目录）：[RowKite](https://zearches.com/site/software-saas/rowkite-com-a5d90b6ea0)；[RowKite Compare Excel records locally and export XLSX report](https://thehackstack.com/s/rowkite)
-- **karivani handcrafted silk** × 2（2 个目录）：[Buy Silk, Cotton & Woolen Stoles for Women | Karivani](https://aweblist.org/listing/buy-silk-cotton-and-woolen-stoles-for-women-karivani-975562)；[Karivani | Handcrafted Silk Stoles, Dupattas & Shawls Online](https://directory6.org/listing/karivani-handcrafted-silk-stoles-dupattas-and-shawls-online-723982)
-- **nichola reagan sery** × 2（2 个目录）：[Jeffrey Stephens Books – Jeffrey Stephens Books in Order and](https://huludirectory.com/listing/jeffrey-stephens-books-–-jeffrey-stephens-books-in-order-and-reading-guide-2262620)；[Jordan Sandor Series, Russell Palmer Books and Jeffrey Steph](https://a2place.com/listing/jordan-sandor-series-russell-palmer-books-and-jeffrey-stephens-novels-718847)
-- **知区 区块 块链** × 2（2 个目录）：[链小知区块链 (Lianxiaozhi)](https://postlaunchkit.com/directory/lianxiaozhi)；[链小知区块链](https://lianxiaozhi.com/)
-- **ios simulator** × 2（2 个目录）：[Macswarm: cloud Mac for Claude Code and Codex agents — score](https://nothumansearch.ai/site/macswarm.com)；[Macswarm](https://macswarm.com/)
-- **prompt reference** × 2（2 个目录）：[Masterpiece X](https://masterpiecex.com/)；[OpenMaker](https://whatareyoubuilding.ai/product/IYzCy03XltMvHJsCjvfw)
-- **public beta** × 2（2 个目录）：[BetaNeon](https://zearches.com/site/resources-directories/betaneon-com-25433a4c3f)；[BetaNeon Discover new apps and public betas before everyone ](https://thehackstack.com/s/betaneon-2)
-- **url indexing** × 2（2 个目录）：[IndexToast](https://indextoast.com/)；[IndexToast IndexToast — Fast, High-Volume URL Indexing 💬 0 C](https://thehackstack.com/s/indextoast)
-- **3mf stl** × 2（2 个目录）：[STL Kit](https://azn8.com/listing/stl-kit)；[STL Kit Free browser 3MF, STL, STEP & OBJ converter for 3D p](https://thehackstack.com/s/stlkit)
+- **minu fashion** × 5（2 个目录）：[Minu Fashions – Manufacturer & Wholesaler of Sarees, Suits &](https://huludirectory.com/listing/minu-fashions-–-manufacturer-and-wholesaler-of-sarees-suits-and-kurtis-2262674)；[Saree Wholesalers in Kolkata – Minu Fashions](https://exampledir.com/listing/saree-wholesalers-in-kolkata-–-minu-fashions-314792)；[Top Saree Manufacturers in Kolkata – Minu Fashions](https://huludirectory.com/listing/top-saree-manufacturers-in-kolkata-–-minu-fashions-2262673)
+- **live chat email** × 2（3 个目录）：[Deskwoot](https://whatareyoubuilding.ai/product/jlnWxjmQ2pdHVv8bjwKz)；[Customer Support Software: AI Help Desk & Chat — score 70/10](https://nothumansearch.ai/site/deskwoot.com)
+- **ads performance marketing** × 2（2 个目录）：[NDMIT – Best Data Analytics, Data Science & Digital Marketin](https://exampledir.com/listing/ndmit-–-best-data-analytics-data-science-and-digital-marketing-courses-in-prayagraj-314798)；[NDMIT – Data Science & Digital Marketing Courses in Indore](https://huludirectory.com/listing/ndmit-–-data-science-and-digital-marketing-courses-in-indore-2262697)
+- **fence installation guide** × 2（2 个目录）：[Maschendrahtzaun.SHOP Montageanleitung](https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage)；[Maschendrahtzaun.SHOP Installation Guide](https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage)
+- **fortnite chest tracker** × 2（2 个目录）：[Fortnite Chest Tracker & Counter – Count Your Chests & Odds ](https://nothumansearch.ai/site/cheststats.com)；[ChestStats](https://cheststats.com/)
+- **german facade cladding** × 2（2 个目录）：[Fassaden-Verkleidung.SHOP Materialplaner](https://fassaden-verkleidung.shop/pages/fassadenverkleidung-konfigurator)；[Fassaden-Verkleidung.SHOP Material Planner](https://fassaden-verkleidung.shop/pages/fassadenverkleidung-konfigurator)
+- **groooss air drone** × 2（2 个目录）：[Groooss Air Drone Shoot Checklist](https://postlaunchkit.com/directory/groooss-air-drone-shoot-checklist)；[Groooss Air — Drone Shoot Planning Checklist](https://groooss.com/tools/projekt-checkliste)
+- **non toxic plant** × 2（2 个目录）：[Environ Dishwashing Liquid – Plant-Based Grease Cleaning for](https://aweblist.org/listing/environ-dishwashing-liquid-–-plant-based-grease-cleaning-for-everyday-kitchen-use-975682)；[Environ Fabric Softner – Hypoallergenic Plant-Based Fabric C](https://exampledir.com/listing/environ-fabric-softner-–-hypoallergenic-plant-based-fabric-care-for-everyday-laundry-314808)
+- **export powerpoint** × 2（2 个目录）：[Syaxis](https://postlaunchkit.com/directory/syaxis)；[AI Presentation Maker with Built-in Research | Syaxis — scor](https://nothumansearch.ai/site/syaxis.ai)
+- **optimize prompt** × 2（2 个目录）：[TuneImage](https://gateofai.com/community-tools/tuneimage)；[b12398](https://github.com/ggml-org/llama.cpp/releases/tag/b12398)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **chatgpt wallet** × 3（2 个目录）：[ChatGPT’s new Wallet lets AI agents shop and check out for y](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you)；[ChatGPT Wallet 详解：AI 代理代付的安全新标准](https://aisuqp.xyz/learn/chatgpt-wallet-xiangjie-ai-dailidaifudeanquanxinbiaozhun-x6um)；[Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
-- **sport academy** × 4（3 个目录）：[Cricket Turf Installation for High-Performance Sports Ground](https://directory6.org/listing/cricket-turf-installation-for-high-performance-sports-grounds-altius-sports-723980)；[FitFaat: Run gym memberships, GST billing and check-ins that](https://saasolution.io/tool/fitfaat)；[Open Football Turf Installation | Artificial Football Turf G](https://directory6.org/listing/open-football-turf-installation-artificial-football-turf-ground-723999)；[Sports Academies in Financial District Hyderabad | Football ](https://aweblist.org/listing/sports-academies-in-financial-district-hyderabad-football-academy-in-hyderabad-975556)
-- **front facing photo** × 3（2 个目录）：[Bulin 47 AI Video (bulin47videoai.app)](https://bulin47videoai.app/)；[Bulin 47 Video (bulin47videoai.app)](https://bulin47videoai.app/)；[Hotel Lobby AI Trend](https://hotellobbyaitrend.com/)
-- **college essay** × 3（3 个目录）：[College Essay Checker: Get a score and concrete fixes for yo](https://saasolution.io/tool/college-essay-checker)；[College Essay Grader Ai College Essay Grader](https://dang.ai/tool/college-essay-grader-ai-college-essay-grader)；[Writivia](https://postlaunchkit.com/directory/writivia)
-- **personal development** × 3（2 个目录）：[30+ Sleep Affirmations for Wealth, Abundance & Financial Con](https://cero.gumroad.com/l/moneyaffirm)；[International School in Gorai](https://zearches.com/site/education-learning/svischool-com-5c324bb4c1)；[The Wisdom Theory](https://cero.gumroad.com/l/wisdompro)
-- **ai teammate** × 3（3 个目录）：[Brigade](https://aiagentsdirectory.com/agent/brigade)；[Cedric](https://azn8.com/listing/cedric)；[Cedric AI for Meetings](https://meet-cedric.com/use-cases/ai-solution-for-startups)
-- **international school** × 4（2 个目录）：[Green Campus School in Hyderabad | Sustainable Education](https://aweblist.org/listing/green-campus-school-in-hyderabad-sustainable-education-975554)；[Green Campus School in Hyderabad | Sustainable Schools in Hy](https://aweblist.org/listing/green-campus-school-in-hyderabad-sustainable-schools-in-hyderabad-975555)；[IB Curriculum in Hyderabad | Cambridge Schools in Hyderabad](https://aweblist.org/listing/ib-curriculum-in-hyderabad-cambridge-schools-in-hyderabad-975553)；[International School in Gorai](https://zearches.com/site/education-learning/svischool-com-5c324bb4c1)
-- **still photo** × 3（3 个目录）：[EveryGen AI](https://every-genai.com/)；[OpenMaker](https://whatareyoubuilding.ai/product/IYzCy03XltMvHJsCjvfw)；[Photo to GIF: Make one still photo wave or wag its tail as a](https://saasolution.io/tool/photo-to-gif)
+- **ethnic wear manufacturer** × 3（2 个目录）：[Saree Wholesalers in Kolkata – Minu Fashions](https://exampledir.com/listing/saree-wholesalers-in-kolkata-–-minu-fashions-314792)；[Top Saree Manufacturers in Kolkata – Minu Fashions](https://huludirectory.com/listing/top-saree-manufacturers-in-kolkata-–-minu-fashions-2262673)；[Wholesale Cotton Kurtis for Retailers – Minu Fashions](https://exampledir.com/listing/wholesale-cotton-kurtis-for-retailers-–-minu-fashions-314790)
+- **installation guide** × 5（2 个目录）：[Haustuer.SHOP Door Installation Guide](https://xn--haustr-7ya.shop/pages/haustuer-einbauen)；[Kunststoffprofile.SHOP Installation Guide](https://kunststoffprofile.shop/pages/montageanleitung-kunststoffprofile)；[Maschendrahtzaun.SHOP Installation Guide](https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage)；[Maschendrahtzaun.SHOP Montageanleitung](https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage)
+- **german guide** × 4（2 个目录）：[Haustuer.SHOP Door Installation Guide](https://xn--haustr-7ya.shop/pages/haustuer-einbauen)；[Kunststoffprofile.SHOP Installation Guide](https://kunststoffprofile.shop/pages/montageanleitung-kunststoffprofile)；[Mehrfachverriegelung.SHOP Montage-Ratgeber](https://mehrfachverriegelung.shop/pages/montageanleitung-mehrfachverriegelung)；[Schaffell.SHOP Sheepskin Care Guide](https://schaffell.shop/pages/schaffell-waschen)
+- **digital marketing institute** × 4（2 个目录）：[Certificate Course in Digital Marketing for Beginners](https://exampledir.com/listing/certificate-course-in-digital-marketing-for-beginners-314797)；[Digital Marketing Institute with Career Assistance in Kolkat](https://exampledir.com/listing/digital-marketing-institute-with-career-assistance-in-kolkata-314806)；[NDMIT – Best Data Analytics, Data Science & Digital Marketin](https://exampledir.com/listing/ndmit-–-best-data-analytics-data-science-and-digital-marketing-courses-in-prayagraj-314798)；[NDMIT – Data Science & Digital Marketing Courses in Indore](https://huludirectory.com/listing/ndmit-–-data-science-and-digital-marketing-courses-in-indore-2262697)
+- **spend less** × 3（2 个目录）：[FlowBeacon: Pro-Grade Pool Care for Homeowners and Operators](https://awesomeindie.com/product/flow-beacon)；[TeachAny](https://teachany.com/)；[Worksheetly: Create beautiful, print‑ready worksheets with A](https://awesomeindie.com/product/worksheetly)
+- **kitchen bathroom** × 3（2 个目录）：[Environ Dishwashing Liquid – Plant-Based Grease Cleaning for](https://aweblist.org/listing/environ-dishwashing-liquid-–-plant-based-grease-cleaning-for-everyday-kitchen-use-975682)；[Environ Fabric Softner – Hypoallergenic Plant-Based Fabric C](https://exampledir.com/listing/environ-fabric-softner-–-hypoallergenic-plant-based-fabric-care-for-everyday-laundry-314808)；[R Brand](https://aweblist.org/listing/r-brand-975697)
+- **traditional recipe** × 3（2 个目录）：[Buy 100g Traditional Tirunelveli Iruttukadai Halwa Online](https://huludirectory.com/listing/buy-100g-traditional-tirunelveli-iruttukadai-halwa-online-2262670)；[Buy Traditional Tirunelveli Iruttukadai Halwa Online](https://huludirectory.com/listing/buy-traditional-tirunelveli-iruttukadai-halwa-online-2262667)；[Kerala canteen Listed In Best Indian Restaurant in UK](https://aweblist.org/listing/kerala-canteen-listed-in-best-indian-restaurant-in-uk-975681)
+- **image pdfs** × 3（3 个目录）：[EditablePPT: Rebuild a slide screenshot or PDF as a PowerPoi](https://saasolution.io/tool/editableppt)；[myfreetools](https://aweblist.org/listing/myfreetools-975672)；[UploadOff: Convert photos, PDFs, sound and video in the brow](https://saasolution.io/tool/uploadoff)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| listedstartups.com | 100 | Productivity, Education(3)、Developer Tools, Productivity(2)、Health, AI, Consumer(2) |
-| dynamite-ai.com | 80 | tools(79) |
-| canopystack.dev | 78 | Other(39)、SaaS(26)、Dev tool(3) |
-| stork.ai | 72 | en(72) |
-| curlship.com | 59 | l(59) |
+| listedstartups.com | 100 | AI, Developer Tools(7)、Space, Hardware(5)、Home and Garden, Information Resources(4) |
+| canopystack.dev | 79 | Other(40)、SaaS(32)、Dev tool(3) |
+| curlship.com | 79 | l(79) |
+| dynamite-ai.com | 75 | tools(75) |
+| thataicollection.com | 64 | application(64) |
 | thehackstack.com | 51 |  |
 | aweblist.org | 50 |  |
-| directory6.org | 50 |  |
-| exampledir.com | 50 |  |
-| huludirectory.com | 50 |  |
-| launchfree.io | 50 | listings(47) |
-| planet-ai.net | 50 | ContentCategory.NEWS(37)、ContentCategory.ENGINEERING(6)、ContentCategory.RESEARCH(3) |
+| postlaunchkit.com | 50 | design-media(9)、utilities(5)、games(5) |
+| zearches.com | 50 |  |
+| planet-ai.net | 48 | ContentCategory.NEWS(42)、ContentCategory.ENGINEERING(2)、ContentCategory.RESEARCH(1) |
+| entireweb.com | 42 | bg(42) |
+| uneed.best | 42 | tool(42) |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- blog.google（Google EmbeddingGemma 2）：aitoolly.com, bestaitools.com, planet-ai.net, thequestion.it
-- raydo.ai（Raydo Agent OS）：canopystack.dev, hyzenpro.com, listedstartups.com, worthtotry.com
-- sandbase.ai（SandBase）：canopystack.dev, listedstartups.com, startup88.com, worthtotry.com
-- aisvggifgenerator.com（AI SVG & GIF Generator）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- textremover.video（TextRemover.video）：canopystack.dev, listedstartups.com, zearches.com
-- bolt.new（）：usefuturestack.com, zoipi.com
-- bulin47videoai.app（Bulin 47 AI Video (bulin47videoai.app)）：canopystack.dev, listedstartups.com
-- canibuildon.com（CanIBuildOn）：canopystack.dev, launch.ignlab.net
-- cardpiko.com（CardPiko）：canopystack.dev, launch.ignlab.net
-- cero.gumroad.com（CERO）：canopystack.dev, listedstartups.com
+- vibelisting.ai（VibeListing）：canopystack.dev, listedstartups.com, startup88.com, worthtotry.com
+- airapsong.com（AirapSong）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- audioeditdesk.com（AudioEditDesk）：canopystack.dev, startup88.com, zearches.com
+- clipjoy.ai（ClipJoy）：canopystack.dev, listedstartups.com, worthtotry.com
+- cvlaunchpad.app（CV Launchpad）：canopystack.dev, listedstartups.com, startup88.com
+- elevenlabs.io（）：aitoolly.com, listedstartups.com, zoipi.com
+- faceshapehaircut.com（Face Shape Haircut AI）：canopystack.dev, listedstartups.com, zearches.com
+- filemetawipe.com（FileMeta Wipe）：canopystack.dev, launch.ignlab.net, zearches.com
+- huggingface.co（LitPivot: Developing research ideas through dynamic contextualization within the literature landscape）：listedstartups.com, planet-ai.net, zoipi.com
+- prelulu.ai（Prelulu）：aitoolly.com, canopystack.dev, hyzenpro.com
 
 ## 我们的站点已被目录公开展示
 
@@ -112,23 +113,35 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 21 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 21 天）
-- sitelike-org: RuntimeError: http 403（连续 21 天）
-- hyzenpro-com: RetryError: HTTPSConnectionPool(host='hyzenpro.com', port=443): Max retries exceeded with url: /api/tools/ (Caused by ResponseError('too many 500 error responses'))（连续 7 天）
-- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 3 天）
-- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 14 天）
-- usefuturestack-com: RuntimeError: http 402（连续 9 天）
-- foundr-ai: RuntimeError: http 403（连续 21 天）
-- nextool-ai: RuntimeError: http 402（连续 6 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 21 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 21 天）
-- discoverly-tech: RuntimeError: sitemap http 403（连续 11 天）
-- dowseai-com: RuntimeError: 0 entries parsed（连续 1 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f1fdca190（连续 18 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 21 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 21 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 21 天）
-- webinhalt-de: RuntimeError: 0 entries parsed（连续 6 天）
+- canadawebdir-com: RuntimeError: http 403（连续 22 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 22 天）
+- sitelike-org: RuntimeError: http 403（连续 22 天）
+- hyzenpro-com: RetryError: HTTPSConnectionPool(host='hyzenpro.com', port=443): Max retries exceeded with url: /api/tools/ (Caused by ResponseError('too many 500 error responses'))（连续 8 天）
+- madewithstack-com: ConnectionError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.madewithstack.com'（连续 4 天）
+- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 15 天）
+- usefuturestack-com: RuntimeError: http 402（连续 10 天）
+- a2place-com: RuntimeError: 0 entries parsed（连续 1 天）
+- bestaitools-com: RuntimeError: http 403（连续 1 天）
+- directory6-org: RuntimeError: 0 entries parsed（连续 1 天）
+- foundr-ai: RuntimeError: http 403（连续 22 天）
+- startups-snapmunk-com: RuntimeError: http 403（连续 1 天）
+- tagshub-com: RuntimeError: 0 entries parsed（连续 1 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 22 天）
+- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 1 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 22 天）
+- blogs-collection-com: RuntimeError: not a sitemap (HTML interstitial / bot challenge?)（连续 1 天）
+- businessfreedirectory-biz: RuntimeError: not a sitemap (HTML interstitial / bot challenge?)（连续 1 天）
+- catalogo-ia-com: RuntimeError: not a sitemap (HTML interstitial / bot challenge?)（连续 1 天）
+- discoverly-tech: RuntimeError: sitemap http 403（连续 12 天）
+- dowseai-com: RuntimeError: 0 entries parsed（连续 2 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f00b6fc8b（连续 19 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 22 天）
+- openfuture-ai: RuntimeError: sitemap http 403（连续 1 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 22 天）
+- saasworthy-com: RuntimeError: sitemap http 403（连续 1 天）
+- softwareworld-co: RuntimeError: sitemap http 403（连续 1 天）
+- toolmaticai-com: RuntimeError: not a sitemap (HTML interstitial / bot challenge?)（连续 1 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 22 天）
+- webinhalt-de: RuntimeError: 0 entries parsed（连续 7 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar

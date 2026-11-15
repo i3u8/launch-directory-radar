@@ -7,35 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-14** · 新增 1624 · 监控 197 个目录（今日成功 179）
+**2026-11-15** · 新增 1288 · 监控 197 个目录（今日成功 167）
 
 聚焦小词 Top 15:
 
-- `facing photo become` ×2（2 目录） 🆕：Hotel Lobby AI Trend；Bulin 47 Video (bulin47videoai.app)
-- `volume url indexing` ×2（2 目录） 🆕：IndexToast；IndexToast IndexToast — Fast, High-Volume URL Indexing 💬 0 C
-- `3mf stl step` ×2（2 目录） 🆕：STL Kit；STL Kit Free browser 3MF, STL, STEP & OBJ converter for 3D p
-- `arm discomfort stiffness` ×2（2 目录） 🆕：Elbow & Arm Treatment in PCMC | Dr. S. Prashanth；Expert Elbow and Arm Care in PCMC – Dr. S. Prashanth
-- `compare excel record` ×2（2 目录） 🆕：RowKite；RowKite Compare Excel records locally and export XLSX report
-- `handcrafted silk cotton` ×2（2 目录） 🆕：Buy Silk, Cotton & Woolen Stoles for Women | Karivani；Karivani | Handcrafted Silk Stoles, Dupattas & Shawls Online
-- `hombro freestyle clip` ×2（2 目录） 🆕：Bulin 47 AI Video (bulin47videoai.app)；Bulin 47 Video (bulin47videoai.app)
-- `jordan sandor sery` ×2（2 目录） 🆕：Jeffrey Stephens Books – Jeffrey Stephens Books in Order and；Jordan Sandor Series, Russell Palmer Books and Jeffrey Steph
-- `safe driver dubai` ×2（2 目录） 🆕：Safe Driver Dubai for Stress-Free Office Commuting；Safe Driver Dubai for Late-Night Transportation
-- `tradingview indicator finder` ×2（3 目录） 🆕：TradingView Indicator Finder；TradingView Indicator Finder Find the best TradingView indic
-- `小知 知区 区块` ×2（2 目录） 🆕：链小知区块链 (Lianxiaozhi)；链小知区块链
-- `chatgpt wallet` ×3（2 目录） 🆕：Introducing ChatGPT Wallet；ChatGPT’s new Wallet lets AI agents shop and check out for y
-- `calendar file` ×2（2 目录） 🆕：PDF Fan: Split and merge PDFs in the browser, or turn a shif；Magic Dock
-- `coding harness` ×2（2 目录） 🆕：Reason Machines' Reason Harness: 20x Cheaper, or 22%?；SKI
-- `game covering` ×2（2 目录） 🆕：Stage Tour Guide；NoodleClub
+- `ethnic wear manufacturer` ×3（2 目录） 🆕：Saree Wholesalers in Kolkata – Minu Fashions；Top Saree Manufacturers in Kolkata – Minu Fashions
+- `installation guide` ×5（2 目录） 🆕：Maschendrahtzaun.SHOP Montageanleitung；Kunststoffprofile.SHOP Installation Guide
+- `german guide` ×4（2 目录） 🆕：Mehrfachverriegelung.SHOP Montage-Ratgeber；Kunststoffprofile.SHOP Installation Guide
+- `chat email whatsapp` ×2（3 目录） 🆕：Deskwoot；Customer Support Software: AI Help Desk & Chat — score 70/10
+- `export powerpoint pdf` ×2（2 目录） 🆕：Syaxis；AI Presentation Maker with Built-in Research | Syaxis — scor
+- `digital marketing institute` ×4（2 目录）：Certificate Course in Digital Marketing for Beginners；Digital Marketing Institute with Career Assistance in Kolkat
+- `air drone shoot` ×2（2 目录） 🆕：Groooss Air Drone Shoot Checklist；Groooss Air — Drone Shoot Planning Checklist
+- `chest tracker counter` ×2（2 目录） 🆕：Fortnite Chest Tracker & Counter – Count Your Chests & Odds ；ChestStats
+- `facade cladding planner` ×2（2 目录） 🆕：Fassaden-Verkleidung.SHOP Materialplaner；Fassaden-Verkleidung.SHOP Material Planner
+- `front door replacement` ×2（2 目录） 🆕：Haustür.SHOP Einbau-Ratgeber；Haustuer.SHOP Door Installation Guide
+- `german terrace roof` ×2（2 目录） 🆕：Terrassen-Ueberdachung.SHOP Ratgeber；Terrassen-Ueberdachung.SHOP Planning Guides
+- `japanese text face` ×2（2 目录） 🆕：KaomojiBox: Find a Japanese text face for the mood and copy ；Kaomoji Kit
+- `laundry kitchen bathroom` ×2（2 目录） 🆕：Environ Dishwashing Liquid – Plant-Based Grease Cleaning for；Environ Fabric Softner – Hypoallergenic Plant-Based Fabric C
+- `接入 入搜 搜索` ×2（2 目录） 🆕：早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时；AI 早报 11月14日
+- `assisted content` ×2（2 目录） 🆕：Reeling；Riverside Agents
 
 微赛道归纳:
 
-- AI视频生成与特效：facing photo become、hombro freestyle clip —— 利用AI技术将静态照片转化为动态视频或生成特定风格的短视频内容
-- 开发者工具与自动化：volume url indexing、tradingview indicator finder、coding harness、ios simulator、calendar file —— 提供URL批量收录、交易指标查找、代码执行环境、iOS模拟及文件处理等开发辅助功能
-- 3D建模与数据对比：3mf stl step、compare excel record、export xlsx report —— 提供3D模型格式转换及本地Excel数据对比与报告导出服务
-- 健康医疗与运动防护：arm discomfort stiffness、compression sport activity、safe driver dubai —— 聚焦手臂肘部疼痛治疗、运动压缩装备及特定场景下的安全出行服务
-- 垂直电商与内容聚合：handcrafted silk cotton、karivani handcrafted silk、jordan sandor sery、nichola reagan sery、game covering、小知 知区 区块、chatgpt wallet —— 涵盖手工丝织品销售、特定作者书籍系列聚合、游戏攻略、区块链资讯及AI支付钱包等垂直领域服务
+- 德文建材安装指南：installation guide、german guide、fence installation guide、front door replacement、german terrace roof、facade cladding planner、german facade cladding —— 为德国市场提供围栏、门窗、外墙等建材的安装教程与材料规划工具
+- 印度传统服饰批发：ethnic wear manufacturer、minu fashion —— 面向加尔各答等地的纱丽及传统服饰制造商与批发商
+- AI辅助内容创作：assisted content、export powerpoint pdf —— 利用AI代理辅助视频录制或生成带研究功能的演示文稿
+- 游戏数据追踪：chest tracker counter、fortnite chest tracker —— 为《堡垒之夜》等游戏提供宝箱计数与概率统计工具
+- 数字营销教育：digital marketing institute、ads performance marketing —— 提供数据科学、数字营销及广告绩效分析的职业培训课程
+- 多通道客服支持：chat email whatsapp、live chat email —— 整合聊天、邮件及WhatsApp的AI客服与支持软件
 
-完整报告: [reports/2026-11-14.md](reports/2026-11-14.md)
+完整报告: [reports/2026-11-15.md](reports/2026-11-15.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

@@ -1,0 +1,678 @@
+{
+ "date": "2026-11-15",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 167,
+ "sources_failed": 30,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "a2place-com",
+  "bestaitools-com",
+  "directory6-org",
+  "foundr-ai",
+  "startups-snapmunk-com",
+  "tagshub-com",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "blogs-collection-com",
+  "businessfreedirectory-biz",
+  "catalogo-ia-com",
+  "discoverly-tech"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1288,
+ "new_today_unique": 1191,
+ "ai_share_today": 0.29,
+ "ai_share_30d": 0.27,
+ "niche_terms": [
+  {
+   "term": "ethnic wear manufacturer",
+   "count": 3,
+   "sources": 2,
+   "ratio": 159.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Saree Wholesalers in Kolkata – Minu Fashions",
+     "url": "https://exampledir.com/listing/saree-wholesalers-in-kolkata-–-minu-fashions-314792"
+    },
+    {
+     "name": "Top Saree Manufacturers in Kolkata – Minu Fashions",
+     "url": "https://huludirectory.com/listing/top-saree-manufacturers-in-kolkata-–-minu-fashions-2262673"
+    },
+    {
+     "name": "Wholesale Cotton Kurtis for Retailers – Minu Fashions",
+     "url": "https://exampledir.com/listing/wholesale-cotton-kurtis-for-retailers-–-minu-fashions-314790"
+    }
+   ]
+  },
+  {
+   "term": "installation guide",
+   "count": 5,
+   "sources": 2,
+   "ratio": 266.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Maschendrahtzaun.SHOP Montageanleitung",
+     "url": "https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage"
+    },
+    {
+     "name": "Kunststoffprofile.SHOP Installation Guide",
+     "url": "https://kunststoffprofile.shop/pages/montageanleitung-kunststoffprofile"
+    },
+    {
+     "name": "Haustuer.SHOP Door Installation Guide",
+     "url": "https://xn--haustr-7ya.shop/pages/haustuer-einbauen"
+    }
+   ]
+  },
+  {
+   "term": "german guide",
+   "count": 4,
+   "sources": 2,
+   "ratio": 212.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mehrfachverriegelung.SHOP Montage-Ratgeber",
+     "url": "https://mehrfachverriegelung.shop/pages/montageanleitung-mehrfachverriegelung"
+    },
+    {
+     "name": "Kunststoffprofile.SHOP Installation Guide",
+     "url": "https://kunststoffprofile.shop/pages/montageanleitung-kunststoffprofile"
+    },
+    {
+     "name": "Haustuer.SHOP Door Installation Guide",
+     "url": "https://xn--haustr-7ya.shop/pages/haustuer-einbauen"
+    }
+   ]
+  },
+  {
+   "term": "chat email whatsapp",
+   "count": 2,
+   "sources": 3,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Deskwoot",
+     "url": "https://whatareyoubuilding.ai/product/jlnWxjmQ2pdHVv8bjwKz"
+    },
+    {
+     "name": "Customer Support Software: AI Help Desk & Chat — score 70/10",
+     "url": "https://nothumansearch.ai/site/deskwoot.com"
+    }
+   ]
+  },
+  {
+   "term": "export powerpoint pdf",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Syaxis",
+     "url": "https://postlaunchkit.com/directory/syaxis"
+    },
+    {
+     "name": "AI Presentation Maker with Built-in Research | Syaxis — scor",
+     "url": "https://nothumansearch.ai/site/syaxis.ai"
+    }
+   ]
+  },
+  {
+   "term": "digital marketing institute",
+   "count": 4,
+   "sources": 2,
+   "ratio": 30.4,
+   "new": false,
+   "examples": [
+    {
+     "name": "Certificate Course in Digital Marketing for Beginners",
+     "url": "https://exampledir.com/listing/certificate-course-in-digital-marketing-for-beginners-314797"
+    },
+    {
+     "name": "Digital Marketing Institute with Career Assistance in Kolkat",
+     "url": "https://exampledir.com/listing/digital-marketing-institute-with-career-assistance-in-kolkata-314806"
+    },
+    {
+     "name": "NDMIT – Best Data Analytics, Data Science & Digital Marketin",
+     "url": "https://exampledir.com/listing/ndmit-–-best-data-analytics-data-science-and-digital-marketing-courses-in-prayagraj-314798"
+    }
+   ]
+  },
+  {
+   "term": "air drone shoot",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Groooss Air Drone Shoot Checklist",
+     "url": "https://postlaunchkit.com/directory/groooss-air-drone-shoot-checklist"
+    },
+    {
+     "name": "Groooss Air — Drone Shoot Planning Checklist",
+     "url": "https://groooss.com/tools/projekt-checkliste"
+    }
+   ]
+  },
+  {
+   "term": "chest tracker counter",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fortnite Chest Tracker & Counter – Count Your Chests & Odds ",
+     "url": "https://nothumansearch.ai/site/cheststats.com"
+    },
+    {
+     "name": "ChestStats",
+     "url": "https://cheststats.com/"
+    }
+   ]
+  },
+  {
+   "term": "facade cladding planner",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fassaden-Verkleidung.SHOP Materialplaner",
+     "url": "https://fassaden-verkleidung.shop/pages/fassadenverkleidung-konfigurator"
+    },
+    {
+     "name": "Fassaden-Verkleidung.SHOP Material Planner",
+     "url": "https://fassaden-verkleidung.shop/pages/fassadenverkleidung-konfigurator"
+    }
+   ]
+  },
+  {
+   "term": "front door replacement",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Haustür.SHOP Einbau-Ratgeber",
+     "url": "https://xn--haustr-7ya.shop/pages/haustuer-einbauen"
+    },
+    {
+     "name": "Haustuer.SHOP Door Installation Guide",
+     "url": "https://xn--haustr-7ya.shop/pages/haustuer-einbauen"
+    }
+   ]
+  },
+  {
+   "term": "german terrace roof",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Terrassen-Ueberdachung.SHOP Ratgeber",
+     "url": "https://terrassen-ueberdachung.shop/"
+    },
+    {
+     "name": "Terrassen-Ueberdachung.SHOP Planning Guides",
+     "url": "https://terrassen-ueberdachung.shop/"
+    }
+   ]
+  },
+  {
+   "term": "japanese text face",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "KaomojiBox: Find a Japanese text face for the mood and copy ",
+     "url": "https://saasolution.io/tool/kaomojibox"
+    },
+    {
+     "name": "Kaomoji Kit",
+     "url": "https://zearches.com/site/resources-directories/kaomojikit-com-641a1e34da"
+    }
+   ]
+  },
+  {
+   "term": "laundry kitchen bathroom",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Environ Dishwashing Liquid – Plant-Based Grease Cleaning for",
+     "url": "https://aweblist.org/listing/environ-dishwashing-liquid-–-plant-based-grease-cleaning-for-everyday-kitchen-use-975682"
+    },
+    {
+     "name": "Environ Fabric Softner – Hypoallergenic Plant-Based Fabric C",
+     "url": "https://exampledir.com/listing/environ-fabric-softner-–-hypoallergenic-plant-based-fabric-care-for-everyday-laundry-314808"
+    }
+   ]
+  },
+  {
+   "term": "接入 入搜 搜索",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+     "url": "https://aisuqp.xyz/news/zaobao-yingweidayuangongqingyuanhuangrenxunhuigui-yuchengdon-02zz"
+    },
+    {
+     "name": "AI 早报 11月14日",
+     "url": "https://aoyii.com/zh/ai-daily-20261114"
+    }
+   ]
+  },
+  {
+   "term": "assisted content",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Reeling",
+     "url": "https://gateofai.com/community-tools/reeling"
+    },
+    {
+     "name": "Riverside Agents",
+     "url": "https://riverside.com/"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "minu fashion",
+   "count": 5,
+   "sources": 2,
+   "ratio": 266.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Minu Fashions – Manufacturer & Wholesaler of Sarees, Suits &",
+     "url": "https://huludirectory.com/listing/minu-fashions-–-manufacturer-and-wholesaler-of-sarees-suits-and-kurtis-2262674"
+    },
+    {
+     "name": "Saree Wholesalers in Kolkata – Minu Fashions",
+     "url": "https://exampledir.com/listing/saree-wholesalers-in-kolkata-–-minu-fashions-314792"
+    },
+    {
+     "name": "Top Saree Manufacturers in Kolkata – Minu Fashions",
+     "url": "https://huludirectory.com/listing/top-saree-manufacturers-in-kolkata-–-minu-fashions-2262673"
+    }
+   ]
+  },
+  {
+   "term": "live chat email",
+   "count": 2,
+   "sources": 3,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Deskwoot",
+     "url": "https://whatareyoubuilding.ai/product/jlnWxjmQ2pdHVv8bjwKz"
+    },
+    {
+     "name": "Customer Support Software: AI Help Desk & Chat — score 70/10",
+     "url": "https://nothumansearch.ai/site/deskwoot.com"
+    }
+   ]
+  },
+  {
+   "term": "ads performance marketing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "NDMIT – Best Data Analytics, Data Science & Digital Marketin",
+     "url": "https://exampledir.com/listing/ndmit-–-best-data-analytics-data-science-and-digital-marketing-courses-in-prayagraj-314798"
+    },
+    {
+     "name": "NDMIT – Data Science & Digital Marketing Courses in Indore",
+     "url": "https://huludirectory.com/listing/ndmit-–-data-science-and-digital-marketing-courses-in-indore-2262697"
+    }
+   ]
+  },
+  {
+   "term": "fence installation guide",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Maschendrahtzaun.SHOP Montageanleitung",
+     "url": "https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage"
+    },
+    {
+     "name": "Maschendrahtzaun.SHOP Installation Guide",
+     "url": "https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage"
+    }
+   ]
+  },
+  {
+   "term": "fortnite chest tracker",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fortnite Chest Tracker & Counter – Count Your Chests & Odds ",
+     "url": "https://nothumansearch.ai/site/cheststats.com"
+    },
+    {
+     "name": "ChestStats",
+     "url": "https://cheststats.com/"
+    }
+   ]
+  },
+  {
+   "term": "german facade cladding",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fassaden-Verkleidung.SHOP Materialplaner",
+     "url": "https://fassaden-verkleidung.shop/pages/fassadenverkleidung-konfigurator"
+    },
+    {
+     "name": "Fassaden-Verkleidung.SHOP Material Planner",
+     "url": "https://fassaden-verkleidung.shop/pages/fassadenverkleidung-konfigurator"
+    }
+   ]
+  },
+  {
+   "term": "groooss air drone",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Groooss Air Drone Shoot Checklist",
+     "url": "https://postlaunchkit.com/directory/groooss-air-drone-shoot-checklist"
+    },
+    {
+     "name": "Groooss Air — Drone Shoot Planning Checklist",
+     "url": "https://groooss.com/tools/projekt-checkliste"
+    }
+   ]
+  },
+  {
+   "term": "non toxic plant",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Environ Dishwashing Liquid – Plant-Based Grease Cleaning for",
+     "url": "https://aweblist.org/listing/environ-dishwashing-liquid-–-plant-based-grease-cleaning-for-everyday-kitchen-use-975682"
+    },
+    {
+     "name": "Environ Fabric Softner – Hypoallergenic Plant-Based Fabric C",
+     "url": "https://exampledir.com/listing/environ-fabric-softner-–-hypoallergenic-plant-based-fabric-care-for-everyday-laundry-314808"
+    }
+   ]
+  },
+  {
+   "term": "export powerpoint",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Syaxis",
+     "url": "https://postlaunchkit.com/directory/syaxis"
+    },
+    {
+     "name": "AI Presentation Maker with Built-in Research | Syaxis — scor",
+     "url": "https://nothumansearch.ai/site/syaxis.ai"
+    }
+   ]
+  },
+  {
+   "term": "optimize prompt",
+   "count": 2,
+   "sources": 2,
+   "ratio": 106.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "TuneImage",
+     "url": "https://gateofai.com/community-tools/tuneimage"
+    },
+    {
+     "name": "b12398",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12398"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "ethnic wear manufacturer",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Saree Wholesalers in Kolkata – Minu Fashions",
+     "url": "https://exampledir.com/listing/saree-wholesalers-in-kolkata-–-minu-fashions-314792"
+    },
+    {
+     "name": "Top Saree Manufacturers in Kolkata – Minu Fashions",
+     "url": "https://huludirectory.com/listing/top-saree-manufacturers-in-kolkata-–-minu-fashions-2262673"
+    },
+    {
+     "name": "Wholesale Cotton Kurtis for Retailers – Minu Fashions",
+     "url": "https://exampledir.com/listing/wholesale-cotton-kurtis-for-retailers-–-minu-fashions-314790"
+    }
+   ]
+  },
+  {
+   "term": "installation guide",
+   "size": 5,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Haustuer.SHOP Door Installation Guide",
+     "url": "https://xn--haustr-7ya.shop/pages/haustuer-einbauen"
+    },
+    {
+     "name": "Kunststoffprofile.SHOP Installation Guide",
+     "url": "https://kunststoffprofile.shop/pages/montageanleitung-kunststoffprofile"
+    },
+    {
+     "name": "Maschendrahtzaun.SHOP Installation Guide",
+     "url": "https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage"
+    },
+    {
+     "name": "Maschendrahtzaun.SHOP Montageanleitung",
+     "url": "https://maschendrahtzaun.shop/pages/maschendrahtzaun-montage"
+    }
+   ]
+  },
+  {
+   "term": "german guide",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Haustuer.SHOP Door Installation Guide",
+     "url": "https://xn--haustr-7ya.shop/pages/haustuer-einbauen"
+    },
+    {
+     "name": "Kunststoffprofile.SHOP Installation Guide",
+     "url": "https://kunststoffprofile.shop/pages/montageanleitung-kunststoffprofile"
+    },
+    {
+     "name": "Mehrfachverriegelung.SHOP Montage-Ratgeber",
+     "url": "https://mehrfachverriegelung.shop/pages/montageanleitung-mehrfachverriegelung"
+    },
+    {
+     "name": "Schaffell.SHOP Sheepskin Care Guide",
+     "url": "https://schaffell.shop/pages/schaffell-waschen"
+    }
+   ]
+  },
+  {
+   "term": "digital marketing institute",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Certificate Course in Digital Marketing for Beginners",
+     "url": "https://exampledir.com/listing/certificate-course-in-digital-marketing-for-beginners-314797"
+    },
+    {
+     "name": "Digital Marketing Institute with Career Assistance in Kolkat",
+     "url": "https://exampledir.com/listing/digital-marketing-institute-with-career-assistance-in-kolkata-314806"
+    },
+    {
+     "name": "NDMIT – Best Data Analytics, Data Science & Digital Marketin",
+     "url": "https://exampledir.com/listing/ndmit-–-best-data-analytics-data-science-and-digital-marketing-courses-in-prayagraj-314798"
+    },
+    {
+     "name": "NDMIT – Data Science & Digital Marketing Courses in Indore",
+     "url": "https://huludirectory.com/listing/ndmit-–-data-science-and-digital-marketing-courses-in-indore-2262697"
+    }
+   ]
+  },
+  {
+   "term": "spend less",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "FlowBeacon: Pro-Grade Pool Care for Homeowners and Operators",
+     "url": "https://awesomeindie.com/product/flow-beacon"
+    },
+    {
+     "name": "TeachAny",
+     "url": "https://teachany.com/"
+    },
+    {
+     "name": "Worksheetly: Create beautiful, print‑ready worksheets with A",
+     "url": "https://awesomeindie.com/product/worksheetly"
+    }
+   ]
+  },
+  {
+   "term": "kitchen bathroom",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Environ Dishwashing Liquid – Plant-Based Grease Cleaning for",
+     "url": "https://aweblist.org/listing/environ-dishwashing-liquid-–-plant-based-grease-cleaning-for-everyday-kitchen-use-975682"
+    },
+    {
+     "name": "Environ Fabric Softner – Hypoallergenic Plant-Based Fabric C",
+     "url": "https://exampledir.com/listing/environ-fabric-softner-–-hypoallergenic-plant-based-fabric-care-for-everyday-laundry-314808"
+    },
+    {
+     "name": "R Brand",
+     "url": "https://aweblist.org/listing/r-brand-975697"
+    }
+   ]
+  },
+  {
+   "term": "traditional recipe",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Buy 100g Traditional Tirunelveli Iruttukadai Halwa Online",
+     "url": "https://huludirectory.com/listing/buy-100g-traditional-tirunelveli-iruttukadai-halwa-online-2262670"
+    },
+    {
+     "name": "Buy Traditional Tirunelveli Iruttukadai Halwa Online",
+     "url": "https://huludirectory.com/listing/buy-traditional-tirunelveli-iruttukadai-halwa-online-2262667"
+    },
+    {
+     "name": "Kerala canteen Listed In Best Indian Restaurant in UK",
+     "url": "https://aweblist.org/listing/kerala-canteen-listed-in-best-indian-restaurant-in-uk-975681"
+    }
+   ]
+  },
+  {
+   "term": "image pdfs",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "EditablePPT: Rebuild a slide screenshot or PDF as a PowerPoi",
+     "url": "https://saasolution.io/tool/editableppt"
+    },
+    {
+     "name": "myfreetools",
+     "url": "https://aweblist.org/listing/myfreetools-975672"
+    },
+    {
+     "name": "UploadOff: Convert photos, PDFs, sound and video in the brow",
+     "url": "https://saasolution.io/tool/uploadoff"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「ethnic wear manufacturer」今日 3 个产品/2 个目录：Saree Wholesalers in Kolkata – Minu Fashions、Top Saree Manufacturers in Kolkata – Minu Fashions",
+  "小词「installation guide」今日 5 个产品/2 个目录：Maschendrahtzaun.SHOP Montageanleitung、Kunststoffprofile.SHOP Installation Guide",
+  "小词「german guide」今日 4 个产品/2 个目录：Mehrfachverriegelung.SHOP Montage-Ratgeber、Kunststoffprofile.SHOP Installation Guide",
+  "同日小簇「ethnic wear manufacturer」3 个相似产品：Saree Wholesalers in Kolkata – Minu Fashions、Top Saree Manufacturers in Kolkata – Minu Fashions、Wholesale Cotton Kurtis for Retailers – Minu Fashions",
+  "同日小簇「installation guide」5 个相似产品：Haustuer.SHOP Door Installation Guide、Kunststoffprofile.SHOP Installation Guide、Maschendrahtzaun.SHOP Installation Guide",
+  "跨目录同时出现：vibelisting.ai（4 个目录）",
+  "跨目录同时出现：airapsong.com（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-15.md",
+ "niche_groups": "- 德文建材安装指南：installation guide、german guide、fence installation guide、front door replacement、german terrace roof、facade cladding planner、german facade cladding —— 为德国市场提供围栏、门窗、外墙等建材的安装教程与材料规划工具\n- 印度传统服饰批发：ethnic wear manufacturer、minu fashion —— 面向加尔各答等地的纱丽及传统服饰制造商与批发商\n- AI辅助内容创作：assisted content、export powerpoint pdf —— 利用AI代理辅助视频录制或生成带研究功能的演示文稿\n- 游戏数据追踪：chest tracker counter、fortnite chest tracker —— 为《堡垒之夜》等游戏提供宝箱计数与概率统计工具\n- 数字营销教育：digital marketing institute、ads performance marketing —— 提供数据科学、数字营销及广告绩效分析的职业培训课程\n- 多通道客服支持：chat email whatsapp、live chat email —— 整合聊天、邮件及WhatsApp的AI客服与支持软件"
+}
