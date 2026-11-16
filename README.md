@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-15** · 新增 1288 · 监控 197 个目录（今日成功 167）
+**2026-11-16** · 新增 1701 · 监控 197 个目录（今日成功 180）
 
 聚焦小词 Top 15:
 
-- `ethnic wear manufacturer` ×3（2 目录） 🆕：Saree Wholesalers in Kolkata – Minu Fashions；Top Saree Manufacturers in Kolkata – Minu Fashions
-- `installation guide` ×5（2 目录） 🆕：Maschendrahtzaun.SHOP Montageanleitung；Kunststoffprofile.SHOP Installation Guide
-- `german guide` ×4（2 目录） 🆕：Mehrfachverriegelung.SHOP Montage-Ratgeber；Kunststoffprofile.SHOP Installation Guide
-- `chat email whatsapp` ×2（3 目录） 🆕：Deskwoot；Customer Support Software: AI Help Desk & Chat — score 70/10
-- `export powerpoint pdf` ×2（2 目录） 🆕：Syaxis；AI Presentation Maker with Built-in Research | Syaxis — scor
-- `digital marketing institute` ×4（2 目录）：Certificate Course in Digital Marketing for Beginners；Digital Marketing Institute with Career Assistance in Kolkat
-- `air drone shoot` ×2（2 目录） 🆕：Groooss Air Drone Shoot Checklist；Groooss Air — Drone Shoot Planning Checklist
-- `chest tracker counter` ×2（2 目录） 🆕：Fortnite Chest Tracker & Counter – Count Your Chests & Odds ；ChestStats
-- `facade cladding planner` ×2（2 目录） 🆕：Fassaden-Verkleidung.SHOP Materialplaner；Fassaden-Verkleidung.SHOP Material Planner
-- `front door replacement` ×2（2 目录） 🆕：Haustür.SHOP Einbau-Ratgeber；Haustuer.SHOP Door Installation Guide
-- `german terrace roof` ×2（2 目录） 🆕：Terrassen-Ueberdachung.SHOP Ratgeber；Terrassen-Ueberdachung.SHOP Planning Guides
-- `japanese text face` ×2（2 目录） 🆕：KaomojiBox: Find a Japanese text face for the mood and copy ；Kaomoji Kit
-- `laundry kitchen bathroom` ×2（2 目录） 🆕：Environ Dishwashing Liquid – Plant-Based Grease Cleaning for；Environ Fabric Softner – Hypoallergenic Plant-Based Fabric C
-- `接入 入搜 搜索` ×2（2 目录） 🆕：早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时；AI 早报 11月14日
-- `assisted content` ×2（2 目录） 🆕：Reeling；Riverside Agents
+- `adhesive performance wear` ×3（3 目录） 🆕：Bulk self adhesive lashes；Pre glued lashes wholesale
+- `double wire mesh` ×3（2 目录） 🆕：Doppelstabmattenzaun.SHOP Installation Guide；Sichtschutz-Streifen.SHOP Installation Guide
+- `codice fiscale calculator` ×2（2 目录） 🆕：Codice Fiscale Subito；Codice Fiscale Subito Free Italian codice fiscale calculator
+- `act designing esthetically` ×2（3 目录） 🆕：Retail Fitouts Canberra - Express Fitouts；Retail Store Fitout ACT - Express Fitouts
+- `carpet cleaner fresno` ×2（2 目录） 🆕：Carpet Cleaner Fresno；Carpet Cleaner Fresno Texas
+- `carpet cleaning stafford` ×2（2 目录） 🆕：Carpet Cleaning Stafford TX；Carpet Cleaning Stafford Texas
+- `chain peptide shipping` ×2（2 目录） 🆕：Cold Chain Peptide Shipping Information – Everclear Peptides；Everclear Peptides – Cold Chain Peptide Shipping and Handlin
+- `college himachal pradesh` ×2（2 目录） 🆕：polytechnic computer science；Polytechnic Skill Development Course in Shimla
+- `editable ai assisted` ×2（2 目录） 🆕：CNIPA.AI；Patent Task
+- `embedded dirt dust` ×2（2 目录） 🆕：Carpet Cleaner Friendswood；Richmond Carpet Cleaning TX
+- `iphone phone case` ×2（2 目录） 🆕：Trendy iPhone Phone Cases for Modern Smartphones | Modish Be；iPhone Phone Cases for Stylish Everyday Protection | Modish 
+- `metal tech porta` ×2（2 目录） 🆕：Portable Container Cabin manufacturer in Mumbra；Porta Cabin Manufacturer in Gujarat
+- `reliable carpet cleaning` ×2（2 目录） 🆕：Carpet Cleaner Fresno Texas；Carpet Cleaner Friendswood
+- `remove stubborn stain` ×2（2 目录） 🆕：Carpet Cleaner Friendswood；Carpet Service & Care Richmond
+- `doja ai` ×3（5 目录） 🆕：Talk to Me Doja AI；Talk to Me Doja AI Make a meme-inspired sway video from one 
 
 微赛道归纳:
 
-- 德文建材安装指南：installation guide、german guide、fence installation guide、front door replacement、german terrace roof、facade cladding planner、german facade cladding —— 为德国市场提供围栏、门窗、外墙等建材的安装教程与材料规划工具
-- 印度传统服饰批发：ethnic wear manufacturer、minu fashion —— 面向加尔各答等地的纱丽及传统服饰制造商与批发商
-- AI辅助内容创作：assisted content、export powerpoint pdf —— 利用AI代理辅助视频录制或生成带研究功能的演示文稿
-- 游戏数据追踪：chest tracker counter、fortnite chest tracker —— 为《堡垒之夜》等游戏提供宝箱计数与概率统计工具
-- 数字营销教育：digital marketing institute、ads performance marketing —— 提供数据科学、数字营销及广告绩效分析的职业培训课程
-- 多通道客服支持：chat email whatsapp、live chat email —— 整合聊天、邮件及WhatsApp的AI客服与支持软件
+- 美睫与假睫毛批发：adhesive performance wear、different brand concept —— 提供批量自粘式及预粘式假睫毛的批发与品牌定制服务
+- 金属围栏与安装指南：double wire mesh、wire mesh fence —— 提供双丝金属围栏及隐私条的在线商店与安装指导
+- 意大利税务代码计算：codice fiscale calculator、italian codice fiscale —— 提供意大利个人税务代码（Codice Fiscale）的快速计算工具
+- 零售店铺装修与设计：act designing esthetically、custom shop design —— 提供澳大利亚首都领地等地的零售店面快速装修与美学设计服务
+- 地毯清洁与去污服务：carpet cleaner fresno、carpet cleaning stafford、embedded dirt dust、reliable carpet cleaning、remove stubborn stain —— 提供针对顽固污渍和嵌入式灰尘的地毯专业清洁服务
+- 冷链肽类运输：chain peptide shipping、cold chain peptide —— 提供肽类产品的冷链运输、处理及物流信息
 
-完整报告: [reports/2026-11-15.md](reports/2026-11-15.md)
+完整报告: [reports/2026-11-16.md](reports/2026-11-16.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

@@ -1,0 +1,683 @@
+{
+ "date": "2026-11-16",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 180,
+ "sources_failed": 17,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1701,
+ "new_today_unique": 1586,
+ "ai_share_today": 0.23,
+ "ai_share_30d": 0.26,
+ "niche_terms": [
+  {
+   "term": "adhesive performance wear",
+   "count": 3,
+   "sources": 3,
+   "ratio": 121.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Bulk self adhesive lashes",
+     "url": "https://exampledir.com/listing/bulk-self-adhesive-lashes-314860"
+    },
+    {
+     "name": "Pre glued lashes wholesale",
+     "url": "https://aweblist.org/listing/pre-glued-lashes-wholesale-975879"
+    },
+    {
+     "name": "Press on lashes wholesale",
+     "url": "https://huludirectory.com/listing/press-on-lashes-wholesale-2262775"
+    }
+   ]
+  },
+  {
+   "term": "double wire mesh",
+   "count": 3,
+   "sources": 2,
+   "ratio": 121.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Doppelstabmattenzaun.SHOP Installation Guide",
+     "url": "https://doppelstabmattenzaun.shop/pages/doppelstabmattenzaun-montage"
+    },
+    {
+     "name": "Sichtschutz-Streifen.SHOP Installation Guide",
+     "url": "https://sichtschutz-streifen.shop/pages/montageanleitung"
+    },
+    {
+     "name": "GartenzaunDirekt Fence Planner",
+     "url": "https://gartenzaundirekt.de/pages/doppelstabmatten-zaunplaner"
+    }
+   ]
+  },
+  {
+   "term": "codice fiscale calculator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Codice Fiscale Subito",
+     "url": "https://azn8.com/listing/codice-fiscale-subito"
+    },
+    {
+     "name": "Codice Fiscale Subito Free Italian codice fiscale calculator",
+     "url": "https://thehackstack.com/s/codicefiscalesubito"
+    }
+   ]
+  },
+  {
+   "term": "act designing esthetically",
+   "count": 2,
+   "sources": 3,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Retail Fitouts Canberra - Express Fitouts",
+     "url": "https://aweblist.org/listing/retail-fitouts-canberra--express-fitouts-975857"
+    },
+    {
+     "name": "Retail Store Fitout ACT - Express Fitouts",
+     "url": "https://huludirectory.com/listing/retail-store-fitout-act--express-fitouts-2262752"
+    }
+   ]
+  },
+  {
+   "term": "carpet cleaner fresno",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Fresno",
+     "url": "https://exampledir.com/listing/carpet-cleaner-fresno-314821"
+    },
+    {
+     "name": "Carpet Cleaner Fresno Texas",
+     "url": "https://exampledir.com/listing/carpet-cleaner-fresno-texas-314822"
+    }
+   ]
+  },
+  {
+   "term": "carpet cleaning stafford",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Carpet Cleaning Stafford TX",
+     "url": "https://exampledir.com/listing/carpet-cleaning-stafford-tx-314816"
+    },
+    {
+     "name": "Carpet Cleaning Stafford Texas",
+     "url": "https://exampledir.com/listing/carpet-cleaning-stafford-texas-314817"
+    }
+   ]
+  },
+  {
+   "term": "chain peptide shipping",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Cold Chain Peptide Shipping Information – Everclear Peptides",
+     "url": "https://aweblist.org/listing/cold-chain-peptide-shipping-information-–-everclear-peptides-975886"
+    },
+    {
+     "name": "Everclear Peptides – Cold Chain Peptide Shipping and Handlin",
+     "url": "https://directory6.org/listing/everclear-peptides-–-cold-chain-peptide-shipping-and-handling-information-724375"
+    }
+   ]
+  },
+  {
+   "term": "college himachal pradesh",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "polytechnic computer science",
+     "url": "https://directory6.org/listing/polytechnic-computer-science-724374"
+    },
+    {
+     "name": "Polytechnic Skill Development Course in Shimla",
+     "url": "https://exampledir.com/listing/polytechnic-skill-development-course-in-shimla-314856"
+    }
+   ]
+  },
+  {
+   "term": "editable ai assisted",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "CNIPA.AI",
+     "url": "https://cnipa.ai/"
+    },
+    {
+     "name": "Patent Task",
+     "url": "https://patenttask.com/"
+    }
+   ]
+  },
+  {
+   "term": "embedded dirt dust",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Friendswood",
+     "url": "https://exampledir.com/listing/carpet-cleaner-friendswood-314823"
+    },
+    {
+     "name": "Richmond Carpet Cleaning TX",
+     "url": "https://exampledir.com/listing/richmond-carpet-cleaning-tx-314820"
+    }
+   ]
+  },
+  {
+   "term": "iphone phone case",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Trendy iPhone Phone Cases for Modern Smartphones | Modish Be",
+     "url": "https://huludirectory.com/listing/trendy-iphone-phone-cases-for-modern-smartphones-modish-bear-2262755"
+    },
+    {
+     "name": "iPhone Phone Cases for Stylish Everyday Protection | Modish ",
+     "url": "https://aweblist.org/listing/iphone-phone-cases-for-stylish-everyday-protection-modish-bear-975862"
+    }
+   ]
+  },
+  {
+   "term": "metal tech porta",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Portable Container Cabin manufacturer in Mumbra",
+     "url": "https://aweblist.org/listing/portable-container-cabin-manufacturer-in-mumbra-975854"
+    },
+    {
+     "name": "Porta Cabin Manufacturer in Gujarat",
+     "url": "https://huludirectory.com/listing/porta-cabin-manufacturer-in-gujarat-2262738"
+    }
+   ]
+  },
+  {
+   "term": "reliable carpet cleaning",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Fresno Texas",
+     "url": "https://exampledir.com/listing/carpet-cleaner-fresno-texas-314822"
+    },
+    {
+     "name": "Carpet Cleaner Friendswood",
+     "url": "https://exampledir.com/listing/carpet-cleaner-friendswood-314823"
+    }
+   ]
+  },
+  {
+   "term": "remove stubborn stain",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Friendswood",
+     "url": "https://exampledir.com/listing/carpet-cleaner-friendswood-314823"
+    },
+    {
+     "name": "Carpet Service & Care Richmond",
+     "url": "https://exampledir.com/listing/carpet-service-and-care-richmond-314818"
+    }
+   ]
+  },
+  {
+   "term": "doja ai",
+   "count": 3,
+   "sources": 5,
+   "ratio": 121.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Talk to Me Doja AI",
+     "url": "https://postlaunchkit.com/directory/talk-to-me-doja-ai"
+    },
+    {
+     "name": "Talk to Me Doja AI Make a meme-inspired sway video from one ",
+     "url": "https://thehackstack.com/s/talktomedoja-2"
+    },
+    {
+     "name": "Talk to Me Doja AI Turn one portrait into a 14-second vertic",
+     "url": "https://thehackstack.com/s/talktomedoja"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "different brand concept",
+   "count": 3,
+   "sources": 3,
+   "ratio": 121.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Bulk self adhesive lashes",
+     "url": "https://exampledir.com/listing/bulk-self-adhesive-lashes-314860"
+    },
+    {
+     "name": "Pre glued lashes wholesale",
+     "url": "https://aweblist.org/listing/pre-glued-lashes-wholesale-975879"
+    },
+    {
+     "name": "Press on lashes wholesale",
+     "url": "https://huludirectory.com/listing/press-on-lashes-wholesale-2262775"
+    }
+   ]
+  },
+  {
+   "term": "wire mesh fence",
+   "count": 3,
+   "sources": 2,
+   "ratio": 121.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Doppelstabmattenzaun.SHOP Installation Guide",
+     "url": "https://doppelstabmattenzaun.shop/pages/doppelstabmattenzaun-montage"
+    },
+    {
+     "name": "Sichtschutz-Streifen.SHOP Installation Guide",
+     "url": "https://sichtschutz-streifen.shop/pages/montageanleitung"
+    },
+    {
+     "name": "GartenzaunDirekt Fence Planner",
+     "url": "https://gartenzaundirekt.de/pages/doppelstabmatten-zaunplaner"
+    }
+   ]
+  },
+  {
+   "term": "italian codice fiscale",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Codice Fiscale Subito",
+     "url": "https://azn8.com/listing/codice-fiscale-subito"
+    },
+    {
+     "name": "Codice Fiscale Subito Free Italian codice fiscale calculator",
+     "url": "https://thehackstack.com/s/codicefiscalesubito"
+    }
+   ]
+  },
+  {
+   "term": "cold chain peptide",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Cold Chain Peptide Shipping Information – Everclear Peptides",
+     "url": "https://aweblist.org/listing/cold-chain-peptide-shipping-information-–-everclear-peptides-975886"
+    },
+    {
+     "name": "Everclear Peptides – Cold Chain Peptide Shipping and Handlin",
+     "url": "https://directory6.org/listing/everclear-peptides-–-cold-chain-peptide-shipping-and-handling-information-724375"
+    }
+   ]
+  },
+  {
+   "term": "college hotel management",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "polytechnic computer science",
+     "url": "https://directory6.org/listing/polytechnic-computer-science-724374"
+    },
+    {
+     "name": "Polytechnic Skill Development Course in Shimla",
+     "url": "https://exampledir.com/listing/polytechnic-skill-development-course-in-shimla-314856"
+    }
+   ]
+  },
+  {
+   "term": "custom shop design",
+   "count": 2,
+   "sources": 3,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Retail Fitouts Canberra - Express Fitouts",
+     "url": "https://aweblist.org/listing/retail-fitouts-canberra--express-fitouts-975857"
+    },
+    {
+     "name": "Retail Store Fitout ACT - Express Fitouts",
+     "url": "https://huludirectory.com/listing/retail-store-fitout-act--express-fitouts-2262752"
+    }
+   ]
+  },
+  {
+   "term": "tech porta cabin",
+   "count": 2,
+   "sources": 2,
+   "ratio": 80.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Portable Container Cabin manufacturer in Mumbra",
+     "url": "https://aweblist.org/listing/portable-container-cabin-manufacturer-in-mumbra-975854"
+    },
+    {
+     "name": "Porta Cabin Manufacturer in Gujarat",
+     "url": "https://huludirectory.com/listing/porta-cabin-manufacturer-in-gujarat-2262738"
+    }
+   ]
+  },
+  {
+   "term": "carpet cleaner",
+   "count": 3,
+   "sources": 2,
+   "ratio": 121.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Fresno",
+     "url": "https://exampledir.com/listing/carpet-cleaner-fresno-314821"
+    },
+    {
+     "name": "Carpet Cleaner Fresno Texas",
+     "url": "https://exampledir.com/listing/carpet-cleaner-fresno-texas-314822"
+    },
+    {
+     "name": "Carpet Cleaner Friendswood",
+     "url": "https://exampledir.com/listing/carpet-cleaner-friendswood-314823"
+    }
+   ]
+  },
+  {
+   "term": "carpet fiber",
+   "count": 3,
+   "sources": 2,
+   "ratio": 121.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Fresno",
+     "url": "https://exampledir.com/listing/carpet-cleaner-fresno-314821"
+    },
+    {
+     "name": "Carpet Cleaner Friendswood",
+     "url": "https://exampledir.com/listing/carpet-cleaner-friendswood-314823"
+    },
+    {
+     "name": "Carpet Service & Care Richmond",
+     "url": "https://exampledir.com/listing/carpet-service-and-care-richmond-314818"
+    }
+   ]
+  },
+  {
+   "term": "stubborn stain",
+   "count": 3,
+   "sources": 2,
+   "ratio": 121.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Friendswood",
+     "url": "https://exampledir.com/listing/carpet-cleaner-friendswood-314823"
+    },
+    {
+     "name": "Carpet Service & Care Richmond",
+     "url": "https://exampledir.com/listing/carpet-service-and-care-richmond-314818"
+    },
+    {
+     "name": "Richmond Carpet Cleaning TX",
+     "url": "https://exampledir.com/listing/richmond-carpet-cleaning-tx-314820"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "adhesive performance wear",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Bulk self adhesive lashes",
+     "url": "https://exampledir.com/listing/bulk-self-adhesive-lashes-314860"
+    },
+    {
+     "name": "Pre glued lashes wholesale",
+     "url": "https://aweblist.org/listing/pre-glued-lashes-wholesale-975879"
+    },
+    {
+     "name": "Press on lashes wholesale",
+     "url": "https://huludirectory.com/listing/press-on-lashes-wholesale-2262775"
+    }
+   ]
+  },
+  {
+   "term": "double wire mesh",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Doppelstabmattenzaun.SHOP Installation Guide",
+     "url": "https://doppelstabmattenzaun.shop/pages/doppelstabmattenzaun-montage"
+    },
+    {
+     "name": "GartenzaunDirekt Fence Planner",
+     "url": "https://gartenzaundirekt.de/pages/doppelstabmatten-zaunplaner"
+    },
+    {
+     "name": "Sichtschutz-Streifen.SHOP Installation Guide",
+     "url": "https://sichtschutz-streifen.shop/pages/montageanleitung"
+    }
+   ]
+  },
+  {
+   "term": "carpet cleaner",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Fresno",
+     "url": "https://exampledir.com/listing/carpet-cleaner-fresno-314821"
+    },
+    {
+     "name": "Carpet Cleaner Fresno Texas",
+     "url": "https://exampledir.com/listing/carpet-cleaner-fresno-texas-314822"
+    },
+    {
+     "name": "Carpet Cleaner Friendswood",
+     "url": "https://exampledir.com/listing/carpet-cleaner-friendswood-314823"
+    }
+   ]
+  },
+  {
+   "term": "carpet fiber",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Fresno",
+     "url": "https://exampledir.com/listing/carpet-cleaner-fresno-314821"
+    },
+    {
+     "name": "Carpet Cleaner Friendswood",
+     "url": "https://exampledir.com/listing/carpet-cleaner-friendswood-314823"
+    },
+    {
+     "name": "Carpet Service & Care Richmond",
+     "url": "https://exampledir.com/listing/carpet-service-and-care-richmond-314818"
+    }
+   ]
+  },
+  {
+   "term": "doja ai",
+   "size": 3,
+   "sources": 5,
+   "examples": [
+    {
+     "name": "Talk to Me Doja AI",
+     "url": "https://talktomedoja.com/"
+    },
+    {
+     "name": "Talk to Me Doja AI Make a meme-inspired sway video from one ",
+     "url": "https://thehackstack.com/s/talktomedoja-2"
+    },
+    {
+     "name": "Talk to Me Doja AI Turn one portrait into a 14-second vertic",
+     "url": "https://thehackstack.com/s/talktomedoja"
+    }
+   ]
+  },
+  {
+   "term": "stubborn stain",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Carpet Cleaner Friendswood",
+     "url": "https://exampledir.com/listing/carpet-cleaner-friendswood-314823"
+    },
+    {
+     "name": "Carpet Service & Care Richmond",
+     "url": "https://exampledir.com/listing/carpet-service-and-care-richmond-314818"
+    },
+    {
+     "name": "Richmond Carpet Cleaning TX",
+     "url": "https://exampledir.com/listing/richmond-carpet-cleaning-tx-314820"
+    }
+   ]
+  },
+  {
+   "term": "private university",
+   "size": 5,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "best B School in Shimla",
+     "url": "https://huludirectory.com/listing/best--b-school-in-shimla-2262766"
+    },
+    {
+     "name": "Best Computing College in Mohali",
+     "url": "https://directory6.org/listing/best-computing-college-in-mohali-724344"
+    },
+    {
+     "name": "best private university for Law in Punjab",
+     "url": "https://exampledir.com/listing/best-private-university-for-law-in-punjab-314851"
+    },
+    {
+     "name": "Computer Science Universties in Kharar",
+     "url": "https://huludirectory.com/listing/computer-science-universties-in-kharar-2262753"
+    }
+   ]
+  },
+  {
+   "term": "igtrackr instagram",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Igtrackr Instagram Comment Viewer",
+     "url": "https://www.clapstorm.com/p/igtrackr-instagram-comment-viewer"
+    },
+    {
+     "name": "Igtrackr Instagram Giveaway Picker",
+     "url": "https://www.clapstorm.com/p/igtrackr-instagram-giveaway-picker"
+    },
+    {
+     "name": "Igtrackr Instagram Highlight Viewer",
+     "url": "https://www.clapstorm.com/p/igtrackr-instagram-highlight-viewer"
+    },
+    {
+     "name": "Igtrackr Instagram Unfollowers Tracker",
+     "url": "https://webapps.directory/directory/igtrackr-instagram-unfollowers-tracker"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「adhesive performance wear」今日 3 个产品/3 个目录：Bulk self adhesive lashes、Pre glued lashes wholesale",
+  "小词「double wire mesh」今日 3 个产品/2 个目录：Doppelstabmattenzaun.SHOP Installation Guide、Sichtschutz-Streifen.SHOP Installation Guide",
+  "小词「codice fiscale calculator」今日 2 个产品/2 个目录：Codice Fiscale Subito、Codice Fiscale Subito Free Italian codice fiscale calculator",
+  "同日小簇「adhesive performance wear」3 个相似产品：Bulk self adhesive lashes、Pre glued lashes wholesale、Press on lashes wholesale",
+  "同日小簇「double wire mesh」3 个相似产品：Doppelstabmattenzaun.SHOP Installation Guide、GartenzaunDirekt Fence Planner、Sichtschutz-Streifen.SHOP Installation Guide",
+  "跨目录同时出现：excerpt.pro（6 个目录）",
+  "跨目录同时出现：sandbase.ai（5 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-16.md",
+ "niche_groups": "- 美睫与假睫毛批发：adhesive performance wear、different brand concept —— 提供批量自粘式及预粘式假睫毛的批发与品牌定制服务\n- 金属围栏与安装指南：double wire mesh、wire mesh fence —— 提供双丝金属围栏及隐私条的在线商店与安装指导\n- 意大利税务代码计算：codice fiscale calculator、italian codice fiscale —— 提供意大利个人税务代码（Codice Fiscale）的快速计算工具\n- 零售店铺装修与设计：act designing esthetically、custom shop design —— 提供澳大利亚首都领地等地的零售店面快速装修与美学设计服务\n- 地毯清洁与去污服务：carpet cleaner fresno、carpet cleaning stafford、embedded dirt dust、reliable carpet cleaning、remove stubborn stain —— 提供针对顽固污渍和嵌入式灰尘的地毯专业清洁服务\n- 冷链肽类运输：chain peptide shipping、cold chain peptide —— 提供肽类产品的冷链运输、处理及物流信息"
+}
