@@ -1,0 +1,695 @@
+{
+ "date": "2026-11-17",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 176,
+ "sources_failed": 21,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "startups-snapmunk-com",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "openfuture-ai",
+  "phototoolfinder-com",
+  "saasworthy-com",
+  "softwareworld-co",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1594,
+ "new_today_unique": 1498,
+ "ai_share_today": 0.28,
+ "ai_share_30d": 0.26,
+ "niche_terms": [
+  {
+   "term": "experienced orthopaedic surgeon",
+   "count": 4,
+   "sources": 2,
+   "ratio": 177.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "ACL reconstruction surgery Patna by Dr. Naveen Sharma",
+     "url": "https://aweblist.org/listing/acl-reconstruction-surgery-patna-by-dr-naveen-sharma-976270"
+    },
+    {
+     "name": "Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma",
+     "url": "https://directory6.org/listing/knee-replacement-surgery-in-jaipur-by-dr-naveen-sharma-724648"
+    },
+    {
+     "name": "Orthopedic Surgeon in Jaipur | Dr. Naveen Sharma",
+     "url": "https://directory6.org/listing/orthopedic-surgeon-in-jaipur-dr-naveen-sharma-724634"
+    }
+   ]
+  },
+  {
+   "term": "buy swetha telugu",
+   "count": 3,
+   "sources": 3,
+   "ratio": 132.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Swetha Telugu Foods Banana Chips 100G Online",
+     "url": "https://directory6.org/listing/buy-swetha-telugu-foods-banana-chips-100g-online-724628"
+    },
+    {
+     "name": "Buy Swetha Telugu Foods Kerala Mixture 150G Online",
+     "url": "https://aweblist.org/listing/buy-swetha-telugu-foods-kerala-mixture-150g-online-976245"
+    },
+    {
+     "name": "Buy Swetha Telugu Foods Mango Avakaya Pickle",
+     "url": "https://huludirectory.com/listing/buy-swetha-telugu-foods-mango-avakaya-pickle-2262949"
+    }
+   ]
+  },
+  {
+   "term": "fore school",
+   "count": 5,
+   "sources": 4,
+   "ratio": 221.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "B Schools in Delhi",
+     "url": "https://huludirectory.com/listing/b-schools-in-delhi-2262969"
+    },
+    {
+     "name": "MBA Admission 2026",
+     "url": "https://directory6.org/listing/mba-admission-2026-724672"
+    },
+    {
+     "name": "PGDM in Delhi NCR",
+     "url": "https://exampledir.com/listing/pgdm-in-delhi-ncr-314971"
+    }
+   ]
+  },
+  {
+   "term": "creative branding agency",
+   "count": 5,
+   "sources": 4,
+   "ratio": 24.6,
+   "new": false,
+   "examples": [
+    {
+     "name": "Content marketing services in Jaipur",
+     "url": "https://aweblist.org/listing/content-marketing-services-in-jaipur-976285"
+    },
+    {
+     "name": "GMB optimization services in Jaipur",
+     "url": "https://exampledir.com/listing/gmb-optimization-services-in-jaipur-314977"
+    },
+    {
+     "name": "Paid advertising agency in Durgapura Jaipur",
+     "url": "https://huludirectory.com/listing/paid-advertising-agency-in-durgapura-jaipur-2262958"
+    }
+   ]
+  },
+  {
+   "term": "android batch transcribe",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Quiet Typist – Offline Transcription Software | Batch Transc",
+     "url": "https://nothumansearch.ai/site/quiettypist.com"
+    },
+    {
+     "name": "Anxinzhuan",
+     "url": "https://zearches.com/site/software-saas/anxinzhuan-cn-48a010afad"
+    }
+   ]
+  },
+  {
+   "term": "patent drafting",
+   "count": 3,
+   "sources": 2,
+   "ratio": 132.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Patent Task",
+     "url": "https://azn8.com/listing/patent-task"
+    },
+    {
+     "name": "CNIPA.AI",
+     "url": "https://azn8.com/listing/cnipa-ai"
+    },
+    {
+     "name": "Patentassist Ai Ai Patent Drafting",
+     "url": "https://dang.ai/tool/patentassist-ai-ai-patent-drafting"
+    }
+   ]
+  },
+  {
+   "term": "beautiful living room",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Beautiful Home Decor",
+     "url": "https://huludirectory.com/listing/beautiful-home-decor-2262930"
+    },
+    {
+     "name": "Stylish Living Spaces",
+     "url": "https://a2place.com/listing/stylish-living-spaces-718883"
+    }
+   ]
+  },
+  {
+   "term": "brace teeth whitening",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Clove Dental Mohali | Professional Dentists for Healthy Smil",
+     "url": "https://huludirectory.com/listing/clove-dental-mohali-professional-dentists-for-healthy-smiles-2262936"
+    },
+    {
+     "name": "Dental Clinic In Trichy",
+     "url": "https://aweblist.org/listing/dental-clinic-in-trichy-976251"
+    }
+   ]
+  },
+  {
+   "term": "card pet portrait",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Christmas AI — Holiday Photos, Cards & Santa Videos",
+     "url": "https://huludirectory.com/listing/christmas-ai-—-holiday-photos-cards-and-santa-videos-2262953"
+    },
+    {
+     "name": "Christmas AI",
+     "url": "https://zearches.com/site/software-saas/christmas-ai-net-4fe556d5b9"
+    }
+   ]
+  },
+  {
+   "term": "certain spinal injury",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Spinal Fusion Surgery: Benefits, Reasons & Recovery | Pune",
+     "url": "https://aweblist.org/listing/spinal-fusion-surgery-benefits-reasons-and-recovery-pune-976260"
+    },
+    {
+     "name": "Why Choose Spinal Fusion Surgery? | Dr. Rajesh Parasnis",
+     "url": "https://directory6.org/listing/why-choose-spinal-fusion-surgery-dr-rajesh-parasnis-724641"
+    }
+   ]
+  },
+  {
+   "term": "choudhary public school",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Commerce School In Jaipur",
+     "url": "https://aweblist.org/listing/commerce-school-in-jaipur-976283"
+    },
+    {
+     "name": "Digital School In Rajasthan",
+     "url": "https://directory6.org/listing/digital-school-in-rajasthan-724673"
+    }
+   ]
+  },
+  {
+   "term": "dragon traveler tier",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "DragonTraveler.gg",
+     "url": "https://dragontraveler.gg/"
+    },
+    {
+     "name": "DragonTraveler.gg Dragon Traveler tier list, teams, codes an",
+     "url": "https://thehackstack.com/s/dragontraveler-2"
+    }
+   ]
+  },
+  {
+   "term": "outlook data file",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Reliable Solutions for Outlook Data File Access Problems",
+     "url": "https://directory6.org/listing/reliable-solutions-for-outlook-data-file-access-problems-724636"
+    },
+    {
+     "name": "Easy Troubleshooting Guide for Outlook Data File Errors",
+     "url": "https://aweblist.org/listing/easy-troubleshooting-guide-for-outlook-data-file-errors-976256"
+    }
+   ]
+  },
+  {
+   "term": "pass due diligence",
+   "count": 2,
+   "sources": 3,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "DDScore.ai",
+     "url": "https://postlaunchkit.com/directory/ddscoreai"
+    },
+    {
+     "name": "DDScore",
+     "url": "https://ddscore.ai/"
+    }
+   ]
+  },
+  {
+   "term": "photo background removal",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fogkits",
+     "url": "https://exampledir.com/listing/fogkits-314955"
+    },
+    {
+     "name": "MuseMate",
+     "url": "https://gateofai.com/community-tools/musemate"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "flavour swetha telugu",
+   "count": 3,
+   "sources": 3,
+   "ratio": 132.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Swetha Telugu Foods Banana Chips 100G Online",
+     "url": "https://directory6.org/listing/buy-swetha-telugu-foods-banana-chips-100g-online-724628"
+    },
+    {
+     "name": "Buy Swetha Telugu Foods Kerala Mixture 150G Online",
+     "url": "https://aweblist.org/listing/buy-swetha-telugu-foods-kerala-mixture-150g-online-976245"
+    },
+    {
+     "name": "Buy Swetha Telugu Foods Mango Avakaya Pickle",
+     "url": "https://huludirectory.com/listing/buy-swetha-telugu-foods-mango-avakaya-pickle-2262949"
+    }
+   ]
+  },
+  {
+   "term": "experienced orthopaedic",
+   "count": 4,
+   "sources": 2,
+   "ratio": 177.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "ACL reconstruction surgery Patna by Dr. Naveen Sharma",
+     "url": "https://aweblist.org/listing/acl-reconstruction-surgery-patna-by-dr-naveen-sharma-976270"
+    },
+    {
+     "name": "Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma",
+     "url": "https://directory6.org/listing/knee-replacement-surgery-in-jaipur-by-dr-naveen-sharma-724648"
+    },
+    {
+     "name": "Orthopedic Surgeon in Jaipur | Dr. Naveen Sharma",
+     "url": "https://directory6.org/listing/orthopedic-surgeon-in-jaipur-dr-naveen-sharma-724634"
+    }
+   ]
+  },
+  {
+   "term": "pgdm programme",
+   "count": 4,
+   "sources": 3,
+   "ratio": 177.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "B Schools in Delhi",
+     "url": "https://huludirectory.com/listing/b-schools-in-delhi-2262969"
+    },
+    {
+     "name": "MBA Admission 2026",
+     "url": "https://directory6.org/listing/mba-admission-2026-724672"
+    },
+    {
+     "name": "PGDM in Delhi NCR",
+     "url": "https://exampledir.com/listing/pgdm-in-delhi-ncr-314971"
+    }
+   ]
+  },
+  {
+   "term": "batch transcribe audio",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Quiet Typist – Offline Transcription Software | Batch Transc",
+     "url": "https://nothumansearch.ai/site/quiettypist.com"
+    },
+    {
+     "name": "Anxinzhuan",
+     "url": "https://zearches.com/site/software-saas/anxinzhuan-cn-48a010afad"
+    }
+   ]
+  },
+  {
+   "term": "christma photo printable",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Christmas AI — Holiday Photos, Cards & Santa Videos",
+     "url": "https://huludirectory.com/listing/christmas-ai-—-holiday-photos-cards-and-santa-videos-2262953"
+    },
+    {
+     "name": "Christmas AI",
+     "url": "https://zearches.com/site/software-saas/christmas-ai-net-4fe556d5b9"
+    }
+   ]
+  },
+  {
+   "term": "degenerative disc disease",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Spinal Fusion Surgery: Benefits, Reasons & Recovery | Pune",
+     "url": "https://aweblist.org/listing/spinal-fusion-surgery-benefits-reasons-and-recovery-pune-976260"
+    },
+    {
+     "name": "Why Choose Spinal Fusion Surgery? | Dr. Rajesh Parasnis",
+     "url": "https://directory6.org/listing/why-choose-spinal-fusion-surgery-dr-rajesh-parasnis-724641"
+    }
+   ]
+  },
+  {
+   "term": "feel warm peaceful",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Beautiful Home Decor",
+     "url": "https://huludirectory.com/listing/beautiful-home-decor-2262930"
+    },
+    {
+     "name": "Stylish Living Spaces",
+     "url": "https://a2place.com/listing/stylish-living-spaces-718883"
+    }
+   ]
+  },
+  {
+   "term": "ideal education point",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Commerce School In Jaipur",
+     "url": "https://aweblist.org/listing/commerce-school-in-jaipur-976283"
+    },
+    {
+     "name": "Digital School In Rajasthan",
+     "url": "https://directory6.org/listing/digital-school-in-rajasthan-724673"
+    }
+   ]
+  },
+  {
+   "term": "self improving ai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Noeri Raises $110M for Self-Improving Company AI",
+     "url": "https://cellcog.ai/blog/noeri-110-million-plural-ai"
+    },
+    {
+     "name": "Noeri",
+     "url": "https://noeri.ai/"
+    }
+   ]
+  },
+  {
+   "term": "traveler tier list",
+   "count": 2,
+   "sources": 2,
+   "ratio": 88.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "DragonTraveler.gg",
+     "url": "https://dragontraveler.gg/"
+    },
+    {
+     "name": "DragonTraveler.gg Dragon Traveler tier list, teams, codes an",
+     "url": "https://thehackstack.com/s/dragontraveler-2"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "experienced orthopaedic surgeon",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "ACL reconstruction surgery Patna by Dr. Naveen Sharma",
+     "url": "https://aweblist.org/listing/acl-reconstruction-surgery-patna-by-dr-naveen-sharma-976270"
+    },
+    {
+     "name": "Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma",
+     "url": "https://directory6.org/listing/knee-replacement-surgery-in-jaipur-by-dr-naveen-sharma-724648"
+    },
+    {
+     "name": "Orthopedic Surgeon in Jaipur | Dr. Naveen Sharma",
+     "url": "https://directory6.org/listing/orthopedic-surgeon-in-jaipur-dr-naveen-sharma-724634"
+    },
+    {
+     "name": "shoulder joint dislocation treatment Raipur, Chhattisgarh by",
+     "url": "https://directory6.org/listing/shoulder-joint-dislocation-treatment-raipur-chhattisgarh-by-dr-naveen-sharma-724651"
+    }
+   ]
+  },
+  {
+   "term": "buy swetha telugu",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Buy Swetha Telugu Foods Banana Chips 100G Online",
+     "url": "https://directory6.org/listing/buy-swetha-telugu-foods-banana-chips-100g-online-724628"
+    },
+    {
+     "name": "Buy Swetha Telugu Foods Kerala Mixture 150G Online",
+     "url": "https://aweblist.org/listing/buy-swetha-telugu-foods-kerala-mixture-150g-online-976245"
+    },
+    {
+     "name": "Buy Swetha Telugu Foods Mango Avakaya Pickle",
+     "url": "https://huludirectory.com/listing/buy-swetha-telugu-foods-mango-avakaya-pickle-2262949"
+    }
+   ]
+  },
+  {
+   "term": "fore school",
+   "size": 5,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "B Schools in Delhi",
+     "url": "https://huludirectory.com/listing/b-schools-in-delhi-2262969"
+    },
+    {
+     "name": "MBA Admission 2026",
+     "url": "https://directory6.org/listing/mba-admission-2026-724672"
+    },
+    {
+     "name": "PGDM Admission in Delhi NCR",
+     "url": "https://directory6.org/listing/pgdm-admission-in-delhi-ncr-724669"
+    },
+    {
+     "name": "PGDM in Delhi NCR",
+     "url": "https://exampledir.com/listing/pgdm-in-delhi-ncr-314971"
+    }
+   ]
+  },
+  {
+   "term": "creative branding agency",
+   "size": 5,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Content marketing services in Jaipur",
+     "url": "https://aweblist.org/listing/content-marketing-services-in-jaipur-976285"
+    },
+    {
+     "name": "GMB optimization services in Jaipur",
+     "url": "https://exampledir.com/listing/gmb-optimization-services-in-jaipur-314977"
+    },
+    {
+     "name": "Paid advertising agency in Durgapura Jaipur",
+     "url": "https://huludirectory.com/listing/paid-advertising-agency-in-durgapura-jaipur-2262958"
+    },
+    {
+     "name": "SEO agency near me",
+     "url": "https://directory6.org/listing/seo-agency-near-me-724671"
+    }
+   ]
+  },
+  {
+   "term": "patent drafting",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "CNIPA.AI",
+     "url": "https://azn8.com/listing/cnipa-ai"
+    },
+    {
+     "name": "Patent Task",
+     "url": "https://azn8.com/listing/patent-task"
+    },
+    {
+     "name": "Patentassist Ai Ai Patent Drafting",
+     "url": "https://dang.ai/tool/patentassist-ai-ai-patent-drafting"
+    }
+   ]
+  },
+  {
+   "term": "consenting adult portrait",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Hotel Lobby AI",
+     "url": "https://postlaunchkit.com/directory/hotel-lobby-ai-2"
+    },
+    {
+     "name": "No Scrubs AI",
+     "url": "https://noscrubsai.net/"
+    },
+    {
+     "name": "Tiny Desk AI",
+     "url": "https://tinydeskaimeme.com/"
+    }
+   ]
+  },
+  {
+   "term": "experienced urologist",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Dr. Rakshit Ahuja | Best Urologist in Pune",
+     "url": "https://aweblist.org/listing/dr-rakshit-ahuja-best-urologist-in-pune-976269"
+    },
+    {
+     "name": "Experienced Urologist in Pune | Dr. Rakshit Ahuja",
+     "url": "https://directory6.org/listing/experienced-urologist-in-pune-dr-rakshit-ahuja-724650"
+    },
+    {
+     "name": "Urinary Tract Infection Treatment in Pune | UTI Care – Ratna",
+     "url": "https://aweblist.org/listing/urinary-tract-infection-treatment-in-pune-uti-care-–-ratna-hospital-976261"
+    }
+   ]
+  },
+  {
+   "term": "medical imaging",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "AIRead-CT",
+     "url": "https://soombit.ai/en/airead-ct"
+    },
+    {
+     "name": "AIRead-CXR",
+     "url": "https://soombit.ai/en/airead-cxr"
+    },
+    {
+     "name": "Multimodal Fusion: A Review of Breast Cancer Advanced and Tr",
+     "url": "https://arxiv.org/abs/2611.18793"
+    },
+    {
+     "name": "Soombit.ai",
+     "url": "https://soombit.ai/ko"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「experienced orthopaedic surgeon」今日 4 个产品/2 个目录：ACL reconstruction surgery Patna by Dr. Naveen Sharma、Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma",
+  "小词「buy swetha telugu」今日 3 个产品/3 个目录：Buy Swetha Telugu Foods Banana Chips 100G Online、Buy Swetha Telugu Foods Kerala Mixture 150G Online",
+  "小词「fore school」今日 5 个产品/4 个目录：B Schools in Delhi、MBA Admission 2026",
+  "同日小簇「experienced orthopaedic surgeon」4 个相似产品：ACL reconstruction surgery Patna by Dr. Naveen Sharma、Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma、Orthopedic Surgeon in Jaipur | Dr. Naveen Sharma",
+  "同日小簇「buy swetha telugu」3 个相似产品：Buy Swetha Telugu Foods Banana Chips 100G Online、Buy Swetha Telugu Foods Kerala Mixture 150G Online、Buy Swetha Telugu Foods Mango Avakaya Pickle",
+  "跨目录同时出现：blog.google（4 个目录）",
+  "跨目录同时出现：n8n.io（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-17.md",
+ "niche_groups": "- 骨科与脊柱手术服务：experienced orthopaedic surgeon、experienced orthopaedic、certain spinal injury、degenerative disc disease —— 提供ACL重建、膝关节置换及脊柱融合等专科医疗手术方案\n- 本地化食品电商：buy swetha telugu、flavour swetha telugu —— 在线销售Swetha品牌的香蕉片、混合零食等印度特色食品\n- 商业与管理教育：fore school、pgdm programme —— 提供MBA、PGDM等商学院入学咨询及课程项目\n- 本地化数字营销：creative branding agency —— 提供内容营销、GMB优化等针对特定城市（如斋浦尔）的品牌推广服务\n- 离线语音转写工具：android batch transcribe、batch transcribe audio —— 提供Android端离线批量音频转文字的软件解决方案\n- AI节日创意生成：card pet portrait、christma photo printable —— 利用AI生成圣诞主题照片、贺卡及宠物节日形象"
+}

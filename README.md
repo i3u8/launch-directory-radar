@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-16** · 新增 1701 · 监控 197 个目录（今日成功 180）
+**2026-11-17** · 新增 1594 · 监控 197 个目录（今日成功 176）
 
 聚焦小词 Top 15:
 
-- `adhesive performance wear` ×3（3 目录） 🆕：Bulk self adhesive lashes；Pre glued lashes wholesale
-- `double wire mesh` ×3（2 目录） 🆕：Doppelstabmattenzaun.SHOP Installation Guide；Sichtschutz-Streifen.SHOP Installation Guide
-- `codice fiscale calculator` ×2（2 目录） 🆕：Codice Fiscale Subito；Codice Fiscale Subito Free Italian codice fiscale calculator
-- `act designing esthetically` ×2（3 目录） 🆕：Retail Fitouts Canberra - Express Fitouts；Retail Store Fitout ACT - Express Fitouts
-- `carpet cleaner fresno` ×2（2 目录） 🆕：Carpet Cleaner Fresno；Carpet Cleaner Fresno Texas
-- `carpet cleaning stafford` ×2（2 目录） 🆕：Carpet Cleaning Stafford TX；Carpet Cleaning Stafford Texas
-- `chain peptide shipping` ×2（2 目录） 🆕：Cold Chain Peptide Shipping Information – Everclear Peptides；Everclear Peptides – Cold Chain Peptide Shipping and Handlin
-- `college himachal pradesh` ×2（2 目录） 🆕：polytechnic computer science；Polytechnic Skill Development Course in Shimla
-- `editable ai assisted` ×2（2 目录） 🆕：CNIPA.AI；Patent Task
-- `embedded dirt dust` ×2（2 目录） 🆕：Carpet Cleaner Friendswood；Richmond Carpet Cleaning TX
-- `iphone phone case` ×2（2 目录） 🆕：Trendy iPhone Phone Cases for Modern Smartphones | Modish Be；iPhone Phone Cases for Stylish Everyday Protection | Modish 
-- `metal tech porta` ×2（2 目录） 🆕：Portable Container Cabin manufacturer in Mumbra；Porta Cabin Manufacturer in Gujarat
-- `reliable carpet cleaning` ×2（2 目录） 🆕：Carpet Cleaner Fresno Texas；Carpet Cleaner Friendswood
-- `remove stubborn stain` ×2（2 目录） 🆕：Carpet Cleaner Friendswood；Carpet Service & Care Richmond
-- `doja ai` ×3（5 目录） 🆕：Talk to Me Doja AI；Talk to Me Doja AI Make a meme-inspired sway video from one 
+- `experienced orthopaedic surgeon` ×4（2 目录） 🆕：ACL reconstruction surgery Patna by Dr. Naveen Sharma；Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma
+- `buy swetha telugu` ×3（3 目录） 🆕：Buy Swetha Telugu Foods Banana Chips 100G Online；Buy Swetha Telugu Foods Kerala Mixture 150G Online
+- `fore school` ×5（4 目录） 🆕：B Schools in Delhi；MBA Admission 2026
+- `creative branding agency` ×5（4 目录）：Content marketing services in Jaipur；GMB optimization services in Jaipur
+- `android batch transcribe` ×2（2 目录） 🆕：Quiet Typist – Offline Transcription Software | Batch Transc；Anxinzhuan
+- `patent drafting` ×3（2 目录） 🆕：Patent Task；CNIPA.AI
+- `beautiful living room` ×2（2 目录） 🆕：Beautiful Home Decor；Stylish Living Spaces
+- `brace teeth whitening` ×2（2 目录） 🆕：Clove Dental Mohali | Professional Dentists for Healthy Smil；Dental Clinic In Trichy
+- `card pet portrait` ×2（2 目录） 🆕：Christmas AI — Holiday Photos, Cards & Santa Videos；Christmas AI
+- `certain spinal injury` ×2（2 目录） 🆕：Spinal Fusion Surgery: Benefits, Reasons & Recovery | Pune；Why Choose Spinal Fusion Surgery? | Dr. Rajesh Parasnis
+- `choudhary public school` ×2（2 目录） 🆕：Commerce School In Jaipur；Digital School In Rajasthan
+- `dragon traveler tier` ×2（2 目录） 🆕：DragonTraveler.gg；DragonTraveler.gg Dragon Traveler tier list, teams, codes an
+- `outlook data file` ×2（2 目录） 🆕：Reliable Solutions for Outlook Data File Access Problems；Easy Troubleshooting Guide for Outlook Data File Errors
+- `pass due diligence` ×2（3 目录） 🆕：DDScore.ai；DDScore
+- `photo background removal` ×2（2 目录） 🆕：Fogkits；MuseMate
 
 微赛道归纳:
 
-- 美睫与假睫毛批发：adhesive performance wear、different brand concept —— 提供批量自粘式及预粘式假睫毛的批发与品牌定制服务
-- 金属围栏与安装指南：double wire mesh、wire mesh fence —— 提供双丝金属围栏及隐私条的在线商店与安装指导
-- 意大利税务代码计算：codice fiscale calculator、italian codice fiscale —— 提供意大利个人税务代码（Codice Fiscale）的快速计算工具
-- 零售店铺装修与设计：act designing esthetically、custom shop design —— 提供澳大利亚首都领地等地的零售店面快速装修与美学设计服务
-- 地毯清洁与去污服务：carpet cleaner fresno、carpet cleaning stafford、embedded dirt dust、reliable carpet cleaning、remove stubborn stain —— 提供针对顽固污渍和嵌入式灰尘的地毯专业清洁服务
-- 冷链肽类运输：chain peptide shipping、cold chain peptide —— 提供肽类产品的冷链运输、处理及物流信息
+- 骨科与脊柱手术服务：experienced orthopaedic surgeon、experienced orthopaedic、certain spinal injury、degenerative disc disease —— 提供ACL重建、膝关节置换及脊柱融合等专科医疗手术方案
+- 本地化食品电商：buy swetha telugu、flavour swetha telugu —— 在线销售Swetha品牌的香蕉片、混合零食等印度特色食品
+- 商业与管理教育：fore school、pgdm programme —— 提供MBA、PGDM等商学院入学咨询及课程项目
+- 本地化数字营销：creative branding agency —— 提供内容营销、GMB优化等针对特定城市（如斋浦尔）的品牌推广服务
+- 离线语音转写工具：android batch transcribe、batch transcribe audio —— 提供Android端离线批量音频转文字的软件解决方案
+- AI节日创意生成：card pet portrait、christma photo printable —— 利用AI生成圣诞主题照片、贺卡及宠物节日形象
 
-完整报告: [reports/2026-11-16.md](reports/2026-11-16.md)
+完整报告: [reports/2026-11-17.md](reports/2026-11-17.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

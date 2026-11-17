@@ -1,27 +1,27 @@
-# 每日目录雷达 2026-11-16
+# 每日目录雷达 2026-11-17
 
-- 监控目录 197 / 筛查目录 478；今日成功 180，失败 17；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, hyzenpro-com, promoteindex-com, usefuturestack-com, foundr-ai, aiagentautomation-site, apprater-net, discoverly-tech, dowseai-com, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com, webinhalt-de
-- 今日新增条目 **1701**（去重后 1586）；7 天基线 9747，30 天基线 32087
-- 语料 36504 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.23，30天 0.26
+- 监控目录 197 / 筛查目录 478；今日成功 176，失败 21；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, hyzenpro-com, promoteindex-com, usefuturestack-com, foundr-ai, aiagentautomation-site, aiimagetools-io, apprater-net, discoverly-tech, dowseai-com, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com, webinhalt-de
+- 今日新增条目 **1594**（去重后 1498）；7 天基线 9812，30 天基线 33157
+- 语料 37703 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.28，30天 0.26
 
 ## 微赛道归纳（LLM）
 
-- 美睫与假睫毛批发：adhesive performance wear、different brand concept —— 提供批量自粘式及预粘式假睫毛的批发与品牌定制服务
-- 金属围栏与安装指南：double wire mesh、wire mesh fence —— 提供双丝金属围栏及隐私条的在线商店与安装指导
-- 意大利税务代码计算：codice fiscale calculator、italian codice fiscale —— 提供意大利个人税务代码（Codice Fiscale）的快速计算工具
-- 零售店铺装修与设计：act designing esthetically、custom shop design —— 提供澳大利亚首都领地等地的零售店面快速装修与美学设计服务
-- 地毯清洁与去污服务：carpet cleaner fresno、carpet cleaning stafford、embedded dirt dust、reliable carpet cleaning、remove stubborn stain —— 提供针对顽固污渍和嵌入式灰尘的地毯专业清洁服务
-- 冷链肽类运输：chain peptide shipping、cold chain peptide —— 提供肽类产品的冷链运输、处理及物流信息
+- 骨科与脊柱手术服务：experienced orthopaedic surgeon、experienced orthopaedic、certain spinal injury、degenerative disc disease —— 提供ACL重建、膝关节置换及脊柱融合等专科医疗手术方案
+- 本地化食品电商：buy swetha telugu、flavour swetha telugu —— 在线销售Swetha品牌的香蕉片、混合零食等印度特色食品
+- 商业与管理教育：fore school、pgdm programme —— 提供MBA、PGDM等商学院入学咨询及课程项目
+- 本地化数字营销：creative branding agency —— 提供内容营销、GMB优化等针对特定城市（如斋浦尔）的品牌推广服务
+- 离线语音转写工具：android batch transcribe、batch transcribe audio —— 提供Android端离线批量音频转文字的软件解决方案
+- AI节日创意生成：card pet portrait、christma photo printable —— 利用AI生成圣诞主题照片、贺卡及宠物节日形象
 
 ## 信号 Signals
 
-- 小词「adhesive performance wear」今日 3 个产品/3 个目录：Bulk self adhesive lashes、Pre glued lashes wholesale
-- 小词「double wire mesh」今日 3 个产品/2 个目录：Doppelstabmattenzaun.SHOP Installation Guide、Sichtschutz-Streifen.SHOP Installation Guide
-- 小词「codice fiscale calculator」今日 2 个产品/2 个目录：Codice Fiscale Subito、Codice Fiscale Subito Free Italian codice fiscale calculator
-- 同日小簇「adhesive performance wear」3 个相似产品：Bulk self adhesive lashes、Pre glued lashes wholesale、Press on lashes wholesale
-- 同日小簇「double wire mesh」3 个相似产品：Doppelstabmattenzaun.SHOP Installation Guide、GartenzaunDirekt Fence Planner、Sichtschutz-Streifen.SHOP Installation Guide
-- 跨目录同时出现：excerpt.pro（6 个目录）
-- 跨目录同时出现：sandbase.ai（5 个目录）
+- 小词「experienced orthopaedic surgeon」今日 4 个产品/2 个目录：ACL reconstruction surgery Patna by Dr. Naveen Sharma、Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma
+- 小词「buy swetha telugu」今日 3 个产品/3 个目录：Buy Swetha Telugu Foods Banana Chips 100G Online、Buy Swetha Telugu Foods Kerala Mixture 150G Online
+- 小词「fore school」今日 5 个产品/4 个目录：B Schools in Delhi、MBA Admission 2026
+- 同日小簇「experienced orthopaedic surgeon」4 个相似产品：ACL reconstruction surgery Patna by Dr. Naveen Sharma、Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma、Orthopedic Surgeon in Jaipur | Dr. Naveen Sharma
+- 同日小簇「buy swetha telugu」3 个相似产品：Buy Swetha Telugu Foods Banana Chips 100G Online、Buy Swetha Telugu Foods Kerala Mixture 150G Online、Buy Swetha Telugu Foods Mango Avakaya Pickle
+- 跨目录同时出现：blog.google（4 个目录）
+- 跨目录同时出现：n8n.io（4 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -29,75 +29,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **adhesive performance wear** | 3 | 3 | 🆕 | [Bulk self adhesive lashes](https://exampledir.com/listing/bulk-self-adhesive-lashes-314860)；[Pre glued lashes wholesale](https://aweblist.org/listing/pre-glued-lashes-wholesale-975879)；[Press on lashes wholesale](https://huludirectory.com/listing/press-on-lashes-wholesale-2262775) |
-| 2 | **double wire mesh** | 3 | 2 | 🆕 | [Doppelstabmattenzaun.SHOP Installation Guide](https://doppelstabmattenzaun.shop/pages/doppelstabmattenzaun-montage)；[Sichtschutz-Streifen.SHOP Installation Guide](https://sichtschutz-streifen.shop/pages/montageanleitung)；[GartenzaunDirekt Fence Planner](https://gartenzaundirekt.de/pages/doppelstabmatten-zaunplaner) |
-| 3 | **codice fiscale calculator** | 2 | 2 | 🆕 | [Codice Fiscale Subito](https://azn8.com/listing/codice-fiscale-subito)；[Codice Fiscale Subito Free Italian codice fiscale calculator](https://thehackstack.com/s/codicefiscalesubito) |
-| 4 | **act designing esthetically** | 2 | 3 | 🆕 | [Retail Fitouts Canberra - Express Fitouts](https://aweblist.org/listing/retail-fitouts-canberra--express-fitouts-975857)；[Retail Store Fitout ACT - Express Fitouts](https://huludirectory.com/listing/retail-store-fitout-act--express-fitouts-2262752) |
-| 5 | **carpet cleaner fresno** | 2 | 2 | 🆕 | [Carpet Cleaner Fresno](https://exampledir.com/listing/carpet-cleaner-fresno-314821)；[Carpet Cleaner Fresno Texas](https://exampledir.com/listing/carpet-cleaner-fresno-texas-314822) |
-| 6 | **carpet cleaning stafford** | 2 | 2 | 🆕 | [Carpet Cleaning Stafford TX](https://exampledir.com/listing/carpet-cleaning-stafford-tx-314816)；[Carpet Cleaning Stafford Texas](https://exampledir.com/listing/carpet-cleaning-stafford-texas-314817) |
-| 7 | **chain peptide shipping** | 2 | 2 | 🆕 | [Cold Chain Peptide Shipping Information – Everclear Peptides](https://aweblist.org/listing/cold-chain-peptide-shipping-information-–-everclear-peptides-975886)；[Everclear Peptides – Cold Chain Peptide Shipping and Handlin](https://directory6.org/listing/everclear-peptides-–-cold-chain-peptide-shipping-and-handling-information-724375) |
-| 8 | **college himachal pradesh** | 2 | 2 | 🆕 | [polytechnic computer science](https://directory6.org/listing/polytechnic-computer-science-724374)；[Polytechnic Skill Development Course in Shimla](https://exampledir.com/listing/polytechnic-skill-development-course-in-shimla-314856) |
-| 9 | **editable ai assisted** | 2 | 2 | 🆕 | [CNIPA.AI](https://cnipa.ai/)；[Patent Task](https://patenttask.com/) |
-| 10 | **embedded dirt dust** | 2 | 2 | 🆕 | [Carpet Cleaner Friendswood](https://exampledir.com/listing/carpet-cleaner-friendswood-314823)；[Richmond Carpet Cleaning TX](https://exampledir.com/listing/richmond-carpet-cleaning-tx-314820) |
-| 11 | **iphone phone case** | 2 | 2 | 🆕 | [Trendy iPhone Phone Cases for Modern Smartphones | Modish Be](https://huludirectory.com/listing/trendy-iphone-phone-cases-for-modern-smartphones-modish-bear-2262755)；[iPhone Phone Cases for Stylish Everyday Protection | Modish ](https://aweblist.org/listing/iphone-phone-cases-for-stylish-everyday-protection-modish-bear-975862) |
-| 12 | **metal tech porta** | 2 | 2 | 🆕 | [Portable Container Cabin manufacturer in Mumbra](https://aweblist.org/listing/portable-container-cabin-manufacturer-in-mumbra-975854)；[Porta Cabin Manufacturer in Gujarat](https://huludirectory.com/listing/porta-cabin-manufacturer-in-gujarat-2262738) |
-| 13 | **reliable carpet cleaning** | 2 | 2 | 🆕 | [Carpet Cleaner Fresno Texas](https://exampledir.com/listing/carpet-cleaner-fresno-texas-314822)；[Carpet Cleaner Friendswood](https://exampledir.com/listing/carpet-cleaner-friendswood-314823) |
-| 14 | **remove stubborn stain** | 2 | 2 | 🆕 | [Carpet Cleaner Friendswood](https://exampledir.com/listing/carpet-cleaner-friendswood-314823)；[Carpet Service & Care Richmond](https://exampledir.com/listing/carpet-service-and-care-richmond-314818) |
-| 15 | **doja ai** | 3 | 5 | 🆕 | [Talk to Me Doja AI](https://postlaunchkit.com/directory/talk-to-me-doja-ai)；[Talk to Me Doja AI Make a meme-inspired sway video from one ](https://thehackstack.com/s/talktomedoja-2)；[Talk to Me Doja AI Turn one portrait into a 14-second vertic](https://thehackstack.com/s/talktomedoja) |
+| 1 | **experienced orthopaedic surgeon** | 4 | 2 | 🆕 | [ACL reconstruction surgery Patna by Dr. Naveen Sharma](https://aweblist.org/listing/acl-reconstruction-surgery-patna-by-dr-naveen-sharma-976270)；[Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma](https://directory6.org/listing/knee-replacement-surgery-in-jaipur-by-dr-naveen-sharma-724648)；[Orthopedic Surgeon in Jaipur | Dr. Naveen Sharma](https://directory6.org/listing/orthopedic-surgeon-in-jaipur-dr-naveen-sharma-724634) |
+| 2 | **buy swetha telugu** | 3 | 3 | 🆕 | [Buy Swetha Telugu Foods Banana Chips 100G Online](https://directory6.org/listing/buy-swetha-telugu-foods-banana-chips-100g-online-724628)；[Buy Swetha Telugu Foods Kerala Mixture 150G Online](https://aweblist.org/listing/buy-swetha-telugu-foods-kerala-mixture-150g-online-976245)；[Buy Swetha Telugu Foods Mango Avakaya Pickle](https://huludirectory.com/listing/buy-swetha-telugu-foods-mango-avakaya-pickle-2262949) |
+| 3 | **fore school** | 5 | 4 | 🆕 | [B Schools in Delhi](https://huludirectory.com/listing/b-schools-in-delhi-2262969)；[MBA Admission 2026](https://directory6.org/listing/mba-admission-2026-724672)；[PGDM in Delhi NCR](https://exampledir.com/listing/pgdm-in-delhi-ncr-314971) |
+| 4 | **creative branding agency** | 5 | 4 | 24.6x | [Content marketing services in Jaipur](https://aweblist.org/listing/content-marketing-services-in-jaipur-976285)；[GMB optimization services in Jaipur](https://exampledir.com/listing/gmb-optimization-services-in-jaipur-314977)；[Paid advertising agency in Durgapura Jaipur](https://huludirectory.com/listing/paid-advertising-agency-in-durgapura-jaipur-2262958) |
+| 5 | **android batch transcribe** | 2 | 2 | 🆕 | [Quiet Typist – Offline Transcription Software | Batch Transc](https://nothumansearch.ai/site/quiettypist.com)；[Anxinzhuan](https://zearches.com/site/software-saas/anxinzhuan-cn-48a010afad) |
+| 6 | **patent drafting** | 3 | 2 | 🆕 | [Patent Task](https://azn8.com/listing/patent-task)；[CNIPA.AI](https://azn8.com/listing/cnipa-ai)；[Patentassist Ai Ai Patent Drafting](https://dang.ai/tool/patentassist-ai-ai-patent-drafting) |
+| 7 | **beautiful living room** | 2 | 2 | 🆕 | [Beautiful Home Decor](https://huludirectory.com/listing/beautiful-home-decor-2262930)；[Stylish Living Spaces](https://a2place.com/listing/stylish-living-spaces-718883) |
+| 8 | **brace teeth whitening** | 2 | 2 | 🆕 | [Clove Dental Mohali | Professional Dentists for Healthy Smil](https://huludirectory.com/listing/clove-dental-mohali-professional-dentists-for-healthy-smiles-2262936)；[Dental Clinic In Trichy](https://aweblist.org/listing/dental-clinic-in-trichy-976251) |
+| 9 | **card pet portrait** | 2 | 2 | 🆕 | [Christmas AI — Holiday Photos, Cards & Santa Videos](https://huludirectory.com/listing/christmas-ai-—-holiday-photos-cards-and-santa-videos-2262953)；[Christmas AI](https://zearches.com/site/software-saas/christmas-ai-net-4fe556d5b9) |
+| 10 | **certain spinal injury** | 2 | 2 | 🆕 | [Spinal Fusion Surgery: Benefits, Reasons & Recovery | Pune](https://aweblist.org/listing/spinal-fusion-surgery-benefits-reasons-and-recovery-pune-976260)；[Why Choose Spinal Fusion Surgery? | Dr. Rajesh Parasnis](https://directory6.org/listing/why-choose-spinal-fusion-surgery-dr-rajesh-parasnis-724641) |
+| 11 | **choudhary public school** | 2 | 2 | 🆕 | [Commerce School In Jaipur](https://aweblist.org/listing/commerce-school-in-jaipur-976283)；[Digital School In Rajasthan](https://directory6.org/listing/digital-school-in-rajasthan-724673) |
+| 12 | **dragon traveler tier** | 2 | 2 | 🆕 | [DragonTraveler.gg](https://dragontraveler.gg/)；[DragonTraveler.gg Dragon Traveler tier list, teams, codes an](https://thehackstack.com/s/dragontraveler-2) |
+| 13 | **outlook data file** | 2 | 2 | 🆕 | [Reliable Solutions for Outlook Data File Access Problems](https://directory6.org/listing/reliable-solutions-for-outlook-data-file-access-problems-724636)；[Easy Troubleshooting Guide for Outlook Data File Errors](https://aweblist.org/listing/easy-troubleshooting-guide-for-outlook-data-file-errors-976256) |
+| 14 | **pass due diligence** | 2 | 3 | 🆕 | [DDScore.ai](https://postlaunchkit.com/directory/ddscoreai)；[DDScore](https://ddscore.ai/) |
+| 15 | **photo background removal** | 2 | 2 | 🆕 | [Fogkits](https://exampledir.com/listing/fogkits-314955)；[MuseMate](https://gateofai.com/community-tools/musemate) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **different brand concept** × 3（3 个目录）：[Bulk self adhesive lashes](https://exampledir.com/listing/bulk-self-adhesive-lashes-314860)；[Pre glued lashes wholesale](https://aweblist.org/listing/pre-glued-lashes-wholesale-975879)；[Press on lashes wholesale](https://huludirectory.com/listing/press-on-lashes-wholesale-2262775)
-- **wire mesh fence** × 3（2 个目录）：[Doppelstabmattenzaun.SHOP Installation Guide](https://doppelstabmattenzaun.shop/pages/doppelstabmattenzaun-montage)；[Sichtschutz-Streifen.SHOP Installation Guide](https://sichtschutz-streifen.shop/pages/montageanleitung)；[GartenzaunDirekt Fence Planner](https://gartenzaundirekt.de/pages/doppelstabmatten-zaunplaner)
-- **italian codice fiscale** × 2（2 个目录）：[Codice Fiscale Subito](https://azn8.com/listing/codice-fiscale-subito)；[Codice Fiscale Subito Free Italian codice fiscale calculator](https://thehackstack.com/s/codicefiscalesubito)
-- **cold chain peptide** × 2（2 个目录）：[Cold Chain Peptide Shipping Information – Everclear Peptides](https://aweblist.org/listing/cold-chain-peptide-shipping-information-–-everclear-peptides-975886)；[Everclear Peptides – Cold Chain Peptide Shipping and Handlin](https://directory6.org/listing/everclear-peptides-–-cold-chain-peptide-shipping-and-handling-information-724375)
-- **college hotel management** × 2（2 个目录）：[polytechnic computer science](https://directory6.org/listing/polytechnic-computer-science-724374)；[Polytechnic Skill Development Course in Shimla](https://exampledir.com/listing/polytechnic-skill-development-course-in-shimla-314856)
-- **custom shop design** × 2（3 个目录）：[Retail Fitouts Canberra - Express Fitouts](https://aweblist.org/listing/retail-fitouts-canberra--express-fitouts-975857)；[Retail Store Fitout ACT - Express Fitouts](https://huludirectory.com/listing/retail-store-fitout-act--express-fitouts-2262752)
-- **tech porta cabin** × 2（2 个目录）：[Portable Container Cabin manufacturer in Mumbra](https://aweblist.org/listing/portable-container-cabin-manufacturer-in-mumbra-975854)；[Porta Cabin Manufacturer in Gujarat](https://huludirectory.com/listing/porta-cabin-manufacturer-in-gujarat-2262738)
-- **carpet cleaner** × 3（2 个目录）：[Carpet Cleaner Fresno](https://exampledir.com/listing/carpet-cleaner-fresno-314821)；[Carpet Cleaner Fresno Texas](https://exampledir.com/listing/carpet-cleaner-fresno-texas-314822)；[Carpet Cleaner Friendswood](https://exampledir.com/listing/carpet-cleaner-friendswood-314823)
-- **carpet fiber** × 3（2 个目录）：[Carpet Cleaner Fresno](https://exampledir.com/listing/carpet-cleaner-fresno-314821)；[Carpet Cleaner Friendswood](https://exampledir.com/listing/carpet-cleaner-friendswood-314823)；[Carpet Service & Care Richmond](https://exampledir.com/listing/carpet-service-and-care-richmond-314818)
-- **stubborn stain** × 3（2 个目录）：[Carpet Cleaner Friendswood](https://exampledir.com/listing/carpet-cleaner-friendswood-314823)；[Carpet Service & Care Richmond](https://exampledir.com/listing/carpet-service-and-care-richmond-314818)；[Richmond Carpet Cleaning TX](https://exampledir.com/listing/richmond-carpet-cleaning-tx-314820)
+- **flavour swetha telugu** × 3（3 个目录）：[Buy Swetha Telugu Foods Banana Chips 100G Online](https://directory6.org/listing/buy-swetha-telugu-foods-banana-chips-100g-online-724628)；[Buy Swetha Telugu Foods Kerala Mixture 150G Online](https://aweblist.org/listing/buy-swetha-telugu-foods-kerala-mixture-150g-online-976245)；[Buy Swetha Telugu Foods Mango Avakaya Pickle](https://huludirectory.com/listing/buy-swetha-telugu-foods-mango-avakaya-pickle-2262949)
+- **experienced orthopaedic** × 4（2 个目录）：[ACL reconstruction surgery Patna by Dr. Naveen Sharma](https://aweblist.org/listing/acl-reconstruction-surgery-patna-by-dr-naveen-sharma-976270)；[Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma](https://directory6.org/listing/knee-replacement-surgery-in-jaipur-by-dr-naveen-sharma-724648)；[Orthopedic Surgeon in Jaipur | Dr. Naveen Sharma](https://directory6.org/listing/orthopedic-surgeon-in-jaipur-dr-naveen-sharma-724634)
+- **pgdm programme** × 4（3 个目录）：[B Schools in Delhi](https://huludirectory.com/listing/b-schools-in-delhi-2262969)；[MBA Admission 2026](https://directory6.org/listing/mba-admission-2026-724672)；[PGDM in Delhi NCR](https://exampledir.com/listing/pgdm-in-delhi-ncr-314971)
+- **batch transcribe audio** × 2（2 个目录）：[Quiet Typist – Offline Transcription Software | Batch Transc](https://nothumansearch.ai/site/quiettypist.com)；[Anxinzhuan](https://zearches.com/site/software-saas/anxinzhuan-cn-48a010afad)
+- **christma photo printable** × 2（2 个目录）：[Christmas AI — Holiday Photos, Cards & Santa Videos](https://huludirectory.com/listing/christmas-ai-—-holiday-photos-cards-and-santa-videos-2262953)；[Christmas AI](https://zearches.com/site/software-saas/christmas-ai-net-4fe556d5b9)
+- **degenerative disc disease** × 2（2 个目录）：[Spinal Fusion Surgery: Benefits, Reasons & Recovery | Pune](https://aweblist.org/listing/spinal-fusion-surgery-benefits-reasons-and-recovery-pune-976260)；[Why Choose Spinal Fusion Surgery? | Dr. Rajesh Parasnis](https://directory6.org/listing/why-choose-spinal-fusion-surgery-dr-rajesh-parasnis-724641)
+- **feel warm peaceful** × 2（2 个目录）：[Beautiful Home Decor](https://huludirectory.com/listing/beautiful-home-decor-2262930)；[Stylish Living Spaces](https://a2place.com/listing/stylish-living-spaces-718883)
+- **ideal education point** × 2（2 个目录）：[Commerce School In Jaipur](https://aweblist.org/listing/commerce-school-in-jaipur-976283)；[Digital School In Rajasthan](https://directory6.org/listing/digital-school-in-rajasthan-724673)
+- **self improving ai** × 2（2 个目录）：[Noeri Raises $110M for Self-Improving Company AI](https://cellcog.ai/blog/noeri-110-million-plural-ai)；[Noeri](https://noeri.ai/)
+- **traveler tier list** × 2（2 个目录）：[DragonTraveler.gg](https://dragontraveler.gg/)；[DragonTraveler.gg Dragon Traveler tier list, teams, codes an](https://thehackstack.com/s/dragontraveler-2)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **adhesive performance wear** × 3（3 个目录）：[Bulk self adhesive lashes](https://exampledir.com/listing/bulk-self-adhesive-lashes-314860)；[Pre glued lashes wholesale](https://aweblist.org/listing/pre-glued-lashes-wholesale-975879)；[Press on lashes wholesale](https://huludirectory.com/listing/press-on-lashes-wholesale-2262775)
-- **double wire mesh** × 3（2 个目录）：[Doppelstabmattenzaun.SHOP Installation Guide](https://doppelstabmattenzaun.shop/pages/doppelstabmattenzaun-montage)；[GartenzaunDirekt Fence Planner](https://gartenzaundirekt.de/pages/doppelstabmatten-zaunplaner)；[Sichtschutz-Streifen.SHOP Installation Guide](https://sichtschutz-streifen.shop/pages/montageanleitung)
-- **carpet cleaner** × 3（2 个目录）：[Carpet Cleaner Fresno](https://exampledir.com/listing/carpet-cleaner-fresno-314821)；[Carpet Cleaner Fresno Texas](https://exampledir.com/listing/carpet-cleaner-fresno-texas-314822)；[Carpet Cleaner Friendswood](https://exampledir.com/listing/carpet-cleaner-friendswood-314823)
-- **carpet fiber** × 3（2 个目录）：[Carpet Cleaner Fresno](https://exampledir.com/listing/carpet-cleaner-fresno-314821)；[Carpet Cleaner Friendswood](https://exampledir.com/listing/carpet-cleaner-friendswood-314823)；[Carpet Service & Care Richmond](https://exampledir.com/listing/carpet-service-and-care-richmond-314818)
-- **doja ai** × 3（5 个目录）：[Talk to Me Doja AI](https://talktomedoja.com/)；[Talk to Me Doja AI Make a meme-inspired sway video from one ](https://thehackstack.com/s/talktomedoja-2)；[Talk to Me Doja AI Turn one portrait into a 14-second vertic](https://thehackstack.com/s/talktomedoja)
-- **stubborn stain** × 3（2 个目录）：[Carpet Cleaner Friendswood](https://exampledir.com/listing/carpet-cleaner-friendswood-314823)；[Carpet Service & Care Richmond](https://exampledir.com/listing/carpet-service-and-care-richmond-314818)；[Richmond Carpet Cleaning TX](https://exampledir.com/listing/richmond-carpet-cleaning-tx-314820)
-- **private university** × 5（3 个目录）：[best B School in Shimla](https://huludirectory.com/listing/best--b-school-in-shimla-2262766)；[Best Computing College in Mohali](https://directory6.org/listing/best-computing-college-in-mohali-724344)；[best private university for Law in Punjab](https://exampledir.com/listing/best-private-university-for-law-in-punjab-314851)；[Computer Science Universties in Kharar](https://huludirectory.com/listing/computer-science-universties-in-kharar-2262753)
-- **igtrackr instagram** × 4（2 个目录）：[Igtrackr Instagram Comment Viewer](https://www.clapstorm.com/p/igtrackr-instagram-comment-viewer)；[Igtrackr Instagram Giveaway Picker](https://www.clapstorm.com/p/igtrackr-instagram-giveaway-picker)；[Igtrackr Instagram Highlight Viewer](https://www.clapstorm.com/p/igtrackr-instagram-highlight-viewer)；[Igtrackr Instagram Unfollowers Tracker](https://webapps.directory/directory/igtrackr-instagram-unfollowers-tracker)
+- **experienced orthopaedic surgeon** × 4（2 个目录）：[ACL reconstruction surgery Patna by Dr. Naveen Sharma](https://aweblist.org/listing/acl-reconstruction-surgery-patna-by-dr-naveen-sharma-976270)；[Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma](https://directory6.org/listing/knee-replacement-surgery-in-jaipur-by-dr-naveen-sharma-724648)；[Orthopedic Surgeon in Jaipur | Dr. Naveen Sharma](https://directory6.org/listing/orthopedic-surgeon-in-jaipur-dr-naveen-sharma-724634)；[shoulder joint dislocation treatment Raipur, Chhattisgarh by](https://directory6.org/listing/shoulder-joint-dislocation-treatment-raipur-chhattisgarh-by-dr-naveen-sharma-724651)
+- **buy swetha telugu** × 3（3 个目录）：[Buy Swetha Telugu Foods Banana Chips 100G Online](https://directory6.org/listing/buy-swetha-telugu-foods-banana-chips-100g-online-724628)；[Buy Swetha Telugu Foods Kerala Mixture 150G Online](https://aweblist.org/listing/buy-swetha-telugu-foods-kerala-mixture-150g-online-976245)；[Buy Swetha Telugu Foods Mango Avakaya Pickle](https://huludirectory.com/listing/buy-swetha-telugu-foods-mango-avakaya-pickle-2262949)
+- **fore school** × 5（4 个目录）：[B Schools in Delhi](https://huludirectory.com/listing/b-schools-in-delhi-2262969)；[MBA Admission 2026](https://directory6.org/listing/mba-admission-2026-724672)；[PGDM Admission in Delhi NCR](https://directory6.org/listing/pgdm-admission-in-delhi-ncr-724669)；[PGDM in Delhi NCR](https://exampledir.com/listing/pgdm-in-delhi-ncr-314971)
+- **creative branding agency** × 5（4 个目录）：[Content marketing services in Jaipur](https://aweblist.org/listing/content-marketing-services-in-jaipur-976285)；[GMB optimization services in Jaipur](https://exampledir.com/listing/gmb-optimization-services-in-jaipur-314977)；[Paid advertising agency in Durgapura Jaipur](https://huludirectory.com/listing/paid-advertising-agency-in-durgapura-jaipur-2262958)；[SEO agency near me](https://directory6.org/listing/seo-agency-near-me-724671)
+- **patent drafting** × 3（2 个目录）：[CNIPA.AI](https://azn8.com/listing/cnipa-ai)；[Patent Task](https://azn8.com/listing/patent-task)；[Patentassist Ai Ai Patent Drafting](https://dang.ai/tool/patentassist-ai-ai-patent-drafting)
+- **consenting adult portrait** × 3（2 个目录）：[Hotel Lobby AI](https://postlaunchkit.com/directory/hotel-lobby-ai-2)；[No Scrubs AI](https://noscrubsai.net/)；[Tiny Desk AI](https://tinydeskaimeme.com/)
+- **experienced urologist** × 3（2 个目录）：[Dr. Rakshit Ahuja | Best Urologist in Pune](https://aweblist.org/listing/dr-rakshit-ahuja-best-urologist-in-pune-976269)；[Experienced Urologist in Pune | Dr. Rakshit Ahuja](https://directory6.org/listing/experienced-urologist-in-pune-dr-rakshit-ahuja-724650)；[Urinary Tract Infection Treatment in Pune | UTI Care – Ratna](https://aweblist.org/listing/urinary-tract-infection-treatment-in-pune-uti-care-–-ratna-hospital-976261)
+- **medical imaging** × 4（2 个目录）：[AIRead-CT](https://soombit.ai/en/airead-ct)；[AIRead-CXR](https://soombit.ai/en/airead-cxr)；[Multimodal Fusion: A Review of Breast Cancer Advanced and Tr](https://arxiv.org/abs/2611.18793)；[Soombit.ai](https://soombit.ai/ko)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| canopystack.dev | 119 | Other(67)、SaaS(33)、Dev tool(4) |
-| listedstartups.com | 100 | Industrial Software, Engineering Tools, Process Control(6)、Energy, AI(3)、Industrial Software, Engineering Tools, Electrical Protection(3) |
-| curlship.com | 81 | l(81) |
-| dynamite-ai.com | 78 | tools(78) |
-| webapps.directory | 76 | directory(68) |
-| powerfulwebsites.io | 65 | site(65) |
-| thataicollection.com | 55 | application(55) |
+| listedstartups.com | 100 | Industrial Software, Engineering Tools, Process Control(9)、Utilities(5)、Cybersecurity, AI Agents(3) |
+| aitoolseekers.com | 96 | tools(96) |
+| dynamite-ai.com | 89 | tools(89) |
+| canopystack.dev | 86 | Other(49)、SaaS(29)、Dev tool(3) |
+| thataicollection.com | 65 | application(64) |
 | thehackstack.com | 51 |  |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
+| exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
-| planet-ai.net | 50 | ContentCategory.RESEARCH(39)、ContentCategory.NEWS(9)、ContentCategory.TUTORIAL(2) |
+| planet-ai.net | 50 | ContentCategory.RESEARCH(38)、ContentCategory.NEWS(9)、ContentCategory.TUTORIAL(3) |
+| postlaunchkit.com | 50 | design-media(15)、ai-agents(7)、education(5) |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- excerpt.pro（Excerpt）：canopystack.dev, hyzenpro.com, launch.ignlab.net, listedstartups.com, madewithstack.com, worthtotry.com
-- sandbase.ai（SandBase）：canopystack.dev, listedstartups.com, madewithstack.com, startup88.com, worthtotry.com
-- 4xlsize.com（4XL Size）：canopystack.dev, launch.ignlab.net, listedstartups.com, zearches.com
-- agentseo.dev（AgentSEO）：canopystack.dev, hyzenpro.com, listedstartups.com, startup88.com
-- agenttaste.dev（AgentTaste）：hyzenpro.com, launch.ignlab.net, madewithstack.com, worthtotry.com
-- allofusphoto.com（All of Us）：canopystack.dev, launch.ignlab.net, listedstartups.com, worthtotry.com
-- awenfold.com（Awenfold）：canopystack.dev, hyzenpro.com, madewithstack.com, worthtotry.com
-- clipjoy.ai（ClipJoy）：canopystack.dev, listedstartups.com, madewithstack.com, worthtotry.com
-- kdptop.com（KDPTop）：canopystack.dev, madewithstack.com, startup88.com, zearches.com
-- sfxmint.com（SFXMint）：canopystack.dev, madewithstack.com, tools.robingood.com, worthtotry.com
+- blog.google（Google EmbeddingGemma 2）：aitoolly.com, bestaitools.com, planet-ai.net, thequestion.it
+- n8n.io（）：aitoolly.com, hyzenpro.com, nocodelib.com, zoipi.com
+- beeminig.com（BeeMinig）：canopystack.dev, listedstartups.com, startup88.com
+- freeaigo.com（FreeAI Go）：canopystack.dev, listedstartups.com, startup88.com
+- nizlo.com（Nizlo）：canopystack.dev, listedstartups.com, startup88.com
+- openpwa.net（OpenPWA Demo）：canopystack.dev, listedstartups.com, madewithstack.com
+- popnow.ai（PopNow）：aitoolly.com, canopystack.dev, webgora.com
+- rayclip.app（Rayclip）：canopystack.dev, startup88.com, zearches.com
+- tunetify.com（Tunetify）：canopystack.dev, listedstartups.com, worthtotry.com
+- wealthscout.app（WealthScout）：canopystack.dev, madewithstack.com, zearches.com
 
 ## 我们的站点已被目录公开展示
 
@@ -113,22 +113,26 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 23 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 23 天）
-- sitelike-org: RuntimeError: http 403（连续 23 天）
-- hyzenpro-com: JSONDecodeError: Unterminated string starting at: line 1 column 5998899 (char 5998898)（连续 9 天）
-- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 16 天）
-- usefuturestack-com: RuntimeError: http 402（连续 11 天）
-- foundr-ai: RuntimeError: http 403（连续 23 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 23 天）
-- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 2 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 23 天）
-- discoverly-tech: RuntimeError: sitemap http 403（连续 13 天）
-- dowseai-com: RuntimeError: 0 entries parsed（连续 3 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f2ce84926（连续 20 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 23 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 23 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 23 天）
-- webinhalt-de: RuntimeError: 0 entries parsed（连续 8 天）
+- canadawebdir-com: RuntimeError: http 403（连续 24 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 24 天）
+- sitelike-org: RuntimeError: http 403（连续 24 天）
+- hyzenpro-com: JSONDecodeError: Unterminated string starting at: line 1 column 6007764 (char 6007763)（连续 10 天）
+- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 17 天）
+- usefuturestack-com: RuntimeError: http 402（连续 12 天）
+- foundr-ai: RuntimeError: http 403（连续 24 天）
+- startups-snapmunk-com: RuntimeError: http 403（连续 1 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 24 天）
+- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 3 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 24 天）
+- discoverly-tech: RuntimeError: sitemap http 403（连续 14 天）
+- dowseai-com: RuntimeError: 0 entries parsed（连续 4 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f10904966（连续 21 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 24 天）
+- openfuture-ai: RuntimeError: sitemap http 403（连续 1 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 24 天）
+- saasworthy-com: RuntimeError: sitemap http 403（连续 1 天）
+- softwareworld-co: RuntimeError: sitemap http 403（连续 1 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 24 天）
+- webinhalt-de: RuntimeError: 0 entries parsed（连续 9 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar
