@@ -1,0 +1,667 @@
+{
+ "date": "2026-11-18",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 175,
+ "sources_failed": 22,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "startups-snapmunk-com",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "justbuildapps-com",
+  "listai-cc",
+  "nextweekai-com",
+  "openfuture-ai",
+  "phototoolfinder-com",
+  "saasworthy-com",
+  "softwareworld-co"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1667,
+ "new_today_unique": 1567,
+ "ai_share_today": 0.25,
+ "ai_share_30d": 0.26,
+ "niche_terms": [
+  {
+   "term": "uncensored llm api",
+   "count": 3,
+   "sources": 3,
+   "ratio": 130.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "bf16.ai — Uncensored LLM API for Coding & Personal Agents — ",
+     "url": "https://nothumansearch.ai/site/bf16.ai"
+    },
+    {
+     "name": "BF16",
+     "url": "https://bf16.ai/"
+    },
+    {
+     "name": "BF16 Uncensored LLM API for Coding & Personal Agents 💬 0 Com",
+     "url": "https://thehackstack.com/s/bf16"
+    }
+   ]
+  },
+  {
+   "term": "api 中转 转站",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "OmniaKey",
+     "url": "https://webrankdirectory.org/listing/omniakey"
+    },
+    {
+     "name": "Crazyrouter — score 45/100 (developer)",
+     "url": "https://nothumansearch.ai/site/crazyrouter.com"
+    }
+   ]
+  },
+  {
+   "term": "developer nia lock",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Nia Lock — Business Consultant & Developer",
+     "url": "https://thesupportqueen.com/"
+    },
+    {
+     "name": "The Support Queen",
+     "url": "https://thesupportqueen.com/"
+    }
+   ]
+  },
+  {
+   "term": "exp realty leading",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "The Foster Group",
+     "url": "https://huludirectory.com/listing/the-foster-group-2263089"
+    },
+    {
+     "name": "Todd Schroth Home Selling Team",
+     "url": "https://huludirectory.com/listing/todd-schroth-home-selling-team-2263128"
+    }
+   ]
+  },
+  {
+   "term": "pixel avatar maker",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Pixel Avatar Maker",
+     "url": "https://pixelavatargenerator.com/"
+    },
+    {
+     "name": "Square Face Generator",
+     "url": "https://squareface-generator.net/"
+    }
+   ]
+  },
+  {
+   "term": "203k rehab now",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mortgage Lender Dallas TX",
+     "url": "https://exampledir.com/listing/mortgage-lender-dallas-tx-315048"
+    },
+    {
+     "name": "Mortgage Lender Dallas TX | Renovation & Home Loans",
+     "url": "https://huludirectory.com/listing/mortgage-lender-dallas-tx-renovation-and-home-loans-2263087"
+    }
+   ]
+  },
+  {
+   "term": "asaro structure sketche",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "FaceRef",
+     "url": "https://faceref.org/"
+    },
+    {
+     "name": "FaceRef: Spin a 3D head to any angle and light it before you",
+     "url": "https://saasolution.io/tool/faceref"
+    }
+   ]
+  },
+  {
+   "term": "browser photo cropping",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "IDPhotoDock",
+     "url": "https://azn8.com/listing/idphotodock"
+    },
+    {
+     "name": "IDPhotoDock Browser photo cropping and printable photo sheet",
+     "url": "https://thehackstack.com/s/idphotodock"
+    }
+   ]
+  },
+  {
+   "term": "canned mushroom market",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Canned Mushroom Market Growth Challenges",
+     "url": "https://huludirectory.com/listing/canned-mushroom-market-growth-challenges-2263133"
+    },
+    {
+     "name": "Canned Mushroom Market Hindrances",
+     "url": "https://aweblist.org/listing/canned-mushroom-market-hindrances-976634"
+    }
+   ]
+  },
+  {
+   "term": "country total textile",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Maharashtra Textile Subsidy Scheme",
+     "url": "https://aweblist.org/listing/maharashtra-textile-subsidy-scheme-976627"
+    },
+    {
+     "name": "Maharashtra Textile Subsidy Scheme By Interlink",
+     "url": "https://exampledir.com/listing/maharashtra-textile-subsidy-scheme-by-interlink-315067"
+    }
+   ]
+  },
+  {
+   "term": "essential oil price",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Myoils Club Essential Oil Price Calculator",
+     "url": "https://whatareyoubuilding.ai/product/lg7l8ngSQz2xxwt7E20N"
+    },
+    {
+     "name": "Myoils.club Price Calculator Compare essential oil prices an",
+     "url": "https://thehackstack.com/s/myoils"
+    }
+   ]
+  },
+  {
+   "term": "meme template upload",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Starwind",
+     "url": "https://zearches.com/site/entertainment-media/rapvideoaigen-com-3697ee44ec"
+    },
+    {
+     "name": "Starwind - AI Rap Video Generator",
+     "url": "https://directory6.org/listing/starwind--ai-rap-video-generator-724928"
+    }
+   ]
+  },
+  {
+   "term": "mobile ssh sftp",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "TermAI",
+     "url": "https://azn8.com/listing/termai"
+    },
+    {
+     "name": "TermAI Mobile SSH, SFTP and AI command help 💬 0 Comments",
+     "url": "https://thehackstack.com/s/termai"
+    }
+   ]
+  },
+  {
+   "term": "pet tarot card",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Pet Tarot Cards",
+     "url": "https://pettarotcards.com/"
+    },
+    {
+     "name": "Pet Tarot Cards Custom 78-card tarot deck of your dog or cat",
+     "url": "https://thehackstack.com/s/pettarotcards"
+    }
+   ]
+  },
+  {
+   "term": "estate agent associated",
+   "count": 4,
+   "sources": 2,
+   "ratio": 15.8,
+   "new": false,
+   "examples": [
+    {
+     "name": "Briana Winton",
+     "url": "https://huludirectory.com/listing/briana-winton-2263092"
+    },
+    {
+     "name": "The Foster Group",
+     "url": "https://huludirectory.com/listing/the-foster-group-2263089"
+    },
+    {
+     "name": "Steve Nader",
+     "url": "https://a2place.com/listing/steve-nader-718899"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "nia lock find",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Nia Lock — Business Consultant & Developer",
+     "url": "https://thesupportqueen.com/"
+    },
+    {
+     "name": "The Support Queen",
+     "url": "https://thesupportqueen.com/"
+    }
+   ]
+  },
+  {
+   "term": "coding personal agent",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "bf16.ai — Uncensored LLM API for Coding & Personal Agents — ",
+     "url": "https://nothumansearch.ai/site/bf16.ai"
+    },
+    {
+     "name": "BF16 Uncensored LLM API for Coding & Personal Agents 💬 0 Com",
+     "url": "https://thehackstack.com/s/bf16"
+    }
+   ]
+  },
+  {
+   "term": "dalla texa homebuyer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mortgage Lender Dallas TX",
+     "url": "https://exampledir.com/listing/mortgage-lender-dallas-tx-315048"
+    },
+    {
+     "name": "Mortgage Lender Dallas TX | Renovation & Home Loans",
+     "url": "https://huludirectory.com/listing/mortgage-lender-dallas-tx-renovation-and-home-loans-2263087"
+    }
+   ]
+  },
+  {
+   "term": "extended shelf life",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Canned Mushroom Market Growth Challenges",
+     "url": "https://huludirectory.com/listing/canned-mushroom-market-growth-challenges-2263133"
+    },
+    {
+     "name": "Canned Mushroom Market Hindrances",
+     "url": "https://aweblist.org/listing/canned-mushroom-market-hindrances-976634"
+    }
+   ]
+  },
+  {
+   "term": "leading textile producing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Maharashtra Textile Subsidy Scheme",
+     "url": "https://aweblist.org/listing/maharashtra-textile-subsidy-scheme-976627"
+    },
+    {
+     "name": "Maharashtra Textile Subsidy Scheme By Interlink",
+     "url": "https://exampledir.com/listing/maharashtra-textile-subsidy-scheme-by-interlink-315067"
+    }
+   ]
+  },
+  {
+   "term": "printable photo sheet",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "IDPhotoDock",
+     "url": "https://azn8.com/listing/idphotodock"
+    },
+    {
+     "name": "IDPhotoDock Browser photo cropping and printable photo sheet",
+     "url": "https://thehackstack.com/s/idphotodock"
+    }
+   ]
+  },
+  {
+   "term": "rapping performance video",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Starwind",
+     "url": "https://zearches.com/site/entertainment-media/rapvideoaigen-com-3697ee44ec"
+    },
+    {
+     "name": "Starwind - AI Rap Video Generator",
+     "url": "https://directory6.org/listing/starwind--ai-rap-video-generator-724928"
+    }
+   ]
+  },
+  {
+   "term": "realty leading",
+   "count": 3,
+   "sources": 2,
+   "ratio": 130.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "The Foster Group",
+     "url": "https://huludirectory.com/listing/the-foster-group-2263089"
+    },
+    {
+     "name": "Todd Schroth Home Selling Team",
+     "url": "https://huludirectory.com/listing/todd-schroth-home-selling-team-2263128"
+    },
+    {
+     "name": "Clientfocused Group",
+     "url": "https://a2place.com/listing/clientfocused-group-718896"
+    }
+   ]
+  },
+  {
+   "term": "api 中转",
+   "count": 2,
+   "sources": 2,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "OmniaKey",
+     "url": "https://webrankdirectory.org/listing/omniakey"
+    },
+    {
+     "name": "Crazyrouter — score 45/100 (developer)",
+     "url": "https://nothumansearch.ai/site/crazyrouter.com"
+    }
+   ]
+  },
+  {
+   "term": "booked appointment",
+   "count": 2,
+   "sources": 3,
+   "ratio": 87.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Ansa",
+     "url": "https://dealmyapp.com/listings/ansa"
+    },
+    {
+     "name": "The Engine",
+     "url": "https://theengine.dev/"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "uncensored llm api",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Bf16",
+     "url": "https://www.clapstorm.com/p/bf16"
+    },
+    {
+     "name": "bf16.ai — Uncensored LLM API for Coding & Personal Agents — ",
+     "url": "https://nothumansearch.ai/site/bf16.ai"
+    },
+    {
+     "name": "BF16 Uncensored LLM API for Coding & Personal Agents 💬 0 Com",
+     "url": "https://thehackstack.com/s/bf16"
+    }
+   ]
+  },
+  {
+   "term": "realty leading",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Clientfocused Group",
+     "url": "https://a2place.com/listing/clientfocused-group-718896"
+    },
+    {
+     "name": "The Foster Group",
+     "url": "https://a2place.com/listing/the-foster-group-718901"
+    },
+    {
+     "name": "Todd Schroth Home Selling Team",
+     "url": "https://a2place.com/listing/todd-schroth-home-selling-team-718909"
+    }
+   ]
+  },
+  {
+   "term": "seo ads",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Nia Lock — Business Consultant & Developer",
+     "url": "https://thesupportqueen.com/"
+    },
+    {
+     "name": "The Support Queen",
+     "url": "https://thesupportqueen.com/"
+    },
+    {
+     "name": "The Support Queen The Support Queen: SEO, ads, web and suppo",
+     "url": "https://thehackstack.com/s/thesupportqueen"
+    }
+   ]
+  },
+  {
+   "term": "estate agent associated",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Briana Winton",
+     "url": "https://a2place.com/listing/briana-winton-718902"
+    },
+    {
+     "name": "Naomi Selick",
+     "url": "https://a2place.com/listing/naomi-selick-718900"
+    },
+    {
+     "name": "Steve Nader",
+     "url": "https://a2place.com/listing/steve-nader-718899"
+    },
+    {
+     "name": "The Foster Group",
+     "url": "https://a2place.com/listing/the-foster-group-718901"
+    }
+   ]
+  },
+  {
+   "term": "spacious seating",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "8 Seater Airport Taxi Kings Lynn",
+     "url": "https://directory6.org/listing/8-seater-airport-taxi-kings-lynn-724900"
+    },
+    {
+     "name": "Business Class Flights Premium Comfort at Competitive Fares",
+     "url": "https://directory6.org/listing/business-class-flights-premium-comfort-at-competitive-fares-724912"
+    },
+    {
+     "name": "Premium Economy Flights Comfort and Value for Long Haul Trav",
+     "url": "https://directory6.org/listing/premium-economy-flights-comfort-and-value-for-long-haul-travel-724899"
+    },
+    {
+     "name": "Reliable Shuttle Service For Every Group Occasion | Kings Ch",
+     "url": "https://aweblist.org/listing/reliable-shuttle-service-for-every-group-occasion-kings-charter-bus-usa-976631"
+    }
+   ]
+  },
+  {
+   "term": "cinematic scene",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Happy Wan AI Video Generator",
+     "url": "https://zearches.com/site/software-saas/happy-wan-co-6227a832a6"
+    },
+    {
+     "name": "Sheru Bhai AI Photo Generator",
+     "url": "https://agentic.ai/t/sheru-bhai-ai-photo"
+    },
+    {
+     "name": "Vidu Q4 AI Video Generator: Image & Reference to Video — sco",
+     "url": "https://nothumansearch.ai/site/viduai.co"
+    }
+   ]
+  },
+  {
+   "term": "mortgage loan",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "DailyFinance.tools",
+     "url": "https://zearches.com/site/finance-investing/dailyfinance-tools-f111587612"
+    },
+    {
+     "name": "Mortgage Lender Dallas TX",
+     "url": "https://exampledir.com/listing/mortgage-lender-dallas-tx-315048"
+    },
+    {
+     "name": "Mortgage Lender Dallas TX | Renovation & Home Loans",
+     "url": "https://huludirectory.com/listing/mortgage-lender-dallas-tx-renovation-and-home-loans-2263087"
+    }
+   ]
+  },
+  {
+   "term": "stunning video",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "FreeForge: Create Stunning Videos Without Spending a Dime",
+     "url": "https://awesomeindie.com/product/free-forge"
+    },
+    {
+     "name": "MiniMax H3 Video Generator Online",
+     "url": "https://dealmyapp.com/listings/minimax-h3-video-generator-online"
+    },
+    {
+     "name": "TwinClips AI",
+     "url": "https://twinclips.io/"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「uncensored llm api」今日 3 个产品/3 个目录：bf16.ai — Uncensored LLM API for Coding & Personal Agents — 、BF16",
+  "小词「api 中转 转站」今日 2 个产品/2 个目录：OmniaKey、Crazyrouter — score 45/100 (developer)",
+  "小词「developer nia lock」今日 2 个产品/2 个目录：Nia Lock — Business Consultant & Developer、The Support Queen",
+  "同日小簇「uncensored llm api」3 个相似产品：Bf16、bf16.ai — Uncensored LLM API for Coding & Personal Agents — 、BF16 Uncensored LLM API for Coding & Personal Agents 💬 0 Com",
+  "同日小簇「realty leading」3 个相似产品：Clientfocused Group、The Foster Group、Todd Schroth Home Selling Team",
+  "跨目录同时出现：blog.google（4 个目录）",
+  "跨目录同时出现：perplexity.ai（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-18.md",
+ "niche_groups": "- LLM API 中转与无审查接口：uncensored llm api、api 中转 转站、coding personal agent —— 提供无内容过滤的大模型接口及 API 聚合路由服务，主要面向开发者构建个人智能体或编程助手。\n- 移动端 SSH 与 SFTP 工具：mobile ssh sftp —— 为移动设备提供远程服务器连接、文件传输及 AI 命令辅助的终端应用。\n- 证件照与像素头像生成：browser photo cropping、printable photo sheet、pixel avatar maker —— 在浏览器端实现照片裁剪、打印排版以及生成像素风格或方形头像的轻量级图像工具。\n- 房地产贷款与经纪服务：203k rehab now、dalla texa homebuyer、estate agent associated、exp realty leading —— 聚焦于特定地区（如达拉斯）的翻新贷款、购房者服务及房产经纪人的业务展示与获客平台。\n- 宠物定制塔罗牌：pet tarot card —— 提供将宠物形象定制为 78 张塔罗牌套牌的个性化数字或实体产品生成服务。\n- 市场研究与行业数据报告：canned mushroom market、extended shelf life、country total textile、leading textile producing、essential oil price —— 针对罐头蘑菇、纺织补贴及精油价格等垂直领域提供市场增长挑战、补贴政策及价格对比的数据分析内容。"
+}

@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-17** · 新增 1594 · 监控 197 个目录（今日成功 176）
+**2026-11-18** · 新增 1667 · 监控 197 个目录（今日成功 175）
 
 聚焦小词 Top 15:
 
-- `experienced orthopaedic surgeon` ×4（2 目录） 🆕：ACL reconstruction surgery Patna by Dr. Naveen Sharma；Knee Replacement Surgery in Jaipur by Dr. Naveen Sharma
-- `buy swetha telugu` ×3（3 目录） 🆕：Buy Swetha Telugu Foods Banana Chips 100G Online；Buy Swetha Telugu Foods Kerala Mixture 150G Online
-- `fore school` ×5（4 目录） 🆕：B Schools in Delhi；MBA Admission 2026
-- `creative branding agency` ×5（4 目录）：Content marketing services in Jaipur；GMB optimization services in Jaipur
-- `android batch transcribe` ×2（2 目录） 🆕：Quiet Typist – Offline Transcription Software | Batch Transc；Anxinzhuan
-- `patent drafting` ×3（2 目录） 🆕：Patent Task；CNIPA.AI
-- `beautiful living room` ×2（2 目录） 🆕：Beautiful Home Decor；Stylish Living Spaces
-- `brace teeth whitening` ×2（2 目录） 🆕：Clove Dental Mohali | Professional Dentists for Healthy Smil；Dental Clinic In Trichy
-- `card pet portrait` ×2（2 目录） 🆕：Christmas AI — Holiday Photos, Cards & Santa Videos；Christmas AI
-- `certain spinal injury` ×2（2 目录） 🆕：Spinal Fusion Surgery: Benefits, Reasons & Recovery | Pune；Why Choose Spinal Fusion Surgery? | Dr. Rajesh Parasnis
-- `choudhary public school` ×2（2 目录） 🆕：Commerce School In Jaipur；Digital School In Rajasthan
-- `dragon traveler tier` ×2（2 目录） 🆕：DragonTraveler.gg；DragonTraveler.gg Dragon Traveler tier list, teams, codes an
-- `outlook data file` ×2（2 目录） 🆕：Reliable Solutions for Outlook Data File Access Problems；Easy Troubleshooting Guide for Outlook Data File Errors
-- `pass due diligence` ×2（3 目录） 🆕：DDScore.ai；DDScore
-- `photo background removal` ×2（2 目录） 🆕：Fogkits；MuseMate
+- `uncensored llm api` ×3（3 目录） 🆕：bf16.ai — Uncensored LLM API for Coding & Personal Agents — ；BF16
+- `api 中转 转站` ×2（2 目录） 🆕：OmniaKey；Crazyrouter — score 45/100 (developer)
+- `developer nia lock` ×2（2 目录） 🆕：Nia Lock — Business Consultant & Developer；The Support Queen
+- `exp realty leading` ×2（2 目录） 🆕：The Foster Group；Todd Schroth Home Selling Team
+- `pixel avatar maker` ×2（2 目录） 🆕：Pixel Avatar Maker；Square Face Generator
+- `203k rehab now` ×2（2 目录） 🆕：Mortgage Lender Dallas TX；Mortgage Lender Dallas TX | Renovation & Home Loans
+- `asaro structure sketche` ×2（2 目录） 🆕：FaceRef；FaceRef: Spin a 3D head to any angle and light it before you
+- `browser photo cropping` ×2（2 目录） 🆕：IDPhotoDock；IDPhotoDock Browser photo cropping and printable photo sheet
+- `canned mushroom market` ×2（2 目录） 🆕：Canned Mushroom Market Growth Challenges；Canned Mushroom Market Hindrances
+- `country total textile` ×2（2 目录） 🆕：Maharashtra Textile Subsidy Scheme；Maharashtra Textile Subsidy Scheme By Interlink
+- `essential oil price` ×2（2 目录） 🆕：Myoils Club Essential Oil Price Calculator；Myoils.club Price Calculator Compare essential oil prices an
+- `meme template upload` ×2（2 目录） 🆕：Starwind；Starwind - AI Rap Video Generator
+- `mobile ssh sftp` ×2（2 目录） 🆕：TermAI；TermAI Mobile SSH, SFTP and AI command help 💬 0 Comments
+- `pet tarot card` ×2（2 目录） 🆕：Pet Tarot Cards；Pet Tarot Cards Custom 78-card tarot deck of your dog or cat
+- `estate agent associated` ×4（2 目录）：Briana Winton；The Foster Group
 
 微赛道归纳:
 
-- 骨科与脊柱手术服务：experienced orthopaedic surgeon、experienced orthopaedic、certain spinal injury、degenerative disc disease —— 提供ACL重建、膝关节置换及脊柱融合等专科医疗手术方案
-- 本地化食品电商：buy swetha telugu、flavour swetha telugu —— 在线销售Swetha品牌的香蕉片、混合零食等印度特色食品
-- 商业与管理教育：fore school、pgdm programme —— 提供MBA、PGDM等商学院入学咨询及课程项目
-- 本地化数字营销：creative branding agency —— 提供内容营销、GMB优化等针对特定城市（如斋浦尔）的品牌推广服务
-- 离线语音转写工具：android batch transcribe、batch transcribe audio —— 提供Android端离线批量音频转文字的软件解决方案
-- AI节日创意生成：card pet portrait、christma photo printable —— 利用AI生成圣诞主题照片、贺卡及宠物节日形象
+- LLM API 中转与无审查接口：uncensored llm api、api 中转 转站、coding personal agent —— 提供无内容过滤的大模型接口及 API 聚合路由服务，主要面向开发者构建个人智能体或编程助手。
+- 移动端 SSH 与 SFTP 工具：mobile ssh sftp —— 为移动设备提供远程服务器连接、文件传输及 AI 命令辅助的终端应用。
+- 证件照与像素头像生成：browser photo cropping、printable photo sheet、pixel avatar maker —— 在浏览器端实现照片裁剪、打印排版以及生成像素风格或方形头像的轻量级图像工具。
+- 房地产贷款与经纪服务：203k rehab now、dalla texa homebuyer、estate agent associated、exp realty leading —— 聚焦于特定地区（如达拉斯）的翻新贷款、购房者服务及房产经纪人的业务展示与获客平台。
+- 宠物定制塔罗牌：pet tarot card —— 提供将宠物形象定制为 78 张塔罗牌套牌的个性化数字或实体产品生成服务。
+- 市场研究与行业数据报告：canned mushroom market、extended shelf life、country total textile、leading textile producing、essential oil price —— 针对罐头蘑菇、纺织补贴及精油价格等垂直领域提供市场增长挑战、补贴政策及价格对比的数据分析内容。
 
-完整报告: [reports/2026-11-17.md](reports/2026-11-17.md)
+完整报告: [reports/2026-11-18.md](reports/2026-11-18.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
