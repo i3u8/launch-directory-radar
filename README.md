@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-18** · 新增 1667 · 监控 197 个目录（今日成功 175）
+**2026-11-19** · 新增 1659 · 监控 197 个目录（今日成功 180）
 
 聚焦小词 Top 15:
 
-- `uncensored llm api` ×3（3 目录） 🆕：bf16.ai — Uncensored LLM API for Coding & Personal Agents — ；BF16
-- `api 中转 转站` ×2（2 目录） 🆕：OmniaKey；Crazyrouter — score 45/100 (developer)
-- `developer nia lock` ×2（2 目录） 🆕：Nia Lock — Business Consultant & Developer；The Support Queen
-- `exp realty leading` ×2（2 目录） 🆕：The Foster Group；Todd Schroth Home Selling Team
-- `pixel avatar maker` ×2（2 目录） 🆕：Pixel Avatar Maker；Square Face Generator
-- `203k rehab now` ×2（2 目录） 🆕：Mortgage Lender Dallas TX；Mortgage Lender Dallas TX | Renovation & Home Loans
-- `asaro structure sketche` ×2（2 目录） 🆕：FaceRef；FaceRef: Spin a 3D head to any angle and light it before you
-- `browser photo cropping` ×2（2 目录） 🆕：IDPhotoDock；IDPhotoDock Browser photo cropping and printable photo sheet
-- `canned mushroom market` ×2（2 目录） 🆕：Canned Mushroom Market Growth Challenges；Canned Mushroom Market Hindrances
-- `country total textile` ×2（2 目录） 🆕：Maharashtra Textile Subsidy Scheme；Maharashtra Textile Subsidy Scheme By Interlink
-- `essential oil price` ×2（2 目录） 🆕：Myoils Club Essential Oil Price Calculator；Myoils.club Price Calculator Compare essential oil prices an
-- `meme template upload` ×2（2 目录） 🆕：Starwind；Starwind - AI Rap Video Generator
-- `mobile ssh sftp` ×2（2 目录） 🆕：TermAI；TermAI Mobile SSH, SFTP and AI command help 💬 0 Comments
-- `pet tarot card` ×2（2 目录） 🆕：Pet Tarot Cards；Pet Tarot Cards Custom 78-card tarot deck of your dog or cat
-- `estate agent associated` ×4（2 目录）：Briana Winton；The Foster Group
+- `automobile spare part` ×4（2 目录） 🆕：: Find the Right Car Parts Seller in Doha Without the Guessw；Automobile Spare Parts Shop Qatar - Authentic Components
+- `cli nten uit` ×3（2 目录） 🆕：Afkickkliniek in Zuid-Afrika；Afkickkliniek in Zuid-Afrika voor Belgen
+- `designer inspired style` ×3（3 目录） 🆕：foam runner reps；jordan one reps
+- `education franchise opportunity` ×3（2 目录） 🆕：Best Education Franchise in India；Education Franchise in India
+- `abacus trainer boost` ×2（2 目录） 🆕：Online Abacus Classes for Students || Abacus Trainer；Online Abacus Classes for Students
+- `photo reference video` ×2（2 目录） 🆕：Animot；Animot AI motion control from photo + reference video 💬 0 Co
+- `shoulder carry trend` ×2（2 目录） 🆕：AI Shoulder Carry；AI Shoulder Carry Turn two photos into the TikTok shoulder c
+- `assisted living comfortable` ×2（2 目录） 🆕：Best Aged Care in Lucknow – Sincerity；Sincerity-Best Aged Care in Lucknow,
+- `mexico pterodactyl ai` ×2（2 目录） 🆕：Mexico Pterodactyl AI Step into a Mexico pterodactyl scene w；Mexico Pterodactyl Ai
+- `pst file repair` ×2（2 目录） 🆕：Outlook PST File Repair: Get Reliable Help for Outlook File ；Outlook PST File Repair: Simple Solutions for Corrupted Outl
+- `root cause faster` ×2（2 目录） 🆕：Measure；Measure Mobile apps break, get to the root cause faster. 💬 0
+- `second hand seller` ×2（2 目录） 🆕：Vigilante: Work out what a second-hand sale earns after fees；Vigilante Resale Profit Calculator
+- `seo agency sudbury` ×2（2 目录） 🆕：SEO Agency Sudbury - Helping Local Businesses Improve Google；SEO Agency Sudbury – Professional SEO Services for Business 
+- `dynalog india` ×3（2 目录） 🆕：Dynalog India – Industrial Computing, Data Acquisition & Aut；Dynalog India – Rugged Computers & Make in India Defence Sys
+- `xbox sery` ×3（5 目录） 🆕：GTA 6 su PS4, Xbox One e Xbox Series S: dove si gioca e come；GTA 6 è uscito: orario in Italia, voti delle recensioni e co
 
 微赛道归纳:
 
-- LLM API 中转与无审查接口：uncensored llm api、api 中转 转站、coding personal agent —— 提供无内容过滤的大模型接口及 API 聚合路由服务，主要面向开发者构建个人智能体或编程助手。
-- 移动端 SSH 与 SFTP 工具：mobile ssh sftp —— 为移动设备提供远程服务器连接、文件传输及 AI 命令辅助的终端应用。
-- 证件照与像素头像生成：browser photo cropping、printable photo sheet、pixel avatar maker —— 在浏览器端实现照片裁剪、打印排版以及生成像素风格或方形头像的轻量级图像工具。
-- 房地产贷款与经纪服务：203k rehab now、dalla texa homebuyer、estate agent associated、exp realty leading —— 聚焦于特定地区（如达拉斯）的翻新贷款、购房者服务及房产经纪人的业务展示与获客平台。
-- 宠物定制塔罗牌：pet tarot card —— 提供将宠物形象定制为 78 张塔罗牌套牌的个性化数字或实体产品生成服务。
-- 市场研究与行业数据报告：canned mushroom market、extended shelf life、country total textile、leading textile producing、essential oil price —— 针对罐头蘑菇、纺织补贴及精油价格等垂直领域提供市场增长挑战、补贴政策及价格对比的数据分析内容。
+- 汽车零配件本地化服务：automobile spare part、spare part shop —— 面向特定地区（如卡塔尔）提供汽车零配件的查找与购买服务
+- AI 创意视频生成：photo reference video、shoulder carry trend、tiktok shoulder carry、mexico pterodactyl ai —— 利用 AI 技术将静态照片转化为动态视频或生成特定场景的创意内容
+- 教育连锁与在线培训：education franchise opportunity、trusted education brand、abacus trainer boost、boost calculation speed —— 提供教育品牌加盟机会及在线算数等技能提升课程
+- 本地生活与医疗导航：cli nten uit、kaapstad zuid afrika、seo agency sudbury、assisted living comfortable —— 针对特定地理位置提供诊所、养老院或本地 SEO 等生活服务信息
+- 工业计算与硬件系统：dynalog india、xbox sery —— 提供工业级计算机、数据采集系统或游戏主机相关硬件资讯
+- 数字工具与效率优化：pst file repair、root cause faster、second hand seller —— 提供文件修复、应用故障排查或二手交易利润计算等实用数字工具
 
-完整报告: [reports/2026-11-18.md](reports/2026-11-18.md)
+完整报告: [reports/2026-11-19.md](reports/2026-11-19.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
