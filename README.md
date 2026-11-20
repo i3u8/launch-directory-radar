@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-19** · 新增 1659 · 监控 197 个目录（今日成功 180）
+**2026-11-20** · 新增 1646 · 监控 197 个目录（今日成功 173）
 
 聚焦小词 Top 15:
 
-- `automobile spare part` ×4（2 目录） 🆕：: Find the Right Car Parts Seller in Doha Without the Guessw；Automobile Spare Parts Shop Qatar - Authentic Components
-- `cli nten uit` ×3（2 目录） 🆕：Afkickkliniek in Zuid-Afrika；Afkickkliniek in Zuid-Afrika voor Belgen
-- `designer inspired style` ×3（3 目录） 🆕：foam runner reps；jordan one reps
-- `education franchise opportunity` ×3（2 目录） 🆕：Best Education Franchise in India；Education Franchise in India
-- `abacus trainer boost` ×2（2 目录） 🆕：Online Abacus Classes for Students || Abacus Trainer；Online Abacus Classes for Students
-- `photo reference video` ×2（2 目录） 🆕：Animot；Animot AI motion control from photo + reference video 💬 0 Co
-- `shoulder carry trend` ×2（2 目录） 🆕：AI Shoulder Carry；AI Shoulder Carry Turn two photos into the TikTok shoulder c
-- `assisted living comfortable` ×2（2 目录） 🆕：Best Aged Care in Lucknow – Sincerity；Sincerity-Best Aged Care in Lucknow,
-- `mexico pterodactyl ai` ×2（2 目录） 🆕：Mexico Pterodactyl AI Step into a Mexico pterodactyl scene w；Mexico Pterodactyl Ai
-- `pst file repair` ×2（2 目录） 🆕：Outlook PST File Repair: Get Reliable Help for Outlook File ；Outlook PST File Repair: Simple Solutions for Corrupted Outl
-- `root cause faster` ×2（2 目录） 🆕：Measure；Measure Mobile apps break, get to the root cause faster. 💬 0
-- `second hand seller` ×2（2 目录） 🆕：Vigilante: Work out what a second-hand sale earns after fees；Vigilante Resale Profit Calculator
-- `seo agency sudbury` ×2（2 目录） 🆕：SEO Agency Sudbury - Helping Local Businesses Improve Google；SEO Agency Sudbury – Professional SEO Services for Business 
-- `dynalog india` ×3（2 目录） 🆕：Dynalog India – Industrial Computing, Data Acquisition & Aut；Dynalog India – Rugged Computers & Make in India Defence Sys
-- `xbox sery` ×3（5 目录） 🆕：GTA 6 su PS4, Xbox One e Xbox Series S: dove si gioca e come；GTA 6 è uscito: orario in Italia, voti delle recensioni e co
+- `appreciate distinctive design` ×3（3 目录） 🆕：jordan 11 reps；jordan 3 reps
+- `spaceora ai` ×4（2 目录） 🆕：Spaceora Ai Backyard Design；Spaceora Ai Home Design Generator
+- `brand white label` ×2（2 目录） 🆕：GeoGen: AI Visibility Platform for Brands, Agencies & APIs —；GeoGen
+- `clean image metadata` ×2（3 目录） 🆕：AI Metadata Remover；AI Metadata Remover Clean image metadata privately in your b
+- `native creative suite` ×2（2 目录） 🆕：Auteo；Auteo The AI-native creative suite 💬 0 Comments
+- `australia low profile` ×2（2 目录） 🆕：Mini LED Light Bars in Australia | Low Profile & Emergency M；Mini LED Light Bars in Australia | Low Profile & Emergency M
+- `category localisation reference` ×2（2 目录） 🆕：hip.porn Category Localisation Reference；hip.porn Category Localisation Reference Compare 151 categor
+- `convenient airport transfer` ×2（2 目录） 🆕：Premium Shirley Taxi & Croydon Car Travel；Georgetown Airport Limo Service
+- `repair engine diagnostic` ×2（2 目录） 🆕：auto repair shop near you；Best Car Repair Garage in Dubai | Awtar Auto Garage
+- `tasty treat swetha` ×2（2 目录） 🆕：Buy Swetha Telugu Foods Garlic Muruku 170G Online；Buy Swetha Telugu Foods Jantikalu170G Online
+- `independent gta` ×3（3 目录） 🆕：GTA 6 Mandy Guide；MandyLucia
+- `self reflection quiz` ×3（3 目录）：7 Deadly Sins Test；Love Language Lab
+- `shirley taxi` ×3（3 目录） 🆕：Affordable Shirley Taxi Services | Croydon Cars；Book Shirley Taxi Today for a Great Travel Experience
+- `track employee` ×3（2 目录） 🆕：mobil attendance；Employee Attendance Management Services
+- `attendance management system` ×3（2 目录）：biometric attendance management；Mobile Employee Attendance Management System
 
 微赛道归纳:
 
-- 汽车零配件本地化服务：automobile spare part、spare part shop —— 面向特定地区（如卡塔尔）提供汽车零配件的查找与购买服务
-- AI 创意视频生成：photo reference video、shoulder carry trend、tiktok shoulder carry、mexico pterodactyl ai —— 利用 AI 技术将静态照片转化为动态视频或生成特定场景的创意内容
-- 教育连锁与在线培训：education franchise opportunity、trusted education brand、abacus trainer boost、boost calculation speed —— 提供教育品牌加盟机会及在线算数等技能提升课程
-- 本地生活与医疗导航：cli nten uit、kaapstad zuid afrika、seo agency sudbury、assisted living comfortable —— 针对特定地理位置提供诊所、养老院或本地 SEO 等生活服务信息
-- 工业计算与硬件系统：dynalog india、xbox sery —— 提供工业级计算机、数据采集系统或游戏主机相关硬件资讯
-- 数字工具与效率优化：pst file repair、root cause faster、second hand seller —— 提供文件修复、应用故障排查或二手交易利润计算等实用数字工具
+- AI图像隐私处理：clean image metadata、image metadata privately —— 提供在本地或隐私环境下清除图片元数据的服务
+- AI原生创意与设计工具：native creative suite、spaceora ai —— 提供AI原生的创意套件及家居、后院等场景的设计生成器
+- 品牌AI可见性平台：brand white label、brand white —— 为品牌、代理机构提供AI搜索可见性优化的白标平台
+- 员工考勤管理：track employee、attendance management system —— 提供基于生物识别或移动端的员工考勤与出勤管理系统
+- 本地化生活服务：shirley taxi、convenient airport transfer、repair engine diagnostic —— 提供特定区域（如Shirley、迪拜）的出租车、机场接送及汽车维修服务
+- 特色食品与内容垂直：tasty treat swetha、traditional indian snack、independent gta、self reflection quiz —— 涵盖印度传统零食电商、GTA独立内容指南及心理自测小工具
 
-完整报告: [reports/2026-11-19.md](reports/2026-11-19.md)
+完整报告: [reports/2026-11-20.md](reports/2026-11-20.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

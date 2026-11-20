@@ -1,0 +1,682 @@
+{
+ "date": "2026-11-20",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 173,
+ "sources_failed": 24,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "aitoolshunt-com",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "bestaitools-com",
+  "dealmyapp-com",
+  "foundr-ai",
+  "startups-snapmunk-com",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "openfuture-ai",
+  "phototoolfinder-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1646,
+ "new_today_unique": 1536,
+ "ai_share_today": 0.24,
+ "ai_share_30d": 0.26,
+ "niche_terms": [
+  {
+   "term": "appreciate distinctive design",
+   "count": 3,
+   "sources": 3,
+   "ratio": 138.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "jordan 11 reps",
+     "url": "https://huludirectory.com/listing/jordan-11-reps-2263450"
+    },
+    {
+     "name": "jordan 3 reps",
+     "url": "https://aweblist.org/listing/jordan-3-reps-977287"
+    },
+    {
+     "name": "yeezy 350 reps",
+     "url": "https://directory6.org/listing/yeezy-350-reps-725436"
+    }
+   ]
+  },
+  {
+   "term": "spaceora ai",
+   "count": 4,
+   "sources": 2,
+   "ratio": 184.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Spaceora Ai Backyard Design",
+     "url": "https://dynamite-ai.com/tools/spaceora-ai-backyard-design"
+    },
+    {
+     "name": "Spaceora Ai Home Design Generator",
+     "url": "https://dang.ai/tool/spaceora-ai-home-design-generator"
+    },
+    {
+     "name": "Spaceora Ai Interior Design",
+     "url": "https://dynamite-ai.com/tools/spaceora-ai-interior-design"
+    }
+   ]
+  },
+  {
+   "term": "brand white label",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "GeoGen: AI Visibility Platform for Brands, Agencies & APIs —",
+     "url": "https://nothumansearch.ai/site/geogen.io"
+    },
+    {
+     "name": "GeoGen",
+     "url": "https://geogen.io/"
+    }
+   ]
+  },
+  {
+   "term": "clean image metadata",
+   "count": 2,
+   "sources": 3,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Metadata Remover",
+     "url": "https://zearches.com/site/software-saas/metadataclear-com-21d978d093"
+    },
+    {
+     "name": "AI Metadata Remover Clean image metadata privately in your b",
+     "url": "https://thehackstack.com/s/metadataclear"
+    }
+   ]
+  },
+  {
+   "term": "native creative suite",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Auteo",
+     "url": "https://auteo.ai/"
+    },
+    {
+     "name": "Auteo The AI-native creative suite 💬 0 Comments",
+     "url": "https://thehackstack.com/s/auteo"
+    }
+   ]
+  },
+  {
+   "term": "australia low profile",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mini LED Light Bars in Australia | Low Profile & Emergency M",
+     "url": "https://exampledir.com/listing/mini-led-light-bars-in-australia-low-profile-and-emergency-mini-light-bars-315256"
+    },
+    {
+     "name": "Mini LED Light Bars in Australia | Low Profile & Emergency M",
+     "url": "https://huludirectory.com/listing/mini-led-light-bars-in-australia-low-profile-and-emergency-mini-light-barsmini-led-light-bars-in-aus-2263410"
+    }
+   ]
+  },
+  {
+   "term": "category localisation reference",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "hip.porn Category Localisation Reference",
+     "url": "https://hip.porn/resources/category-localisation"
+    },
+    {
+     "name": "hip.porn Category Localisation Reference Compare 151 categor",
+     "url": "https://thehackstack.com/s/hip"
+    }
+   ]
+  },
+  {
+   "term": "convenient airport transfer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Premium Shirley Taxi & Croydon Car Travel",
+     "url": "https://a2place.com/listing/premium-shirley-taxi-and-croydon-car-travel-718952"
+    },
+    {
+     "name": "Georgetown Airport Limo Service",
+     "url": "https://exampledir.com/listing/georgetown-airport-limo-service-315246"
+    }
+   ]
+  },
+  {
+   "term": "repair engine diagnostic",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "auto repair shop near you",
+     "url": "https://exampledir.com/listing/auto-repair-shop-near-you-315251"
+    },
+    {
+     "name": "Best Car Repair Garage in Dubai | Awtar Auto Garage",
+     "url": "https://exampledir.com/listing/best-car-repair-garage-in-dubai-awtar-auto-garage-315294"
+    }
+   ]
+  },
+  {
+   "term": "tasty treat swetha",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Swetha Telugu Foods Garlic Muruku 170G Online",
+     "url": "https://directory6.org/listing/buy-swetha-telugu-foods-garlic-muruku-170g-online-725462"
+    },
+    {
+     "name": "Buy Swetha Telugu Foods Jantikalu170G Online",
+     "url": "https://aweblist.org/listing/buy-swetha-telugu-foods-jantikalu170g-online-977305"
+    }
+   ]
+  },
+  {
+   "term": "independent gta",
+   "count": 3,
+   "sources": 3,
+   "ratio": 138.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "GTA 6 Mandy Guide",
+     "url": "https://zearches.com/site/gaming-esports/gta6mandyguide-com-bec5940560"
+    },
+    {
+     "name": "MandyLucia",
+     "url": "https://mandylucia.com/"
+    },
+    {
+     "name": "GTA 6 Guide",
+     "url": "https://zearches.com/site/gaming-esports/gta6guide-games-7150a760eb"
+    }
+   ]
+  },
+  {
+   "term": "self reflection quiz",
+   "count": 3,
+   "sources": 3,
+   "ratio": 46.2,
+   "new": false,
+   "examples": [
+    {
+     "name": "7 Deadly Sins Test",
+     "url": "https://postlaunchkit.com/directory/7-deadly-sins-test-7"
+    },
+    {
+     "name": "Love Language Lab",
+     "url": "https://takelovelanguagetest.com/"
+    },
+    {
+     "name": "7 Deadly Sins Test Free 28-statement self-reflection quiz on",
+     "url": "https://thehackstack.com/s/7deadlysins"
+    }
+   ]
+  },
+  {
+   "term": "shirley taxi",
+   "count": 3,
+   "sources": 3,
+   "ratio": 138.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Affordable Shirley Taxi Services | Croydon Cars",
+     "url": "https://huludirectory.com/listing/affordable-shirley-taxi-services-croydon-cars-2263458"
+    },
+    {
+     "name": "Book Shirley Taxi Today for a Great Travel Experience",
+     "url": "https://directory6.org/listing/book-shirley-taxi-today-for-a-great-travel-experience-725475"
+    },
+    {
+     "name": "Premium Shirley Taxi & Croydon Car Travel",
+     "url": "https://a2place.com/listing/premium-shirley-taxi-and-croydon-car-travel-718952"
+    }
+   ]
+  },
+  {
+   "term": "track employee",
+   "count": 3,
+   "sources": 2,
+   "ratio": 138.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "mobil attendance",
+     "url": "https://aweblist.org/listing/mobil-attendance-977328"
+    },
+    {
+     "name": "Employee Attendance Management Services",
+     "url": "https://exampledir.com/listing/employee-attendance-management-services-315291"
+    },
+    {
+     "name": "Fingerprint Employee Attendance Solutions",
+     "url": "https://exampledir.com/listing/fingerprint-employee-attendance-solutions-315285"
+    }
+   ]
+  },
+  {
+   "term": "attendance management system",
+   "count": 3,
+   "sources": 2,
+   "ratio": 46.2,
+   "new": false,
+   "examples": [
+    {
+     "name": "biometric attendance management",
+     "url": "https://aweblist.org/listing/biometric-attendance-management-977326"
+    },
+    {
+     "name": "Mobile Employee Attendance Management System",
+     "url": "https://exampledir.com/listing/mobile-employee-attendance-management-system-315287"
+    },
+    {
+     "name": "Employee Time and Attendance Management System",
+     "url": "https://exampledir.com/listing/employee-time-and-attendance-management-system-315284"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "bringing together carefully",
+   "count": 3,
+   "sources": 3,
+   "ratio": 138.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "jordan 11 reps",
+     "url": "https://huludirectory.com/listing/jordan-11-reps-2263450"
+    },
+    {
+     "name": "jordan 3 reps",
+     "url": "https://aweblist.org/listing/jordan-3-reps-977287"
+    },
+    {
+     "name": "yeezy 350 reps",
+     "url": "https://directory6.org/listing/yeezy-350-reps-725436"
+    }
+   ]
+  },
+  {
+   "term": "image metadata privately",
+   "count": 2,
+   "sources": 3,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Metadata Remover",
+     "url": "https://zearches.com/site/software-saas/metadataclear-com-21d978d093"
+    },
+    {
+     "name": "AI Metadata Remover Clean image metadata privately in your b",
+     "url": "https://thehackstack.com/s/metadataclear"
+    }
+   ]
+  },
+  {
+   "term": "bars magnetic mini",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mini LED Light Bars in Australia | Low Profile & Emergency M",
+     "url": "https://exampledir.com/listing/mini-led-light-bars-in-australia-low-profile-and-emergency-mini-light-bars-315256"
+    },
+    {
+     "name": "Mini LED Light Bars in Australia | Low Profile & Emergency M",
+     "url": "https://huludirectory.com/listing/mini-led-light-bars-in-australia-low-profile-and-emergency-mini-light-barsmini-led-light-bars-in-aus-2263410"
+    }
+   ]
+  },
+  {
+   "term": "traditional indian snack",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Swetha Telugu Foods Garlic Muruku 170G Online",
+     "url": "https://directory6.org/listing/buy-swetha-telugu-foods-garlic-muruku-170g-online-725462"
+    },
+    {
+     "name": "Buy Swetha Telugu Foods Jantikalu170G Online",
+     "url": "https://aweblist.org/listing/buy-swetha-telugu-foods-jantikalu170g-online-977305"
+    }
+   ]
+  },
+  {
+   "term": "brand white",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "GeoGen: AI Visibility Platform for Brands, Agencies & APIs —",
+     "url": "https://nothumansearch.ai/site/geogen.io"
+    },
+    {
+     "name": "GeoGen",
+     "url": "https://geogen.io/"
+    }
+   ]
+  },
+  {
+   "term": "native creative",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Auteo",
+     "url": "https://auteo.ai/"
+    },
+    {
+     "name": "Auteo The AI-native creative suite 💬 0 Comments",
+     "url": "https://thehackstack.com/s/auteo"
+    }
+   ]
+  },
+  {
+   "term": "prompt choose",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Flaq Free AI Video Generator",
+     "url": "https://whatareyoubuilding.ai/product/It46TCPvW3YDLUyTWfId"
+    },
+    {
+     "name": "Auteo",
+     "url": "https://postlaunchkit.com/directory/auteo"
+    }
+   ]
+  },
+  {
+   "term": "52+ agent",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Source SEO",
+     "url": "https://sourceseo.ai/"
+    },
+    {
+     "name": "Source SEO World's First SEO Service-As-A-Software Run with ",
+     "url": "https://thehackstack.com/s/sourceseo"
+    }
+   ]
+  },
+  {
+   "term": "brown patche",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Grass Identifier: What Type of Grass Do I Have? Free — score",
+     "url": "https://nothumansearch.ai/site/grassid.app"
+    },
+    {
+     "name": "Grass Identifier",
+     "url": "https://postlaunchkit.com/directory/grass-identifier"
+    }
+   ]
+  },
+  {
+   "term": "builditomi ai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 92.5,
+   "new": true,
+   "examples": [
+    {
+     "name": "Builditomi Ai App Builder By Omi",
+     "url": "https://aitoolseekers.com/tools/builditomi-ai-app-builder-by-omi"
+    },
+    {
+     "name": "Builditomi Ai App Builder By Omi.Md",
+     "url": "https://aitoolseekers.com/tools/builditomi-ai-app-builder-by-omi.md"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "appreciate distinctive design",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "jordan 11 reps",
+     "url": "https://huludirectory.com/listing/jordan-11-reps-2263450"
+    },
+    {
+     "name": "jordan 3 reps",
+     "url": "https://aweblist.org/listing/jordan-3-reps-977287"
+    },
+    {
+     "name": "yeezy 350 reps",
+     "url": "https://directory6.org/listing/yeezy-350-reps-725436"
+    }
+   ]
+  },
+  {
+   "term": "spaceora ai",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Spaceora Ai Backyard Design",
+     "url": "https://dynamite-ai.com/tools/spaceora-ai-backyard-design"
+    },
+    {
+     "name": "Spaceora Ai Home Design Generator",
+     "url": "https://dang.ai/tool/spaceora-ai-home-design-generator"
+    },
+    {
+     "name": "Spaceora Ai Interior Design",
+     "url": "https://dynamite-ai.com/tools/spaceora-ai-interior-design"
+    },
+    {
+     "name": "Spaceora Ai Landscape Design",
+     "url": "https://dynamite-ai.com/tools/spaceora-ai-landscape-design"
+    }
+   ]
+  },
+  {
+   "term": "independent gta",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Gta 6.Guide",
+     "url": "https://powerfulwebsites.io/site/gta-6.guide"
+    },
+    {
+     "name": "GTA 6 Mandy Guide",
+     "url": "https://zearches.com/site/gaming-esports/gta6mandyguide-com-bec5940560"
+    },
+    {
+     "name": "MandyLucia",
+     "url": "https://mandylucia.com/"
+    }
+   ]
+  },
+  {
+   "term": "self reflection quiz",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "7 Deadly Sins Test",
+     "url": "https://postlaunchkit.com/directory/7-deadly-sins-test-7"
+    },
+    {
+     "name": "7 Deadly Sins Test Free 28-statement self-reflection quiz on",
+     "url": "https://thehackstack.com/s/7deadlysins"
+    },
+    {
+     "name": "Love Language Lab",
+     "url": "https://takelovelanguagetest.com/"
+    }
+   ]
+  },
+  {
+   "term": "shirley taxi",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Affordable Shirley Taxi Services | Croydon Cars",
+     "url": "https://huludirectory.com/listing/affordable-shirley-taxi-services-croydon-cars-2263458"
+    },
+    {
+     "name": "Book Shirley Taxi Today for a Great Travel Experience",
+     "url": "https://directory6.org/listing/book-shirley-taxi-today-for-a-great-travel-experience-725475"
+    },
+    {
+     "name": "Premium Shirley Taxi & Croydon Car Travel",
+     "url": "https://a2place.com/listing/premium-shirley-taxi-and-croydon-car-travel-718952"
+    }
+   ]
+  },
+  {
+   "term": "track employee",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Employee Attendance Management Services",
+     "url": "https://exampledir.com/listing/employee-attendance-management-services-315291"
+    },
+    {
+     "name": "Fingerprint Employee Attendance Solutions",
+     "url": "https://exampledir.com/listing/fingerprint-employee-attendance-solutions-315285"
+    },
+    {
+     "name": "mobil attendance",
+     "url": "https://aweblist.org/listing/mobil-attendance-977328"
+    }
+   ]
+  },
+  {
+   "term": "attendance management system",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "biometric attendance management",
+     "url": "https://aweblist.org/listing/biometric-attendance-management-977326"
+    },
+    {
+     "name": "Employee Time and Attendance Management System",
+     "url": "https://exampledir.com/listing/employee-time-and-attendance-management-system-315284"
+    },
+    {
+     "name": "Mobile Employee Attendance Management System",
+     "url": "https://exampledir.com/listing/mobile-employee-attendance-management-system-315287"
+    }
+   ]
+  },
+  {
+   "term": "bolt ai employee",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Bolts Ai Employees That Work 24 7",
+     "url": "https://www.clapstorm.com/p/bolts-ai-employees-that-work-24-7"
+    },
+    {
+     "name": "Bolts Ai Employees That Work 247",
+     "url": "https://aitoolseekers.com/tools/bolts-ai-employees-that-work-247"
+    },
+    {
+     "name": "Bolts Ai Employees That Work 247.Md",
+     "url": "https://aitoolseekers.com/tools/bolts-ai-employees-that-work-247.md"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「appreciate distinctive design」今日 3 个产品/3 个目录：jordan 11 reps、jordan 3 reps",
+  "小词「spaceora ai」今日 4 个产品/2 个目录：Spaceora Ai Backyard Design、Spaceora Ai Home Design Generator",
+  "小词「brand white label」今日 2 个产品/2 个目录：GeoGen: AI Visibility Platform for Brands, Agencies & APIs —、GeoGen",
+  "同日小簇「appreciate distinctive design」3 个相似产品：jordan 11 reps、jordan 3 reps、yeezy 350 reps",
+  "同日小簇「spaceora ai」4 个相似产品：Spaceora Ai Backyard Design、Spaceora Ai Home Design Generator、Spaceora Ai Interior Design",
+  "跨目录同时出现：socialfetch.dev（4 个目录）",
+  "跨目录同时出现：easegen.ai（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-20.md",
+ "niche_groups": "- AI图像隐私处理：clean image metadata、image metadata privately —— 提供在本地或隐私环境下清除图片元数据的服务\n- AI原生创意与设计工具：native creative suite、spaceora ai —— 提供AI原生的创意套件及家居、后院等场景的设计生成器\n- 品牌AI可见性平台：brand white label、brand white —— 为品牌、代理机构提供AI搜索可见性优化的白标平台\n- 员工考勤管理：track employee、attendance management system —— 提供基于生物识别或移动端的员工考勤与出勤管理系统\n- 本地化生活服务：shirley taxi、convenient airport transfer、repair engine diagnostic —— 提供特定区域（如Shirley、迪拜）的出租车、机场接送及汽车维修服务\n- 特色食品与内容垂直：tasty treat swetha、traditional indian snack、independent gta、self reflection quiz —— 涵盖印度传统零食电商、GTA独立内容指南及心理自测小工具"
+}
