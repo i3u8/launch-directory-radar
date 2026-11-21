@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-20** · 新增 1646 · 监控 197 个目录（今日成功 173）
+**2026-11-21** · 新增 1281 · 监控 197 个目录（今日成功 179）
 
 聚焦小词 Top 15:
 
-- `appreciate distinctive design` ×3（3 目录） 🆕：jordan 11 reps；jordan 3 reps
-- `spaceora ai` ×4（2 目录） 🆕：Spaceora Ai Backyard Design；Spaceora Ai Home Design Generator
-- `brand white label` ×2（2 目录） 🆕：GeoGen: AI Visibility Platform for Brands, Agencies & APIs —；GeoGen
-- `clean image metadata` ×2（3 目录） 🆕：AI Metadata Remover；AI Metadata Remover Clean image metadata privately in your b
-- `native creative suite` ×2（2 目录） 🆕：Auteo；Auteo The AI-native creative suite 💬 0 Comments
-- `australia low profile` ×2（2 目录） 🆕：Mini LED Light Bars in Australia | Low Profile & Emergency M；Mini LED Light Bars in Australia | Low Profile & Emergency M
-- `category localisation reference` ×2（2 目录） 🆕：hip.porn Category Localisation Reference；hip.porn Category Localisation Reference Compare 151 categor
-- `convenient airport transfer` ×2（2 目录） 🆕：Premium Shirley Taxi & Croydon Car Travel；Georgetown Airport Limo Service
-- `repair engine diagnostic` ×2（2 目录） 🆕：auto repair shop near you；Best Car Repair Garage in Dubai | Awtar Auto Garage
-- `tasty treat swetha` ×2（2 目录） 🆕：Buy Swetha Telugu Foods Garlic Muruku 170G Online；Buy Swetha Telugu Foods Jantikalu170G Online
-- `independent gta` ×3（3 目录） 🆕：GTA 6 Mandy Guide；MandyLucia
-- `self reflection quiz` ×3（3 目录）：7 Deadly Sins Test；Love Language Lab
-- `shirley taxi` ×3（3 目录） 🆕：Affordable Shirley Taxi Services | Croydon Cars；Book Shirley Taxi Today for a Great Travel Experience
-- `track employee` ×3（2 目录） 🆕：mobil attendance；Employee Attendance Management Services
-- `attendance management system` ×3（2 目录）：biometric attendance management；Mobile Employee Attendance Management System
+- `handle email check` ×4（2 目录） 🆕：Directory submissions with proof for every listing；One-Click Launch
+- `celebration indian wedding` ×3（2 目录） 🆕：Best Floor Lamps for Wedding Gifts Ideas；Floor Lamps for Wedding Gifts Ideas
+- `grocery store lakshmi` ×2（2 目录） 🆕：Buy Apple Banana (Thenvalai) 1Kg Online；Buy Neem Leaf 1 Pack Online
+- `markdown preview confluence` ×2（2 目录） 🆕：Text to Confluence；Text to Confluence Editor | Free Online Rich Text Tool — sco
+- `notion setup studio` ×2（2 目录） 🆕：Wix → Notion Setup Studio；Wix-to-Notion Setup Studio
+- `supplier image urls` ×2（2 目录） 🆕：Paperbyte Image Filename Checker；Paperbyte Catalogue Image Cleanup
+- `700+ site` ×3（2 目录） 🆕：One-Click Launch: 700+ directory listings, written and submi；One-Click Launch
+- `andhra pradesh` ×7（2 目录）：Best Potla Sivaiah；Central Books Hyderabad | 75+ Years Serving Schools
+- `live player` ×2（2 目录） 🆕：Outlier Duel；BloxDaily Roblox game wikis with codes, guides and live play
+- `seating plan` ×2（3 目录） 🆕：Festapp Tickets；vstupenky.online
+- `aid training` ×2（2 目录） 🆕：First Aid Certification Surrey | Basic First Aid Training；Workplace First Aid Training in Surrey, BC | Mainland Safety
+- `converter calculator` ×2（2 目录） 🆕：Mouse Sensitivity Converter: Sensitivity Calculator for Game；LocalTools
+- `dere type` ×2（3 目录） 🆕：Dere Type Test；Dere Test
+- `festapp ticket` ×2（5 目录） 🆕：Festapp Tickets；Festapp Tickets Ticket sales and seating for event organizer
+- `freedom tree` ×2（2 目录） 🆕：cotton bedcover；new tops for women
 
 微赛道归纳:
 
-- AI图像隐私处理：clean image metadata、image metadata privately —— 提供在本地或隐私环境下清除图片元数据的服务
-- AI原生创意与设计工具：native creative suite、spaceora ai —— 提供AI原生的创意套件及家居、后院等场景的设计生成器
-- 品牌AI可见性平台：brand white label、brand white —— 为品牌、代理机构提供AI搜索可见性优化的白标平台
-- 员工考勤管理：track employee、attendance management system —— 提供基于生物识别或移动端的员工考勤与出勤管理系统
-- 本地化生活服务：shirley taxi、convenient airport transfer、repair engine diagnostic —— 提供特定区域（如Shirley、迪拜）的出租车、机场接送及汽车维修服务
-- 特色食品与内容垂直：tasty treat swetha、traditional indian snack、independent gta、self reflection quiz —— 涵盖印度传统零食电商、GTA独立内容指南及心理自测小工具
+- 目录提交与SEO工具：handle email check、700+ site、700+ directory —— 提供一键生成并提交数百个目录列表以获取外链证明的服务
+- Notion工作流迁移：notion setup studio、notion setup、markdown preview confluence、write plain text —— 将Wix等网站内容或Markdown文本自动转换并导入Notion或Confluence的工具
+- 印度本地生活与电商：celebration indian wedding、grocery store lakshmi、andhra pradesh、decoration elegant interior —— 针对印度地区提供婚礼礼品、生鲜杂货及本地书店等垂直电商服务
+- 事件票务与座位管理：seating plan、festapp ticket、live player —— 为活动组织者提供门票销售、座位规划及实时游戏/活动信息展示的平台
+- 健康培训与理疗：aid training、mainland safety、joint discomfort —— 提供急救认证培训、职场安全课程及脊椎/疼痛理疗服务的本地化机构
+- 电商图像与数据清洗：supplier image urls、converter calculator —— 用于检查供应商图片文件名、清理目录图片数据及进行游戏灵敏度等数值转换的工具
 
-完整报告: [reports/2026-11-20.md](reports/2026-11-20.md)
+完整报告: [reports/2026-11-21.md](reports/2026-11-21.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

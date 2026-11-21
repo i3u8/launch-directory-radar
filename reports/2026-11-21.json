@@ -1,0 +1,688 @@
+{
+ "date": "2026-11-21",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 179,
+ "sources_failed": 18,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1281,
+ "new_today_unique": 1182,
+ "ai_share_today": 0.24,
+ "ai_share_30d": 0.26,
+ "niche_terms": [
+  {
+   "term": "handle email check",
+   "count": 4,
+   "sources": 2,
+   "ratio": 242.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Directory submissions with proof for every listing",
+     "url": "https://huludirectory.com/listing/directory-submissions-with-proof-for-every-listing-2263559"
+    },
+    {
+     "name": "One-Click Launch",
+     "url": "https://exampledir.com/listing/one-click-launch-315375"
+    },
+    {
+     "name": "One-Click Launch - Directory Submission Service",
+     "url": "https://huludirectory.com/listing/one-click-launch--directory-submission-service-2263558"
+    }
+   ]
+  },
+  {
+   "term": "celebration indian wedding",
+   "count": 3,
+   "sources": 2,
+   "ratio": 181.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Floor Lamps for Wedding Gifts Ideas",
+     "url": "https://huludirectory.com/listing/best-floor-lamps-for-wedding-gifts-ideas-2263554"
+    },
+    {
+     "name": "Floor Lamps for Wedding Gifts Ideas",
+     "url": "https://huludirectory.com/listing/floor-lamps-for-wedding-gifts-ideas-2263553"
+    },
+    {
+     "name": "Floor Lamps for Wedding Gifts Ideas – Top 6 Elegant Gifts by",
+     "url": "https://directory6.org/listing/floor-lamps-for-wedding-gifts-ideas-–-top-6-elegant-gifts-by-ikarihomes-725605"
+    }
+   ]
+  },
+  {
+   "term": "grocery store lakshmi",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Apple Banana (Thenvalai) 1Kg Online",
+     "url": "https://huludirectory.com/listing/buy-apple-banana-(thenvalai-1kg-online-2263573"
+    },
+    {
+     "name": "Buy Neem Leaf 1 Pack Online",
+     "url": "https://directory6.org/listing/buy-neem-leaf-1-pack-online-725620"
+    }
+   ]
+  },
+  {
+   "term": "markdown preview confluence",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Text to Confluence",
+     "url": "https://texttoconfluence.com/markdown-to-confluence"
+    },
+    {
+     "name": "Text to Confluence Editor | Free Online Rich Text Tool — sco",
+     "url": "https://nothumansearch.ai/site/texttoconfluence.com"
+    }
+   ]
+  },
+  {
+   "term": "notion setup studio",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Wix → Notion Setup Studio",
+     "url": "https://postlaunchkit.com/directory/wix-notion-setup-studio"
+    },
+    {
+     "name": "Wix-to-Notion Setup Studio",
+     "url": "https://dylan-workflows.impactlayer.workers.dev/setup-studio/studio"
+    }
+   ]
+  },
+  {
+   "term": "supplier image urls",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Paperbyte Image Filename Checker",
+     "url": "https://paperbyte-katalogprobe.aquallama68.chatgpt.site/image-filename-check"
+    },
+    {
+     "name": "Paperbyte Catalogue Image Cleanup",
+     "url": "https://paperbyte-katalogprobe.aquallama68.chatgpt.site/katalogpaket/en"
+    }
+   ]
+  },
+  {
+   "term": "700+ site",
+   "count": 3,
+   "sources": 2,
+   "ratio": 181.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "One-Click Launch: 700+ directory listings, written and submi",
+     "url": "https://exampledir.com/listing/one-click-launch-700+-directory-listings-written-and-submitted-for-you-315377"
+    },
+    {
+     "name": "One-Click Launch",
+     "url": "https://huludirectory.com/listing/one-click-launch-2263555"
+    },
+    {
+     "name": "One-Click Launch: 700+ directory listings",
+     "url": "https://huludirectory.com/listing/one-click-launch-700+-directory-listings-2263557"
+    }
+   ]
+  },
+  {
+   "term": "andhra pradesh",
+   "count": 7,
+   "sources": 2,
+   "ratio": 18.4,
+   "new": false,
+   "examples": [
+    {
+     "name": "Best Potla Sivaiah",
+     "url": "https://exampledir.com/listing/best-potla-sivaiah-315389"
+    },
+    {
+     "name": "Central Books Hyderabad | 75+ Years Serving Schools",
+     "url": "https://aweblist.org/listing/central-books-hyderabad-75+-years-serving-schools-977569"
+    },
+    {
+     "name": "best orthopedic doctor guntur",
+     "url": "https://exampledir.com/listing/best-orthopedic-doctor-guntur-315386"
+    }
+   ]
+  },
+  {
+   "term": "live player",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Outlier Duel",
+     "url": "https://postlaunchkit.com/directory/outlier-duel"
+    },
+    {
+     "name": "BloxDaily Roblox game wikis with codes, guides and live play",
+     "url": "https://thehackstack.com/s/bloxdaily"
+    }
+   ]
+  },
+  {
+   "term": "seating plan",
+   "count": 2,
+   "sources": 3,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Festapp Tickets",
+     "url": "https://whatareyoubuilding.ai/product/lAz93bT6VxK33hWhWCBI"
+    },
+    {
+     "name": "vstupenky.online",
+     "url": "https://vstupenky.online/"
+    }
+   ]
+  },
+  {
+   "term": "aid training",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "First Aid Certification Surrey | Basic First Aid Training",
+     "url": "https://exampledir.com/listing/first-aid-certification-surrey-basic-first-aid-training-315400"
+    },
+    {
+     "name": "Workplace First Aid Training in Surrey, BC | Mainland Safety",
+     "url": "https://huludirectory.com/listing/workplace-first-aid-training-in-surrey-bc-mainland-safety-2263582"
+    }
+   ]
+  },
+  {
+   "term": "converter calculator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mouse Sensitivity Converter: Sensitivity Calculator for Game",
+     "url": "https://awesomeindie.com/product/mouse-sensitivity-converter-1"
+    },
+    {
+     "name": "LocalTools",
+     "url": "https://zearches.com/site/software-saas/localtools-2fg-pages-dev-ad5a6e0b97"
+    }
+   ]
+  },
+  {
+   "term": "dere type",
+   "count": 2,
+   "sources": 3,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Dere Type Test",
+     "url": "https://postlaunchkit.com/directory/dere-type-test"
+    },
+    {
+     "name": "Dere Test",
+     "url": "https://zearches.com/site/entertainment-media/dere-test-org-98adde16b9"
+    }
+   ]
+  },
+  {
+   "term": "festapp ticket",
+   "count": 2,
+   "sources": 5,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Festapp Tickets",
+     "url": "https://whatareyoubuilding.ai/product/lAz93bT6VxK33hWhWCBI"
+    },
+    {
+     "name": "Festapp Tickets Ticket sales and seating for event organizer",
+     "url": "https://thehackstack.com/s/tickets-festapp"
+    }
+   ]
+  },
+  {
+   "term": "freedom tree",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "cotton bedcover",
+     "url": "https://directory6.org/listing/cotton-bedcover-725643"
+    },
+    {
+     "name": "new tops for women",
+     "url": "https://huludirectory.com/listing/new-tops-for-women-2263590"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "decoration elegant interior",
+   "count": 3,
+   "sources": 2,
+   "ratio": 181.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Floor Lamps for Wedding Gifts Ideas",
+     "url": "https://huludirectory.com/listing/best-floor-lamps-for-wedding-gifts-ideas-2263554"
+    },
+    {
+     "name": "Floor Lamps for Wedding Gifts Ideas",
+     "url": "https://huludirectory.com/listing/floor-lamps-for-wedding-gifts-ideas-2263553"
+    },
+    {
+     "name": "Floor Lamps for Wedding Gifts Ideas – Top 6 Elegant Gifts by",
+     "url": "https://directory6.org/listing/floor-lamps-for-wedding-gifts-ideas-–-top-6-elegant-gifts-by-ikarihomes-725605"
+    }
+   ]
+  },
+  {
+   "term": "700+ directory",
+   "count": 5,
+   "sources": 4,
+   "ratio": 303.0,
+   "new": true,
+   "examples": [
+    {
+     "name": "Directory submissions with proof for every listing",
+     "url": "https://huludirectory.com/listing/directory-submissions-with-proof-for-every-listing-2263559"
+    },
+    {
+     "name": "One-Click Launch",
+     "url": "https://exampledir.com/listing/one-click-launch-315375"
+    },
+    {
+     "name": "One-Click Launch - Directory Submission Service",
+     "url": "https://huludirectory.com/listing/one-click-launch--directory-submission-service-2263558"
+    }
+   ]
+  },
+  {
+   "term": "write plain text",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Text to Confluence",
+     "url": "https://texttoconfluence.com/markdown-to-confluence"
+    },
+    {
+     "name": "Text to Confluence Editor | Free Online Rich Text Tool — sco",
+     "url": "https://nothumansearch.ai/site/texttoconfluence.com"
+    }
+   ]
+  },
+  {
+   "term": "joint discomfort",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "🌿 REJUVENATE YOUR BODY WITH THE POWER OF PANCHAKARMA! 🌿",
+     "url": "https://directory6.org/listing/🌿-rejuvenate-your-body-with-the-power-of-panchakarma-🌿-725613"
+    },
+    {
+     "name": "Chiropractic Specialist Southfield MI | Core Chiropractic Ce",
+     "url": "https://aweblist.org/listing/chiropractic-specialist-southfield-mi-core-chiropractic-center-977576"
+    }
+   ]
+  },
+  {
+   "term": "mainland safety",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "First Aid Certification Surrey | Basic First Aid Training",
+     "url": "https://exampledir.com/listing/first-aid-certification-surrey-basic-first-aid-training-315400"
+    },
+    {
+     "name": "Workplace First Aid Training in Surrey, BC | Mainland Safety",
+     "url": "https://huludirectory.com/listing/workplace-first-aid-training-in-surrey-bc-mainland-safety-2263582"
+    }
+   ]
+  },
+  {
+   "term": "notion setup",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Wix → Notion Setup Studio",
+     "url": "https://postlaunchkit.com/directory/wix-notion-setup-studio"
+    },
+    {
+     "name": "Wix-to-Notion Setup Studio",
+     "url": "https://dylan-workflows.impactlayer.workers.dev/setup-studio/studio"
+    }
+   ]
+  },
+  {
+   "term": "prodej vstupenek",
+   "count": 2,
+   "sources": 3,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "vstupenky.online",
+     "url": "https://zearches.com/site/software-saas/vstupenky-online-353eeddc87"
+    },
+    {
+     "name": "vstupenky.online Prodej vstupenek a registrace na akce 💬 0 C",
+     "url": "https://thehackstack.com/s/vstupenky"
+    }
+   ]
+  },
+  {
+   "term": "store lakshmi",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Buy Apple Banana (Thenvalai) 1Kg Online",
+     "url": "https://huludirectory.com/listing/buy-apple-banana-(thenvalai-1kg-online-2263573"
+    },
+    {
+     "name": "Buy Neem Leaf 1 Pack Online",
+     "url": "https://directory6.org/listing/buy-neem-leaf-1-pack-online-725620"
+    }
+   ]
+  },
+  {
+   "term": "supplier image",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Paperbyte Image Filename Checker",
+     "url": "https://paperbyte-katalogprobe.aquallama68.chatgpt.site/image-filename-check"
+    },
+    {
+     "name": "Paperbyte Catalogue Image Cleanup",
+     "url": "https://paperbyte-katalogprobe.aquallama68.chatgpt.site/katalogpaket/en"
+    }
+   ]
+  },
+  {
+   "term": "无订 订阅",
+   "count": 2,
+   "sources": 2,
+   "ratio": 121.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "造图局 - AI 图片视频生成工具 | GPT-image2.5、Grok、Nano Banana — score 50",
+     "url": "https://nothumansearch.ai/site/zaotu.vip"
+    },
+    {
+     "name": "Inkspo：纹身师把关的免费 AI 纹身设计生成器，按部位与尺寸出图",
+     "url": "https://aoyii.com/zh/inkspo-ai-tattoo-generator"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "handle email check",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Directory submissions with proof for every listing",
+     "url": "https://huludirectory.com/listing/directory-submissions-with-proof-for-every-listing-2263559"
+    },
+    {
+     "name": "One-Click Launch",
+     "url": "https://agentic.ai/t/one-click-launch"
+    },
+    {
+     "name": "One-Click Launch - Directory Submission Service",
+     "url": "https://huludirectory.com/listing/one-click-launch--directory-submission-service-2263558"
+    },
+    {
+     "name": "One-Click Launch: Launch on 700+ directories from one URL",
+     "url": "https://exampledir.com/listing/one-click-launch-launch-on-700+-directories-from-one-url-315376"
+    }
+   ]
+  },
+  {
+   "term": "celebration indian wedding",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best Floor Lamps for Wedding Gifts Ideas",
+     "url": "https://huludirectory.com/listing/best-floor-lamps-for-wedding-gifts-ideas-2263554"
+    },
+    {
+     "name": "Floor Lamps for Wedding Gifts Ideas",
+     "url": "https://huludirectory.com/listing/floor-lamps-for-wedding-gifts-ideas-2263553"
+    },
+    {
+     "name": "Floor Lamps for Wedding Gifts Ideas – Top 6 Elegant Gifts by",
+     "url": "https://directory6.org/listing/floor-lamps-for-wedding-gifts-ideas-–-top-6-elegant-gifts-by-ikarihomes-725605"
+    }
+   ]
+  },
+  {
+   "term": "700+ site",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "One-Click Launch",
+     "url": "https://agentic.ai/t/one-click-launch"
+    },
+    {
+     "name": "One-Click Launch: 700+ directory listings",
+     "url": "https://huludirectory.com/listing/one-click-launch-700+-directory-listings-2263557"
+    },
+    {
+     "name": "One-Click Launch: 700+ directory listings, written and submi",
+     "url": "https://exampledir.com/listing/one-click-launch-700+-directory-listings-written-and-submitted-for-you-315377"
+    }
+   ]
+  },
+  {
+   "term": "andhra pradesh",
+   "size": 7,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Best Arthroscopy in guntur",
+     "url": "https://exampledir.com/listing/best-arthroscopy-in-guntur-315388"
+    },
+    {
+     "name": "best orthopedic doctor guntur",
+     "url": "https://exampledir.com/listing/best-orthopedic-doctor-guntur-315386"
+    },
+    {
+     "name": "Best Orthopedic Surgeon in Guntur",
+     "url": "https://exampledir.com/listing/best-orthopedic-surgeon-in-guntur-315383"
+    },
+    {
+     "name": "Best orthopedic surgeons in Vijayawada",
+     "url": "https://exampledir.com/listing/best-orthopedic-surgeons-in-vijayawada-315384"
+    }
+   ]
+  },
+  {
+   "term": "deadly sins",
+   "size": 4,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "7 Deadly Sins Test",
+     "url": "https://7deadlysins.cc/"
+    },
+    {
+     "name": "7deadlysinstestonline.com",
+     "url": "https://zearches.com/site/entertainment-media/7deadlysinstestonline-com-38a5c6e9d5"
+    },
+    {
+     "name": "Find Your Sin",
+     "url": "https://postlaunchkit.com/directory/find-your-sin"
+    },
+    {
+     "name": "Vicerra",
+     "url": "https://postlaunchkit.com/directory/vicerra"
+    }
+   ]
+  },
+  {
+   "term": "agent associated",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Darda Group",
+     "url": "https://a2place.com/listing/darda-group-718983"
+    },
+    {
+     "name": "Marc Stollings",
+     "url": "https://a2place.com/listing/marc-stollings-718984"
+    },
+    {
+     "name": "Rob and Meaghan",
+     "url": "https://a2place.com/listing/rob-and-meaghan-718985"
+    },
+    {
+     "name": "Sally Love",
+     "url": "https://a2place.com/listing/sally-love-718975"
+    }
+   ]
+  },
+  {
+   "term": "sale marketing",
+   "size": 6,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Adside",
+     "url": "https://adside.ai/"
+    },
+    {
+     "name": "Backkr",
+     "url": "https://backkr.com/"
+    },
+    {
+     "name": "Backkr Handshake",
+     "url": "https://backkr.com/handshake"
+    },
+    {
+     "name": "One-Click Launch",
+     "url": "https://agentic.ai/t/one-click-launch"
+    }
+   ]
+  },
+  {
+   "term": "everygen ai",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Everygen Ai",
+     "url": "https://pwa.directory/directory/everygen-ai"
+    },
+    {
+     "name": "Everygen Ai Studio",
+     "url": "https://aiagentsdirectory.com/agent/everygen-ai-studio"
+    },
+    {
+     "name": "EveryGen AI Turn text prompts and photos into video with Eve",
+     "url": "https://thehackstack.com/s/everygenai-5"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「handle email check」今日 4 个产品/2 个目录：Directory submissions with proof for every listing、One-Click Launch",
+  "小词「celebration indian wedding」今日 3 个产品/2 个目录：Best Floor Lamps for Wedding Gifts Ideas、Floor Lamps for Wedding Gifts Ideas",
+  "小词「grocery store lakshmi」今日 2 个产品/2 个目录：Buy Apple Banana (Thenvalai) 1Kg Online、Buy Neem Leaf 1 Pack Online",
+  "同日小簇「handle email check」4 个相似产品：Directory submissions with proof for every listing、One-Click Launch、One-Click Launch - Directory Submission Service",
+  "同日小簇「celebration indian wedding」3 个相似产品：Best Floor Lamps for Wedding Gifts Ideas、Floor Lamps for Wedding Gifts Ideas、Floor Lamps for Wedding Gifts Ideas – Top 6 Elegant Gifts by",
+  "我们的站点上线：aithrillerdance.com @ listedstartups.com",
+  "我们的站点上线：wallpapermakerai.com @ listedstartups.com"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-21.md",
+ "niche_groups": "- 目录提交与SEO工具：handle email check、700+ site、700+ directory —— 提供一键生成并提交数百个目录列表以获取外链证明的服务\n- Notion工作流迁移：notion setup studio、notion setup、markdown preview confluence、write plain text —— 将Wix等网站内容或Markdown文本自动转换并导入Notion或Confluence的工具\n- 印度本地生活与电商：celebration indian wedding、grocery store lakshmi、andhra pradesh、decoration elegant interior —— 针对印度地区提供婚礼礼品、生鲜杂货及本地书店等垂直电商服务\n- 事件票务与座位管理：seating plan、festapp ticket、live player —— 为活动组织者提供门票销售、座位规划及实时游戏/活动信息展示的平台\n- 健康培训与理疗：aid training、mainland safety、joint discomfort —— 提供急救认证培训、职场安全课程及脊椎/疼痛理疗服务的本地化机构\n- 电商图像与数据清洗：supplier image urls、converter calculator —— 用于检查供应商图片文件名、清理目录图片数据及进行游戏灵敏度等数值转换的工具"
+}
