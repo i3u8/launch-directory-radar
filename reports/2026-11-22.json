@@ -1,0 +1,648 @@
+{
+ "date": "2026-11-22",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 180,
+ "sources_failed": 17,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1123,
+ "new_today_unique": 1026,
+ "ai_share_today": 0.32,
+ "ai_share_30d": 0.25,
+ "niche_terms": [
+  {
+   "term": "100c temperature mould",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best premium clay tiles in Kerala",
+     "url": "https://huludirectory.com/listing/best-premium-clay-tiles-in-kerala-2263610"
+    },
+    {
+     "name": "Best premium roof tiles in Kerala",
+     "url": "https://directory6.org/listing/best-premium-roof-tiles-in-kerala-725677"
+    }
+   ]
+  },
+  {
+   "term": "accessibility convenient navigation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fairplay Online Sports and Entertainment",
+     "url": "https://directory6.org/listing/fairplay-online-sports-and-entertainment-725682"
+    },
+    {
+     "name": "Fairplay Online Sports and Entertainment Platform",
+     "url": "https://exampledir.com/listing/fairplay-online-sports-and-entertainment-platform-315419"
+    }
+   ]
+  },
+  {
+   "term": "african heritage styl",
+   "count": 2,
+   "sources": 3,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mozambique Heritage Fashion Costume",
+     "url": "https://huludirectory.com/listing/mozambique-heritage-fashion-costume-2263612"
+    },
+    {
+     "name": "Mozambique Heritage Fashion Dress",
+     "url": "https://directory6.org/listing/mozambique-heritage-fashion-dress-725693"
+    }
+   ]
+  },
+  {
+   "term": "commerce retail brand",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "mens loungewear",
+     "url": "https://aweblist.org/listing/mens-loungewear-977710"
+    },
+    {
+     "name": "socks for men",
+     "url": "https://huludirectory.com/listing/socks-for-men-2263630"
+    }
+   ]
+  },
+  {
+   "term": "convert latex equation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "LaTeX2SVG — LaTeX Renderer for Equations, TikZ & Tables — sc",
+     "url": "https://nothumansearch.ai/site/latex2svg.com"
+    },
+    {
+     "name": "LaTeX to Image Convert LaTeX equations to PNG, SVG, or JPG 💬",
+     "url": "https://thehackstack.com/s/latextoimg"
+    }
+   ]
+  },
+  {
+   "term": "energy storage industry",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "SolarPage",
+     "url": "https://aweblist.org/listing/solarpage-977681"
+    },
+    {
+     "name": "SolarPage - Global Solar & Energy Storage Directory",
+     "url": "https://directory6.org/listing/solarpage--global-solar-and-energy-storage-directory-725689"
+    }
+   ]
+  },
+  {
+   "term": "executive office partition",
+   "count": 2,
+   "sources": 4,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Custom Glass Office Partitions in hamilton",
+     "url": "https://aweblist.org/listing/custom-glass-office-partitions-in-hamilton-977690"
+    },
+    {
+     "name": "Custom Glass Office Partitionsin hamilton",
+     "url": "https://directory6.org/listing/custom-glass-office-partitionsin-hamilton-725696"
+    }
+   ]
+  },
+  {
+   "term": "letter word ladder",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Word Ladder Game",
+     "url": "https://getwordladder.com/"
+    },
+    {
+     "name": "Poople Unlimited Free daily four-letter word ladder with unl",
+     "url": "https://thehackstack.com/s/poopleunlimitedfun"
+    }
+   ]
+  },
+  {
+   "term": "liver transplantation surgery",
+   "count": 2,
+   "sources": 3,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Liver Transplantation Surgery in Hyderabad, India | TX ",
+     "url": "https://siteswebdirectory.com/detail/best-liver-transplantation-surgery-in-hyderabad-india--tx-hospitals-2255532.php"
+    },
+    {
+     "name": "Best Liver abad, India | TX Hospitals",
+     "url": "https://txhospitals.in/"
+    }
+   ]
+  },
+  {
+   "term": "wedding cars rental",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Luxury Wedding Cars Rentals",
+     "url": "https://directory6.org/listing/luxury-wedding-cars-rentals-725686"
+    },
+    {
+     "name": "Luxury Wedding Cars Rental In Hyderabad",
+     "url": "https://exampledir.com/listing/luxury-wedding-cars-rental-in-hyderabad-315425"
+    }
+   ]
+  },
+  {
+   "term": "database ssl",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "NextaPanel - Run a Hosting Business on Your Own Servers",
+     "url": "https://huludirectory.com/listing/nextapanel--run-a-hosting-business-on-your-own-servers-2263619"
+    },
+    {
+     "name": "NextaPanel",
+     "url": "https://a2place.com/listing/nextapanel-718998"
+    }
+   ]
+  },
+  {
+   "term": "paule ai",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Paule Ai",
+     "url": "https://launchsignal.ai/l/paule-ai"
+    },
+    {
+     "name": "Paule Ai Voice Agent",
+     "url": "https://agents-launch.lovable.app/agents/paule-ai-voice-agent"
+    }
+   ]
+  },
+  {
+   "term": "photo sound",
+   "count": 2,
+   "sources": 3,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "AIRapVideoly",
+     "url": "https://airapvideoly.com/"
+    },
+    {
+     "name": "AIRapVideoly AI rap videos from your photos, sound built in ",
+     "url": "https://thehackstack.com/s/airapvideoly"
+    }
+   ]
+  },
+  {
+   "term": "care nutrition",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Pediatrician In Kondapur | Dr.Harshasree Pediatrician",
+     "url": "https://exampledir.com/listing/pediatrician-in-kondapur-drharshasree-pediatrician-315411"
+    },
+    {
+     "name": "The LivinFit Journal: Weight Care, Nutrition & Wellness",
+     "url": "https://aweblist.org/listing/the-livinfit-journal-weight-care-nutrition-and-wellness-977708"
+    }
+   ]
+  },
+  {
+   "term": "engaging conversation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Book Celebrity for Podcast: Create Engaging Conversations wi",
+     "url": "https://directory6.org/listing/book-celebrity-for-podcast-create-engaging-conversations-with-famous-personalities-725724"
+    },
+    {
+     "name": "Exclusive Encounters with Stunning Nowra Escorts",
+     "url": "https://huludirectory.com/listing/exclusive-encounters-with-stunning-nowra-escorts-2263618"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "advanced japanese technology",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best premium clay tiles in Kerala",
+     "url": "https://huludirectory.com/listing/best-premium-clay-tiles-in-kerala-2263610"
+    },
+    {
+     "name": "Best premium roof tiles in Kerala",
+     "url": "https://directory6.org/listing/best-premium-roof-tiles-in-kerala-725677"
+    }
+   ]
+  },
+  {
+   "term": "african print elegant",
+   "count": 2,
+   "sources": 3,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mozambique Heritage Fashion Costume",
+     "url": "https://huludirectory.com/listing/mozambique-heritage-fashion-costume-2263612"
+    },
+    {
+     "name": "Mozambique Heritage Fashion Dress",
+     "url": "https://directory6.org/listing/mozambique-heritage-fashion-dress-725693"
+    }
+   ]
+  },
+  {
+   "term": "browsing experience allowing",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Fairplay Online Sports and Entertainment",
+     "url": "https://directory6.org/listing/fairplay-online-sports-and-entertainment-725682"
+    },
+    {
+     "name": "Fairplay Online Sports and Entertainment Platform",
+     "url": "https://exampledir.com/listing/fairplay-online-sports-and-entertainment-platform-315419"
+    }
+   ]
+  },
+  {
+   "term": "glass office wall",
+   "count": 2,
+   "sources": 4,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Custom Glass Office Partitions in hamilton",
+     "url": "https://aweblist.org/listing/custom-glass-office-partitions-in-hamilton-977690"
+    },
+    {
+     "name": "Custom Glass Office Partitionsin hamilton",
+     "url": "https://directory6.org/listing/custom-glass-office-partitionsin-hamilton-725696"
+    }
+   ]
+  },
+  {
+   "term": "liver transplantation",
+   "count": 3,
+   "sources": 4,
+   "ratio": 211.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Liver Transplant Surgeon in Hyderabad – TX Hospitals",
+     "url": "https://txhospitals.in/liver-transplantation-surgery"
+    },
+    {
+     "name": "Best Liver Transplantation Surgery in Hyderabad, India | TX ",
+     "url": "https://siteswebdirectory.com/detail/best-liver-transplantation-surgery-in-hyderabad-india--tx-hospitals-2255532.php"
+    },
+    {
+     "name": "Best Liver abad, India | TX Hospitals",
+     "url": "https://txhospitals.in/"
+    }
+   ]
+  },
+  {
+   "term": "wordpress laravel",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "NextaPanel - Run a Hosting Business on Your Own Servers",
+     "url": "https://huludirectory.com/listing/nextapanel--run-a-hosting-business-on-your-own-servers-2263619"
+    },
+    {
+     "name": "NextaPanel",
+     "url": "https://a2place.com/listing/nextapanel-718998"
+    }
+   ]
+  },
+  {
+   "term": "buyer supplier",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "SolarPage",
+     "url": "https://aweblist.org/listing/solarpage-977681"
+    },
+    {
+     "name": "SolarPage - Global Solar & Energy Storage Directory",
+     "url": "https://directory6.org/listing/solarpage--global-solar-and-energy-storage-directory-725689"
+    }
+   ]
+  },
+  {
+   "term": "cars rental",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Luxury Wedding Cars Rentals",
+     "url": "https://directory6.org/listing/luxury-wedding-cars-rentals-725686"
+    },
+    {
+     "name": "Luxury Wedding Cars Rental In Hyderabad",
+     "url": "https://exampledir.com/listing/luxury-wedding-cars-rental-in-hyderabad-315425"
+    }
+   ]
+  },
+  {
+   "term": "convert latex",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "LaTeX2SVG — LaTeX Renderer for Equations, TikZ & Tables — sc",
+     "url": "https://nothumansearch.ai/site/latex2svg.com"
+    },
+    {
+     "name": "LaTeX to Image Convert LaTeX equations to PNG, SVG, or JPG 💬",
+     "url": "https://thehackstack.com/s/latextoimg"
+    }
+   ]
+  },
+  {
+   "term": "crew ankle",
+   "count": 2,
+   "sources": 2,
+   "ratio": 141.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "mens loungewear",
+     "url": "https://aweblist.org/listing/mens-loungewear-977710"
+    },
+    {
+     "name": "socks for men",
+     "url": "https://huludirectory.com/listing/socks-for-men-2263630"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "liver transplantation",
+   "size": 3,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Best Liver abad, India | TX Hospitals",
+     "url": "https://txhospitals.in/"
+    },
+    {
+     "name": "Best Liver Transplant Surgeon in Hyderabad – TX Hospitals",
+     "url": "https://txhospitals.in/liver-transplantation-surgery"
+    },
+    {
+     "name": "Best Liver Transplantation Surgery in Hyderabad, India | TX ",
+     "url": "https://siteswebdirectory.com/detail/best-liver-transplantation-surgery-in-hyderabad-india--tx-hospitals-2255532.php"
+    }
+   ]
+  },
+  {
+   "term": "credit quote",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Bild zu Bild KI",
+     "url": "https://postlaunchkit.com/directory/bild-zu-bild-ki"
+    },
+    {
+     "name": "No Restrictions AI",
+     "url": "https://postlaunchkit.com/directory/no-restrictions-ai"
+    },
+    {
+     "name": "VidLoop",
+     "url": "https://zearches.com/site/software-saas/vidloop-ai-67366ea50b"
+    }
+   ]
+  },
+  {
+   "term": "resistant material",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Best Overhead Water Tank Online",
+     "url": "https://aweblist.org/listing/best-overhead-water-tank-online-977711"
+    },
+    {
+     "name": "Best premium clay tiles in Kerala",
+     "url": "https://huludirectory.com/listing/best-premium-clay-tiles-in-kerala-2263610"
+    },
+    {
+     "name": "Best premium roof tiles in Kerala",
+     "url": "https://directory6.org/listing/best-premium-roof-tiles-in-kerala-725677"
+    }
+   ]
+  },
+  {
+   "term": "cricket football",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "All Games Live",
+     "url": "https://allgameslive.com/"
+    },
+    {
+     "name": "Fairplay Online Sports and Entertainment",
+     "url": "https://directory6.org/listing/fairplay-online-sports-and-entertainment-725682"
+    },
+    {
+     "name": "Fairplay Online Sports and Entertainment Platform",
+     "url": "https://exampledir.com/listing/fairplay-online-sports-and-entertainment-platform-315419"
+    }
+   ]
+  },
+  {
+   "term": "heavy equipment",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Equipt.ai: Track heavy equipment, field crews, repairs and i",
+     "url": "https://saasolution.io/tool/equipt"
+    },
+    {
+     "name": "Loader Operator Training in Ontario – Safety, Skills, and Wo",
+     "url": "https://aweblist.org/listing/loader-operator-training-in-ontario-–-safety-skills-and-workplace-awareness-977692"
+    },
+    {
+     "name": "MSA 24/7 Towing – Light-Duty and Heavy-Duty Towing Services",
+     "url": "https://directory6.org/listing/msa-247-towing-–-light-duty-and-heavy-duty-towing-services-725708"
+    }
+   ]
+  },
+  {
+   "term": "commerce retail",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Bloomreach",
+     "url": "https://bloomreach.com/"
+    },
+    {
+     "name": "mens loungewear",
+     "url": "https://aweblist.org/listing/mens-loungewear-977710"
+    },
+    {
+     "name": "socks for men",
+     "url": "https://huludirectory.com/listing/socks-for-men-2263630"
+    }
+   ]
+  },
+  {
+   "term": "mobile friendly",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Fairplay Online Sports and Entertainment",
+     "url": "https://directory6.org/listing/fairplay-online-sports-and-entertainment-725682"
+    },
+    {
+     "name": "Fairplay Online Sports and Entertainment Platform",
+     "url": "https://exampledir.com/listing/fairplay-online-sports-and-entertainment-platform-315419"
+    },
+    {
+     "name": "Utilonix: Fast, free online tools with no signup required",
+     "url": "https://awesomeindie.com/product/utilonix"
+    }
+   ]
+  },
+  {
+   "term": "investment advice",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "13F.chat",
+     "url": "https://postlaunchkit.com/directory/13fchat"
+    },
+    {
+     "name": "Ebitta",
+     "url": "https://ebitta.com/"
+    },
+    {
+     "name": "Gold Snap",
+     "url": "https://postlaunchkit.com/directory/gold-snap"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「100c temperature mould」今日 2 个产品/2 个目录：Best premium clay tiles in Kerala、Best premium roof tiles in Kerala",
+  "小词「accessibility convenient navigation」今日 2 个产品/2 个目录：Fairplay Online Sports and Entertainment、Fairplay Online Sports and Entertainment Platform",
+  "小词「african heritage styl」今日 2 个产品/3 个目录：Mozambique Heritage Fashion Costume、Mozambique Heritage Fashion Dress",
+  "同日小簇「liver transplantation」3 个相似产品：Best Liver abad, India | TX Hospitals、Best Liver Transplant Surgeon in Hyderabad – TX Hospitals、Best Liver Transplantation Surgery in Hyderabad, India | TX ",
+  "同日小簇「credit quote」3 个相似产品：Bild zu Bild KI、No Restrictions AI、VidLoop",
+  "我们的站点上线：floatboat.ai @ webgora.com",
+  "跨目录同时出现：aiimagetovideo.video（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-22.md",
+ "niche_groups": "- 办公空间定制：executive office partition、glass office wall —— 提供定制玻璃隔断等办公空间装修解决方案\n- 医疗专科服务：liver transplantation、liver transplantation surgery、care nutrition —— 聚焦肝脏移植手术及儿科/营养护理等垂直医疗领域\n- 创意内容生成：photo sound、convert latex equation、paule ai —— 利用AI技术实现照片转视频、公式渲染及语音代理等创意工具\n- 时尚与生活方式：african heritage styl、african print elegant、wedding cars rental、commerce retail brand —— 涵盖非洲风格服饰、婚礼租车及男士休闲服饰等消费品类\n- 数字平台与基础设施：accessibility convenient navigation、browsing experience allowing、database ssl、wordpress laravel、energy storage industry —— 提供在线娱乐平台、服务器托管面板及能源存储目录等B端基础设施\n- 休闲游戏娱乐：letter word ladder、engaging conversation —— 提供单词梯游戏及名人播客预约等互动娱乐服务"
+}
