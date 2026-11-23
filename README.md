@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-22** · 新增 1123 · 监控 197 个目录（今日成功 180）
+**2026-11-23** · 新增 1404 · 监控 197 个目录（今日成功 176）
 
 聚焦小词 Top 15:
 
-- `100c temperature mould` ×2（2 目录） 🆕：Best premium clay tiles in Kerala；Best premium roof tiles in Kerala
-- `accessibility convenient navigation` ×2（2 目录） 🆕：Fairplay Online Sports and Entertainment；Fairplay Online Sports and Entertainment Platform
-- `african heritage styl` ×2（3 目录） 🆕：Mozambique Heritage Fashion Costume；Mozambique Heritage Fashion Dress
-- `commerce retail brand` ×2（2 目录） 🆕：mens loungewear；socks for men
-- `convert latex equation` ×2（2 目录） 🆕：LaTeX2SVG — LaTeX Renderer for Equations, TikZ & Tables — sc；LaTeX to Image Convert LaTeX equations to PNG, SVG, or JPG 💬
-- `energy storage industry` ×2（2 目录） 🆕：SolarPage；SolarPage - Global Solar & Energy Storage Directory
-- `executive office partition` ×2（4 目录） 🆕：Custom Glass Office Partitions in hamilton；Custom Glass Office Partitionsin hamilton
-- `letter word ladder` ×2（2 目录） 🆕：Word Ladder Game；Poople Unlimited Free daily four-letter word ladder with unl
-- `liver transplantation surgery` ×2（3 目录） 🆕：Best Liver Transplantation Surgery in Hyderabad, India | TX ；Best Liver abad, India | TX Hospitals
-- `wedding cars rental` ×2（2 目录） 🆕：Luxury Wedding Cars Rentals；Luxury Wedding Cars Rental In Hyderabad
-- `database ssl` ×2（2 目录） 🆕：NextaPanel - Run a Hosting Business on Your Own Servers；NextaPanel
-- `paule ai` ×2（2 目录） 🆕：Paule Ai；Paule Ai Voice Agent
-- `photo sound` ×2（3 目录） 🆕：AIRapVideoly；AIRapVideoly AI rap videos from your photos, sound built in 
-- `care nutrition` ×2（2 目录） 🆕：Pediatrician In Kondapur | Dr.Harshasree Pediatrician；The LivinFit Journal: Weight Care, Nutrition & Wellness
-- `engaging conversation` ×2（2 目录） 🆕：Book Celebrity for Podcast: Create Engaging Conversations wi；Exclusive Encounters with Stunning Nowra Escorts
+- `dia ind pendant` ×8（2 目录） 🆕：Achetez-Ici；Budget Entreprise
+- `par commune` ×11（2 目录） 🆕：Gîte Vacances France；Couvreur travaux
+- `publie des guide` ×5（2 目录） 🆕：Gîte Vacances France；CESH RH
+- `les fiche` ×8（2 目录） 🆕：Gîte Vacances France；Mon psychomotricien
+- `des guide pratique` ×4（2 目录） 🆕：Gîte Vacances France；Dépannage Saint-Thibault-des-Vignes
+- `diff rence entre` ×3（2 目录） 🆕：Gîte Vacances France；Ramonage poêle à granulés
+- `consacr` ×15（2 目录） 🆕：Couvreur travaux；Couvreur entretien toiture
+- `accessory enjoy genuine` ×2（2 目录） 🆕：Save 70% at the UK Electronics Super Store – Top Laptop Deal；UK Electronics Super Store – 70% Off & Best Laptop Dealer in
+- `remove watermark logo` ×2（2 目录） 🆕：WatermarkRemoverVideo；AI Video Watermark Remover Remove watermarks, logos, and tex
+- `separate teacher answer` ×2（2 目录） 🆕：AI Quiz Generator from PDF – Questions & Answer Keys — score；PDF Quiz Desk
+- `ai context flow` ×2（2 目录） 🆕：AI Context Flow MCP；Ai Context Flow
+- `authentic indian recipe` ×2（2 目录） 🆕：Best Indian Restaurant Near Me | good food；Best Indian Restaurant Near Me | good food bc
+- `back pain muscle` ×2（2 目录） 🆕：Can Poor Posture Cause Long-Term Spine Problems?；Poor Posture and Chronic Back Pain: Causes & Prevention
+- `beat maker sketch` ×2（2 目录） 🆕：MakeBeat - Free online AI beat maker；MakeBeat
+- `blocked heart artery` ×2（2 目录） 🆕：Stent Placement Treatment in Pune | Dr. Tanmay Kulkarni；Coronary Stent Placement in Pune | Expert Cardiologist
 
 微赛道归纳:
 
-- 办公空间定制：executive office partition、glass office wall —— 提供定制玻璃隔断等办公空间装修解决方案
-- 医疗专科服务：liver transplantation、liver transplantation surgery、care nutrition —— 聚焦肝脏移植手术及儿科/营养护理等垂直医疗领域
-- 创意内容生成：photo sound、convert latex equation、paule ai —— 利用AI技术实现照片转视频、公式渲染及语音代理等创意工具
-- 时尚与生活方式：african heritage styl、african print elegant、wedding cars rental、commerce retail brand —— 涵盖非洲风格服饰、婚礼租车及男士休闲服饰等消费品类
-- 数字平台与基础设施：accessibility convenient navigation、browsing experience allowing、database ssl、wordpress laravel、energy storage industry —— 提供在线娱乐平台、服务器托管面板及能源存储目录等B端基础设施
-- 休闲游戏娱乐：letter word ladder、engaging conversation —— 提供单词梯游戏及名人播客预约等互动娱乐服务
+- 法国本地服务与住宿指南：par commune、publie des guide、les fiche、des guide pratique、des guide、fiche reprennent les、publique des、commune par —— 提供按市镇分类的法国住宿、维修及专业服务的实用指南与资料库
+- 法国屋顶与建筑维护：consacr、Couvreur travaux、Couvreur entretien toiture —— 聚焦屋顶覆盖、维护及建筑修缮相关的专业服务与内容
+- AI视频去水印工具：remove watermark logo、WatermarkRemoverVideo、AI Video Watermark Remover —— 利用AI技术从视频中移除水印、Logo及文本的工具
+- AI教育辅助与内容生成：separate teacher answer、ai context flow、AI Quiz Generator from PDF、PDF Quiz Desk、AI Context Flow MCP —— 提供从PDF生成测验、分离教师答案及AI上下文流程管理的教育与技术工具
+- 健康医疗资讯与本地服务：back pain muscle、blocked heart artery、Stent Placement Treatment、Coronary Stent Placement —— 提供关于背痛、心脏动脉阻塞等健康问题的科普及本地医疗专家服务
+- 电子数码与印度餐饮：accessory enjoy genuine、brand laptop electronic、authentic indian recipe、UK Electronics Super Store、Best Indian Restaurant Near Me —— 涵盖英国电子数码产品促销及正宗印度餐厅推荐的生活消费类内容
 
-完整报告: [reports/2026-11-22.md](reports/2026-11-22.md)
+完整报告: [reports/2026-11-23.md](reports/2026-11-23.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

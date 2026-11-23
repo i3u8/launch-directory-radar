@@ -1,0 +1,715 @@
+{
+ "date": "2026-11-23",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 176,
+ "sources_failed": 21,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "startups-snapmunk-com",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "openfuture-ai",
+  "phototoolfinder-com",
+  "saasworthy-com",
+  "softwareworld-co",
+  "trillionagent-com"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1404,
+ "new_today_unique": 1301,
+ "ai_share_today": 0.23,
+ "ai_share_30d": 0.25,
+ "niche_terms": [
+  {
+   "term": "dia ind pendant",
+   "count": 8,
+   "sources": 2,
+   "ratio": 455.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Achetez-Ici",
+     "url": "https://exampledir.com/listing/achetez-ici-315548"
+    },
+    {
+     "name": "Budget Entreprise",
+     "url": "https://a2place.com/listing/budget-entreprise-719055"
+    },
+    {
+     "name": "Camping Détail",
+     "url": "https://a2place.com/listing/camping-detail-719078"
+    }
+   ]
+  },
+  {
+   "term": "par commune",
+   "count": 11,
+   "sources": 2,
+   "ratio": 626.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://exampledir.com/listing/gite-vacances-france-315550"
+    },
+    {
+     "name": "Couvreur travaux",
+     "url": "https://a2place.com/listing/couvreur-travaux-719051"
+    },
+    {
+     "name": "Couvreur entretien toiture",
+     "url": "https://a2place.com/listing/couvreur-entretien-toiture-719063"
+    }
+   ]
+  },
+  {
+   "term": "publie des guide",
+   "count": 5,
+   "sources": 2,
+   "ratio": 284.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://exampledir.com/listing/gite-vacances-france-315550"
+    },
+    {
+     "name": "CESH RH",
+     "url": "https://a2place.com/listing/cesh-rh-719065"
+    },
+    {
+     "name": "ConseilChien.fr",
+     "url": "https://a2place.com/listing/conseilchienfr-719059"
+    }
+   ]
+  },
+  {
+   "term": "les fiche",
+   "count": 8,
+   "sources": 2,
+   "ratio": 455.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://exampledir.com/listing/gite-vacances-france-315550"
+    },
+    {
+     "name": "Mon psychomotricien",
+     "url": "https://a2place.com/listing/mon-psychomotricien-719068"
+    },
+    {
+     "name": "Consultation psy gratuite",
+     "url": "https://a2place.com/listing/consultation-psy-gratuite-719066"
+    }
+   ]
+  },
+  {
+   "term": "des guide pratique",
+   "count": 4,
+   "sources": 2,
+   "ratio": 227.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://exampledir.com/listing/gite-vacances-france-315550"
+    },
+    {
+     "name": "Dépannage Saint-Thibault-des-Vignes",
+     "url": "https://a2place.com/listing/depannage-saint-thibault-des-vignes-719085"
+    },
+    {
+     "name": "Hero Corner",
+     "url": "https://a2place.com/listing/hero-corner-719070"
+    }
+   ]
+  },
+  {
+   "term": "diff rence entre",
+   "count": 3,
+   "sources": 2,
+   "ratio": 170.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://exampledir.com/listing/gite-vacances-france-315550"
+    },
+    {
+     "name": "Ramonage poêle à granulés",
+     "url": "https://a2place.com/listing/ramonage-poele-a-granules-719083"
+    },
+    {
+     "name": "Coffee Shops France",
+     "url": "https://a2place.com/listing/coffee-shops-france-719067"
+    }
+   ]
+  },
+  {
+   "term": "consacr",
+   "count": 15,
+   "sources": 2,
+   "ratio": 853.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Couvreur travaux",
+     "url": "https://a2place.com/listing/couvreur-travaux-719051"
+    },
+    {
+     "name": "Couvreur entretien toiture",
+     "url": "https://a2place.com/listing/couvreur-entretien-toiture-719063"
+    },
+    {
+     "name": "Le Mac En Ligne",
+     "url": "https://a2place.com/listing/le-mac-en-ligne-719053"
+    }
+   ]
+  },
+  {
+   "term": "accessory enjoy genuine",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Save 70% at the UK Electronics Super Store – Top Laptop Deal",
+     "url": "https://directory6.org/listing/save-70%-at-the-uk-electronics-super-store-–-top-laptop-deals-725931"
+    },
+    {
+     "name": "UK Electronics Super Store – 70% Off & Best Laptop Dealer in",
+     "url": "https://exampledir.com/listing/uk-electronics-super-store-–-70%-off-and-best-laptop-dealer-in-uk-315582"
+    }
+   ]
+  },
+  {
+   "term": "remove watermark logo",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "WatermarkRemoverVideo",
+     "url": "https://watermarkremovervideo.com/"
+    },
+    {
+     "name": "AI Video Watermark Remover Remove watermarks, logos, and tex",
+     "url": "https://thehackstack.com/s/watermarkremover-aiai"
+    }
+   ]
+  },
+  {
+   "term": "separate teacher answer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Quiz Generator from PDF – Questions & Answer Keys — score",
+     "url": "https://nothumansearch.ai/site/aiquizfrompdf.com"
+    },
+    {
+     "name": "PDF Quiz Desk",
+     "url": "https://aiquizfrompdf.com/"
+    }
+   ]
+  },
+  {
+   "term": "ai context flow",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Context Flow MCP",
+     "url": "https://plurality.network/ai-context-flow"
+    },
+    {
+     "name": "Ai Context Flow",
+     "url": "https://navs.site/website/ai-context-flow"
+    }
+   ]
+  },
+  {
+   "term": "authentic indian recipe",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Indian Restaurant Near Me | good food",
+     "url": "https://aweblist.org/listing/best-indian-restaurant-near-me-good-food-977927"
+    },
+    {
+     "name": "Best Indian Restaurant Near Me | good food bc",
+     "url": "https://exampledir.com/listing/best-indian-restaurant-near-me-good-food-bc-315588"
+    }
+   ]
+  },
+  {
+   "term": "back pain muscle",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Can Poor Posture Cause Long-Term Spine Problems?",
+     "url": "https://aweblist.org/listing/can-poor-posture-cause-long-term-spine-problems-977923"
+    },
+    {
+     "name": "Poor Posture and Chronic Back Pain: Causes & Prevention",
+     "url": "https://directory6.org/listing/poor-posture-and-chronic-back-pain-causes-and-prevention-725961"
+    }
+   ]
+  },
+  {
+   "term": "beat maker sketch",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "MakeBeat - Free online AI beat maker",
+     "url": "https://exampledir.com/listing/makebeat--free-online-ai-beat-maker-315556"
+    },
+    {
+     "name": "MakeBeat",
+     "url": "https://makebeat.ai/"
+    }
+   ]
+  },
+  {
+   "term": "blocked heart artery",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Stent Placement Treatment in Pune | Dr. Tanmay Kulkarni",
+     "url": "https://aweblist.org/listing/stent-placement-treatment-in-pune-dr-tanmay-kulkarni-977949"
+    },
+    {
+     "name": "Coronary Stent Placement in Pune | Expert Cardiologist",
+     "url": "https://directory6.org/listing/coronary-stent-placement-in-pune-expert-cardiologist-725976"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "des guide",
+   "count": 9,
+   "sources": 2,
+   "ratio": 512.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://exampledir.com/listing/gite-vacances-france-315550"
+    },
+    {
+     "name": "Dépannage Saint-Thibault-des-Vignes",
+     "url": "https://a2place.com/listing/depannage-saint-thibault-des-vignes-719085"
+    },
+    {
+     "name": "Hero Corner",
+     "url": "https://a2place.com/listing/hero-corner-719070"
+    }
+   ]
+  },
+  {
+   "term": "dia ind",
+   "count": 8,
+   "sources": 2,
+   "ratio": 455.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Achetez-Ici",
+     "url": "https://exampledir.com/listing/achetez-ici-315548"
+    },
+    {
+     "name": "Budget Entreprise",
+     "url": "https://a2place.com/listing/budget-entreprise-719055"
+    },
+    {
+     "name": "Camping Détail",
+     "url": "https://a2place.com/listing/camping-detail-719078"
+    }
+   ]
+  },
+  {
+   "term": "fiche reprennent les",
+   "count": 3,
+   "sources": 2,
+   "ratio": 170.7,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://exampledir.com/listing/gite-vacances-france-315550"
+    },
+    {
+     "name": "Dépanneuse 92",
+     "url": "https://a2place.com/listing/depanneuse-92-719087"
+    },
+    {
+     "name": "Maçonnerie paysagère",
+     "url": "https://a2place.com/listing/maconnerie-paysagere-719084"
+    }
+   ]
+  },
+  {
+   "term": "publique des",
+   "count": 5,
+   "sources": 2,
+   "ratio": 284.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://exampledir.com/listing/gite-vacances-france-315550"
+    },
+    {
+     "name": "Mon psychomotricien",
+     "url": "https://a2place.com/listing/mon-psychomotricien-719068"
+    },
+    {
+     "name": "Consultation psy gratuite",
+     "url": "https://a2place.com/listing/consultation-psy-gratuite-719066"
+    }
+   ]
+  },
+  {
+   "term": "commune par",
+   "count": 5,
+   "sources": 2,
+   "ratio": 284.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://exampledir.com/listing/gite-vacances-france-315550"
+    },
+    {
+     "name": "Couvreur entretien toiture",
+     "url": "https://a2place.com/listing/couvreur-entretien-toiture-719063"
+    },
+    {
+     "name": "Couvreur pose tuiles",
+     "url": "https://a2place.com/listing/couvreur-pose-tuiles-719064"
+    }
+   ]
+  },
+  {
+   "term": "brand laptop electronic",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Save 70% at the UK Electronics Super Store – Top Laptop Deal",
+     "url": "https://directory6.org/listing/save-70%-at-the-uk-electronics-super-store-–-top-laptop-deals-725931"
+    },
+    {
+     "name": "UK Electronics Super Store – 70% Off & Best Laptop Dealer in",
+     "url": "https://exampledir.com/listing/uk-electronics-super-store-–-70%-off-and-best-laptop-dealer-in-uk-315582"
+    }
+   ]
+  },
+  {
+   "term": "teacher answer keys",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Quiz Generator from PDF – Questions & Answer Keys — score",
+     "url": "https://nothumansearch.ai/site/aiquizfrompdf.com"
+    },
+    {
+     "name": "PDF Quiz Desk",
+     "url": "https://aiquizfrompdf.com/"
+    }
+   ]
+  },
+  {
+   "term": "buttery tomato gravy",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Butter Chicken in Surrey | good food",
+     "url": "https://aweblist.org/listing/best-butter-chicken-in-surrey-good-food-977926"
+    },
+    {
+     "name": "Best Butter Chicken in Surrey | good food bc",
+     "url": "https://exampledir.com/listing/best-butter-chicken-in-surrey-good-food-bc-315587"
+    }
+   ]
+  },
+  {
+   "term": "delicious vegetarian dishe",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Indian Restaurant Surrey BC | good food",
+     "url": "https://aweblist.org/listing/indian-restaurant-surrey-bc-good-food-977929"
+    },
+    {
+     "name": "Indian Restaurant Surrey BC | good food bc",
+     "url": "https://exampledir.com/listing/indian-restaurant-surrey-bc-good-food-bc-315590"
+    }
+   ]
+  },
+  {
+   "term": "firecracker microvm sandboxe",
+   "count": 2,
+   "sources": 2,
+   "ratio": 113.8,
+   "new": true,
+   "examples": [
+    {
+     "name": "Sandscale: sandboxes for AI agents — score 45/100 (ai-tools)",
+     "url": "https://nothumansearch.ai/site/sandscale.dev"
+    },
+    {
+     "name": "Sandscale Firecracker microVM sandboxes for AI coding agents",
+     "url": "https://thehackstack.com/s/sandscale"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "dia ind pendant",
+   "size": 8,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Achetez-Ici",
+     "url": "https://a2place.com/listing/achetez-ici-719091"
+    },
+    {
+     "name": "Budget Entreprise",
+     "url": "https://a2place.com/listing/budget-entreprise-719055"
+    },
+    {
+     "name": "Camping Détail",
+     "url": "https://a2place.com/listing/camping-detail-719078"
+    },
+    {
+     "name": "CESH RH",
+     "url": "https://a2place.com/listing/cesh-rh-719065"
+    }
+   ]
+  },
+  {
+   "term": "publie des guide",
+   "size": 5,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "CESH RH",
+     "url": "https://a2place.com/listing/cesh-rh-719065"
+    },
+    {
+     "name": "ConseilChien.fr",
+     "url": "https://a2place.com/listing/conseilchienfr-719059"
+    },
+    {
+     "name": "Gîte pas cher",
+     "url": "https://a2place.com/listing/gite-pas-cher-719072"
+    },
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://a2place.com/listing/gite-vacances-france-719093"
+    }
+   ]
+  },
+  {
+   "term": "les fiche",
+   "size": 8,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Consultation psy gratuite",
+     "url": "https://a2place.com/listing/consultation-psy-gratuite-719066"
+    },
+    {
+     "name": "Couvreur travaux",
+     "url": "https://a2place.com/listing/couvreur-travaux-719051"
+    },
+    {
+     "name": "Dépanneuse 92",
+     "url": "https://a2place.com/listing/depanneuse-92-719087"
+    },
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://a2place.com/listing/gite-vacances-france-719093"
+    }
+   ]
+  },
+  {
+   "term": "des guide pratique",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "ConseilChien.fr",
+     "url": "https://a2place.com/listing/conseilchienfr-719059"
+    },
+    {
+     "name": "Dépannage Saint-Thibault-des-Vignes",
+     "url": "https://a2place.com/listing/depannage-saint-thibault-des-vignes-719085"
+    },
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://a2place.com/listing/gite-vacances-france-719093"
+    },
+    {
+     "name": "Hero Corner",
+     "url": "https://a2place.com/listing/hero-corner-719070"
+    }
+   ]
+  },
+  {
+   "term": "diff rence entre",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Coffee Shops France",
+     "url": "https://a2place.com/listing/coffee-shops-france-719067"
+    },
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://a2place.com/listing/gite-vacances-france-719093"
+    },
+    {
+     "name": "Ramonage poêle à granulés",
+     "url": "https://a2place.com/listing/ramonage-poele-a-granules-719083"
+    }
+   ]
+  },
+  {
+   "term": "commune par",
+   "size": 5,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Couvreur entretien toiture",
+     "url": "https://a2place.com/listing/couvreur-entretien-toiture-719063"
+    },
+    {
+     "name": "Couvreur pose tuiles",
+     "url": "https://a2place.com/listing/couvreur-pose-tuiles-719064"
+    },
+    {
+     "name": "Gîte pas cher",
+     "url": "https://a2place.com/listing/gite-pas-cher-719072"
+    },
+    {
+     "name": "Gîte Vacances France",
+     "url": "https://a2place.com/listing/gite-vacances-france-719093"
+    }
+   ]
+  },
+  {
+   "term": "elder care",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Elder Care Services Market Demand: Key Growth Drivers, Emerg",
+     "url": "https://aweblist.org/listing/elder-care-services-market-demand-key-growth-drivers-emerging-trends-and-future-opportunities-977902"
+    },
+    {
+     "name": "Elder Care Services Market Recent Developments: Technology, ",
+     "url": "https://aweblist.org/listing/elder-care-services-market-recent-developments-technology-home-based-care-and-changing-senior-nee-977903"
+    },
+    {
+     "name": "Elder Care Services Market Strategies: Building Resilient, P",
+     "url": "https://huludirectory.com/listing/elder-care-services-market-strategies-building-resilient-person-centered-care-models-for-an-aging-2263750"
+    }
+   ]
+  },
+  {
+   "term": "explique les",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Budget Entreprise",
+     "url": "https://a2place.com/listing/budget-entreprise-719055"
+    },
+    {
+     "name": "Ramonage poêle à granulés",
+     "url": "https://a2place.com/listing/ramonage-poele-a-granules-719083"
+    },
+    {
+     "name": "Ventes Immobilier",
+     "url": "https://a2place.com/listing/ventes-immobilier-719088"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「dia ind pendant」今日 8 个产品/2 个目录：Achetez-Ici、Budget Entreprise",
+  "小词「par commune」今日 11 个产品/2 个目录：Gîte Vacances France、Couvreur travaux",
+  "小词「publie des guide」今日 5 个产品/2 个目录：Gîte Vacances France、CESH RH",
+  "同日小簇「dia ind pendant」8 个相似产品：Achetez-Ici、Budget Entreprise、Camping Détail",
+  "同日小簇「publie des guide」5 个相似产品：CESH RH、ConseilChien.fr、Gîte pas cher",
+  "跨目录同时出现：loraai.pro（4 个目录）",
+  "跨目录同时出现：payhip.com（4 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-23.md",
+ "niche_groups": "- 法国本地服务与住宿指南：par commune、publie des guide、les fiche、des guide pratique、des guide、fiche reprennent les、publique des、commune par —— 提供按市镇分类的法国住宿、维修及专业服务的实用指南与资料库\n- 法国屋顶与建筑维护：consacr、Couvreur travaux、Couvreur entretien toiture —— 聚焦屋顶覆盖、维护及建筑修缮相关的专业服务与内容\n- AI视频去水印工具：remove watermark logo、WatermarkRemoverVideo、AI Video Watermark Remover —— 利用AI技术从视频中移除水印、Logo及文本的工具\n- AI教育辅助与内容生成：separate teacher answer、ai context flow、AI Quiz Generator from PDF、PDF Quiz Desk、AI Context Flow MCP —— 提供从PDF生成测验、分离教师答案及AI上下文流程管理的教育与技术工具\n- 健康医疗资讯与本地服务：back pain muscle、blocked heart artery、Stent Placement Treatment、Coronary Stent Placement —— 提供关于背痛、心脏动脉阻塞等健康问题的科普及本地医疗专家服务\n- 电子数码与印度餐饮：accessory enjoy genuine、brand laptop electronic、authentic indian recipe、UK Electronics Super Store、Best Indian Restaurant Near Me —— 涵盖英国电子数码产品促销及正宗印度餐厅推荐的生活消费类内容"
+}
