@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-23** · 新增 1404 · 监控 197 个目录（今日成功 176）
+**2026-11-24** · 新增 1366 · 监控 197 个目录（今日成功 179）
 
 聚焦小词 Top 15:
 
-- `dia ind pendant` ×8（2 目录） 🆕：Achetez-Ici；Budget Entreprise
-- `par commune` ×11（2 目录） 🆕：Gîte Vacances France；Couvreur travaux
-- `publie des guide` ×5（2 目录） 🆕：Gîte Vacances France；CESH RH
-- `les fiche` ×8（2 目录） 🆕：Gîte Vacances France；Mon psychomotricien
-- `des guide pratique` ×4（2 目录） 🆕：Gîte Vacances France；Dépannage Saint-Thibault-des-Vignes
-- `diff rence entre` ×3（2 目录） 🆕：Gîte Vacances France；Ramonage poêle à granulés
-- `consacr` ×15（2 目录） 🆕：Couvreur travaux；Couvreur entretien toiture
-- `accessory enjoy genuine` ×2（2 目录） 🆕：Save 70% at the UK Electronics Super Store – Top Laptop Deal；UK Electronics Super Store – 70% Off & Best Laptop Dealer in
-- `remove watermark logo` ×2（2 目录） 🆕：WatermarkRemoverVideo；AI Video Watermark Remover Remove watermarks, logos, and tex
-- `separate teacher answer` ×2（2 目录） 🆕：AI Quiz Generator from PDF – Questions & Answer Keys — score；PDF Quiz Desk
-- `ai context flow` ×2（2 目录） 🆕：AI Context Flow MCP；Ai Context Flow
-- `authentic indian recipe` ×2（2 目录） 🆕：Best Indian Restaurant Near Me | good food；Best Indian Restaurant Near Me | good food bc
-- `back pain muscle` ×2（2 目录） 🆕：Can Poor Posture Cause Long-Term Spine Problems?；Poor Posture and Chronic Back Pain: Causes & Prevention
-- `beat maker sketch` ×2（2 目录） 🆕：MakeBeat - Free online AI beat maker；MakeBeat
-- `blocked heart artery` ×2（2 目录） 🆕：Stent Placement Treatment in Pune | Dr. Tanmay Kulkarni；Coronary Stent Placement in Pune | Expert Cardiologist
+- `lookup network` ×10（2 目录） 🆕：CokeCloud；Gougou IP Lookup & Network Tools
+- `par commune des` ×4（2 目录） 🆕：Nuisible écologique；Entreprise déménageur
+- `cabin dedicated desk` ×3（2 目录） 🆕：25 Coworking Spaces Near Koregaon Park, Pune (2027)；Top 25 Coworking Spaces Near Koregaon Park, Pune (2027)
+- `ivf iui icsi` ×3（2 目录） 🆕：IVF hospital in Khammam；IVF & Fertility Centre in Amritsar, Mohali & Barnala
+- `local dau rental` ×3（2 目录） 🆕：Activa on Rent in Chandigarh for Tourists and Local - Dau Re；Activa on Rent in Chandigarh for Tourists and Locals - Dau R
+- `traveller enjoy comfortable` ×3（3 目录） 🆕：Activa on Rent in Chandigarh for Tourists and Local - Dau Re；Activa on Rent in Chandigarh for Tourists and Locals - Dau R
+- `dia ind pendant` ×7（3 目录）：ExpertisMédias；France en Campagne
+- `chat email phone` ×2（2 目录） 🆕：Merrows；Message, One inbox for every customer conversation — score 4
+- `hosted url shortener` ×2（2 目录） 🆕：Url-Shorten-Worker — Self-hosted URL Shortener；Url-Shorten-Worker
+- `payment tweet deleter` ×2（2 目录） 🆕：Clearpost: Bulk-delete old tweets. Sign in with X, pay once.；Clearpost
+- `pour les particulier` ×2（3 目录） 🆕：Com Quotidiens；Le Parfait Artisan
+- `called pde5 inhibitor` ×4（4 目录）：Zenegra 100 Mg And Blood Pressure: Important Safety Consider；Malegra 25 mg: Understanding Its Mechanism Of Action
+- `10+ year experience` ×2（2 目录） 🆕：Foppema Tree Care；Foppema TreeCare
+- `artificial intelligence industry` ×2（2 目录） 🆕：Industrial Automation, Smart Manufacturing & AI Technology；Industry 4.0 Insider Threats Are Rising: Protect Your Data B
+- `city exploration dau` ×2（2 目录） 🆕：Bike On Rent In Amritsar for City Exploration - Dau Rental；Bike Rent in Noida for Easy City Exploration – Dau Rental
 
 微赛道归纳:
 
-- 法国本地服务与住宿指南：par commune、publie des guide、les fiche、des guide pratique、des guide、fiche reprennent les、publique des、commune par —— 提供按市镇分类的法国住宿、维修及专业服务的实用指南与资料库
-- 法国屋顶与建筑维护：consacr、Couvreur travaux、Couvreur entretien toiture —— 聚焦屋顶覆盖、维护及建筑修缮相关的专业服务与内容
-- AI视频去水印工具：remove watermark logo、WatermarkRemoverVideo、AI Video Watermark Remover —— 利用AI技术从视频中移除水印、Logo及文本的工具
-- AI教育辅助与内容生成：separate teacher answer、ai context flow、AI Quiz Generator from PDF、PDF Quiz Desk、AI Context Flow MCP —— 提供从PDF生成测验、分离教师答案及AI上下文流程管理的教育与技术工具
-- 健康医疗资讯与本地服务：back pain muscle、blocked heart artery、Stent Placement Treatment、Coronary Stent Placement —— 提供关于背痛、心脏动脉阻塞等健康问题的科普及本地医疗专家服务
-- 电子数码与印度餐饮：accessory enjoy genuine、brand laptop electronic、authentic indian recipe、UK Electronics Super Store、Best Indian Restaurant Near Me —— 涵盖英国电子数码产品促销及正宗印度餐厅推荐的生活消费类内容
+- 共享办公与灵活工位：cabin dedicated desk、dedicated desk meeting —— 提供按工位或会议室计费的联合办公空间预订服务
+- 本地短途出行租赁：local dau rental、city exploration dau、traveller enjoy comfortable、booking whether exploring —— 面向游客及本地居民的电动车、摩托车等短途交通工具租赁
+- 辅助生殖医疗：ivf iui icsi —— 提供试管婴儿、人工授精等生育辅助服务的医疗机构
+- 网络查询与IP工具：lookup network —— 提供IP地址查询、网络诊断等基础网络工具服务
+- 自托管URL短链工具：hosted url shortener、self hosted url —— 提供可私有化部署的URL短链接生成与管理工具
+- 社交媒体内容清理：payment tweet deleter —— 提供付费批量删除历史推文等社交媒体内容清理服务
 
-完整报告: [reports/2026-11-23.md](reports/2026-11-23.md)
+完整报告: [reports/2026-11-24.md](reports/2026-11-24.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
