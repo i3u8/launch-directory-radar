@@ -7,36 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-24** · 新增 1366 · 监控 197 个目录（今日成功 179）
+**2026-11-25** · 新增 1392 · 监控 197 个目录（今日成功 177）
 
 聚焦小词 Top 15:
 
-- `lookup network` ×10（2 目录） 🆕：CokeCloud；Gougou IP Lookup & Network Tools
-- `par commune des` ×4（2 目录） 🆕：Nuisible écologique；Entreprise déménageur
-- `cabin dedicated desk` ×3（2 目录） 🆕：25 Coworking Spaces Near Koregaon Park, Pune (2027)；Top 25 Coworking Spaces Near Koregaon Park, Pune (2027)
-- `ivf iui icsi` ×3（2 目录） 🆕：IVF hospital in Khammam；IVF & Fertility Centre in Amritsar, Mohali & Barnala
-- `local dau rental` ×3（2 目录） 🆕：Activa on Rent in Chandigarh for Tourists and Local - Dau Re；Activa on Rent in Chandigarh for Tourists and Locals - Dau R
-- `traveller enjoy comfortable` ×3（3 目录） 🆕：Activa on Rent in Chandigarh for Tourists and Local - Dau Re；Activa on Rent in Chandigarh for Tourists and Locals - Dau R
-- `dia ind pendant` ×7（3 目录）：ExpertisMédias；France en Campagne
-- `chat email phone` ×2（2 目录） 🆕：Merrows；Message, One inbox for every customer conversation — score 4
-- `hosted url shortener` ×2（2 目录） 🆕：Url-Shorten-Worker — Self-hosted URL Shortener；Url-Shorten-Worker
-- `payment tweet deleter` ×2（2 目录） 🆕：Clearpost: Bulk-delete old tweets. Sign in with X, pay once.；Clearpost
-- `pour les particulier` ×2（3 目录） 🆕：Com Quotidiens；Le Parfait Artisan
-- `called pde5 inhibitor` ×4（4 目录）：Zenegra 100 Mg And Blood Pressure: Important Safety Consider；Malegra 25 mg: Understanding Its Mechanism Of Action
-- `10+ year experience` ×2（2 目录） 🆕：Foppema Tree Care；Foppema TreeCare
-- `artificial intelligence industry` ×2（2 目录） 🆕：Industrial Automation, Smart Manufacturing & AI Technology；Industry 4.0 Insider Threats Are Rising: Protect Your Data B
-- `city exploration dau` ×2（2 目录） 🆕：Bike On Rent In Amritsar for City Exploration - Dau Rental；Bike Rent in Noida for Easy City Exploration – Dau Rental
+- `des article` ×6（3 目录） 🆕：Déménageurs autour de moi；Couvreur toiture service
+- `ainsi que des` ×3（3 目录） 🆕：Création jardin；Pompe à Chaleur Réversible France
+- `pde5 inhibitor class` ×3（3 目录） 🆕：Silditop 50 Mg: Understanding The Importance Of Correct Dosa；Kamagra 100 Mg: Understanding Its Benefits And Limitations
+- `strategy creativity technology` ×3（2 目录） 🆕：Digital Marketing Agency Hyderabad, India | DigitalZap；Marketing Agency Hyderabad
+- `avec coordonn` ×5（3 目录） 🆕：Déménageurs autour de moi；Pompe à Chaleur Réversible France
+- `attract global client` ×2（3 目录） 🆕：Product Videography；Product Videography In India
+- `hicule hors d'usage` ×2（2 目录） 🆕：Épave Puteaux；Épave Charenton-le-Pont
+- `live human takeover` ×2（2 目录） 🆕：easi.run；easi.run Self-hosted Chrome for AI agents with live human ta
+- `short cartoon video` ×2（2 目录） 🆕：Cartoon Video AI；Cartoon Video AI Plan and generate short cartoon videos in y
+- `par ville` ×8（3 目录）：Création jardin；Déménageurs autour de moi
+- `22d yamuna expressway` ×2（3 目录） 🆕：ACE Edit Sector 22D – Premium Studio Apartments Near Jewar A；ACE Edit Studio Apartments
+- `competitive wholesale price` ×2（2 目录） 🆕：Grb Town Bus Aloo Bhujia Wholesale Seller；Lays Magic Masala Bulk Supplier
+- `compl tent l'annuaire` ×2（3 目录） 🆕：Psy autour de moi；Dépannage Rueil-Malmaison
+- `dans les autre` ×2（3 目录） 🆕：Épave Bry-sur-Marne；Dépannage Rueil-Malmaison
+- `edit endless canva` ×2（2 目录） 🆕：EZimg；EZimg Little edits. Endless canvas. 💬 0 Comments
 
 微赛道归纳:
 
-- 共享办公与灵活工位：cabin dedicated desk、dedicated desk meeting —— 提供按工位或会议室计费的联合办公空间预订服务
-- 本地短途出行租赁：local dau rental、city exploration dau、traveller enjoy comfortable、booking whether exploring —— 面向游客及本地居民的电动车、摩托车等短途交通工具租赁
-- 辅助生殖医疗：ivf iui icsi —— 提供试管婴儿、人工授精等生育辅助服务的医疗机构
-- 网络查询与IP工具：lookup network —— 提供IP地址查询、网络诊断等基础网络工具服务
-- 自托管URL短链工具：hosted url shortener、self hosted url —— 提供可私有化部署的URL短链接生成与管理工具
-- 社交媒体内容清理：payment tweet deleter —— 提供付费批量删除历史推文等社交媒体内容清理服务
+- 法国本地生活服务目录：des article、ainsi que des、avec coordonn、par ville、compl tent l'annuaire、dans les autre、avec des article、avec leur coordonn、avis ainsi que —— 提供搬家、园艺、热泵安装、心理医生等法国本地服务商的搜索与联系信息聚合。
+- 男性健康药物资讯：pde5 inhibitor class、commonly contain sildenafil —— 针对西地那非类药物的剂量、益处及局限性提供科普与说明内容。
+- 数字营销与产品视频：strategy creativity technology、attract global client、become essential marketing —— 提供数字营销代理服务及面向全球客户的产品视频拍摄与制作方案。
+- AI代理与自动化办公：live human takeover、self hosted chrome、edit endless canva、short cartoon video —— 提供支持AI代理接管浏览器、无限画布编辑及AI生成短卡通视频的自动化工具。
+- 印度房地产与批发供应：22d yamuna expressway、competitive wholesale price —— 展示印度特定区域的公寓楼盘信息及零食等商品的批发价格与供应商。
+- 法国报废车回收：hicule hors d'usage —— 提供法国特定地区报废车辆回收与处理服务的本地化信息。
 
-完整报告: [reports/2026-11-24.md](reports/2026-11-24.md)
+完整报告: [reports/2026-11-25.md](reports/2026-11-25.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

@@ -1,28 +1,27 @@
-# 每日目录雷达 2026-11-24
+# 每日目录雷达 2026-11-25
 
-- 监控目录 197 / 筛查目录 478；今日成功 179，失败 18；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, hyzenpro-com, madewithstack-com, promoteindex-com, usefuturestack-com, foundr-ai, aiagentautomation-site, apprater-net, discoverly-tech, dowseai-com, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com, webinhalt-de
-- 今日新增条目 **1366**（去重后 1244）；7 天基线 9058，30 天基线 36741
-- 语料 45298 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.25，30天 0.25
+- 监控目录 197 / 筛查目录 478；今日成功 177，失败 20；连续失败预警：canadawebdir-com, canadiandirectory-org, sitelike-org, hyzenpro-com, madewithstack-com, promoteindex-com, usefuturestack-com, foundr-ai, aiagentautomation-site, apprater-net, discoverly-tech, dowseai-com, listai-cc, nextweekai-com, phototoolfinder-com, trillionagent-com, webinhalt-de
+- 今日新增条目 **1392**（去重后 1251）；7 天基线 8826，30 天基线 36728
+- 语料 46237 个产品；出现率超过阈值的泛词与 `generic_terms.txt` 中的大词已被抑制。AI 相关占比：今日 0.29，30天 0.25
 
 ## 微赛道归纳（LLM）
 
-- 共享办公与灵活工位：cabin dedicated desk、dedicated desk meeting —— 提供按工位或会议室计费的联合办公空间预订服务
-- 本地短途出行租赁：local dau rental、city exploration dau、traveller enjoy comfortable、booking whether exploring —— 面向游客及本地居民的电动车、摩托车等短途交通工具租赁
-- 辅助生殖医疗：ivf iui icsi —— 提供试管婴儿、人工授精等生育辅助服务的医疗机构
-- 网络查询与IP工具：lookup network —— 提供IP地址查询、网络诊断等基础网络工具服务
-- 自托管URL短链工具：hosted url shortener、self hosted url —— 提供可私有化部署的URL短链接生成与管理工具
-- 社交媒体内容清理：payment tweet deleter —— 提供付费批量删除历史推文等社交媒体内容清理服务
+- 法国本地生活服务目录：des article、ainsi que des、avec coordonn、par ville、compl tent l'annuaire、dans les autre、avec des article、avec leur coordonn、avis ainsi que —— 提供搬家、园艺、热泵安装、心理医生等法国本地服务商的搜索与联系信息聚合。
+- 男性健康药物资讯：pde5 inhibitor class、commonly contain sildenafil —— 针对西地那非类药物的剂量、益处及局限性提供科普与说明内容。
+- 数字营销与产品视频：strategy creativity technology、attract global client、become essential marketing —— 提供数字营销代理服务及面向全球客户的产品视频拍摄与制作方案。
+- AI代理与自动化办公：live human takeover、self hosted chrome、edit endless canva、short cartoon video —— 提供支持AI代理接管浏览器、无限画布编辑及AI生成短卡通视频的自动化工具。
+- 印度房地产与批发供应：22d yamuna expressway、competitive wholesale price —— 展示印度特定区域的公寓楼盘信息及零食等商品的批发价格与供应商。
+- 法国报废车回收：hicule hors d'usage —— 提供法国特定地区报废车辆回收与处理服务的本地化信息。
 
 ## 信号 Signals
 
-- 小词「lookup network」今日 10 个产品/2 个目录：CokeCloud、Gougou IP Lookup & Network Tools
-- 小词「par commune des」今日 4 个产品/2 个目录：Nuisible écologique、Entreprise déménageur
-- 小词「cabin dedicated desk」今日 3 个产品/2 个目录：25 Coworking Spaces Near Koregaon Park, Pune (2027)、Top 25 Coworking Spaces Near Koregaon Park, Pune (2027)
-- 同日小簇「lookup network」10 个相似产品：CokeCloud、Feiji Cloud IP Lookup & Network Tools、Feiniao Cloud IP Lookup & Network Tools
-- 同日小簇「par commune des」4 个相似产品：Entreprise déménageur、Nuisible écologique、Nuit insolite France
-- 我们的站点上线：youlooklonely.com @ webgora.com
-- 跨目录同时出现：blog.google（5 个目录）
-- 跨目录同时出现：aitrendvideo.net（4 个目录）
+- 小词「des article」今日 6 个产品/3 个目录：Déménageurs autour de moi、Couvreur toiture service
+- 小词「ainsi que des」今日 3 个产品/3 个目录：Création jardin、Pompe à Chaleur Réversible France
+- 小词「pde5 inhibitor class」今日 3 个产品/3 个目录：Silditop 50 Mg: Understanding The Importance Of Correct Dosa、Kamagra 100 Mg: Understanding Its Benefits And Limitations
+- 同日小簇「des article」6 个相似产品：Annuaire psychologue、Circuit Autour du Monde、Couvreur toiture service
+- 同日小簇「ainsi que des」3 个相似产品：Création jardin、Pompe à Chaleur Réversible France、Professionnel couvreur
+- 跨目录同时出现：beardstyles.org（3 个目录）
+- 跨目录同时出现：claude.ai（3 个目录）
 
 ## 聚焦小词 Top 15
 
@@ -30,75 +29,75 @@
 
 | # | 词 | 今日 | 目录数 | vs30d | 示例产品 |
 |---|---|---|---|---|---|
-| 1 | **lookup network** | 10 | 2 | 🆕 | [CokeCloud](https://cokecloud.site/)；[Gougou IP Lookup & Network Tools](https://gougou.site/)；[Yifenjichang IP Lookup & Network Tools](https://xn--4gqx1hgtfdmt.shop/) |
-| 2 | **par commune des** | 4 | 2 | 🆕 | [Nuisible écologique](https://a2place.com/listing/nuisible-ecologique-719193)；[Entreprise déménageur](https://a2place.com/listing/entreprise-demenageur-719191)；[Weekend romantique France](https://a2place.com/listing/weekend-romantique-france-719195) |
-| 3 | **cabin dedicated desk** | 3 | 2 | 🆕 | [25 Coworking Spaces Near Koregaon Park, Pune (2027)](https://aweblist.org/listing/25-coworking-spaces-near-koregaon-park-pune-(2027-978436)；[Top 25 Coworking Spaces Near Koregaon Park, Pune (2027)](https://aweblist.org/listing/top-25-coworking-spaces-near-koregaon-park-pune-(2027-978423)；[Top 30 Best Coworking Spaces in Pune (2027) | Prices & Ameni](https://aweblist.org/listing/top-30-best-coworking-spaces-in-pune-(2027-prices-and-amenities-978420) |
-| 4 | **ivf iui icsi** | 3 | 2 | 🆕 | [IVF hospital in Khammam](https://exampledir.com/listing/ivf-hospital-in-khammam-315910)；[IVF & Fertility Centre in Amritsar, Mohali & Barnala](https://directory6.org/listing/ivf-and-fertility-centre-in-amritsar-mohali-and-barnala-726305)；[IVF Treatment | Best IVF Centre in Punjab | Simran IVF](https://directory6.org/listing/ivf-treatment-best-ivf-centre-in-punjab-simran-ivf-726306) |
-| 5 | **local dau rental** | 3 | 2 | 🆕 | [Activa on Rent in Chandigarh for Tourists and Local - Dau Re](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-local--dau-rental-315931)；[Activa on Rent in Chandigarh for Tourists and Locals - Dau R](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-locals--dau-rental-315930)；[Scooty on Rent in Agra for Tourists and Locals – Dau Rental](https://exampledir.com/listing/scooty-on-rent-in-agra-for-tourists-and-locals-–-dau-rental-315924) |
-| 6 | **traveller enjoy comfortable** | 3 | 3 | 🆕 | [Activa on Rent in Chandigarh for Tourists and Local - Dau Re](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-local--dau-rental-315931)；[Activa on Rent in Chandigarh for Tourists and Locals - Dau R](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-locals--dau-rental-315930)；[7 Days Georgia Armenia Tour Package from Kerala](https://aweblist.org/listing/7-days-georgia-armenia-tour-package-from-kerala-978415) |
-| 7 | **dia ind pendant** | 7 | 3 | 24.3x | [ExpertisMédias](https://a2place.com/listing/expertismedias-719210)；[France en Campagne](https://a2place.com/listing/france-en-campagne-719206)；[Le Parfait Artisan](https://a2place.com/listing/le-parfait-artisan-719205) |
-| 8 | **chat email phone** | 2 | 2 | 🆕 | [Merrows](https://postlaunchkit.com/directory/merrows)；[Message, One inbox for every customer conversation — score 4](https://nothumansearch.ai/site/message.com) |
-| 9 | **hosted url shortener** | 2 | 2 | 🆕 | [Url-Shorten-Worker — Self-hosted URL Shortener](https://dealmyapp.com/listings/url-shorten-worker-self-hosted-url-shortener)；[Url-Shorten-Worker](https://url-shorten-worker.tiiny.site/) |
-| 10 | **payment tweet deleter** | 2 | 2 | 🆕 | [Clearpost: Bulk-delete old tweets. Sign in with X, pay once.](https://awesomeindie.com/product/clearpost)；[Clearpost](https://auth.pitchwall.co/product/clearpost) |
-| 11 | **pour les particulier** | 2 | 3 | 🆕 | [Com Quotidiens](https://exampledir.com/listing/com-quotidiens-315933)；[Le Parfait Artisan](https://a2place.com/listing/le-parfait-artisan-719205) |
-| 12 | **called pde5 inhibitor** | 4 | 4 | 47.3x | [Zenegra 100 Mg And Blood Pressure: Important Safety Consider](https://exampledir.com/listing/zenegra-100-mg-and-blood-pressure-important-safety-considerations-315956)；[Malegra 25 mg: Understanding Its Mechanism Of Action](https://directory6.org/listing/malegra-25-mg-understanding-its-mechanism-of-action-726282)；[Penegra 50 mg: Expected Results And Treatment Considerations](https://aweblist.org/listing/penegra-50-mg-expected-results-and-treatment-considerations-978417) |
-| 13 | **10+ year experience** | 2 | 2 | 🆕 | [Foppema Tree Care](https://huludirectory.com/listing/foppema-tree-care-2263956)；[Foppema TreeCare](https://aweblist.org/listing/foppema-treecare-978435) |
-| 14 | **artificial intelligence industry** | 2 | 2 | 🆕 | [Industrial Automation, Smart Manufacturing & AI Technology](https://aweblist.org/listing/industrial-automation-smart-manufacturing-and-ai-technology-978416)；[Industry 4.0 Insider Threats Are Rising: Protect Your Data B](https://directory6.org/listing/industry-40-insider-threats-are-rising-protect-your-data-before-it’s-lost-726314) |
-| 15 | **city exploration dau** | 2 | 2 | 🆕 | [Bike On Rent In Amritsar for City Exploration - Dau Rental](https://exampledir.com/listing/bike-on-rent-in-amritsar-for-city-exploration--dau-rental-315932)；[Bike Rent in Noida for Easy City Exploration – Dau Rental](https://exampledir.com/listing/bike-rent-in-noida-for-easy-city-exploration-–-dau-rental-315938) |
+| 1 | **des article** | 6 | 3 | 🆕 | [Déménageurs autour de moi](https://exampledir.com/listing/demenageurs-autour-de-moi-316081)；[Couvreur toiture service](https://aweblist.org/listing/couvreur-toiture-service-978737)；[Spas Privatifs France](https://a2place.com/listing/spas-privatifs-france-719272) |
+| 2 | **ainsi que des** | 3 | 3 | 🆕 | [Création jardin](https://exampledir.com/listing/creation-jardin-316085)；[Pompe à Chaleur Réversible France](https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258)；[Professionnel couvreur](https://a2place.com/listing/professionnel-couvreur-719270) |
+| 3 | **pde5 inhibitor class** | 3 | 3 | 🆕 | [Silditop 50 Mg: Understanding The Importance Of Correct Dosa](https://directory6.org/listing/silditop-50-mg-understanding-the-importance-of-correct-dosage-726517)；[Kamagra 100 Mg: Understanding Its Benefits And Limitations](https://aweblist.org/listing/kamagra-100-mg-understanding-its-benefits-and-limitations-978765)；[Tadora 20 Mg: Prescription Requirements And Medical Guidance](https://huludirectory.com/listing/tadora-20-mg-prescription-requirements-and-medical-guidance-2264095) |
+| 4 | **strategy creativity technology** | 3 | 2 | 🆕 | [Digital Marketing Agency Hyderabad, India | DigitalZap](https://directory6.org/listing/digital-marketing-agency-hyderabad-india-digitalzap-726518)；[Marketing Agency Hyderabad](https://aweblist.org/listing/marketing-agency-hyderabad-978752)；[Web Design Companies in Hyderabad](https://aweblist.org/listing/web-design-companies-in-hyderabad-978767) |
+| 5 | **avec coordonn** | 5 | 3 | 🆕 | [Déménageurs autour de moi](https://exampledir.com/listing/demenageurs-autour-de-moi-316081)；[Pompe à Chaleur Réversible France](https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258)；[Dépannage Rueil-Malmaison](https://a2place.com/listing/depannage-rueil-malmaison-719274) |
+| 6 | **attract global client** | 2 | 3 | 🆕 | [Product Videography](https://exampledir.com/listing/product-videography-316092)；[Product Videography In India](https://aweblist.org/listing/product-videography-in-india-978729) |
+| 7 | **hicule hors d'usage** | 2 | 2 | 🆕 | [Épave Puteaux](https://exampledir.com/listing/epave-puteaux-316082)；[Épave Charenton-le-Pont](https://exampledir.com/listing/epave-charenton-le-pont-316086) |
+| 8 | **live human takeover** | 2 | 2 | 🆕 | [easi.run](https://easi.run/)；[easi.run Self-hosted Chrome for AI agents with live human ta](https://thehackstack.com/s/easi) |
+| 9 | **short cartoon video** | 2 | 2 | 🆕 | [Cartoon Video AI](https://azn8.com/listing/cartoon-video-ai)；[Cartoon Video AI Plan and generate short cartoon videos in y](https://thehackstack.com/s/cartoonvideoai) |
+| 10 | **par ville** | 8 | 3 | 42.7x | [Création jardin](https://exampledir.com/listing/creation-jardin-316085)；[Déménageurs autour de moi](https://exampledir.com/listing/demenageurs-autour-de-moi-316081)；[Annuaire Ergothérapeutes France](https://aweblist.org/listing/annuaire-ergotherapeutes-france-978741) |
+| 11 | **22d yamuna expressway** | 2 | 3 | 🆕 | [ACE Edit Sector 22D – Premium Studio Apartments Near Jewar A](https://aweblist.org/listing/ace-edit-sector-22d-–-premium-studio-apartments-near-jewar-airport-978771)；[ACE Edit Studio Apartments](https://directory6.org/listing/ace-edit-studio-apartments-726486) |
+| 12 | **competitive wholesale price** | 2 | 2 | 🆕 | [Grb Town Bus Aloo Bhujia Wholesale Seller](https://directory6.org/listing/grb-town-bus-aloo-bhujia-wholesale-seller-726507)；[Lays Magic Masala Bulk Supplier](https://huludirectory.com/listing/lays-magic-masala-bulk-supplier-2264085) |
+| 13 | **compl tent l'annuaire** | 2 | 3 | 🆕 | [Psy autour de moi](https://aweblist.org/listing/psy-autour-de-moi-978756)；[Dépannage Rueil-Malmaison](https://a2place.com/listing/depannage-rueil-malmaison-719274) |
+| 14 | **dans les autre** | 2 | 3 | 🆕 | [Épave Bry-sur-Marne](https://aweblist.org/listing/epave-bry-sur-marne-978776)；[Dépannage Rueil-Malmaison](https://a2place.com/listing/depannage-rueil-malmaison-719274) |
+| 15 | **edit endless canva** | 2 | 2 | 🆕 | [EZimg](https://ezimg.app/)；[EZimg Little edits. Endless canvas. 💬 0 Comments](https://thehackstack.com/s/ezimg) |
 
 ## 新出现的词 New terms（30 天基线中从未出现）
 
-- **dedicated desk meeting** × 3（2 个目录）：[25 Coworking Spaces Near Koregaon Park, Pune (2027)](https://aweblist.org/listing/25-coworking-spaces-near-koregaon-park-pune-(2027-978436)；[Top 25 Coworking Spaces Near Koregaon Park, Pune (2027)](https://aweblist.org/listing/top-25-coworking-spaces-near-koregaon-park-pune-(2027-978423)；[Top 30 Best Coworking Spaces in Pune (2027) | Prices & Ameni](https://aweblist.org/listing/top-30-best-coworking-spaces-in-pune-(2027-prices-and-amenities-978420)
-- **commune des** × 4（2 个目录）：[Nuisible écologique](https://a2place.com/listing/nuisible-ecologique-719193)；[Entreprise déménageur](https://a2place.com/listing/entreprise-demenageur-719191)；[Weekend romantique France](https://a2place.com/listing/weekend-romantique-france-719195)
-- **self hosted url** × 2（2 个目录）：[Url-Shorten-Worker — Self-hosted URL Shortener](https://dealmyapp.com/listings/url-shorten-worker-self-hosted-url-shortener)；[Url-Shorten-Worker](https://url-shorten-worker.tiiny.site/)
-- **automation tech share** × 2（2 个目录）：[Industrial Automation, Smart Manufacturing & AI Technology](https://aweblist.org/listing/industrial-automation-smart-manufacturing-and-ai-technology-978416)；[Industry 4.0 Insider Threats Are Rising: Protect Your Data B](https://directory6.org/listing/industry-40-insider-threats-are-rising-protect-your-data-before-it’s-lost-726314)
-- **booking whether exploring** × 2（2 个目录）：[Activa on Rent in Chandigarh for Tourists and Local - Dau Re](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-local--dau-rental-315931)；[Activa on Rent in Chandigarh for Tourists and Locals - Dau R](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-locals--dau-rental-315930)
-- **certified arborist specialize** × 2（2 个目录）：[Foppema Tree Care](https://huludirectory.com/listing/foppema-tree-care-2263956)；[Foppema TreeCare](https://aweblist.org/listing/foppema-treecare-978435)
-- **exploration dau rental** × 2（2 个目录）：[Bike On Rent In Amritsar for City Exploration - Dau Rental](https://exampledir.com/listing/bike-on-rent-in-amritsar-for-city-exploration--dau-rental-315932)；[Bike Rent in Noida for Easy City Exploration – Dau Rental](https://exampledir.com/listing/bike-rent-in-noida-for-easy-city-exploration-–-dau-rental-315938)
-- **export notebooklm note** × 2（2 个目录）：[NotebookLM Ultra Exporter](https://nlmexporter.com/)；[NotebookLM Ultra Exporter Export NotebookLM notes, sources &](https://thehackstack.com/s/nlmexporter)
-- **jewellery retailer wholesaler** × 2（2 个目录）：[Jwelly AI – Innovative Digital Solutions for Jewellery Busin](https://directory6.org/listing/jwelly-ai-–-innovative-digital-solutions-for-jewellery-businesses-726280)；[Smart Business Management Solutions for the Jewellery Indust](https://aweblist.org/listing/smart-business-management-solutions-for-the-jewellery-industry-978412)
-- **les ind pendant** × 2（3 个目录）：[Com Quotidiens](https://exampledir.com/listing/com-quotidiens-315933)；[ExpertisMédias](https://a2place.com/listing/expertismedias-719210)
+- **avis ainsi que** × 3（3 个目录）：[Création jardin](https://exampledir.com/listing/creation-jardin-316085)；[Pompe à Chaleur Réversible France](https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258)；[Professionnel couvreur](https://a2place.com/listing/professionnel-couvreur-719270)
+- **become essential marketing** × 2（3 个目录）：[Product Videography](https://exampledir.com/listing/product-videography-316092)；[Product Videography In India](https://aweblist.org/listing/product-videography-in-india-978729)
+- **self hosted chrome** × 2（3 个目录）：[easi.run](https://easi.run/)；[easi.run Self-hosted Chrome for AI agents with live human ta](https://thehackstack.com/s/easi)
+- **avec des article** × 2（3 个目录）：[Annuaire psychologue](https://a2place.com/listing/annuaire-psychologue-719276)；[Circuit Autour du Monde](https://a2place.com/listing/circuit-autour-du-monde-719239)
+- **avec leur coordonn** × 2（3 个目录）：[Création jardin](https://exampledir.com/listing/creation-jardin-316085)；[Annuaire Ergothérapeutes France](https://aweblist.org/listing/annuaire-ergotherapeutes-france-978741)
+- **commonly contain sildenafil** × 2（2 个目录）：[Silditop 50 Mg: Understanding The Importance Of Correct Dosa](https://directory6.org/listing/silditop-50-mg-understanding-the-importance-of-correct-dosage-726517)；[Kamagra 100 Mg: Understanding Its Benefits And Limitations](https://aweblist.org/listing/kamagra-100-mg-understanding-its-benefits-and-limitations-978765)
+- **des article sur** × 2（3 个目录）：[Couvreur toiture service](https://aweblist.org/listing/couvreur-toiture-service-978737)；[Circuit Autour du Monde](https://a2place.com/listing/circuit-autour-du-monde-719239)
+- **fiche avec coordonn** × 2（3 个目录）：[Dépannage Rueil-Malmaison](https://a2place.com/listing/depannage-rueil-malmaison-719274)；[Épave Évry-Courcouronnes](https://a2place.com/listing/epave-evry-courcouronnes-719285)
+- **gion chaque fiche** × 2（3 个目录）：[Spas Privatifs France](https://a2place.com/listing/spas-privatifs-france-719272)；[Annuaire naturopathe](https://a2place.com/listing/annuaire-naturopathe-719262)
+- **grocery store retailer** × 2（2 个目录）：[Grb Town Bus Aloo Bhujia Wholesale Seller](https://directory6.org/listing/grb-town-bus-aloo-bhujia-wholesale-seller-726507)；[Lays Magic Masala Bulk Supplier](https://huludirectory.com/listing/lays-magic-masala-bulk-supplier-2264085)
 
 ## 同日小簇（3-10 个相似产品）
 
-- **lookup network** × 10（2 个目录）：[CokeCloud](https://cokecloud.site/)；[Feiji Cloud IP Lookup & Network Tools](https://feijiyun.site/zh)；[Feiniao Cloud IP Lookup & Network Tools](https://feiniaoyun.online/zh)；[Gougou IP Lookup & Network Tools](https://gougou.site/)
-- **par commune des** × 4（2 个目录）：[Entreprise déménageur](https://a2place.com/listing/entreprise-demenageur-719191)；[Nuisible écologique](https://a2place.com/listing/nuisible-ecologique-719193)；[Nuit insolite France](https://a2place.com/listing/nuit-insolite-france-719194)；[Weekend romantique France](https://a2place.com/listing/weekend-romantique-france-719195)
-- **cabin dedicated desk** × 3（2 个目录）：[25 Coworking Spaces Near Koregaon Park, Pune (2027)](https://aweblist.org/listing/25-coworking-spaces-near-koregaon-park-pune-(2027-978436)；[Top 25 Coworking Spaces Near Koregaon Park, Pune (2027)](https://aweblist.org/listing/top-25-coworking-spaces-near-koregaon-park-pune-(2027-978423)；[Top 30 Best Coworking Spaces in Pune (2027) | Prices & Ameni](https://aweblist.org/listing/top-30-best-coworking-spaces-in-pune-(2027-prices-and-amenities-978420)
-- **ivf iui icsi** × 3（2 个目录）：[IVF & Fertility Centre in Amritsar, Mohali & Barnala](https://directory6.org/listing/ivf-and-fertility-centre-in-amritsar-mohali-and-barnala-726305)；[IVF hospital in Khammam](https://exampledir.com/listing/ivf-hospital-in-khammam-315910)；[IVF Treatment | Best IVF Centre in Punjab | Simran IVF](https://directory6.org/listing/ivf-treatment-best-ivf-centre-in-punjab-simran-ivf-726306)
-- **local dau rental** × 3（2 个目录）：[Activa on Rent in Chandigarh for Tourists and Local - Dau Re](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-local--dau-rental-315931)；[Activa on Rent in Chandigarh for Tourists and Locals - Dau R](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-locals--dau-rental-315930)；[Scooty on Rent in Agra for Tourists and Locals – Dau Rental](https://exampledir.com/listing/scooty-on-rent-in-agra-for-tourists-and-locals-–-dau-rental-315924)
-- **traveller enjoy comfortable** × 3（3 个目录）：[7 Days Georgia Armenia Tour Package from Kerala](https://aweblist.org/listing/7-days-georgia-armenia-tour-package-from-kerala-978415)；[Activa on Rent in Chandigarh for Tourists and Local - Dau Re](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-local--dau-rental-315931)；[Activa on Rent in Chandigarh for Tourists and Locals - Dau R](https://exampledir.com/listing/activa-on-rent-in-chandigarh-for-tourists-and-locals--dau-rental-315930)
-- **dia ind pendant** × 7（3 个目录）：[ExpertisMédias](https://a2place.com/listing/expertismedias-719210)；[France en Campagne](https://a2place.com/listing/france-en-campagne-719206)；[Fun Ludo](https://a2place.com/listing/fun-ludo-719204)；[La Côte en 2 Roues](https://a2place.com/listing/la-cote-en-2-roues-719213)
-- **called pde5 inhibitor** × 4（4 个目录）：[Malegra 25 mg: Understanding Its Mechanism Of Action](https://directory6.org/listing/malegra-25-mg-understanding-its-mechanism-of-action-726282)；[Penegra 50 mg: Expected Results And Treatment Considerations](https://aweblist.org/listing/penegra-50-mg-expected-results-and-treatment-considerations-978417)；[Zenegra 100 Mg And Blood Pressure: Important Safety Consider](https://exampledir.com/listing/zenegra-100-mg-and-blood-pressure-important-safety-considerations-315956)；[Zenegra 50 Mg: Precautions For Men With Existing Health Cond](https://huludirectory.com/listing/zenegra-50-mg-precautions-for-men-with-existing-health-conditions-2263957)
+- **des article** × 6（3 个目录）：[Annuaire psychologue](https://a2place.com/listing/annuaire-psychologue-719276)；[Circuit Autour du Monde](https://a2place.com/listing/circuit-autour-du-monde-719239)；[Couvreur toiture service](https://a2place.com/listing/couvreur-toiture-service-719273)；[Déménageurs autour de moi](https://a2place.com/listing/demenageurs-autour-de-moi-719263)
+- **ainsi que des** × 3（3 个目录）：[Création jardin](https://a2place.com/listing/creation-jardin-719267)；[Pompe à Chaleur Réversible France](https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258)；[Professionnel couvreur](https://a2place.com/listing/professionnel-couvreur-719270)
+- **pde5 inhibitor class** × 3（3 个目录）：[Kamagra 100 Mg: Understanding Its Benefits And Limitations](https://aweblist.org/listing/kamagra-100-mg-understanding-its-benefits-and-limitations-978765)；[Silditop 50 Mg: Understanding The Importance Of Correct Dosa](https://directory6.org/listing/silditop-50-mg-understanding-the-importance-of-correct-dosage-726517)；[Tadora 20 Mg: Prescription Requirements And Medical Guidance](https://huludirectory.com/listing/tadora-20-mg-prescription-requirements-and-medical-guidance-2264095)
+- **strategy creativity technology** × 3（2 个目录）：[Digital Marketing Agency Hyderabad, India | DigitalZap](https://directory6.org/listing/digital-marketing-agency-hyderabad-india-digitalzap-726518)；[Marketing Agency Hyderabad](https://aweblist.org/listing/marketing-agency-hyderabad-978752)；[Web Design Companies in Hyderabad](https://aweblist.org/listing/web-design-companies-in-hyderabad-978767)
+- **avec coordonn** × 5（3 个目录）：[Déménageurs autour de moi](https://a2place.com/listing/demenageurs-autour-de-moi-719263)；[Dépannage Rueil-Malmaison](https://a2place.com/listing/depannage-rueil-malmaison-719274)；[Épave Évry-Courcouronnes](https://a2place.com/listing/epave-evry-courcouronnes-719285)；[Pompe à Chaleur Réversible France](https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258)
+- **par ville** × 8（3 个目录）：[Annuaire Ergothérapeutes France](https://a2place.com/listing/annuaire-ergotherapeutes-france-719275)；[Annuaire naturopathe](https://a2place.com/listing/annuaire-naturopathe-719262)；[Annuaire psychologue](https://a2place.com/listing/annuaire-psychologue-719276)；[Création jardin](https://a2place.com/listing/creation-jardin-719267)
+- **code postal** × 3（3 个目录）：[Déménageurs autour de moi](https://a2place.com/listing/demenageurs-autour-de-moi-719263)；[Dépannage Annecy](https://a2place.com/listing/depannage-annecy-719271)；[Dépannage Antony](https://a2place.com/listing/depannage-antony-719265)
+- **des professionnel** × 3（2 个目录）：[Création jardin](https://a2place.com/listing/creation-jardin-719267)；[Épave Puteaux](https://a2place.com/listing/epave-puteaux-719264)；[Pompe à Chaleur Réversible France](https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258)
 
 ## 各目录今日新增与热门分类
 
 | 目录 | 新增 | 热门分类 |
 |---|---|---|
-| canopystack.dev | 115 | Other(53)、SaaS(39)、Dev tool(16) |
-| listedstartups.com | 100 | Industrial Software, Engineering Tools, Electrical Protection(8)、Network Tools, Developer Tools, IP(7)、Trading signals, Finance(4) |
+| canopystack.dev | 112 | Other(58)、SaaS(42)、Dev tool(7) |
+| listedstartups.com | 100 | Industrial Software, Engineering Tools, Electrical Protection(6)、AI Video(4)、Industrial Software, Engineering Tools, Process Control(4) |
+| tools.landin.page | 100 | tool(99) |
 | thehackstack.com | 51 |  |
 | a2place.com | 50 |  |
 | aweblist.org | 50 |  |
 | directory6.org | 50 |  |
 | exampledir.com | 50 |  |
 | huludirectory.com | 50 |  |
+| postlaunchkit.com | 50 | ai-agents(7)、education(6)、design-media(6) |
 | zearches.com | 50 |  |
-| postlaunchkit.com | 47 | productivity(6)、developer(6)、business(4) |
-| clapstorm.com | 41 | p(33) |
-| altimateguide.com | 34 | tools(34) |
+| uneed.best | 43 | tool(43) |
 
 ## 跨目录重复 Cross-listing（历史累计，同一产品域名出现在 ≥2 个目录）
 
-- blog.google（Google EmbeddingGemma 2）：aitoolly.com, bestaitools.com, peplio.com, planet-ai.net, thequestion.it
-- aitrendvideo.net（AI Trend Video）：canopystack.dev, listedstartups.com, worthtotry.com, zearches.com
-- datephotos.ai（DatePhotos AI）：canopystack.dev, launch.ignlab.net, listedstartups.com, zearches.com
-- wechatai.app（Wechatai）：canopystack.dev, launch.ignlab.net, listedstartups.com, worthtotry.com
-- aipicturechecker.com（AI Picture Checker）：canopystack.dev, listedstartups.com, worthtotry.com
-- aitradingbotapp.com（AI Trading Bot: Forex & Gold）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- bookmarkly.app（Bookmarkly AI）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- forexsignals.io（Forex Signals: Live FX Alerts）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- goldsignalsdaily.com（Gold Signals: XAUUSD Alerts）：canopystack.dev, launch.ignlab.net, listedstartups.com
-- imideo.io（iMideo）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- beardstyles.org（BeardStyles）：canopystack.dev, listedstartups.com, worthtotry.com
+- claude.ai（）：canopystack.dev, hyzenpro.com, zoipi.com
+- easi.run（easi.run）：canopystack.dev, listedstartups.com, madewithstack.com
+- ebitta.com（Ebitta）：canopystack.dev, launch.ignlab.net, madewithstack.com
+- hdimageenhancer.com（HD Image Enhancer）：canopystack.dev, worthtotry.com, zearches.com
+- imagetoimage.tools（Image to Image）：canopystack.dev, listedstartups.com, webgora.com
+- magi2ai.video（Magi2AI）：canopystack.dev, launch.ignlab.net, listedstartups.com
+- ocr4you.com（OCR4You）：canopystack.dev, listedstartups.com, zearches.com
+- oouuhai.com（Oouuh AI）：canopystack.dev, hyzenpro.com, listedstartups.com
+- peopleremover.com（People Remover）：canopystack.dev, listedstartups.com, worthtotry.com
 
 ## 我们的站点已被目录公开展示
 
@@ -115,23 +114,25 @@
 
 ## 今日失败的来源
 
-- canadawebdir-com: RuntimeError: http 403（连续 31 天）
-- canadiandirectory-org: RuntimeError: http 403（连续 31 天）
-- sitelike-org: RuntimeError: http 403（连续 31 天）
-- hyzenpro-com: JSONDecodeError: Unterminated string starting at: line 1 column 6063062 (char 6063061)（连续 17 天）
-- madewithstack-com: RetryError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ResponseError('too many 503 error responses'))（连续 5 天）
-- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 24 天）
-- usefuturestack-com: RuntimeError: http 402（连续 19 天）
-- foundr-ai: RuntimeError: http 403（连续 31 天）
-- aiagentautomation-site: RuntimeError: sitemap http 403（连续 31 天）
-- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 1 天）
-- apprater-net: RuntimeError: sitemap http 403（连续 31 天）
-- discoverly-tech: RuntimeError: sitemap http 403（连续 21 天）
-- dowseai-com: RuntimeError: 0 entries parsed（连续 11 天）
-- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7f578409ec（连续 28 天）
-- nextweekai-com: RuntimeError: sitemap http 403（连续 31 天）
-- phototoolfinder-com: RuntimeError: sitemap http 403（连续 31 天）
-- trillionagent-com: RuntimeError: sitemap http 403（连续 31 天）
-- webinhalt-de: RuntimeError: 0 entries parsed（连续 16 天）
+- canadawebdir-com: RuntimeError: http 403（连续 32 天）
+- canadiandirectory-org: RuntimeError: http 403（连续 32 天）
+- sitelike-org: RuntimeError: http 403（连续 32 天）
+- hyzenpro-com: JSONDecodeError: Unterminated string starting at: line 1 column 6005371 (char 6005370)（连续 18 天）
+- madewithstack-com: RetryError: HTTPSConnectionPool(host='www.madewithstack.com', port=443): Max retries exceeded with url: /api/products (Caused by ResponseError('too many 503 error responses'))（连续 6 天）
+- promoteindex-com: RetryError: HTTPSConnectionPool(host='promoteindex.com', port=443): Max retries exceeded with url: /api/v1/trending (Caused by ResponseError('too many 429 error responses'))（连续 25 天）
+- usefuturestack-com: RuntimeError: http 402（连续 20 天）
+- foundr-ai: RuntimeError: http 403（连续 32 天）
+- aiagentautomation-site: RuntimeError: sitemap http 403（连续 32 天）
+- aiimagetools-io: ConnectionError: HTTPSConnectionPool(host='aiimagetools.io', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='aiimagetools.io', port=443): （连续 2 天）
+- apprater-net: RuntimeError: sitemap http 403（连续 32 天）
+- blogs-collection-com: ConnectTimeout: HTTPSConnectionPool(host='www.blogs-collection.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.blogs-collection.c（连续 1 天）
+- discoverly-tech: RuntimeError: sitemap http 403（连续 22 天）
+- dowseai-com: RuntimeError: 0 entries parsed（连续 12 天）
+- linkwith-us: RuntimeError: sitemap http 525（连续 1 天）
+- listai-cc: ConnectTimeout: HTTPSConnectionPool(host='listai.cc', port=443): Max retries exceeded with url: /sitemap.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='listai.cc', port=443) at 0x7fa0e4c665（连续 29 天）
+- nextweekai-com: RuntimeError: sitemap http 403（连续 32 天）
+- phototoolfinder-com: RuntimeError: sitemap http 403（连续 32 天）
+- trillionagent-com: RuntimeError: sitemap http 403（连续 32 天）
+- webinhalt-de: RuntimeError: 0 entries parsed（连续 17 天）
 
 仓库 Repo: https://github.com/i3u8/launch-directory-radar

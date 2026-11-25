@@ -1,0 +1,687 @@
+{
+ "date": "2026-11-25",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 177,
+ "sources_failed": 20,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "blogs-collection-com",
+  "discoverly-tech",
+  "dowseai-com",
+  "linkwith-us",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1392,
+ "new_today_unique": 1251,
+ "ai_share_today": 0.29,
+ "ai_share_30d": 0.25,
+ "niche_terms": [
+  {
+   "term": "des article",
+   "count": 6,
+   "sources": 3,
+   "ratio": 352.3,
+   "new": true,
+   "examples": [
+    {
+     "name": "Déménageurs autour de moi",
+     "url": "https://exampledir.com/listing/demenageurs-autour-de-moi-316081"
+    },
+    {
+     "name": "Couvreur toiture service",
+     "url": "https://aweblist.org/listing/couvreur-toiture-service-978737"
+    },
+    {
+     "name": "Spas Privatifs France",
+     "url": "https://a2place.com/listing/spas-privatifs-france-719272"
+    }
+   ]
+  },
+  {
+   "term": "ainsi que des",
+   "count": 3,
+   "sources": 3,
+   "ratio": 176.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Création jardin",
+     "url": "https://exampledir.com/listing/creation-jardin-316085"
+    },
+    {
+     "name": "Pompe à Chaleur Réversible France",
+     "url": "https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258"
+    },
+    {
+     "name": "Professionnel couvreur",
+     "url": "https://a2place.com/listing/professionnel-couvreur-719270"
+    }
+   ]
+  },
+  {
+   "term": "pde5 inhibitor class",
+   "count": 3,
+   "sources": 3,
+   "ratio": 176.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Silditop 50 Mg: Understanding The Importance Of Correct Dosa",
+     "url": "https://directory6.org/listing/silditop-50-mg-understanding-the-importance-of-correct-dosage-726517"
+    },
+    {
+     "name": "Kamagra 100 Mg: Understanding Its Benefits And Limitations",
+     "url": "https://aweblist.org/listing/kamagra-100-mg-understanding-its-benefits-and-limitations-978765"
+    },
+    {
+     "name": "Tadora 20 Mg: Prescription Requirements And Medical Guidance",
+     "url": "https://huludirectory.com/listing/tadora-20-mg-prescription-requirements-and-medical-guidance-2264095"
+    }
+   ]
+  },
+  {
+   "term": "strategy creativity technology",
+   "count": 3,
+   "sources": 2,
+   "ratio": 176.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Digital Marketing Agency Hyderabad, India | DigitalZap",
+     "url": "https://directory6.org/listing/digital-marketing-agency-hyderabad-india-digitalzap-726518"
+    },
+    {
+     "name": "Marketing Agency Hyderabad",
+     "url": "https://aweblist.org/listing/marketing-agency-hyderabad-978752"
+    },
+    {
+     "name": "Web Design Companies in Hyderabad",
+     "url": "https://aweblist.org/listing/web-design-companies-in-hyderabad-978767"
+    }
+   ]
+  },
+  {
+   "term": "avec coordonn",
+   "count": 5,
+   "sources": 3,
+   "ratio": 293.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Déménageurs autour de moi",
+     "url": "https://exampledir.com/listing/demenageurs-autour-de-moi-316081"
+    },
+    {
+     "name": "Pompe à Chaleur Réversible France",
+     "url": "https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258"
+    },
+    {
+     "name": "Dépannage Rueil-Malmaison",
+     "url": "https://a2place.com/listing/depannage-rueil-malmaison-719274"
+    }
+   ]
+  },
+  {
+   "term": "attract global client",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Product Videography",
+     "url": "https://exampledir.com/listing/product-videography-316092"
+    },
+    {
+     "name": "Product Videography In India",
+     "url": "https://aweblist.org/listing/product-videography-in-india-978729"
+    }
+   ]
+  },
+  {
+   "term": "hicule hors d'usage",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Épave Puteaux",
+     "url": "https://exampledir.com/listing/epave-puteaux-316082"
+    },
+    {
+     "name": "Épave Charenton-le-Pont",
+     "url": "https://exampledir.com/listing/epave-charenton-le-pont-316086"
+    }
+   ]
+  },
+  {
+   "term": "live human takeover",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "easi.run",
+     "url": "https://easi.run/"
+    },
+    {
+     "name": "easi.run Self-hosted Chrome for AI agents with live human ta",
+     "url": "https://thehackstack.com/s/easi"
+    }
+   ]
+  },
+  {
+   "term": "short cartoon video",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Cartoon Video AI",
+     "url": "https://azn8.com/listing/cartoon-video-ai"
+    },
+    {
+     "name": "Cartoon Video AI Plan and generate short cartoon videos in y",
+     "url": "https://thehackstack.com/s/cartoonvideoai"
+    }
+   ]
+  },
+  {
+   "term": "par ville",
+   "count": 8,
+   "sources": 3,
+   "ratio": 42.7,
+   "new": false,
+   "examples": [
+    {
+     "name": "Création jardin",
+     "url": "https://exampledir.com/listing/creation-jardin-316085"
+    },
+    {
+     "name": "Déménageurs autour de moi",
+     "url": "https://exampledir.com/listing/demenageurs-autour-de-moi-316081"
+    },
+    {
+     "name": "Annuaire Ergothérapeutes France",
+     "url": "https://aweblist.org/listing/annuaire-ergotherapeutes-france-978741"
+    }
+   ]
+  },
+  {
+   "term": "22d yamuna expressway",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "ACE Edit Sector 22D – Premium Studio Apartments Near Jewar A",
+     "url": "https://aweblist.org/listing/ace-edit-sector-22d-–-premium-studio-apartments-near-jewar-airport-978771"
+    },
+    {
+     "name": "ACE Edit Studio Apartments",
+     "url": "https://directory6.org/listing/ace-edit-studio-apartments-726486"
+    }
+   ]
+  },
+  {
+   "term": "competitive wholesale price",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Grb Town Bus Aloo Bhujia Wholesale Seller",
+     "url": "https://directory6.org/listing/grb-town-bus-aloo-bhujia-wholesale-seller-726507"
+    },
+    {
+     "name": "Lays Magic Masala Bulk Supplier",
+     "url": "https://huludirectory.com/listing/lays-magic-masala-bulk-supplier-2264085"
+    }
+   ]
+  },
+  {
+   "term": "compl tent l'annuaire",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Psy autour de moi",
+     "url": "https://aweblist.org/listing/psy-autour-de-moi-978756"
+    },
+    {
+     "name": "Dépannage Rueil-Malmaison",
+     "url": "https://a2place.com/listing/depannage-rueil-malmaison-719274"
+    }
+   ]
+  },
+  {
+   "term": "dans les autre",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Épave Bry-sur-Marne",
+     "url": "https://aweblist.org/listing/epave-bry-sur-marne-978776"
+    },
+    {
+     "name": "Dépannage Rueil-Malmaison",
+     "url": "https://a2place.com/listing/depannage-rueil-malmaison-719274"
+    }
+   ]
+  },
+  {
+   "term": "edit endless canva",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "EZimg",
+     "url": "https://ezimg.app/"
+    },
+    {
+     "name": "EZimg Little edits. Endless canvas. 💬 0 Comments",
+     "url": "https://thehackstack.com/s/ezimg"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "avis ainsi que",
+   "count": 3,
+   "sources": 3,
+   "ratio": 176.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Création jardin",
+     "url": "https://exampledir.com/listing/creation-jardin-316085"
+    },
+    {
+     "name": "Pompe à Chaleur Réversible France",
+     "url": "https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258"
+    },
+    {
+     "name": "Professionnel couvreur",
+     "url": "https://a2place.com/listing/professionnel-couvreur-719270"
+    }
+   ]
+  },
+  {
+   "term": "become essential marketing",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Product Videography",
+     "url": "https://exampledir.com/listing/product-videography-316092"
+    },
+    {
+     "name": "Product Videography In India",
+     "url": "https://aweblist.org/listing/product-videography-in-india-978729"
+    }
+   ]
+  },
+  {
+   "term": "self hosted chrome",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "easi.run",
+     "url": "https://easi.run/"
+    },
+    {
+     "name": "easi.run Self-hosted Chrome for AI agents with live human ta",
+     "url": "https://thehackstack.com/s/easi"
+    }
+   ]
+  },
+  {
+   "term": "avec des article",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Annuaire psychologue",
+     "url": "https://a2place.com/listing/annuaire-psychologue-719276"
+    },
+    {
+     "name": "Circuit Autour du Monde",
+     "url": "https://a2place.com/listing/circuit-autour-du-monde-719239"
+    }
+   ]
+  },
+  {
+   "term": "avec leur coordonn",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Création jardin",
+     "url": "https://exampledir.com/listing/creation-jardin-316085"
+    },
+    {
+     "name": "Annuaire Ergothérapeutes France",
+     "url": "https://aweblist.org/listing/annuaire-ergotherapeutes-france-978741"
+    }
+   ]
+  },
+  {
+   "term": "commonly contain sildenafil",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Silditop 50 Mg: Understanding The Importance Of Correct Dosa",
+     "url": "https://directory6.org/listing/silditop-50-mg-understanding-the-importance-of-correct-dosage-726517"
+    },
+    {
+     "name": "Kamagra 100 Mg: Understanding Its Benefits And Limitations",
+     "url": "https://aweblist.org/listing/kamagra-100-mg-understanding-its-benefits-and-limitations-978765"
+    }
+   ]
+  },
+  {
+   "term": "des article sur",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Couvreur toiture service",
+     "url": "https://aweblist.org/listing/couvreur-toiture-service-978737"
+    },
+    {
+     "name": "Circuit Autour du Monde",
+     "url": "https://a2place.com/listing/circuit-autour-du-monde-719239"
+    }
+   ]
+  },
+  {
+   "term": "fiche avec coordonn",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Dépannage Rueil-Malmaison",
+     "url": "https://a2place.com/listing/depannage-rueil-malmaison-719274"
+    },
+    {
+     "name": "Épave Évry-Courcouronnes",
+     "url": "https://a2place.com/listing/epave-evry-courcouronnes-719285"
+    }
+   ]
+  },
+  {
+   "term": "gion chaque fiche",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Spas Privatifs France",
+     "url": "https://a2place.com/listing/spas-privatifs-france-719272"
+    },
+    {
+     "name": "Annuaire naturopathe",
+     "url": "https://a2place.com/listing/annuaire-naturopathe-719262"
+    }
+   ]
+  },
+  {
+   "term": "grocery store retailer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Grb Town Bus Aloo Bhujia Wholesale Seller",
+     "url": "https://directory6.org/listing/grb-town-bus-aloo-bhujia-wholesale-seller-726507"
+    },
+    {
+     "name": "Lays Magic Masala Bulk Supplier",
+     "url": "https://huludirectory.com/listing/lays-magic-masala-bulk-supplier-2264085"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "des article",
+   "size": 6,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Annuaire psychologue",
+     "url": "https://a2place.com/listing/annuaire-psychologue-719276"
+    },
+    {
+     "name": "Circuit Autour du Monde",
+     "url": "https://a2place.com/listing/circuit-autour-du-monde-719239"
+    },
+    {
+     "name": "Couvreur toiture service",
+     "url": "https://a2place.com/listing/couvreur-toiture-service-719273"
+    },
+    {
+     "name": "Déménageurs autour de moi",
+     "url": "https://a2place.com/listing/demenageurs-autour-de-moi-719263"
+    }
+   ]
+  },
+  {
+   "term": "ainsi que des",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Création jardin",
+     "url": "https://a2place.com/listing/creation-jardin-719267"
+    },
+    {
+     "name": "Pompe à Chaleur Réversible France",
+     "url": "https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258"
+    },
+    {
+     "name": "Professionnel couvreur",
+     "url": "https://a2place.com/listing/professionnel-couvreur-719270"
+    }
+   ]
+  },
+  {
+   "term": "pde5 inhibitor class",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Kamagra 100 Mg: Understanding Its Benefits And Limitations",
+     "url": "https://aweblist.org/listing/kamagra-100-mg-understanding-its-benefits-and-limitations-978765"
+    },
+    {
+     "name": "Silditop 50 Mg: Understanding The Importance Of Correct Dosa",
+     "url": "https://directory6.org/listing/silditop-50-mg-understanding-the-importance-of-correct-dosage-726517"
+    },
+    {
+     "name": "Tadora 20 Mg: Prescription Requirements And Medical Guidance",
+     "url": "https://huludirectory.com/listing/tadora-20-mg-prescription-requirements-and-medical-guidance-2264095"
+    }
+   ]
+  },
+  {
+   "term": "strategy creativity technology",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Digital Marketing Agency Hyderabad, India | DigitalZap",
+     "url": "https://directory6.org/listing/digital-marketing-agency-hyderabad-india-digitalzap-726518"
+    },
+    {
+     "name": "Marketing Agency Hyderabad",
+     "url": "https://aweblist.org/listing/marketing-agency-hyderabad-978752"
+    },
+    {
+     "name": "Web Design Companies in Hyderabad",
+     "url": "https://aweblist.org/listing/web-design-companies-in-hyderabad-978767"
+    }
+   ]
+  },
+  {
+   "term": "avec coordonn",
+   "size": 5,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Déménageurs autour de moi",
+     "url": "https://a2place.com/listing/demenageurs-autour-de-moi-719263"
+    },
+    {
+     "name": "Dépannage Rueil-Malmaison",
+     "url": "https://a2place.com/listing/depannage-rueil-malmaison-719274"
+    },
+    {
+     "name": "Épave Évry-Courcouronnes",
+     "url": "https://a2place.com/listing/epave-evry-courcouronnes-719285"
+    },
+    {
+     "name": "Pompe à Chaleur Réversible France",
+     "url": "https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258"
+    }
+   ]
+  },
+  {
+   "term": "par ville",
+   "size": 8,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Annuaire Ergothérapeutes France",
+     "url": "https://a2place.com/listing/annuaire-ergotherapeutes-france-719275"
+    },
+    {
+     "name": "Annuaire naturopathe",
+     "url": "https://a2place.com/listing/annuaire-naturopathe-719262"
+    },
+    {
+     "name": "Annuaire psychologue",
+     "url": "https://a2place.com/listing/annuaire-psychologue-719276"
+    },
+    {
+     "name": "Création jardin",
+     "url": "https://a2place.com/listing/creation-jardin-719267"
+    }
+   ]
+  },
+  {
+   "term": "code postal",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Déménageurs autour de moi",
+     "url": "https://a2place.com/listing/demenageurs-autour-de-moi-719263"
+    },
+    {
+     "name": "Dépannage Annecy",
+     "url": "https://a2place.com/listing/depannage-annecy-719271"
+    },
+    {
+     "name": "Dépannage Antony",
+     "url": "https://a2place.com/listing/depannage-antony-719265"
+    }
+   ]
+  },
+  {
+   "term": "des professionnel",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Création jardin",
+     "url": "https://a2place.com/listing/creation-jardin-719267"
+    },
+    {
+     "name": "Épave Puteaux",
+     "url": "https://a2place.com/listing/epave-puteaux-719264"
+    },
+    {
+     "name": "Pompe à Chaleur Réversible France",
+     "url": "https://a2place.com/listing/pompe-a-chaleur-reversible-france-719258"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「des article」今日 6 个产品/3 个目录：Déménageurs autour de moi、Couvreur toiture service",
+  "小词「ainsi que des」今日 3 个产品/3 个目录：Création jardin、Pompe à Chaleur Réversible France",
+  "小词「pde5 inhibitor class」今日 3 个产品/3 个目录：Silditop 50 Mg: Understanding The Importance Of Correct Dosa、Kamagra 100 Mg: Understanding Its Benefits And Limitations",
+  "同日小簇「des article」6 个相似产品：Annuaire psychologue、Circuit Autour du Monde、Couvreur toiture service",
+  "同日小簇「ainsi que des」3 个相似产品：Création jardin、Pompe à Chaleur Réversible France、Professionnel couvreur",
+  "跨目录同时出现：beardstyles.org（3 个目录）",
+  "跨目录同时出现：claude.ai（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-25.md",
+ "niche_groups": "- 法国本地生活服务目录：des article、ainsi que des、avec coordonn、par ville、compl tent l'annuaire、dans les autre、avec des article、avec leur coordonn、avis ainsi que —— 提供搬家、园艺、热泵安装、心理医生等法国本地服务商的搜索与联系信息聚合。\n- 男性健康药物资讯：pde5 inhibitor class、commonly contain sildenafil —— 针对西地那非类药物的剂量、益处及局限性提供科普与说明内容。\n- 数字营销与产品视频：strategy creativity technology、attract global client、become essential marketing —— 提供数字营销代理服务及面向全球客户的产品视频拍摄与制作方案。\n- AI代理与自动化办公：live human takeover、self hosted chrome、edit endless canva、short cartoon video —— 提供支持AI代理接管浏览器、无限画布编辑及AI生成短卡通视频的自动化工具。\n- 印度房地产与批发供应：22d yamuna expressway、competitive wholesale price —— 展示印度特定区域的公寓楼盘信息及零食等商品的批发价格与供应商。\n- 法国报废车回收：hicule hors d'usage —— 提供法国特定地区报废车辆回收与处理服务的本地化信息。"
+}
