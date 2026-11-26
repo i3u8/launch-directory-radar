@@ -7,36 +7,35 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-25** · 新增 1392 · 监控 197 个目录（今日成功 177）
+**2026-11-26** · 新增 1385 · 监控 197 个目录（今日成功 175）
 
 聚焦小词 Top 15:
 
-- `des article` ×6（3 目录） 🆕：Déménageurs autour de moi；Couvreur toiture service
-- `ainsi que des` ×3（3 目录） 🆕：Création jardin；Pompe à Chaleur Réversible France
-- `pde5 inhibitor class` ×3（3 目录） 🆕：Silditop 50 Mg: Understanding The Importance Of Correct Dosa；Kamagra 100 Mg: Understanding Its Benefits And Limitations
-- `strategy creativity technology` ×3（2 目录） 🆕：Digital Marketing Agency Hyderabad, India | DigitalZap；Marketing Agency Hyderabad
-- `avec coordonn` ×5（3 目录） 🆕：Déménageurs autour de moi；Pompe à Chaleur Réversible France
-- `attract global client` ×2（3 目录） 🆕：Product Videography；Product Videography In India
-- `hicule hors d'usage` ×2（2 目录） 🆕：Épave Puteaux；Épave Charenton-le-Pont
-- `live human takeover` ×2（2 目录） 🆕：easi.run；easi.run Self-hosted Chrome for AI agents with live human ta
-- `short cartoon video` ×2（2 目录） 🆕：Cartoon Video AI；Cartoon Video AI Plan and generate short cartoon videos in y
-- `par ville` ×8（3 目录）：Création jardin；Déménageurs autour de moi
-- `22d yamuna expressway` ×2（3 目录） 🆕：ACE Edit Sector 22D – Premium Studio Apartments Near Jewar A；ACE Edit Studio Apartments
-- `competitive wholesale price` ×2（2 目录） 🆕：Grb Town Bus Aloo Bhujia Wholesale Seller；Lays Magic Masala Bulk Supplier
-- `compl tent l'annuaire` ×2（3 目录） 🆕：Psy autour de moi；Dépannage Rueil-Malmaison
-- `dans les autre` ×2（3 目录） 🆕：Épave Bry-sur-Marne；Dépannage Rueil-Malmaison
-- `edit endless canva` ×2（2 目录） 🆕：EZimg；EZimg Little edits. Endless canvas. 💬 0 Comments
+- `ainsi que l'actualit` ×4（3 目录） 🆕：Ambiance et Mobilier；Éveil Bébé
+- `ainsi que des` ×9（3 目录）：Apprendre Créatif；Table & Jardin
+- `des conseil pour` ×8（3 目录）：Éveil Bébé；Ringconcept
+- `publie des guide` ×8（3 目录）：Table & Jardin；Audit Financier Pro
+- `family dental practice` ×3（2 目录） 🆕：Pacific Park Family Dental；Smiles By The Sea Family Dentistry
+- `des canap` ×4（3 目录） 🆕：Salon Familial；Salon Moderne
+- `l'actualit des` ×4（2 目录） 🆕：Livraison de Nuit 93；Meca-Proto
+- `l'am nagement` ×4（3 目录） 🆕：Table & Jardin；Salon Familial
+- `traite des` ×8（3 目录）：Salon Familial；Tabliers Cuisine
+- `propose des` ×8（3 目录）：Apprendre Créatif；Éveil Bébé
+- `answer dig deeper` ×2（2 目录） 🆕：Mineillion；Mineillion.space
+- `cosmetic dentistry sedation` ×2（2 目录） 🆕：LB Dentistry - Dentist in Franklin TN；Justin Garner Dentistry, LLC - Dentist in Independence MO
+- `des dossier sur` ×2（2 目录） 🆕：Solutions Industrielles；Déco Harmonie
+- `destin aux parent` ×2（2 目录） 🆕：Apprendre Créatif；Parentalité Positive
+- `destiny matrix calculator` ×2（2 目录） 🆕：Matriz do Destino；Matriz do Destino Free Destiny Matrix calculator with a pers
 
 微赛道归纳:
 
-- 法国本地生活服务目录：des article、ainsi que des、avec coordonn、par ville、compl tent l'annuaire、dans les autre、avec des article、avec leur coordonn、avis ainsi que —— 提供搬家、园艺、热泵安装、心理医生等法国本地服务商的搜索与联系信息聚合。
-- 男性健康药物资讯：pde5 inhibitor class、commonly contain sildenafil —— 针对西地那非类药物的剂量、益处及局限性提供科普与说明内容。
-- 数字营销与产品视频：strategy creativity technology、attract global client、become essential marketing —— 提供数字营销代理服务及面向全球客户的产品视频拍摄与制作方案。
-- AI代理与自动化办公：live human takeover、self hosted chrome、edit endless canva、short cartoon video —— 提供支持AI代理接管浏览器、无限画布编辑及AI生成短卡通视频的自动化工具。
-- 印度房地产与批发供应：22d yamuna expressway、competitive wholesale price —— 展示印度特定区域的公寓楼盘信息及零食等商品的批发价格与供应商。
-- 法国报废车回收：hicule hors d'usage —— 提供法国特定地区报废车辆回收与处理服务的本地化信息。
+- 法语家居与生活方式资讯：ainsi que l'actualit、ainsi que des、des conseil pour、publie des guide、des canap、l'am nagement、traite des、propose des、des dossier sur、des sujet sur —— 提供关于家具、室内设计、育儿及生活技巧的指南与新闻内容
+- 家庭牙科与镇静护理：family dental practice、cosmetic dentistry sedation —— 提供家庭牙科服务及美容牙科镇静护理的专业医疗信息
+- 旅行与购物决策辅助：conseil pour voyager、des conseil d'achat、destin aux parent —— 为旅行者、购物者及父母提供目的地建议、购买指南及育儿支持
+- 深度问答与命理计算：answer dig deeper、rarer answer dig、destiny matrix calculator —— 提供深度问题解答服务及命运矩阵等命理计算工具
+- 建筑防水与旧房修缮：gion avec coordonn —— 提供屋顶防水、建筑密封及旧建筑修缮的专业服务信息
 
-完整报告: [reports/2026-11-25.md](reports/2026-11-25.md)
+完整报告: [reports/2026-11-26.md](reports/2026-11-26.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary

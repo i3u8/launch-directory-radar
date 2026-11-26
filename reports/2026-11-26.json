@@ -1,0 +1,720 @@
+{
+ "date": "2026-11-26",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 175,
+ "sources_failed": 22,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "startups-snapmunk-com",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "openfuture-ai",
+  "phototoolfinder-com",
+  "saasworthy-com",
+  "softwareworld-co"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "usefuturestack-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "aiimagetools-io",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1385,
+ "new_today_unique": 1244,
+ "ai_share_today": 0.25,
+ "ai_share_30d": 0.25,
+ "niche_terms": [
+  {
+   "term": "ainsi que l'actualit",
+   "count": 4,
+   "sources": 3,
+   "ratio": 234.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Ambiance et Mobilier",
+     "url": "https://exampledir.com/listing/ambiance-et-mobilier-316393"
+    },
+    {
+     "name": "Éveil Bébé",
+     "url": "https://a2place.com/listing/eveil-bebe-719437"
+    },
+    {
+     "name": "Parentalité Positive",
+     "url": "https://a2place.com/listing/parentalite-positive-719486"
+    }
+   ]
+  },
+  {
+   "term": "ainsi que des",
+   "count": 9,
+   "sources": 3,
+   "ratio": 75.3,
+   "new": false,
+   "examples": [
+    {
+     "name": "Apprendre Créatif",
+     "url": "https://exampledir.com/listing/apprendre-creatif-316409"
+    },
+    {
+     "name": "Table & Jardin",
+     "url": "https://a2place.com/listing/table-and-jardin-719463"
+    },
+    {
+     "name": "Détaché Net",
+     "url": "https://aweblist.org/listing/detache-net-979258"
+    }
+   ]
+  },
+  {
+   "term": "des conseil pour",
+   "count": 8,
+   "sources": 3,
+   "ratio": 156.1,
+   "new": false,
+   "examples": [
+    {
+     "name": "Éveil Bébé",
+     "url": "https://a2place.com/listing/eveil-bebe-719437"
+    },
+    {
+     "name": "Ringconcept",
+     "url": "https://a2place.com/listing/ringconcept-719458"
+    },
+    {
+     "name": "Bijoux Berberes",
+     "url": "https://a2place.com/listing/bijoux-berberes-719474"
+    }
+   ]
+  },
+  {
+   "term": "publie des guide",
+   "count": 8,
+   "sources": 3,
+   "ratio": 36.0,
+   "new": false,
+   "examples": [
+    {
+     "name": "Table & Jardin",
+     "url": "https://a2place.com/listing/table-and-jardin-719463"
+    },
+    {
+     "name": "Audit Financier Pro",
+     "url": "https://a2place.com/listing/audit-financier-pro-719482"
+    },
+    {
+     "name": "Détaché Net",
+     "url": "https://aweblist.org/listing/detache-net-979258"
+    }
+   ]
+  },
+  {
+   "term": "family dental practice",
+   "count": 3,
+   "sources": 2,
+   "ratio": 175.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Pacific Park Family Dental",
+     "url": "https://directory6.org/listing/pacific-park-family-dental-726776"
+    },
+    {
+     "name": "Smiles By The Sea Family Dentistry",
+     "url": "https://directory6.org/listing/smiles-by-the-sea-family-dentistry-726775"
+    },
+    {
+     "name": "Justin Garner Dentistry, LLC - Dentist in Independence MO",
+     "url": "https://directory6.org/listing/justin-garner-dentistry-llc--dentist-in-independence-mo-726778"
+    }
+   ]
+  },
+  {
+   "term": "des canap",
+   "count": 4,
+   "sources": 3,
+   "ratio": 234.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Salon Familial",
+     "url": "https://a2place.com/listing/salon-familial-719473"
+    },
+    {
+     "name": "Salon Moderne",
+     "url": "https://a2place.com/listing/salon-moderne-719440"
+    },
+    {
+     "name": "Salons Design",
+     "url": "https://a2place.com/listing/salons-design-719441"
+    }
+   ]
+  },
+  {
+   "term": "l'actualit des",
+   "count": 4,
+   "sources": 2,
+   "ratio": 234.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Livraison de Nuit 93",
+     "url": "https://a2place.com/listing/livraison-de-nuit-93-719461"
+    },
+    {
+     "name": "Meca-Proto",
+     "url": "https://a2place.com/listing/meca-proto-719466"
+    },
+    {
+     "name": "Parentalité Positive",
+     "url": "https://a2place.com/listing/parentalite-positive-719486"
+    }
+   ]
+  },
+  {
+   "term": "l'am nagement",
+   "count": 4,
+   "sources": 3,
+   "ratio": 234.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Table & Jardin",
+     "url": "https://a2place.com/listing/table-and-jardin-719463"
+    },
+    {
+     "name": "Salon Familial",
+     "url": "https://a2place.com/listing/salon-familial-719473"
+    },
+    {
+     "name": "Salon Moderne",
+     "url": "https://a2place.com/listing/salon-moderne-719440"
+    }
+   ]
+  },
+  {
+   "term": "traite des",
+   "count": 8,
+   "sources": 3,
+   "ratio": 156.1,
+   "new": false,
+   "examples": [
+    {
+     "name": "Salon Familial",
+     "url": "https://a2place.com/listing/salon-familial-719473"
+    },
+    {
+     "name": "Tabliers Cuisine",
+     "url": "https://a2place.com/listing/tabliers-cuisine-719442"
+    },
+    {
+     "name": "Drive Auto",
+     "url": "https://a2place.com/listing/drive-auto-719452"
+    }
+   ]
+  },
+  {
+   "term": "propose des",
+   "count": 8,
+   "sources": 3,
+   "ratio": 93.7,
+   "new": false,
+   "examples": [
+    {
+     "name": "Apprendre Créatif",
+     "url": "https://exampledir.com/listing/apprendre-creatif-316409"
+    },
+    {
+     "name": "Éveil Bébé",
+     "url": "https://a2place.com/listing/eveil-bebe-719437"
+    },
+    {
+     "name": "Yes Vacances",
+     "url": "https://a2place.com/listing/yes-vacances-719469"
+    }
+   ]
+  },
+  {
+   "term": "answer dig deeper",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mineillion",
+     "url": "https://mineillion.app/"
+    },
+    {
+     "name": "Mineillion.space",
+     "url": "https://mineillion.space/"
+    }
+   ]
+  },
+  {
+   "term": "cosmetic dentistry sedation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "LB Dentistry - Dentist in Franklin TN",
+     "url": "https://huludirectory.com/listing/lb-dentistry--dentist-in-franklin-tn-2264296"
+    },
+    {
+     "name": "Justin Garner Dentistry, LLC - Dentist in Independence MO",
+     "url": "https://directory6.org/listing/justin-garner-dentistry-llc--dentist-in-independence-mo-726778"
+    }
+   ]
+  },
+  {
+   "term": "des dossier sur",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Solutions Industrielles",
+     "url": "https://a2place.com/listing/solutions-industrielles-719459"
+    },
+    {
+     "name": "Déco Harmonie",
+     "url": "https://aweblist.org/listing/deco-harmonie-979266"
+    }
+   ]
+  },
+  {
+   "term": "destin aux parent",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Apprendre Créatif",
+     "url": "https://exampledir.com/listing/apprendre-creatif-316409"
+    },
+    {
+     "name": "Parentalité Positive",
+     "url": "https://a2place.com/listing/parentalite-positive-719486"
+    }
+   ]
+  },
+  {
+   "term": "destiny matrix calculator",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Matriz do Destino",
+     "url": "https://calculadoramatrizdodestino.com/"
+    },
+    {
+     "name": "Matriz do Destino Free Destiny Matrix calculator with a pers",
+     "url": "https://thehackstack.com/s/calculadoramatrizdodestino"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "que l'actualit",
+   "count": 4,
+   "sources": 3,
+   "ratio": 234.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Ambiance et Mobilier",
+     "url": "https://exampledir.com/listing/ambiance-et-mobilier-316393"
+    },
+    {
+     "name": "Éveil Bébé",
+     "url": "https://a2place.com/listing/eveil-bebe-719437"
+    },
+    {
+     "name": "Parentalité Positive",
+     "url": "https://a2place.com/listing/parentalite-positive-719486"
+    }
+   ]
+  },
+  {
+   "term": "rarer answer dig",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mineillion",
+     "url": "https://mineillion.app/"
+    },
+    {
+     "name": "Mineillion.space",
+     "url": "https://mineillion.space/"
+    }
+   ]
+  },
+  {
+   "term": "conseil pour voyager",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Yes Vacances",
+     "url": "https://a2place.com/listing/yes-vacances-719469"
+    },
+    {
+     "name": "Travel Lover",
+     "url": "https://a2place.com/listing/travel-lover-719460"
+    }
+   ]
+  },
+  {
+   "term": "des conseil d'achat",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mobilier Facile",
+     "url": "https://a2place.com/listing/mobilier-facile-719439"
+    },
+    {
+     "name": "Canapé Grand Confort",
+     "url": "https://a2place.com/listing/canape-grand-confort-719448"
+    }
+   ]
+  },
+  {
+   "term": "des sujet sur",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Table & Jardin",
+     "url": "https://a2place.com/listing/table-and-jardin-719463"
+    },
+    {
+     "name": "Détaché Net",
+     "url": "https://aweblist.org/listing/detache-net-979258"
+    }
+   ]
+  },
+  {
+   "term": "gion avec coordonn",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Couvreur toiture étanchéité",
+     "url": "https://exampledir.com/listing/couvreur-toiture-etancheite-316412"
+    },
+    {
+     "name": "Couvreur bâtiment ancien",
+     "url": "https://a2place.com/listing/couvreur-batiment-ancien-719480"
+    }
+   ]
+  },
+  {
+   "term": "magazine des bijoux",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Ringconcept",
+     "url": "https://a2place.com/listing/ringconcept-719458"
+    },
+    {
+     "name": "Bijoux Berberes",
+     "url": "https://a2place.com/listing/bijoux-berberes-719474"
+    }
+   ]
+  },
+  {
+   "term": "nagement int rieur",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Déco Harmonie",
+     "url": "https://aweblist.org/listing/deco-harmonie-979266"
+    },
+    {
+     "name": "Meubles Maison",
+     "url": "https://a2place.com/listing/meubles-maison-719446"
+    }
+   ]
+  },
+  {
+   "term": "neck pain slip",
+   "count": 2,
+   "sources": 2,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Dr. Rajesh Parasnis | Expert Spine Surgeon in Pune for Compr",
+     "url": "https://directory6.org/listing/dr-rajesh-parasnis-expert-spine-surgeon-in-pune-for-comprehensive-spine-care-726808"
+    },
+    {
+     "name": "Spine Specialist in Pune | Dr. Rajesh Parasnis for Expert Sp",
+     "url": "https://aweblist.org/listing/spine-specialist-in-pune-dr-rajesh-parasnis-for-expert-spine-treatment-979278"
+    }
+   ]
+  },
+  {
+   "term": "performing staffing miracle",
+   "count": 2,
+   "sources": 3,
+   "ratio": 117.1,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best ATS for Staffing Healthcare Agencies | Medical Staffing",
+     "url": "https://directory6.org/listing/best-ats-for-staffing-healthcare-agencies-medical-staffing-software-solutions-for-small-business-726788"
+    },
+    {
+     "name": "Smarter Healthcare Staffing Software for Vendor",
+     "url": "https://aweblist.org/listing/smarter-healthcare-staffing-software-for-vendor-979268"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "ainsi que l'actualit",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Ambiance et Mobilier",
+     "url": "https://a2place.com/listing/ambiance-et-mobilier-719470"
+    },
+    {
+     "name": "Meubles Maison",
+     "url": "https://a2place.com/listing/meubles-maison-719446"
+    },
+    {
+     "name": "Parentalité Positive",
+     "url": "https://a2place.com/listing/parentalite-positive-719486"
+    },
+    {
+     "name": "Éveil Bébé",
+     "url": "https://a2place.com/listing/eveil-bebe-719437"
+    }
+   ]
+  },
+  {
+   "term": "ainsi que des",
+   "size": 9,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Apprendre Créatif",
+     "url": "https://a2place.com/listing/apprendre-creatif-719479"
+    },
+    {
+     "name": "Aventure en Circuit",
+     "url": "https://a2place.com/listing/aventure-en-circuit-719472"
+    },
+    {
+     "name": "Bijoux Berberes",
+     "url": "https://a2place.com/listing/bijoux-berberes-719474"
+    },
+    {
+     "name": "Détaché Net",
+     "url": "https://aweblist.org/listing/detache-net-979258"
+    }
+   ]
+  },
+  {
+   "term": "des conseil pour",
+   "size": 8,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Bijoux Berberes",
+     "url": "https://a2place.com/listing/bijoux-berberes-719474"
+    },
+    {
+     "name": "Conseils Maison",
+     "url": "https://a2place.com/listing/conseils-maison-719476"
+    },
+    {
+     "name": "Déco & Ambiances",
+     "url": "https://aweblist.org/listing/deco-and-ambiances-979252"
+    },
+    {
+     "name": "Ringconcept",
+     "url": "https://a2place.com/listing/ringconcept-719458"
+    }
+   ]
+  },
+  {
+   "term": "publie des guide",
+   "size": 8,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Audit Financier Pro",
+     "url": "https://a2place.com/listing/audit-financier-pro-719482"
+    },
+    {
+     "name": "Conseils Maison",
+     "url": "https://a2place.com/listing/conseils-maison-719476"
+    },
+    {
+     "name": "Détaché Net",
+     "url": "https://aweblist.org/listing/detache-net-979258"
+    },
+    {
+     "name": "Meca-Proto",
+     "url": "https://a2place.com/listing/meca-proto-719466"
+    }
+   ]
+  },
+  {
+   "term": "family dental practice",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Justin Garner Dentistry, LLC - Dentist in Independence MO",
+     "url": "https://directory6.org/listing/justin-garner-dentistry-llc--dentist-in-independence-mo-726778"
+    },
+    {
+     "name": "Pacific Park Family Dental",
+     "url": "https://directory6.org/listing/pacific-park-family-dental-726776"
+    },
+    {
+     "name": "Smiles By The Sea Family Dentistry",
+     "url": "https://directory6.org/listing/smiles-by-the-sea-family-dentistry-726775"
+    }
+   ]
+  },
+  {
+   "term": "des canap",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Décoration Canapé",
+     "url": "https://a2place.com/listing/decoration-canape-719451"
+    },
+    {
+     "name": "Salon Familial",
+     "url": "https://a2place.com/listing/salon-familial-719473"
+    },
+    {
+     "name": "Salon Moderne",
+     "url": "https://a2place.com/listing/salon-moderne-719440"
+    },
+    {
+     "name": "Salons Design",
+     "url": "https://a2place.com/listing/salons-design-719441"
+    }
+   ]
+  },
+  {
+   "term": "l'actualit des",
+   "size": 4,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Clemasine Art & Design",
+     "url": "https://a2place.com/listing/clemasine-art-and-design-719449"
+    },
+    {
+     "name": "Livraison de Nuit 93",
+     "url": "https://a2place.com/listing/livraison-de-nuit-93-719461"
+    },
+    {
+     "name": "Meca-Proto",
+     "url": "https://a2place.com/listing/meca-proto-719466"
+    },
+    {
+     "name": "Parentalité Positive",
+     "url": "https://a2place.com/listing/parentalite-positive-719486"
+    }
+   ]
+  },
+  {
+   "term": "l'am nagement",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Déco Harmonie",
+     "url": "https://aweblist.org/listing/deco-harmonie-979266"
+    },
+    {
+     "name": "Salon Familial",
+     "url": "https://a2place.com/listing/salon-familial-719473"
+    },
+    {
+     "name": "Salon Moderne",
+     "url": "https://a2place.com/listing/salon-moderne-719440"
+    },
+    {
+     "name": "Table & Jardin",
+     "url": "https://a2place.com/listing/table-and-jardin-719463"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「ainsi que l'actualit」今日 4 个产品/3 个目录：Ambiance et Mobilier、Éveil Bébé",
+  "小词「ainsi que des」今日 9 个产品/3 个目录：Apprendre Créatif、Table & Jardin",
+  "小词「des conseil pour」今日 8 个产品/3 个目录：Éveil Bébé、Ringconcept",
+  "同日小簇「ainsi que l'actualit」4 个相似产品：Ambiance et Mobilier、Meubles Maison、Parentalité Positive",
+  "同日小簇「ainsi que des」9 个相似产品：Apprendre Créatif、Aventure en Circuit、Bijoux Berberes",
+  "我们的站点上线：explainervideogenerator.com @ webgora.com",
+  "跨目录同时出现：blog.google（5 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-26.md",
+ "niche_groups": "- 法语家居与生活方式资讯：ainsi que l'actualit、ainsi que des、des conseil pour、publie des guide、des canap、l'am nagement、traite des、propose des、des dossier sur、des sujet sur —— 提供关于家具、室内设计、育儿及生活技巧的指南与新闻内容\n- 家庭牙科与镇静护理：family dental practice、cosmetic dentistry sedation —— 提供家庭牙科服务及美容牙科镇静护理的专业医疗信息\n- 旅行与购物决策辅助：conseil pour voyager、des conseil d'achat、destin aux parent —— 为旅行者、购物者及父母提供目的地建议、购买指南及育儿支持\n- 深度问答与命理计算：answer dig deeper、rarer answer dig、destiny matrix calculator —— 提供深度问题解答服务及命运矩阵等命理计算工具\n- 建筑防水与旧房修缮：gion avec coordonn —— 提供屋顶防水、建筑密封及旧建筑修缮的专业服务信息"
+}
