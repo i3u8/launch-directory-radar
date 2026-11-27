@@ -1,0 +1,687 @@
+{
+ "date": "2026-11-27",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 180,
+ "sources_failed": 17,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "superlaunch-in",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1344,
+ "new_today_unique": 1256,
+ "ai_share_today": 0.28,
+ "ai_share_30d": 0.25,
+ "niche_terms": [
+  {
+   "term": "concept financial market",
+   "count": 4,
+   "sources": 3,
+   "ratio": 231.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Financial Management Course",
+     "url": "https://directory6.org/listing/financial-management-course-727225"
+    },
+    {
+     "name": "MBA in Financial Management",
+     "url": "https://directory6.org/listing/mba-in-financial-management-727226"
+    },
+    {
+     "name": "PGDM Finance",
+     "url": "https://exampledir.com/listing/pgdm-finance-316561"
+    }
+   ]
+  },
+  {
+   "term": "ditorial ind pendant",
+   "count": 5,
+   "sources": 2,
+   "ratio": 96.3,
+   "new": false,
+   "examples": [
+    {
+     "name": "Pistoletmassant",
+     "url": "https://a2place.com/listing/pistoletmassant-719518"
+    },
+    {
+     "name": "Llmtop",
+     "url": "https://a2place.com/listing/llmtop-719520"
+    },
+    {
+     "name": "Litierechatautonettoyante",
+     "url": "https://a2place.com/listing/litierechatautonettoyante-719510"
+    }
+   ]
+  },
+  {
+   "term": "seha garden",
+   "count": 4,
+   "sources": 4,
+   "ratio": 231.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Stroke Rehabilitation for Daily Living Skills",
+     "url": "https://huludirectory.com/listing/stroke-rehabilitation-for-daily-living-skills-2264517"
+    },
+    {
+     "name": "Stroke Rehabilitation for Families and Caregivers",
+     "url": "https://aweblist.org/listing/stroke-rehabilitation-for-families-and-caregivers-979617"
+    },
+    {
+     "name": "Stroke Rehabilitation for Mobility and Movement",
+     "url": "https://exampledir.com/listing/stroke-rehabilitation-for-mobility-and-movement-316549"
+    }
+   ]
+  },
+  {
+   "term": "adolescent pediatric kerala",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Child Healthcare Specialist in Navi Mumbai",
+     "url": "https://aweblist.org/listing/child-healthcare-specialist-in-navi-mumbai-979630"
+    },
+    {
+     "name": "Kids Specialist in Navi Mumbai",
+     "url": "https://exampledir.com/listing/kids-specialist-in-navi-mumbai-316554"
+    }
+   ]
+  },
+  {
+   "term": "brine rich flavored",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Every Dish With Sliced Black Olives",
+     "url": "https://huludirectory.com/listing/every-dish-with-sliced-black-olives-2264494"
+    },
+    {
+     "name": "Sliced Black Olives",
+     "url": "https://exampledir.com/listing/sliced-black-olives-316513"
+    }
+   ]
+  },
+  {
+   "term": "download guide bonus",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "10Ten",
+     "url": "https://zearches.com/site/gaming-esports/10ten-com-pk-fff91990f7"
+    },
+    {
+     "name": "10Ten — Game Apps Guide for Pakistan",
+     "url": "https://aweblist.org/listing/10ten-—-game-apps-guide-for-pakistan-979619"
+    }
+   ]
+  },
+  {
+   "term": "erectile dysfunction treatment",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Extra Super Tadarise: The Role Of Vardenafil In Erectile Dys",
+     "url": "https://exampledir.com/listing/extra-super-tadarise-the-role-of-vardenafil-in-erectile-dysfunction-treatment-316528"
+    },
+    {
+     "name": "Fildena 100 Mg: Erectile Dysfunction Treatment And Medical R",
+     "url": "https://huludirectory.com/listing/fildena-100-mg-erectile-dysfunction-treatment-and-medical-research-2264503"
+    }
+   ]
+  },
+  {
+   "term": "ind pendant sans",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Agence Web Developpement",
+     "url": "https://a2place.com/listing/agence-web-developpement-719519"
+    },
+    {
+     "name": "Agence Web Creative",
+     "url": "https://exampledir.com/listing/agence-web-creative-316539"
+    }
+   ]
+  },
+  {
+   "term": "industrial rooftop solar",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Adhvanik Energy",
+     "url": "https://azn8.com/listing/adhvanik-energy"
+    },
+    {
+     "name": "Adhvanik Energy Industrial rooftop solar EPC, PPA & O&M for ",
+     "url": "https://thehackstack.com/s/adhvanik"
+    }
+   ]
+  },
+  {
+   "term": "last frame video",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Magi2 Video",
+     "url": "https://whatareyoubuilding.ai/product/f4GRO7SDLIxY8S2AA7c5"
+    },
+    {
+     "name": "Magi-2 AI Video Generator",
+     "url": "https://magi2.video/"
+    }
+   ]
+  },
+  {
+   "term": "operation galaxy label",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Why Quality POS Rolls Are Important for Retail Billing Syste",
+     "url": "https://directory6.org/listing/why-quality-pos-rolls-are-important-for-retail-billing-systems-727219"
+    },
+    {
+     "name": "Choosing the Right POS Paper Rolls for Everyday Business Ope",
+     "url": "https://aweblist.org/listing/choosing-the-right-pos-paper-rolls-for-everyday-business-operations-979653"
+    }
+   ]
+  },
+  {
+   "term": "wood fence installation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Wood Fence Installation Cost",
+     "url": "https://directory6.org/listing/wood-fence-installation-cost-727218"
+    },
+    {
+     "name": "Wood Fence Installation",
+     "url": "https://aweblist.org/listing/wood-fence-installation-979657"
+    }
+   ]
+  },
+  {
+   "term": "eligible plan",
+   "count": 3,
+   "sources": 3,
+   "ratio": 173.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Self Drive Car Hire Monthly Rental",
+     "url": "https://exampledir.com/listing/self-drive-car-hire-monthly-rental-316524"
+    },
+    {
+     "name": "Leadpages",
+     "url": "https://aitoolsdirectory.com/tool/leadpages"
+    },
+    {
+     "name": "Brik",
+     "url": "https://aitoolsdirectory.com/tool/brik"
+    }
+   ]
+  },
+  {
+   "term": "credit quote",
+   "count": 5,
+   "sources": 2,
+   "ratio": 57.8,
+   "new": false,
+   "examples": [
+    {
+     "name": "AISong – AI Song Cover Generator",
+     "url": "https://gateofai.com/community-tools/aisong-ai-song-cover-generator"
+    },
+    {
+     "name": "AI Photo Editor",
+     "url": "https://postlaunchkit.com/directory/ai-photo-editor"
+    },
+    {
+     "name": "ImgLoop",
+     "url": "https://postlaunchkit.com/directory/imgloop"
+    }
+   ]
+  },
+  {
+   "term": "four favorite",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Letterboxd Top 4 Analyzer | FilmTaste — score 45/100 (other)",
+     "url": "https://nothumansearch.ai/site/filmtaste.app"
+    },
+    {
+     "name": "FilmTaste",
+     "url": "https://filmtaste.app/"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "covering finance concept",
+   "count": 4,
+   "sources": 3,
+   "ratio": 231.2,
+   "new": true,
+   "examples": [
+    {
+     "name": "Financial Management Course",
+     "url": "https://directory6.org/listing/financial-management-course-727225"
+    },
+    {
+     "name": "MBA in Financial Management",
+     "url": "https://directory6.org/listing/mba-in-financial-management-727226"
+    },
+    {
+     "name": "PGDM Finance",
+     "url": "https://exampledir.com/listing/pgdm-finance-316561"
+    }
+   ]
+  },
+  {
+   "term": "nutrition boston university",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Child Healthcare Specialist in Navi Mumbai",
+     "url": "https://aweblist.org/listing/child-healthcare-specialist-in-navi-mumbai-979630"
+    },
+    {
+     "name": "Kids Specialist in Navi Mumbai",
+     "url": "https://exampledir.com/listing/kids-specialist-in-navi-mumbai-316554"
+    }
+   ]
+  },
+  {
+   "term": "pakistani gaming portal",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "10Ten",
+     "url": "https://zearches.com/site/gaming-esports/10ten-com-pk-fff91990f7"
+    },
+    {
+     "name": "10Ten — Game Apps Guide for Pakistan",
+     "url": "https://aweblist.org/listing/10ten-—-game-apps-guide-for-pakistan-979619"
+    }
+   ]
+  },
+  {
+   "term": "rooftop solar epc",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Adhvanik Energy",
+     "url": "https://azn8.com/listing/adhvanik-energy"
+    },
+    {
+     "name": "Adhvanik Energy Industrial rooftop solar EPC, PPA & O&M for ",
+     "url": "https://thehackstack.com/s/adhvanik"
+    }
+   ]
+  },
+  {
+   "term": "sliced black olive",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Every Dish With Sliced Black Olives",
+     "url": "https://huludirectory.com/listing/every-dish-with-sliced-black-olives-2264494"
+    },
+    {
+     "name": "Sliced Black Olives",
+     "url": "https://exampledir.com/listing/sliced-black-olives-316513"
+    }
+   ]
+  },
+  {
+   "term": "vend aucun",
+   "count": 3,
+   "sources": 2,
+   "ratio": 173.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "Pistoletmassant",
+     "url": "https://a2place.com/listing/pistoletmassant-719518"
+    },
+    {
+     "name": "Llmtop",
+     "url": "https://a2place.com/listing/llmtop-719520"
+    },
+    {
+     "name": "Litierechatautonettoyante",
+     "url": "https://a2place.com/listing/litierechatautonettoyante-719510"
+    }
+   ]
+  },
+  {
+   "term": "pos roll manufacturer",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Why Quality POS Rolls Are Important for Retail Billing Syste",
+     "url": "https://directory6.org/listing/why-quality-pos-rolls-are-important-for-retail-billing-systems-727219"
+    },
+    {
+     "name": "Choosing the Right POS Paper Rolls for Everyday Business Ope",
+     "url": "https://aweblist.org/listing/choosing-the-right-pos-paper-rolls-for-everyday-business-operations-979653"
+    }
+   ]
+  },
+  {
+   "term": "movie recommendation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Letterboxd Top 4 Analyzer | FilmTaste — score 45/100 (other)",
+     "url": "https://nothumansearch.ai/site/filmtaste.app"
+    },
+    {
+     "name": "FilmTaste",
+     "url": "https://filmtaste.app/"
+    }
+   ]
+  },
+  {
+   "term": "transformation template",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "ReelTada",
+     "url": "https://reeltada.com/"
+    },
+    {
+     "name": "becomethememe",
+     "url": "https://zearches.com/site/entertainment-media/becomethememe-com-0334a9a5ed"
+    }
+   ]
+  },
+  {
+   "term": "accident motorcycle",
+   "count": 2,
+   "sources": 2,
+   "ratio": 115.6,
+   "new": true,
+   "examples": [
+    {
+     "name": "Mohlman Injury Law",
+     "url": "https://directory6.org/listing/mohlman-injury-law-727224"
+    },
+    {
+     "name": "The Advocates Denver",
+     "url": "https://huludirectory.com/listing/the-advocates-denver-2264496"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "concept financial market",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Financial Management Course",
+     "url": "https://directory6.org/listing/financial-management-course-727225"
+    },
+    {
+     "name": "MBA in Financial Management",
+     "url": "https://directory6.org/listing/mba-in-financial-management-727226"
+    },
+    {
+     "name": "PGDM Finance",
+     "url": "https://exampledir.com/listing/pgdm-finance-316561"
+    },
+    {
+     "name": "PGDM in Finance",
+     "url": "https://huludirectory.com/listing/pgdm-in-finance-2264527"
+    }
+   ]
+  },
+  {
+   "term": "ditorial ind pendant",
+   "size": 5,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Agence Web Creative",
+     "url": "https://exampledir.com/listing/agence-web-creative-316539"
+    },
+    {
+     "name": "Litierechatautonettoyante",
+     "url": "https://a2place.com/listing/litierechatautonettoyante-719510"
+    },
+    {
+     "name": "Llmtop",
+     "url": "https://a2place.com/listing/llmtop-719520"
+    },
+    {
+     "name": "Lpfh",
+     "url": "https://exampledir.com/listing/lpfh-316522"
+    }
+   ]
+  },
+  {
+   "term": "seha garden",
+   "size": 4,
+   "sources": 4,
+   "examples": [
+    {
+     "name": "Stroke Rehabilitation for Daily Living Skills",
+     "url": "https://huludirectory.com/listing/stroke-rehabilitation-for-daily-living-skills-2264517"
+    },
+    {
+     "name": "Stroke Rehabilitation for Families and Caregivers",
+     "url": "https://aweblist.org/listing/stroke-rehabilitation-for-families-and-caregivers-979617"
+    },
+    {
+     "name": "Stroke Rehabilitation for Mobility and Movement",
+     "url": "https://exampledir.com/listing/stroke-rehabilitation-for-mobility-and-movement-316549"
+    },
+    {
+     "name": "Stroke Rehabilitation with Individualized Care",
+     "url": "https://directory6.org/listing/stroke-rehabilitation-with-individualized-care-727188"
+    }
+   ]
+  },
+  {
+   "term": "eligible plan",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Brik",
+     "url": "https://aitoolsdirectory.com/tool/brik"
+    },
+    {
+     "name": "Leadpages",
+     "url": "https://aitoolsdirectory.com/tool/leadpages"
+    },
+    {
+     "name": "Self Drive Car Hire Monthly Rental",
+     "url": "https://exampledir.com/listing/self-drive-car-hire-monthly-rental-316524"
+    }
+   ]
+  },
+  {
+   "term": "credit quote",
+   "size": 5,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "AI Photo Editor",
+     "url": "https://postlaunchkit.com/directory/ai-photo-editor"
+    },
+    {
+     "name": "AISong – AI Song Cover Generator",
+     "url": "https://gateofai.com/community-tools/aisong-ai-song-cover-generator"
+    },
+    {
+     "name": "ImgLoop",
+     "url": "https://postlaunchkit.com/directory/imgloop"
+    },
+    {
+     "name": "VidOne AI",
+     "url": "https://azn8.com/listing/vidone-ai"
+    }
+   ]
+  },
+  {
+   "term": "local game",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "10Ten",
+     "url": "https://zearches.com/site/gaming-esports/10ten-com-pk-fff91990f7"
+    },
+    {
+     "name": "10Ten — Game Apps Guide for Pakistan",
+     "url": "https://aweblist.org/listing/10ten-—-game-apps-guide-for-pakistan-979619"
+    },
+    {
+     "name": "715Hobbies",
+     "url": "https://webrankdirectory.org/listing/715hobbies"
+    }
+   ]
+  },
+  {
+   "term": "image workspace",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "MAGI 2 AI Video Generator",
+     "url": "https://agentic.ai/t/magi-2-ai-video-generator"
+    },
+    {
+     "name": "Magi2.Video",
+     "url": "https://shipboard.live/s/magi2.video"
+    },
+    {
+     "name": "ReelCraze",
+     "url": "https://reelcraze.app/"
+    }
+   ]
+  },
+  {
+   "term": "ielt writing",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Band Score Checker: Paste an IELTS practice essay and see wh",
+     "url": "https://saasolution.io/tool/band-score-checker"
+    },
+    {
+     "name": "IELTS Writing Checker Check your vocabulary in IELTS writing",
+     "url": "https://thehackstack.com/s/ieltswritingchecker"
+    },
+    {
+     "name": "Ielts Writing Practice Ielts Writing Band Score Ai",
+     "url": "https://dang.ai/tool/ielts-writing-practice-ielts-writing-band-score-ai"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「concept financial market」今日 4 个产品/3 个目录：Financial Management Course、MBA in Financial Management",
+  "小词「ditorial ind pendant」今日 5 个产品/2 个目录：Pistoletmassant、Llmtop",
+  "小词「seha garden」今日 4 个产品/4 个目录：Stroke Rehabilitation for Daily Living Skills、Stroke Rehabilitation for Families and Caregivers",
+  "同日小簇「concept financial market」4 个相似产品：Financial Management Course、MBA in Financial Management、PGDM Finance",
+  "同日小簇「ditorial ind pendant」5 个相似产品：Agence Web Creative、Litierechatautonettoyante、Llmtop",
+  "跨目录同时出现：crewworks.kr（3 个目录）",
+  "跨目录同时出现：orelon.ai（3 个目录）"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-27.md",
+ "niche_groups": ""
+}

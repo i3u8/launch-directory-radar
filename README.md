@@ -7,35 +7,27 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-26** · 新增 1385 · 监控 197 个目录（今日成功 175）
+**2026-11-27** · 新增 1344 · 监控 197 个目录（今日成功 180）
 
 聚焦小词 Top 15:
 
-- `ainsi que l'actualit` ×4（3 目录） 🆕：Ambiance et Mobilier；Éveil Bébé
-- `ainsi que des` ×9（3 目录）：Apprendre Créatif；Table & Jardin
-- `des conseil pour` ×8（3 目录）：Éveil Bébé；Ringconcept
-- `publie des guide` ×8（3 目录）：Table & Jardin；Audit Financier Pro
-- `family dental practice` ×3（2 目录） 🆕：Pacific Park Family Dental；Smiles By The Sea Family Dentistry
-- `des canap` ×4（3 目录） 🆕：Salon Familial；Salon Moderne
-- `l'actualit des` ×4（2 目录） 🆕：Livraison de Nuit 93；Meca-Proto
-- `l'am nagement` ×4（3 目录） 🆕：Table & Jardin；Salon Familial
-- `traite des` ×8（3 目录）：Salon Familial；Tabliers Cuisine
-- `propose des` ×8（3 目录）：Apprendre Créatif；Éveil Bébé
-- `answer dig deeper` ×2（2 目录） 🆕：Mineillion；Mineillion.space
-- `cosmetic dentistry sedation` ×2（2 目录） 🆕：LB Dentistry - Dentist in Franklin TN；Justin Garner Dentistry, LLC - Dentist in Independence MO
-- `des dossier sur` ×2（2 目录） 🆕：Solutions Industrielles；Déco Harmonie
-- `destin aux parent` ×2（2 目录） 🆕：Apprendre Créatif；Parentalité Positive
-- `destiny matrix calculator` ×2（2 目录） 🆕：Matriz do Destino；Matriz do Destino Free Destiny Matrix calculator with a pers
+- `concept financial market` ×4（3 目录） 🆕：Financial Management Course；MBA in Financial Management
+- `ditorial ind pendant` ×5（2 目录）：Pistoletmassant；Llmtop
+- `seha garden` ×4（4 目录） 🆕：Stroke Rehabilitation for Daily Living Skills；Stroke Rehabilitation for Families and Caregivers
+- `adolescent pediatric kerala` ×2（2 目录） 🆕：Child Healthcare Specialist in Navi Mumbai；Kids Specialist in Navi Mumbai
+- `brine rich flavored` ×2（2 目录） 🆕：Every Dish With Sliced Black Olives；Sliced Black Olives
+- `download guide bonus` ×2（2 目录） 🆕：10Ten；10Ten — Game Apps Guide for Pakistan
+- `erectile dysfunction treatment` ×2（2 目录） 🆕：Extra Super Tadarise: The Role Of Vardenafil In Erectile Dys；Fildena 100 Mg: Erectile Dysfunction Treatment And Medical R
+- `ind pendant sans` ×2（2 目录） 🆕：Agence Web Developpement；Agence Web Creative
+- `industrial rooftop solar` ×2（2 目录） 🆕：Adhvanik Energy；Adhvanik Energy Industrial rooftop solar EPC, PPA & O&M for 
+- `last frame video` ×2（2 目录） 🆕：Magi2 Video；Magi-2 AI Video Generator
+- `operation galaxy label` ×2（2 目录） 🆕：Why Quality POS Rolls Are Important for Retail Billing Syste；Choosing the Right POS Paper Rolls for Everyday Business Ope
+- `wood fence installation` ×2（2 目录） 🆕：Wood Fence Installation Cost；Wood Fence Installation
+- `eligible plan` ×3（3 目录） 🆕：Self Drive Car Hire Monthly Rental；Leadpages
+- `credit quote` ×5（2 目录）：AISong – AI Song Cover Generator；AI Photo Editor
+- `four favorite` ×2（2 目录） 🆕：Letterboxd Top 4 Analyzer | FilmTaste — score 45/100 (other)；FilmTaste
 
-微赛道归纳:
-
-- 法语家居与生活方式资讯：ainsi que l'actualit、ainsi que des、des conseil pour、publie des guide、des canap、l'am nagement、traite des、propose des、des dossier sur、des sujet sur —— 提供关于家具、室内设计、育儿及生活技巧的指南与新闻内容
-- 家庭牙科与镇静护理：family dental practice、cosmetic dentistry sedation —— 提供家庭牙科服务及美容牙科镇静护理的专业医疗信息
-- 旅行与购物决策辅助：conseil pour voyager、des conseil d'achat、destin aux parent —— 为旅行者、购物者及父母提供目的地建议、购买指南及育儿支持
-- 深度问答与命理计算：answer dig deeper、rarer answer dig、destiny matrix calculator —— 提供深度问题解答服务及命运矩阵等命理计算工具
-- 建筑防水与旧房修缮：gion avec coordonn —— 提供屋顶防水、建筑密封及旧建筑修缮的专业服务信息
-
-完整报告: [reports/2026-11-26.md](reports/2026-11-26.md)
+完整报告: [reports/2026-11-27.md](reports/2026-11-27.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
