@@ -1,0 +1,670 @@
+{
+ "date": "2026-11-28",
+ "sources_total": 478,
+ "sources_enabled": 197,
+ "sources_ok": 165,
+ "sources_failed": 32,
+ "failed_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "aimojo-io",
+  "hyzenpro-com",
+  "listedstartups-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "a2place-com",
+  "directory6-org",
+  "foundr-ai",
+  "startups-snapmunk-com",
+  "tagshub-com",
+  "verzeichnis4you-de",
+  "aiagentautomation-site",
+  "aiimagegenerator-io",
+  "aiimagetools-io",
+  "apprater-net",
+  "blogs-collection-com",
+  "businessfreedirectory-biz"
+ ],
+ "flagged_ids": [
+  "canadawebdir-com",
+  "canadiandirectory-org",
+  "sitelike-org",
+  "hyzenpro-com",
+  "madewithstack-com",
+  "promoteindex-com",
+  "foundr-ai",
+  "aiagentautomation-site",
+  "apprater-net",
+  "discoverly-tech",
+  "dowseai-com",
+  "listai-cc",
+  "nextweekai-com",
+  "phototoolfinder-com",
+  "trillionagent-com",
+  "webinhalt-de"
+ ],
+ "new_today": 1160,
+ "new_today_unique": 1091,
+ "ai_share_today": 0.24,
+ "ai_share_30d": 0.25,
+ "niche_terms": [
+  {
+   "term": "tax national insurance",
+   "count": 3,
+   "sources": 2,
+   "ratio": 199.4,
+   "new": true,
+   "examples": [
+    {
+     "name": "PAYE Calc (payecalc.co.uk)",
+     "url": "https://zearches.com/site/resources-directories/payecalc-co-uk-4813be612f"
+    },
+    {
+     "name": "PAYE Calc",
+     "url": "https://postlaunchkit.com/directory/paye-calc"
+    },
+    {
+     "name": "Healthcare Pay Calculator",
+     "url": "https://zearches.com/site/finance-investing/healthcarepaycalculator-co-uk-6779112873"
+    }
+   ]
+  },
+  {
+   "term": "track task",
+   "count": 10,
+   "sources": 2,
+   "ratio": 221.6,
+   "new": false,
+   "examples": [
+    {
+     "name": "ClientLanes",
+     "url": "https://clientlanes.com/"
+    },
+    {
+     "name": "Confluence",
+     "url": "https://atlassian.com/software/confluence"
+    },
+    {
+     "name": "Monday.com",
+     "url": "https://monday.com/"
+    }
+   ]
+  },
+  {
+   "term": "visual design",
+   "count": 11,
+   "sources": 2,
+   "ratio": 104.5,
+   "new": false,
+   "examples": [
+    {
+     "name": "Frameokay",
+     "url": "https://zearches.com/site/portfolio-creative/frame-runmucom-com-21c0b61830"
+    },
+    {
+     "name": "Adobe Express",
+     "url": "https://adobe.com/express"
+    },
+    {
+     "name": "Piktochart",
+     "url": "https://piktochart.com/"
+    }
+   ]
+  },
+  {
+   "term": "advanced care book",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Hospital in Warangal, Hanamkonda | Best Multi Specialit",
+     "url": "https://exampledir.com/listing/best-hospital-in-warangal-hanamkonda-best-multi-speciality-hospital-in-warangal-apollo-reach-nsr-hospital-316634"
+    },
+    {
+     "name": "Best Hospital in Warangal, Hanamkonda | Best Multi Specialit",
+     "url": "https://huludirectory.com/listing/best-hospital-in-warangal-hanamkonda-best-multi-speciality-hospital-in-warangal-apollo-reach-ns-2264638"
+    }
+   ]
+  },
+  {
+   "term": "bajaj three wheeler",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Bajaj 3 Wheeler Spare Parts Manufacturer in India",
+     "url": "https://exampledir.com/listing/bajaj-3-wheeler-spare-parts-manufacturer-in-india-316621"
+    },
+    {
+     "name": "Bajaj Three Wheeler Spare Parts Exporter in India",
+     "url": "https://aweblist.org/listing/bajaj-three-wheeler-spare-parts-exporter-in-india-979842"
+    }
+   ]
+  },
+  {
+   "term": "browser party game",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "PlayImposter",
+     "url": "https://playimposter.com/"
+    },
+    {
+     "name": "PartyRoomGames",
+     "url": "https://partyroomgames.com/"
+    }
+   ]
+  },
+  {
+   "term": "builder video ads",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI App Builder, Video Ads & AI Agents in One | Reigniter — s",
+     "url": "https://nothumansearch.ai/site/reigniter.ai"
+    },
+    {
+     "name": "Reigniter AI App Builder, Video Ads & AI Agents in One 💬 0 C",
+     "url": "https://thehackstack.com/s/reigniter"
+    }
+   ]
+  },
+  {
+   "term": "dialogue lip sync",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Magi 2",
+     "url": "https://dealmyapp.com/listings/magi-2"
+    },
+    {
+     "name": "MAGI-2 AI",
+     "url": "https://magi-2-ai.org/"
+    }
+   ]
+  },
+  {
+   "term": "exterior redesign mls",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Renovation",
+     "url": "https://azn8.com/listing/ai-renovation"
+    },
+    {
+     "name": "AI Renovation AI home remodeling, exterior redesign & MLS-sa",
+     "url": "https://thehackstack.com/s/airenovation"
+    }
+   ]
+  },
+  {
+   "term": "instantjob reality checker",
+   "count": 2,
+   "sources": 3,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "InstantJobs Reality Checker",
+     "url": "https://whatareyoubuilding.ai/product/mu8cseiNxVh3HkiXv96p"
+    },
+    {
+     "name": "InstantJobs Reality Checker Free Interactive JD & Tech Salar",
+     "url": "https://thehackstack.com/s/instantjobs"
+    }
+   ]
+  },
+  {
+   "term": "local market insight",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Real Estate Agents In Abbotsford Bc | fv agent",
+     "url": "https://huludirectory.com/listing/real-estate-agents-in-abbotsford-bc-fv-agent-2264597"
+    },
+    {
+     "name": "Top Realtor in Abbotsford | fv agent",
+     "url": "https://exampledir.com/listing/top-realtor-in-abbotsford-fv-agent-316601"
+    }
+   ]
+  },
+  {
+   "term": "developer alike",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "SudoTool: Free online tools and calculators, no signup, no u",
+     "url": "https://awesomeindie.com/product/sudo-tool"
+    },
+    {
+     "name": "Ignelis LLC",
+     "url": "https://whatareyoubuilding.ai/product/w8Qzrc74G4pVwtKAsc5h"
+    }
+   ]
+  },
+  {
+   "term": "legal template",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Lawyer",
+     "url": "https://ailawyer.pro/"
+    },
+    {
+     "name": "Allocations: Pool several investors into one deal or fund an",
+     "url": "https://saasolution.io/tool/allocations"
+    }
+   ]
+  },
+  {
+   "term": "unlimited generation",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "ClickPop",
+     "url": "https://clickpop.ai/"
+    },
+    {
+     "name": "ClickPop AI film studio with unlimited generations 💬 0 Comme",
+     "url": "https://thehackstack.com/s/clickpop"
+    }
+   ]
+  },
+  {
+   "term": "ear wax removal",
+   "count": 3,
+   "sources": 2,
+   "ratio": 18.1,
+   "new": false,
+   "examples": [
+    {
+     "name": "Bluetooth Hearing Aids | Welfast Hearing",
+     "url": "https://aweblist.org/listing/bluetooth-hearing-aids-welfast-hearing-979843"
+    },
+    {
+     "name": "Tinnitus Services in Bendigo | Smarthearing",
+     "url": "https://exampledir.com/listing/tinnitus-services-in-bendigo-smarthearing-316624"
+    },
+    {
+     "name": "Tinnitus treatment Bendigo | Smarthearing",
+     "url": "https://aweblist.org/listing/tinnitus-treatment-bendigo-smarthearing-979840"
+    }
+   ]
+  }
+ ],
+ "new_terms": [
+  {
+   "term": "apollo reach nsr",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Best Hospital in Warangal, Hanamkonda | Best Multi Specialit",
+     "url": "https://exampledir.com/listing/best-hospital-in-warangal-hanamkonda-best-multi-speciality-hospital-in-warangal-apollo-reach-nsr-hospital-316634"
+    },
+    {
+     "name": "Best Hospital in Warangal, Hanamkonda | Best Multi Specialit",
+     "url": "https://huludirectory.com/listing/best-hospital-in-warangal-hanamkonda-best-multi-speciality-hospital-in-warangal-apollo-reach-ns-2264638"
+    }
+   ]
+  },
+  {
+   "term": "income tax national",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "PAYE Calc (payecalc.co.uk)",
+     "url": "https://zearches.com/site/resources-directories/payecalc-co-uk-4813be612f"
+    },
+    {
+     "name": "PAYE Calc",
+     "url": "https://postlaunchkit.com/directory/paye-calc"
+    }
+   ]
+  },
+  {
+   "term": "mls safe virtual",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "AI Renovation",
+     "url": "https://azn8.com/listing/ai-renovation"
+    },
+    {
+     "name": "AI Renovation AI home remodeling, exterior redesign & MLS-sa",
+     "url": "https://thehackstack.com/s/airenovation"
+    }
+   ]
+  },
+  {
+   "term": "second 1080p video",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Magi 2",
+     "url": "https://dealmyapp.com/listings/magi-2"
+    },
+    {
+     "name": "MAGI-2 AI",
+     "url": "https://magi-2-ai.org/"
+    }
+   ]
+  },
+  {
+   "term": "wheeler spare part",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Bajaj 3 Wheeler Spare Parts Manufacturer in India",
+     "url": "https://exampledir.com/listing/bajaj-3-wheeler-spare-parts-manufacturer-in-india-316621"
+    },
+    {
+     "name": "Bajaj Three Wheeler Spare Parts Exporter in India",
+     "url": "https://aweblist.org/listing/bajaj-three-wheeler-spare-parts-exporter-in-india-979842"
+    }
+   ]
+  },
+  {
+   "term": "billing tier",
+   "count": 2,
+   "sources": 3,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Billing Tiers",
+     "url": "https://azn8.com/listing/billing-tiers"
+    },
+    {
+     "name": "Billing Tiers Test SaaS pricing tiers against power-user cos",
+     "url": "https://thehackstack.com/s/billingtiers"
+    }
+   ]
+  },
+  {
+   "term": "browser party",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "PlayImposter",
+     "url": "https://playimposter.com/"
+    },
+    {
+     "name": "PartyRoomGames",
+     "url": "https://partyroomgames.com/"
+    }
+   ]
+  },
+  {
+   "term": "digital visibility",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Boost My Business AI Visibility Audit",
+     "url": "https://dealmyapp.com/listings/boost-my-business-ai-visibility-audit"
+    },
+    {
+     "name": "Digital Marketing Agency | service",
+     "url": "https://exampledir.com/listing/digital-marketing-agency-service-316603"
+    }
+   ]
+  },
+  {
+   "term": "eval suite",
+   "count": 2,
+   "sources": 4,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Eval Suites",
+     "url": "https://zearches.com/site/software-saas/evalsuites-com-b0a37b7007"
+    },
+    {
+     "name": "Eval Suites Find AI benchmarks by task, framework, and licen",
+     "url": "https://thehackstack.com/s/evalsuites"
+    }
+   ]
+  },
+  {
+   "term": "feed flavour",
+   "count": 2,
+   "sources": 2,
+   "ratio": 132.9,
+   "new": true,
+   "examples": [
+    {
+     "name": "Animal feed Flavours in India",
+     "url": "https://aweblist.org/listing/animal-feed-flavours-in-india-979875"
+    },
+    {
+     "name": "Live stock feed Flavours India",
+     "url": "https://exampledir.com/listing/live-stock-feed-flavours-india-316645"
+    }
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "term": "tax national insurance",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Healthcare Pay Calculator",
+     "url": "https://zearches.com/site/finance-investing/healthcarepaycalculator-co-uk-6779112873"
+    },
+    {
+     "name": "PAYE Calc",
+     "url": "https://postlaunchkit.com/directory/paye-calc"
+    },
+    {
+     "name": "PAYE Calc (payecalc.co.uk)",
+     "url": "https://zearches.com/site/resources-directories/payecalc-co-uk-4813be612f"
+    }
+   ]
+  },
+  {
+   "term": "track task",
+   "size": 10,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Asana",
+     "url": "https://asana.com/"
+    },
+    {
+     "name": "Basecamp",
+     "url": "https://basecamp.com/"
+    },
+    {
+     "name": "ClientLanes",
+     "url": "https://clientlanes.com/"
+    },
+    {
+     "name": "Confluence",
+     "url": "https://atlassian.com/software/confluence"
+    }
+   ]
+  },
+  {
+   "term": "ear wax removal",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "Bluetooth Hearing Aids | Welfast Hearing",
+     "url": "https://aweblist.org/listing/bluetooth-hearing-aids-welfast-hearing-979843"
+    },
+    {
+     "name": "Tinnitus Services in Bendigo | Smarthearing",
+     "url": "https://exampledir.com/listing/tinnitus-services-in-bendigo-smarthearing-316624"
+    },
+    {
+     "name": "Tinnitus treatment Bendigo | Smarthearing",
+     "url": "https://aweblist.org/listing/tinnitus-treatment-bendigo-smarthearing-979840"
+    }
+   ]
+  },
+  {
+   "term": "fictional character",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Height Comparer: See how tall two or more people are next to",
+     "url": "https://saasolution.io/tool/height-comparer"
+    },
+    {
+     "name": "Japanese Name Generator: Japanese Name Generator creates aut",
+     "url": "https://awesomeindie.com/product/japanese-name-generator-2"
+    },
+    {
+     "name": "Viral Rap Video",
+     "url": "https://postlaunchkit.com/directory/viral-rap-video"
+    }
+   ]
+  },
+  {
+   "term": "mortgage calculator",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "LoanEssy",
+     "url": "https://loanessy.com/"
+    },
+    {
+     "name": "Poundsum",
+     "url": "https://poundsum.co.uk/"
+    },
+    {
+     "name": "SudoTool: Free online tools and calculators, no signup, no u",
+     "url": "https://awesomeindie.com/product/sudo-tool"
+    }
+   ]
+  },
+  {
+   "term": "tdee calculator",
+   "size": 3,
+   "sources": 2,
+   "examples": [
+    {
+     "name": "BodyMetricTools Free BMI, height and TDEE calculators and CD",
+     "url": "https://thehackstack.com/s/bodymetrictools"
+    },
+    {
+     "name": "Tdee Calculator",
+     "url": "https://navs.site/website/tdee-calculator"
+    },
+    {
+     "name": "Tdee Calculator 2",
+     "url": "https://navs.site/website/tdee-calculator-2"
+    }
+   ]
+  },
+  {
+   "term": "international buyer",
+   "size": 3,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "Haramain Move",
+     "url": "https://zearches.com/site/resources-directories/haramainmove-com-0c5466b035"
+    },
+    {
+     "name": "Natures Food Products Exporter Chennai",
+     "url": "https://aweblist.org/listing/natures-food-products-exporter-chennai-979861"
+    },
+    {
+     "name": "South Indian Rice Supplier & Exporter",
+     "url": "https://huludirectory.com/listing/south-indian-rice-supplier-and-exporter-2264639"
+    }
+   ]
+  },
+  {
+   "term": "video trend",
+   "size": 4,
+   "sources": 3,
+   "examples": [
+    {
+     "name": "AI Video Trends & Trending Templates | TrendToVideo — score ",
+     "url": "https://nothumansearch.ai/site/trendtovideo.com"
+    },
+    {
+     "name": "ReelCraze AI video trends, recast with your photos 💬 0 Comme",
+     "url": "https://thehackstack.com/s/reelcraze"
+    },
+    {
+     "name": "TrendTemplate Put yourself in viral video trends with one ph",
+     "url": "https://thehackstack.com/s/trendtemplate-2"
+    },
+    {
+     "name": "TrendToVideo",
+     "url": "https://postlaunchkit.com/directory/trendtovideo"
+    }
+   ]
+  }
+ ],
+ "signals": [
+  "小词「tax national insurance」今日 3 个产品/2 个目录：PAYE Calc (payecalc.co.uk)、PAYE Calc",
+  "小词「track task」今日 10 个产品/2 个目录：ClientLanes、Confluence",
+  "小词「visual design」今日 11 个产品/2 个目录：Frameokay、Adobe Express",
+  "同日小簇「tax national insurance」3 个相似产品：Healthcare Pay Calculator、PAYE Calc、PAYE Calc (payecalc.co.uk)",
+  "同日小簇「track task」10 个相似产品：Asana、Basecamp、ClientLanes",
+  "我们的站点上线：explainervideogenerator.com @ canopystack.dev",
+  "我们的站点上线：wallpapermakerai.com @ webgora.com"
+ ],
+ "repo": "https://github.com/i3u8/launch-directory-radar",
+ "report_url": "https://github.com/i3u8/launch-directory-radar/blob/main/reports/2026-11-28.md",
+ "niche_groups": "- AI视频生成与特效：dialogue lip sync、second 1080p video、unlimited generation、builder video ads —— 利用AI技术实现口型同步、高清视频生成及自动化视频广告制作\n- 税务与薪酬计算工具：tax national insurance、income tax national —— 提供基于英国PAYE体系的个税与国家保险在线计算器\n- 任务与项目协作管理：track task —— 提供客户端通道管理及类似Confluence的任务追踪与协作功能\n- 视觉设计与创意工具：visual design、developer alike —— 提供在线视觉设计框架及面向开发者的免费在线工具集\n- 房地产AI改造与本地洞察：exterior redesign mls、mls safe virtual、local market insight —— 结合MLS数据提供AI房屋外观改造方案及本地房产市场洞察\n- 垂直行业B2B服务与营销：bajaj three wheeler、wheeler spare part、advanced care book、apollo reach nsr、ear wax removal、legal template、instantjob reality checker、billing tier —— 涵盖三轮车配件出口、医院预约、听力服务、法律模板、招聘真实性检查及SaaS计"
+}

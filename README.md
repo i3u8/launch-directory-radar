@@ -7,27 +7,36 @@
 ## 最新结果 Latest
 
 <!-- LATEST:START -->
-**2026-11-27** · 新增 1344 · 监控 197 个目录（今日成功 180）
+**2026-11-28** · 新增 1160 · 监控 197 个目录（今日成功 165）
 
 聚焦小词 Top 15:
 
-- `concept financial market` ×4（3 目录） 🆕：Financial Management Course；MBA in Financial Management
-- `ditorial ind pendant` ×5（2 目录）：Pistoletmassant；Llmtop
-- `seha garden` ×4（4 目录） 🆕：Stroke Rehabilitation for Daily Living Skills；Stroke Rehabilitation for Families and Caregivers
-- `adolescent pediatric kerala` ×2（2 目录） 🆕：Child Healthcare Specialist in Navi Mumbai；Kids Specialist in Navi Mumbai
-- `brine rich flavored` ×2（2 目录） 🆕：Every Dish With Sliced Black Olives；Sliced Black Olives
-- `download guide bonus` ×2（2 目录） 🆕：10Ten；10Ten — Game Apps Guide for Pakistan
-- `erectile dysfunction treatment` ×2（2 目录） 🆕：Extra Super Tadarise: The Role Of Vardenafil In Erectile Dys；Fildena 100 Mg: Erectile Dysfunction Treatment And Medical R
-- `ind pendant sans` ×2（2 目录） 🆕：Agence Web Developpement；Agence Web Creative
-- `industrial rooftop solar` ×2（2 目录） 🆕：Adhvanik Energy；Adhvanik Energy Industrial rooftop solar EPC, PPA & O&M for 
-- `last frame video` ×2（2 目录） 🆕：Magi2 Video；Magi-2 AI Video Generator
-- `operation galaxy label` ×2（2 目录） 🆕：Why Quality POS Rolls Are Important for Retail Billing Syste；Choosing the Right POS Paper Rolls for Everyday Business Ope
-- `wood fence installation` ×2（2 目录） 🆕：Wood Fence Installation Cost；Wood Fence Installation
-- `eligible plan` ×3（3 目录） 🆕：Self Drive Car Hire Monthly Rental；Leadpages
-- `credit quote` ×5（2 目录）：AISong – AI Song Cover Generator；AI Photo Editor
-- `four favorite` ×2（2 目录） 🆕：Letterboxd Top 4 Analyzer | FilmTaste — score 45/100 (other)；FilmTaste
+- `tax national insurance` ×3（2 目录） 🆕：PAYE Calc (payecalc.co.uk)；PAYE Calc
+- `track task` ×10（2 目录）：ClientLanes；Confluence
+- `visual design` ×11（2 目录）：Frameokay；Adobe Express
+- `advanced care book` ×2（2 目录） 🆕：Best Hospital in Warangal, Hanamkonda | Best Multi Specialit；Best Hospital in Warangal, Hanamkonda | Best Multi Specialit
+- `bajaj three wheeler` ×2（2 目录） 🆕：Bajaj 3 Wheeler Spare Parts Manufacturer in India；Bajaj Three Wheeler Spare Parts Exporter in India
+- `browser party game` ×2（2 目录） 🆕：PlayImposter；PartyRoomGames
+- `builder video ads` ×2（2 目录） 🆕：AI App Builder, Video Ads & AI Agents in One | Reigniter — s；Reigniter AI App Builder, Video Ads & AI Agents in One 💬 0 C
+- `dialogue lip sync` ×2（2 目录） 🆕：Magi 2；MAGI-2 AI
+- `exterior redesign mls` ×2（2 目录） 🆕：AI Renovation；AI Renovation AI home remodeling, exterior redesign & MLS-sa
+- `instantjob reality checker` ×2（3 目录） 🆕：InstantJobs Reality Checker；InstantJobs Reality Checker Free Interactive JD & Tech Salar
+- `local market insight` ×2（2 目录） 🆕：Real Estate Agents In Abbotsford Bc | fv agent；Top Realtor in Abbotsford | fv agent
+- `developer alike` ×2（2 目录） 🆕：SudoTool: Free online tools and calculators, no signup, no u；Ignelis LLC
+- `legal template` ×2（2 目录） 🆕：AI Lawyer；Allocations: Pool several investors into one deal or fund an
+- `unlimited generation` ×2（2 目录） 🆕：ClickPop；ClickPop AI film studio with unlimited generations 💬 0 Comme
+- `ear wax removal` ×3（2 目录）：Bluetooth Hearing Aids | Welfast Hearing；Tinnitus Services in Bendigo | Smarthearing
 
-完整报告: [reports/2026-11-27.md](reports/2026-11-27.md)
+微赛道归纳:
+
+- AI视频生成与特效：dialogue lip sync、second 1080p video、unlimited generation、builder video ads —— 利用AI技术实现口型同步、高清视频生成及自动化视频广告制作
+- 税务与薪酬计算工具：tax national insurance、income tax national —— 提供基于英国PAYE体系的个税与国家保险在线计算器
+- 任务与项目协作管理：track task —— 提供客户端通道管理及类似Confluence的任务追踪与协作功能
+- 视觉设计与创意工具：visual design、developer alike —— 提供在线视觉设计框架及面向开发者的免费在线工具集
+- 房地产AI改造与本地洞察：exterior redesign mls、mls safe virtual、local market insight —— 结合MLS数据提供AI房屋外观改造方案及本地房产市场洞察
+- 垂直行业B2B服务与营销：bajaj three wheeler、wheeler spare part、advanced care book、apollo reach nsr、ear wax removal、legal template、instantjob reality checker、billing tier —— 涵盖三轮车配件出口、医院预约、听力服务、法律模板、招聘真实性检查及SaaS计
+
+完整报告: [reports/2026-11-28.md](reports/2026-11-28.md)
 <!-- LATEST:END -->
 
 ## 筛查概况 Screening summary
